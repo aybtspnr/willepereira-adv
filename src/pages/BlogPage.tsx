@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { motion } from 'framer-motion'
 import { Calendar, User, ChevronRight, Search } from 'lucide-react'
+import { Helmet } from 'react-helmet-async'
 import { getAllPosts } from '../data/blogPosts'
 
 export default function BlogPage() {
@@ -18,6 +19,15 @@ export default function BlogPage() {
 
   return (
     <div>
+      <Helmet>
+        <title>Blog Jurídico | Will & Pereira Advocacia</title>
+        <meta name="description" content="Artigos e informações sobre Direito Previdenciário, Trabalhista, Cível, Consumidor, Família e Imobiliário. Conteúdo jurídico atualizado pela Will & Pereira Advocacia." />
+        <link rel="canonical" href="https://willepereira-adv.vercel.app/blog" />
+        <meta property="og:title" content="Blog Jurídico | Will & Pereira Advocacia" />
+        <meta property="og:description" content="Artigos e informações sobre Direito Previdenciário, Trabalhista, Cível, Consumidor, Família e Imobiliário." />
+        <meta property="og:url" content="https://willepereira-adv.vercel.app/blog" />
+        <meta property="og:type" content="website" />
+      </Helmet>
       {/* HERO */}
       <section className="relative pt-32 pb-20 bg-navy overflow-hidden">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,_#1a2634_0%,_#0f1729_100%)]" />

@@ -151,6 +151,14 @@ const iconMap: Record<string, any> = { Heart, Briefcase, Building2, Shield, User
 export default function ServicosPage() {
   return (
     <div>
+      <Helmet>
+        <title>Serviços Jurídicos | Will & Pereira Advocacia | Will & Pereira Advocacia</title>
+        <meta name="description" content="Conheça nossos serviços jurídicos especializados em todas as áreas do Direito. Atendimento em todo o Brasil." />
+        <link rel="canonical" href="https://willepereira-adv.vercel.app/servicos" />
+        <meta property="og:title" content="Serviços Jurídicos | Will & Pereira Advocacia" />
+        <meta property="og:description" content="Conheça nossos serviços jurídicos especializados em todas as áreas do Direito. Atendimento em todo o Brasil." />
+        <meta property="og:url" content="https://willepereira-adv.vercel.app/servicos" />
+      </Helmet>
       <section className="relative pt-32 pb-20 bg-navy overflow-hidden">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,_#1a2634_0%,_#0f1729_100%)]" />
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">

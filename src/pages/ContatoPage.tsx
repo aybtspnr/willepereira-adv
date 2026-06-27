@@ -3,9 +3,9 @@ import { motion, useInView } from 'framer-motion'
 import { Phone, Mail, MapPin, Clock, CheckCircle } from 'lucide-react'
 
 const contatoInfo = [
-  { icon: Phone, label: 'Telefone', value: '(48) 99999-9999', href: 'tel:+5548999999999' },
+  { icon: Phone, label: 'Telefone', value: '(48) 98842-0867', href: 'tel:+5548988420867' },
   { icon: Mail, label: 'Email', value: 'contato@willepereira.adv.br', href: 'mailto:contato@willepereira.adv.br' },
-  { icon: MapPin, label: 'Endereço', value: 'Palhoça, SC - Brasil' },
+  { icon: MapPin, label: 'Endereço', value: 'Rua Najla Carone Guedert, 1080 - Palhoça, SC, 88132-150' },
   { icon: Clock, label: 'Horários', value: 'Seg-Sex: 9h às 18h' },
 ]
 
@@ -24,6 +24,14 @@ export default function ContatoPage() {
 
   return (
     <div>
+      <Helmet>
+        <title>Contato | Will & Pereira Advocacia | Will & Pereira Advocacia</title>
+        <meta name="description" content="Entre em contato com a Will & Pereira Advocacia. Agende uma orientação jurídica. Palhoça/SC." />
+        <link rel="canonical" href="https://willepereira-adv.vercel.app/contato" />
+        <meta property="og:title" content="Contato | Will & Pereira Advocacia" />
+        <meta property="og:description" content="Entre em contato com a Will & Pereira Advocacia. Agende uma orientação jurídica. Palhoça/SC." />
+        <meta property="og:url" content="https://willepereira-adv.vercel.app/contato" />
+      </Helmet>
       {/* HERO */}
       <section className="relative pt-32 pb-20 bg-navy overflow-hidden">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,_#1a2634_0%,_#0f1729_100%)]" />
@@ -44,7 +52,7 @@ export default function ContatoPage() {
             initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.3 }}
             className="text-gray-300 max-w-2xl mx-auto"
           >
-            Estamos prontos para ouvir seu caso. Agende uma consulta gratuita.
+            Estamos prontos para ouvir seu caso. Entre em contato conosco.
           </motion.p>
         </div>
       </section>
