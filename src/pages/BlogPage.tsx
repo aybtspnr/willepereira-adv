@@ -50,7 +50,7 @@ export default function BlogPage() {
       </section>
 
       {/* SEARCH + FILTERS */}
-      <section className="py-8 bg-cream sticky top-20 z-30">
+      <section className="py-8 bg-cream sticky top-24 z-30">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex flex-col sm:flex-row gap-4 items-center justify-between">
             <div className="flex gap-2 flex-wrap">

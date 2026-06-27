@@ -687,7 +687,7 @@ const heroRef = useRef<HTMLDivElement>(null)
       <section className="pb-0">
         <div className="container-premium">
           <ScrollReveal>
-            <div className="flex flex-wrap justify-center gap-2 md:gap-3">
+              <div className="flex flex-wrap justify-center gap-1 md:gap-3">
               {[
                 { key: 'all', label: 'Todos' },
                 { key: 'aposentadoria', label: 'Aposentadorias' },
@@ -699,7 +699,7 @@ const heroRef = useRef<HTMLDivElement>(null)
                 <button
                   key={f.key}
                   onClick={() => setActiveFilter(f.key)}
-                  className={`px-5 py-2.5 rounded-full text-xs font-semibold uppercase tracking-[0.1em] transition-all duration-300 ${
+                  className={`px-3 md:px-5 py-2 rounded-full text-[10px] md:text-xs font-semibold uppercase tracking-[0.1em] transition-all duration-300 ${
                     activeFilter === f.key
                       ? 'bg-navy text-gold shadow-lg shadow-navy/20'
                       : 'bg-cream text-navy/60 hover:bg-navy/5 hover:text-navy'
@@ -722,7 +722,7 @@ const heroRef = useRef<HTMLDivElement>(null)
             subtitle="Cada benefício possui requisitos específicos e regras próprias de concessão. Entenda cada um deles e descubra qual se aplica ao seu caso."
           />
 
-          <div className="space-y-24">
+          <div className="space-y-24-mobile-16 space-y-24">
             {filteredBeneficios.map((beneficio, idx) => {
               const Icon = beneficio.icon
               return (
