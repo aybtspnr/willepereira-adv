@@ -263,17 +263,15 @@ input, textarea, select { font: inherit; color: inherit; }
 .section-divider { width: 1px; height: 40px; background: linear-gradient(to bottom, var(--gold), transparent); margin: 0 auto; }
 
 /* ═══ NAVBAR ═══ */
-.top-bar { background: var(--navy-dark); color: var(--gray-400); font-size: 12px; padding: 8px 0; border-bottom: 1px solid rgba(255,255,255,0.05); }
+/* Top bar — visível apenas em desktop (>= 768px) */
+.top-bar { background: var(--navy-dark); color: var(--gray-400); font-size: 12px; padding: 8px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: none; }
+@media (min-width: 768px) { .top-bar { display: block; } }
 .top-bar a { transition: color 0.3s; }
 .top-bar a:hover { color: var(--gold); }
 .topbar-link { display: inline-flex; align-items: center; gap: 6px; color: var(--gray-400); font-size: 12px; transition: color 0.3s; }
 .topbar-link:hover { color: var(--gold); }
 .topbar-icon { color: var(--gold); flex-shrink: 0; }
-.topbar-address { display: none; align-items: center; gap: 6px; font-size: 12px; color: var(--gray-500); }
-@media (min-width: 640px) { .topbar-address { display: flex; } }
-/* Em telas < 480px, esconde o email na top bar */
-.hide-mobile-email { display: none; }
-@media (min-width: 480px) { .hide-mobile-email { display: inline-flex; } }
+.topbar-address { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--gray-500); }
 
 /* Desktop nav — escondida no mobile */
 .nav-desktop { display: none; }
@@ -283,7 +281,7 @@ input, textarea, select { font: inherit; color: inherit; }
 .nav-wrap.scrolled { background: rgba(15,23,41,0.92); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px); box-shadow: 0 4px 20px rgba(0,0,0,0.15); }
 
 /* Inner nav container */
-.nav-inner { width: 100%; max-width: 1280px; margin: 0 auto; padding: 0 16px; height: 60px; display: flex; align-items: center; justify-content: space-between; }
+.nav-inner { width: 100%; max-width: 1280px; margin: 0 auto; padding: 0 16px; height: 56px; display: flex; align-items: center; justify-content: space-between; }
 @media (min-width: 768px) { .nav-inner { padding: 0 48px; height: 64px; } }
 
 /* Logo */
