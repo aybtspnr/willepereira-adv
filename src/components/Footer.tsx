@@ -1,126 +1,135 @@
 import { Link } from 'react-router-dom'
-import { Scale, Phone, Mail, MapPin, Globe, MessageSquareShare, ExternalLink, ArrowUp } from 'lucide-react'
+import { Phone, Mail, MapPin, Globe, ArrowUp } from 'lucide-react'
 
 const areas = [
-  'Direito Previdenciário', 'Direito Trabalhista', 'Direito Cível',
-  'Direito do Consumidor', 'Direito de Família', 'Direito Imobiliário',
+  { name: 'Direito Previdenciário', path: '/servicos' },
+  { name: 'Direito Trabalhista', path: '/servicos' },
+  { name: 'Direito Cível', path: '/servicos' },
+  { name: 'Direito do Consumidor', path: '/servicos' },
+  { name: 'Direito de Família', path: '/servicos' },
+  { name: 'Direito Imobiliário', path: '/servicos' },
+]
+
+const contato = [
+  { icon: Phone, label: 'Telefone', value: '(48) 99999-9999', href: 'tel:+5548999999999' },
+  { icon: Mail, label: 'Email', value: 'contato@willepereira.adv.br', href: 'mailto:contato@willepereira.adv.br' },
+  { icon: MapPin, label: 'Endereço', value: 'Palhoça, SC - Brasil' },
 ]
 
 export default function Footer() {
   const scrollTop = () => window.scrollTo({ top: 0, behavior: 'smooth' })
 
   return (
-    <footer className="bg-navy text-white">
-      {/* CTA Section */}
-      <div className="relative overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-to-r from-gold/10 to-transparent" />
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 text-center relative">
-          <h2 className="font-serif text-3xl md:text-4xl text-gold mb-4">
-            Precisa de Orientação Jurídica?
-          </h2>
-          <p className="text-gray-300 mb-8 max-w-2xl mx-auto">
-            Estamos prontos para ajudar. Entre em contato e agende uma consulta com nossa equipe.
-          </p>
-          <Link
-            to="/contato"
-            className="inline-flex items-center gap-2 px-8 py-3.5 bg-gold text-navy font-semibold rounded-full hover:bg-gold-light transition-all duration-300 hover:shadow-lg hover:shadow-gold/20"
-          >
-            Falar com Advogado
-          </Link>
+    <footer className="bg-navy-dark relative">
+      {/* CTA Bar */}
+      <div className="relative border-b border-white/5">
+        <div className="container-premium py-10">
+          <div className="flex flex-col md:flex-row items-center justify-between gap-6">
+            <div>
+              <h3 className="text-xl text-white mb-1">Precisa de orientação jurídica?</h3>
+              <p className="text-gray-400 text-sm">Agende sua consulta gratuita agora mesmo.</p>
+            </div>
+            <div className="flex gap-3">
+              <Link to="/contato" className="btn-primary">
+                Fale Conosco <ArrowUp size={16} className="rotate-45" />
+              </Link>
+              <a href="tel:+5548999999999" className="btn-outline btn-outline-light">
+                <Phone size={16} /> (48) 99999-9999
+              </a>
+            </div>
+          </div>
         </div>
       </div>
 
       {/* Main Footer */}
-      <div className="border-t border-white/10">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
-            {/* Brand */}
-            <div>
-              <div className="flex items-center gap-3 mb-4">
-                <Scale className="w-6 h-6 text-gold" />
-                <div>
-                  <span className="font-serif text-lg font-bold">Will & Pereira</span>
-                  <span className="block text-[10px] uppercase tracking-[0.2em] text-gray-400">Advocacia</span>
-                </div>
-              </div>
-              <p className="text-gray-400 text-sm leading-relaxed">
-                Advocacia especializada em Palhoça com atendimento em todo o Brasil.
-                Soluções jurídicas eficientes para pessoas físicas e empresas.
-              </p>
-            </div>
-
-            {/* Areas */}
-            <div>
-              <h4 className="font-serif text-gold mb-4">Áreas de Atuação</h4>
-              <ul className="space-y-2">
-                {areas.map(area => (
-                  <li key={area}>
-                    <Link to="/servicos" className="text-gray-400 hover:text-gold text-sm transition-colors">
-                      {area}
-                    </Link>
-                  </li>
-                ))}
-              </ul>
-            </div>
-
-            {/* Contact */}
-            <div>
-              <h4 className="font-serif text-gold mb-4">Contato</h4>
-              <ul className="space-y-3">
-                <li>
-                  <a href="tel:+5548999999999" className="flex items-center gap-2 text-gray-400 hover:text-gold text-sm transition-colors">
-                    <Phone size={14} /> (48) 99999-9999
-                  </a>
-                </li>
-                <li>
-                  <a href="mailto:contato@willepereira.adv.br" className="flex items-center gap-2 text-gray-400 hover:text-gold text-sm transition-colors">
-                    <Mail size={14} /> contato@willepereira.adv.br
-                  </a>
-                </li>
-                <li>
-                  <a href="#" className="flex items-center gap-2 text-gray-400 hover:text-gold text-sm transition-colors">
-                    <MapPin size={14} /> Palhoça, SC
-                  </a>
-                </li>
-              </ul>
-            </div>
-
-            {/* Social */}
-            <div>
-              <h4 className="font-serif text-gold mb-4">Redes Sociais</h4>
-              <div className="flex gap-3">
-                <a href="#" className="w-10 h-10 rounded-full border border-white/20 flex items-center justify-center text-gray-400 hover:bg-gold hover:text-navy hover:border-gold transition-all duration-300">
-                  <Globe size={18} />
+      <div className="container-premium py-16">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-10">
+          {/* Brand - 4 cols */}
+          <div className="lg:col-span-4">
+            <img src="/logo-horizontal.png" alt="Will & Pereira Advocacia" className="h-8 brightness-0 invert mb-5" />
+            <p className="text-gray-400 text-sm leading-relaxed mb-6">
+              Advocacia especializada em Palhoça com atendimento em todo o Brasil. 
+              Mais de 15 anos defendendo seus direitos com excelência e dedicação.
+            </p>
+            <div className="flex gap-3">
+              {[Globe, Globe, Globe].map((Icon, i) => (
+                <a key={i} href="#" className="w-9 h-9 rounded-full border border-white/10 flex items-center justify-center text-gray-400 hover:bg-gold hover:text-navy hover:border-gold transition-all duration-300">
+                  <Icon size={15} />
                 </a>
-                <a href="#" className="w-10 h-10 rounded-full border border-white/20 flex items-center justify-center text-gray-400 hover:bg-gold hover:text-navy hover:border-gold transition-all duration-300">
-                  <MessageSquareShare size={18} />
-                </a>
-                <a href="#" className="w-10 h-10 rounded-full border border-white/20 flex items-center justify-center text-gray-400 hover:bg-gold hover:text-navy hover:border-gold transition-all duration-300">
-                  <ExternalLink size={18} />
-                </a>
-              </div>
+              ))}
             </div>
+          </div>
+
+          {/* Areas - 3 cols */}
+          <div className="lg:col-span-3">
+            <h4 className="text-white text-sm font-semibold uppercase tracking-widest mb-6">Áreas de Atuação</h4>
+            <ul className="space-y-3">
+              {areas.map(a => (
+                <li key={a.name}>
+                  <Link to={a.path} className="text-gray-400 hover:text-gold text-sm transition-colors duration-300">
+                    {a.name}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          {/* Quick Links - 2 cols */}
+          <div className="lg:col-span-2">
+            <h4 className="text-white text-sm font-semibold uppercase tracking-widest mb-6">Links</h4>
+            <ul className="space-y-3">
+              <li><Link to="/" className="text-gray-400 hover:text-gold text-sm transition-colors">Início</Link></li>
+              <li><Link to="/servicos" className="text-gray-400 hover:text-gold text-sm transition-colors">Serviços</Link></li>
+              <li><Link to="/blog" className="text-gray-400 hover:text-gold text-sm transition-colors">Blog</Link></li>
+              <li><Link to="/contato" className="text-gray-400 hover:text-gold text-sm transition-colors">Contato</Link></li>
+            </ul>
+          </div>
+
+          {/* Contact - 3 cols */}
+          <div className="lg:col-span-3">
+            <h4 className="text-white text-sm font-semibold uppercase tracking-widest mb-6">Contato</h4>
+            <ul className="space-y-4">
+              {contato.map(c => (
+                <li key={c.label}>
+                  {c.href ? (
+                    <a href={c.href} className="flex items-center gap-3 group">
+                      <span className="w-8 h-8 rounded-lg bg-white/5 flex items-center justify-center group-hover:bg-gold/10 transition-colors">
+                        <c.icon size={14} className="text-gold" />
+                      </span>
+                      <span className="text-gray-400 group-hover:text-white text-sm transition-colors">{c.value}</span>
+                    </a>
+                  ) : (
+                    <div className="flex items-center gap-3">
+                      <span className="w-8 h-8 rounded-lg bg-white/5 flex items-center justify-center">
+                        <c.icon size={14} className="text-gold" />
+                      </span>
+                      <span className="text-gray-400 text-sm">{c.value}</span>
+                    </div>
+                  )}
+                </li>
+              ))}
+            </ul>
           </div>
         </div>
       </div>
 
       {/* Bottom */}
-      <div className="border-t border-white/10">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 flex flex-col sm:flex-row items-center justify-between gap-4">
+      <div className="border-t border-white/5">
+        <div className="container-premium py-6 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-gray-500 text-xs">
             © {new Date().getFullYear()} Will & Pereira Advocacia. Todos os direitos reservados.
           </p>
-          <div className="flex gap-4 text-xs text-gray-500">
+          <div className="flex gap-6 text-xs text-gray-500">
             <Link to="/privacidade" className="hover:text-gold transition-colors">Privacidade</Link>
             <Link to="/termos" className="hover:text-gold transition-colors">Termos</Link>
+            <span>OAB/SC</span>
           </div>
         </div>
       </div>
 
-      {/* Scroll Top */}
       <button
         onClick={scrollTop}
-        className="fixed bottom-8 right-8 w-12 h-12 bg-gold text-navy rounded-full flex items-center justify-center shadow-lg hover:shadow-gold/30 hover:bg-gold-light transition-all duration-300 z-50"
+        className="fixed bottom-8 right-8 w-12 h-12 bg-gold text-navy rounded-full flex items-center justify-center shadow-2xl shadow-gold/20 hover:bg-gold-light hover:shadow-gold/30 transition-all duration-300 z-50"
       >
         <ArrowUp size={20} />
       </button>

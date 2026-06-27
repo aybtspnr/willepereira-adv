@@ -1,11 +1,11 @@
 import { useState, useEffect } from 'react'
 import { Link, useLocation } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
-import { Scale, Menu, X } from 'lucide-react'
+import { Menu, X, ChevronDown } from 'lucide-react'
 
 const links = [
   { path: '/', label: 'Início' },
-  { path: '/servicos', label: 'Serviços' },
+  { path: '/servicos', label: 'Atuação' },
   { path: '/blog', label: 'Blog' },
   { path: '/contato', label: 'Contato' },
 ]
@@ -13,11 +13,12 @@ const links = [
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false)
   const [scrolled, setScrolled] = useState(false)
+  const [hovered, setHovered] = useState<string | null>(null)
   const location = useLocation()
 
   useEffect(() => {
-    const onScroll = () => setScrolled(window.scrollY > 40)
-    window.addEventListener('scroll', onScroll)
+    const onScroll = () => setScrolled(window.scrollY > 60)
+    window.addEventListener('scroll', onScroll, { passive: true })
     return () => window.removeEventListener('scroll', onScroll)
   }, [])
 
@@ -25,95 +26,93 @@ export default function Navbar() {
 
   return (
     <motion.nav
-      initial={{ y: -80 }}
+      initial={{ y: -100 }}
       animate={{ y: 0 }}
-      transition={{ duration: 0.6, ease: 'easeOut' }}
-      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 ${
-        scrolled
-          ? 'bg-white/95 backdrop-blur-md shadow-lg shadow-navy/5'
+      transition={{ duration: 0.8, ease: [0.25, 0.1, 0.25, 1] }}
+      className={`fixed top-0 left-0 right-0 z-[100] transition-all duration-700 ${
+        scrolled 
+          ? 'glass-dark shadow-lg shadow-navy/20' 
           : 'bg-transparent'
       }`}
     >
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex items-center justify-between h-20">
-          {/* Logo */}
-          <Link to="/" className="flex items-center gap-3 group">
-            <Scale className={`w-7 h-7 transition-colors duration-300 ${
-              scrolled ? 'text-gold' : 'text-gold'
-            }`} />
-            <div>
-              <span className={`font-serif text-lg font-bold transition-colors ${
-                scrolled ? 'text-navy' : 'text-white'
-              }`}>
-                Will & Pereira
-              </span>
-              <span className={`block text-[10px] uppercase tracking-[0.2em] font-medium transition-colors ${
-                scrolled ? 'text-navy-light' : 'text-gray-300'
-              }`}>
-                Advocacia
-              </span>
-            </div>
+      <div className="container-premium">
+        <div className="flex items-center justify-between h-20 md:h-24">
+          {/* Logo real */}
+          <Link to="/" className="relative z-10 flex items-center">
+            <img 
+              src="/logo-horizontal.png" 
+              alt="Will & Pereira Advocacia" 
+              className={`h-8 md:h-10 w-auto transition-all duration-500 ${
+                scrolled ? 'opacity-100' : 'opacity-100 brightness-0 invert'
+              }`}
+            />
           </Link>
 
-          {/* Desktop */}
+          {/* Desktop nav */}
           <div className="hidden md:flex items-center gap-1">
             {links.map(link => (
               <Link
                 key={link.path}
                 to={link.path}
-                className={`relative px-4 py-2 text-sm font-medium transition-colors duration-300 ${
+                onMouseEnter={() => setHovered(link.path)}
+                onMouseLeave={() => setHovered(null)}
+                className={`relative px-5 py-2 text-sm font-medium transition-colors duration-300 ${
                   location.pathname === link.path
-                    ? scrolled ? 'text-gold' : 'text-gold'
-                    : scrolled ? 'text-navy hover:text-gold' : 'text-white/80 hover:text-white'
+                    ? 'text-gold'
+                    : scrolled 
+                      ? 'text-white/80 hover:text-gold' 
+                      : 'text-white/80 hover:text-white'
                 }`}
               >
                 {link.label}
                 {location.pathname === link.path && (
                   <motion.div
                     layoutId="nav-underline"
-                    className="absolute bottom-0 left-4 right-4 h-0.5 bg-gold"
+                    className="absolute -bottom-0.5 left-5 right-5 h-0.5 bg-gold rounded-full"
                   />
                 )}
               </Link>
             ))}
             <Link
               to="/contato"
-              className="ml-4 px-6 py-2.5 bg-gold text-navy font-semibold text-sm rounded-full hover:bg-gold-light transition-all duration-300 hover:shadow-lg hover:shadow-gold/20"
+              className="ml-6 btn-primary"
             >
               Consulta Gratuita
             </Link>
           </div>
 
-          {/* Mobile */}
+          {/* Mobile hamburger */}
           <button
             onClick={() => setIsOpen(!isOpen)}
-            className={`md:hidden p-2 rounded-lg transition-colors ${
-              scrolled ? 'text-navy' : 'text-white'
+            className={`md:hidden relative z-10 p-2 transition-colors ${
+              scrolled ? 'text-white' : 'text-white'
             }`}
+            aria-label="Menu"
           >
             {isOpen ? <X size={24} /> : <Menu size={24} />}
           </button>
         </div>
       </div>
 
-      {/* Mobile Menu */}
+      {/* Mobile menu */}
       <AnimatePresence>
         {isOpen && (
           <motion.div
             initial={{ opacity: 0, height: 0 }}
             animate={{ opacity: 1, height: 'auto' }}
             exit={{ opacity: 0, height: 0 }}
-            className="md:hidden bg-white border-t border-gray-100"
+            transition={{ duration: 0.4, ease: [0.25, 0.1, 0.25, 1] }}
+            className="md:hidden bg-navy-dark border-t border-white/10"
           >
-            <div className="px-4 py-4 space-y-2">
+            <div className="container-premium py-6 space-y-1">
               {links.map(link => (
                 <Link
                   key={link.path}
                   to={link.path}
-                  className={`block px-4 py-3 rounded-lg transition-colors ${
+                  className={`block px-4 py-3.5 rounded-xl text-sm font-medium transition-all ${
                     location.pathname === link.path
-                      ? 'bg-gold/10 text-gold font-semibold'
-                      : 'text-navy hover:bg-gray-50'
+                      ? 'bg-gold/10 text-gold'
+                      : 'text-white/70 hover:bg-white/5 hover:text-white'
                   }`}
                 >
                   {link.label}
@@ -121,7 +120,7 @@ export default function Navbar() {
               ))}
               <Link
                 to="/contato"
-                className="block mt-4 px-6 py-3 bg-gold text-navy font-semibold text-center rounded-full"
+                className="block mt-4 px-6 py-3.5 bg-gold text-navy font-semibold text-center rounded-xl text-sm"
               >
                 Consulta Gratuita
               </Link>
