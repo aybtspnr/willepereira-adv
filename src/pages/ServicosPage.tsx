@@ -145,6 +145,7 @@ const areas = [
 ]
 
 import { Heart, Briefcase, Building2, Shield, Users, Landmark } from 'lucide-react'
+import { Helmet } from 'react-helmet-async'
 
 const iconMap: Record<string, any> = { Heart, Briefcase, Building2, Shield, Users, Landmark }
 
@@ -152,7 +153,7 @@ export default function ServicosPage() {
   return (
     <div>
       <Helmet>
-        <title>Serviços Jurídicos | Will & Pereira Advocacia | Will & Pereira Advocacia</title>
+        <title>Serviços Jurídicos | Will & Pereira Advocacia</title>
         <meta name="description" content="Conheça nossos serviços jurídicos especializados em todas as áreas do Direito. Atendimento em todo o Brasil." />
         <link rel="canonical" href="https://willepereira-adv.vercel.app/servicos" />
         <meta property="og:title" content="Serviços Jurídicos | Will & Pereira Advocacia" />

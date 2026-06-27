@@ -319,14 +319,10 @@ const faqData: FAQItem[] = [
 ]
 
 /* ===== PAGE ===== */
-import { useSEO } from '../hooks/useSEO'
+import { Helmet } from 'react-helmet-async'
 
 export default function DireitoImobiliario() {
-  useSEO(
-    'Direito Imobiliário',
-    'Advocacia imobiliária em Palhoça/SC. Usucapião, contratos de compra e venda, regularização de imóveis, ações possessórias, incorporação e condomínio. Atendimento em todo o Brasil.'
-  )
-  const heroRef = useRef<HTMLDivElement>(null)
+const heroRef = useRef<HTMLDivElement>(null)
   const { scrollYProgress } = useScroll({ target: heroRef, offset: ['start start', 'end start'] })
   const heroOpacity = useTransform(scrollYProgress, [0, 0.6], [1, 0])
   const heroY = useTransform(scrollYProgress, [0, 0.8], [0, 150])
@@ -370,7 +366,7 @@ export default function DireitoImobiliario() {
   return (
     <div>
       <Helmet>
-        <title>Direito Imobiliário | Will & Pereira Advocacia | Will & Pereira Advocacia</title>
+        <title>Direito Imobiliário | Will & Pereira Advocacia</title>
         <meta name="description" content="Assessoria em Direito Imobiliário: compra e venda, locação, financiamento e regularização de imóveis." />
         <link rel="canonical" href="https://willepereira-adv.vercel.app/imobiliario" />
         <meta property="og:title" content="Direito Imobiliário | Will & Pereira Advocacia" />

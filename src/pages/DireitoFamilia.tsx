@@ -222,17 +222,13 @@ const faqItems = [
   },
 ]
 
-import { useSEO } from '../hooks/useSEO'
+import { Helmet } from 'react-helmet-async'
 
 export default function DireitoFamilia() {
-  useSEO(
-    'Direito de Família',
-    'Advocacia em Direito de Família em Palhoça/SC. Divórcio, guarda de filhos, pensão alimentícia, inventário, união estável e planejamento sucessório. Atendimento humanizado em todo o Brasil.'
-  )
-  return (
+return (
     <div>
       <Helmet>
-        <title>Direito de Família | Will & Pereira Advocacia | Will & Pereira Advocacia</title>
+        <title>Direito de Família | Will & Pereira Advocacia</title>
         <meta name="description" content="Advocacia especializada em Direito de Família: divórcio, guarda, pensão alimentícia e união estável." />
         <link rel="canonical" href="https://willepereira-adv.vercel.app/familia" />
         <meta property="og:title" content="Direito de Família | Will & Pereira Advocacia" />

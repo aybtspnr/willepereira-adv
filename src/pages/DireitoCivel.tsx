@@ -144,17 +144,13 @@ const topicosCivel = [
   },
 ]
 
-import { useSEO } from '../hooks/useSEO'
+import { Helmet } from 'react-helmet-async'
 
 export default function DireitoCivel() {
-  useSEO(
-    'Direito Cível',
-    'Advocacia especializada em Direito Cível em Palhoça/SC. Indenizações, contratos, cobranças, responsabilidade civil, usucapião, locação e inventário. Atendimento em todo o Brasil.'
-  )
-  return (
+return (
     <div>
       <Helmet>
-        <title>Direito Cível | Will & Pereira Advocacia | Will & Pereira Advocacia</title>
+        <title>Direito Cível | Will & Pereira Advocacia</title>
         <meta name="description" content="Assessoria jurídica em Direito Cível: contratos, indenizações, responsabilidade civil e obrigações." />
         <link rel="canonical" href="https://willepereira-adv.vercel.app/civel" />
         <meta property="og:title" content="Direito Cível | Will & Pereira Advocacia" />

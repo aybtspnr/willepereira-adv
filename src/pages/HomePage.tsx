@@ -5,10 +5,11 @@ import {
   ArrowRight, Phone, Heart, Briefcase, Building2, Shield, Users, Landmark,
   Award, Globe, MessageSquare, Clock, Target, CheckCircle, BookOpen, ChevronRight
 } from 'lucide-react'
+import { Helmet } from 'react-helmet-async'
 import { getAllPosts } from '../data/blogPosts'
 
 /* ═══ Reusable scroll reveal ═══ */
-function Reveal({ children, delay = 0, className = '', style = {} }: { children: React.ReactNode; delay?: number; className?: string; style?: any }) {
+function Reveal({ children, delay = 0, className = '' }: { children: React.ReactNode; delay?: number; className?: string }) {
   const ref = useRef(null)
   const inView = useInView(ref, { once: true, margin: '-60px' })
   return (
@@ -18,7 +19,6 @@ function Reveal({ children, delay = 0, className = '', style = {} }: { children:
       animate={inView ? { opacity: 1, y: 0 } : {}}
       transition={{ duration: 0.8, delay, ease: [0.25, 0.1, 0.25, 1] }}
       className={className}
-      style={style}
     >
       {children}
     </motion.div>
@@ -48,14 +48,38 @@ function Counter({ end, suffix = '', label }: { end: number; suffix?: string; la
   )
 }
 
+/* ═══ TextReveal — SplitText effect ═══ */
+function WordReveal({ text, tag: Tag = 'span', className = '' }: { text: string; tag?: 'h1' | 'h2' | 'h3' | 'p' | 'span'; className?: string }) {
+  const ref = useRef(null)
+  const inView = useInView(ref, { once: true, margin: '-60px' })
+  const words = text.split(' ')
+  return (
+    <Tag className={className}>
+      <span ref={ref} style={{ display: 'inline-flex', flexWrap: 'wrap' }}>
+        {words.map((word, i) => (
+          <motion.span
+            key={i}
+            initial={{ y: 30, opacity: 0 }}
+            animate={inView ? { y: 0, opacity: 1 } : {}}
+            transition={{ duration: 0.5, delay: i * 0.04, ease: [0.25, 0.1, 0.25, 1] }}
+            style={{ display: 'inline-block', marginRight: '0.25em' }}
+          >
+            {word}
+          </motion.span>
+        ))}
+      </span>
+    </Tag>
+  )
+}
+
 /* ═══ Service cards ═══ */
 const services = [
-  { icon: Heart, title: 'Direito Previdenciário', desc: 'Aposentadorias, auxílio-doença, pensão por morte, BPC/LOAS e revisão de benefícios do INSS.', topics: ['Aposentadoria Urbana e Rural', 'Auxílio-Doença e Invalidez', 'Pensão por Morte', 'BPC/LOAS', 'Revisão de Benefícios'], path: '/previdenciario' },
-  { icon: Briefcase, title: 'Direito Trabalhista', desc: 'Reclamações trabalhistas, rescisões, horas extras, acidente de trabalho e assédio moral.', topics: ['Reclamações Trabalhistas', 'Rescisão Contratual', 'Horas Extras', 'Acidente de Trabalho', 'Assédio Moral'], path: '/trabalhista' },
-  { icon: Building2, title: 'Direito Cível', desc: 'Indenizações, contratos, cobranças, responsabilidade civil e direito imobiliário.', topics: ['Ações de Indenização', 'Contratos', 'Cobranças', 'Responsabilidade Civil', 'Direito Imobiliário'], path: '/civel' },
-  { icon: Shield, title: 'Direito do Consumidor', desc: 'Cobranças indevidas, negativação, vícios em produtos, planos de saúde e práticas abusivas.', topics: ['Cobranças Indevidas', 'Negativação Injusta', 'Vícios em Produtos', 'Planos de Saúde', 'Práticas Abusivas'], path: '/consumidor' },
-  { icon: Users, title: 'Direito de Família', desc: 'Divórcio, guarda, pensão alimentícia, inventário, união estável e planejamento sucessório.', topics: ['Divórcio', 'Guarda de Filhos', 'Pensão Alimentícia', 'Inventário', 'União Estável'], path: '/familia' },
-  { icon: Landmark, title: 'Direito Imobiliário', desc: 'Usucapião, contratos de compra e venda, regularização, ações possessórias e incorporação.', topics: ['Usucapião', 'Compra e Venda', 'Regularização', 'Ações Possessórias', 'Incorporação'], path: '/imobiliario' },
+  { icon: Heart, title: 'Direito Previdenciário', desc: 'Aposentadorias, auxílio-doença, pensão por morte, BPC/LOAS e revisão de benefícios do INSS.', topics: ['Aposentadoria Urbana e Rural', 'Auxílio-Doença e Invalidez', 'Pensão por Morte', 'BPC/LOAS', 'Revisão de Benefícios'], path: '/previdenciario', num: '01' },
+  { icon: Briefcase, title: 'Direito Trabalhista', desc: 'Reclamações trabalhistas, rescisões, horas extras, acidente de trabalho e assédio moral.', topics: ['Reclamações Trabalhistas', 'Rescisão Contratual', 'Horas Extras', 'Acidente de Trabalho', 'Assédio Moral'], path: '/trabalhista', num: '02' },
+  { icon: Building2, title: 'Direito Cível', desc: 'Indenizações, contratos, cobranças, responsabilidade civil e direito imobiliário.', topics: ['Ações de Indenização', 'Contratos', 'Cobranças', 'Responsabilidade Civil', 'Direito Imobiliário'], path: '/civel', num: '03' },
+  { icon: Shield, title: 'Direito do Consumidor', desc: 'Cobranças indevidas, negativação, vícios em produtos, planos de saúde e práticas abusivas.', topics: ['Cobranças Indevidas', 'Negativação Injusta', 'Vícios em Produtos', 'Planos de Saúde', 'Práticas Abusivas'], path: '/consumidor', num: '04' },
+  { icon: Users, title: 'Direito de Família', desc: 'Divórcio, guarda, pensão alimentícia, inventário, união estável e planejamento sucessório.', topics: ['Divórcio', 'Guarda de Filhos', 'Pensão Alimentícia', 'Inventário', 'União Estável'], path: '/familia', num: '05' },
+  { icon: Landmark, title: 'Direito Imobiliário', desc: 'Usucapião, contratos de compra e venda, regularização, ações possessórias e incorporação.', topics: ['Usucapião', 'Compra e Venda', 'Regularização', 'Ações Possessórias', 'Incorporação'], path: '/imobiliario', num: '06' },
 ]
 
 /* ═══ Values ═══ */
@@ -78,13 +102,14 @@ export default function HomePage() {
   return (
     <div>
       <Helmet>
-        <title>Will & Pereira Advocacia | Escritório Jurídico Premium em Palhoça/SC | Will & Pereira Advocacia</title>
+        <title>Will & Pereira Advocacia | Escritório Jurídico Premium em Palhoça/SC</title>
         <meta name="description" content="Escritório de advocacia premium com mais de 15 anos de experiência. Especializado em Direito Previdenciário, Trabalhista, Cível, Consumidor, Família e Imobiliário." />
         <link rel="canonical" href="https://willepereira-adv.vercel.app/" />
         <meta property="og:title" content="Will & Pereira Advocacia | Escritório Jurídico Premium em Palhoça/SC" />
         <meta property="og:description" content="Escritório de advocacia premium com mais de 15 anos de experiência. Especializado em Direito Previdenciário, Trabalhista, Cível, Consumidor, Família e Imobiliário." />
         <meta property="og:url" content="https://willepereira-adv.vercel.app/" />
       </Helmet>
+
       {/* ═══════ HERO ═══════ */}
       <section ref={heroRef} className="relative h-screen overflow-hidden" style={{ background: 'var(--navy-dark)' }}>
         <div className="absolute inset-0" style={{ background: 'linear-gradient(135deg, #0f1729 0%, #1a2634 50%, #0f1729 100%)' }} />
@@ -102,6 +127,7 @@ export default function HomePage() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.9, delay: 0.4 }}
               className="hero-title text-white"
+              style={{ lineHeight: '0.92' }}
             >
               Advocacia<br />
               <span className="gold-text">que protege</span><br />
@@ -140,11 +166,11 @@ export default function HomePage() {
               style={{ marginTop: '48px', fontSize: '11px', textTransform: 'uppercase', letterSpacing: '0.15em', color: 'rgba(255,255,255,0.3)' }}
             >
               <span>Atendimento Nacional</span>
-              <span style={{ width: '1px', height: '12px', background: 'rgba(255,255,255,0.1)' }} />
+              <span className="w-px h-3" style={{ background: 'rgba(255,255,255,0.1)' }} />
               <span>OAB/SC</span>
-              <span style={{ width: '1px', height: '12px', background: 'rgba(255,255,255,0.1)' }} />
+              <span className="w-px h-3" style={{ background: 'rgba(255,255,255,0.1)' }} />
               <span>15+ Anos</span>
-              <span style={{ width: '1px', height: '12px', background: 'rgba(255,255,255,0.1)' }} />
+              <span className="w-px h-3" style={{ background: 'rgba(255,255,255,0.1)' }} />
               <span>5.000+ Casos</span>
             </motion.div>
           </div>
@@ -160,8 +186,8 @@ export default function HomePage() {
       <section className="relative z-20" style={{ marginTop: '-80px' }}>
         <div className="container">
           <Reveal>
-            <div className="glass-card" style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)' }}>
-              <div className="md:grid" style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)' }}>
+            <div className="glass-card">
+              <div className="grid md:grid-cols-4">
                 <Counter end={15} suffix="+" label="Anos" />
                 <Counter end={5000} suffix="+" label="Casos" />
                 <Counter end={27} suffix="+" label="Cidades" />
@@ -189,15 +215,18 @@ export default function HomePage() {
               const Icon = s.icon
               return (
                 <Reveal key={s.title} delay={i * 0.08}>
-                  <Link to={s.path} className="srv-card" style={{ display: 'block', height: '100%' }}>
-                    <div className="srv-icon"><Icon size={22} /></div>
+                  <Link to={s.path} className="srv-card group" style={{ display: 'block', height: '100%' }}>
+                    <div className="flex items-start justify-between mb-5">
+                      <div className="srv-icon"><Icon size={22} /></div>
+                      <span className="text-2xl font-serif" style={{ color: 'rgba(201,168,76,0.12)' }}>{s.num}</span>
+                    </div>
                     <h3>{s.title}</h3>
                     <p>{s.desc}</p>
                     <ul className="srv-topics">
-                      {s.topics.map(t => <li key={t}><CheckCircle size={12} style={{ color: 'var(--gold)', flexShrink: 0, marginTop: '2px' }} /> {t}</li>)}
+                      {s.topics.map(t => <li key={t}>{t}</li>)}
                     </ul>
-                    <span style={{ color: 'var(--gold)', fontSize: '13px', fontWeight: 600, marginTop: '16px', display: 'inline-flex', alignItems: 'center', gap: '4px' }}>
-                      Saiba mais <ChevronRight size={14} />
+                    <span className="inline-flex items-center gap-1 mt-4 text-sm font-semibold" style={{ color: 'var(--gold)' }}>
+                      Saiba mais <ChevronRight size={14} className="group-hover:translate-x-1 transition-transform" />
                     </span>
                   </Link>
                 </Reveal>
@@ -218,19 +247,19 @@ export default function HomePage() {
                 <span className="gold-text">Mãos Experientes</span>
               </h2>
               <div className="gold-divider" />
-              <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
-                <p style={{ color: 'var(--gray-600)', lineHeight: 1.8 }}>
+              <div className="space-y-4 text-gray-600 leading-relaxed">
+                <p>
                   A <strong style={{ color: 'var(--navy)' }}>Will & Pereira Advocacia</strong> nasceu da convicção de que o acesso à justiça
                   não deve ser um privilégio, mas um direito de todos os brasileiros. Fundado em 2011,
                   em Palhoça, Santa Catarina, nosso escritório cresceu guiado por valores sólidos:
                   ética, transparência e compromisso inabalável com cada cliente.
                 </p>
-                <p style={{ color: 'var(--gray-600)', lineHeight: 1.8 }}>
+                <p>
                   Ao longo de mais de 15 anos de atuação, construímos uma sólida reputação na defesa
                   dos direitos previdenciários, trabalhistas, cíveis e consumeristas. Já atendemos mais
                   de 5.000 clientes em 27 cidades brasileiras, sempre com a mesma dedicação.
                 </p>
-                <p style={{ color: 'var(--gray-600)', lineHeight: 1.8 }}>
+                <p>
                   Nossa equipe é formada por profissionais especializados e atualizados com as constantes
                   mudanças na legislação brasileira. Acreditamos que o conhecimento jurídico aliado a
                   um atendimento humanizado é a chave para resultados excepcionais.
@@ -242,7 +271,7 @@ export default function HomePage() {
             </Reveal>
 
             <Reveal delay={0.2}>
-              <div className="relative overflow-hidden" style={{ borderRadius: '16px', background: 'var(--navy-dark)', aspectRatio: '4/5', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+              <div className="relative overflow-hidden rounded-2xl" style={{ background: 'var(--navy-dark)', aspectRatio: '4/5', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
                 <div className="pattern-dots" />
                 <div className="glow-gold" style={{ top: '50%', left: '50%', transform: 'translate(-50%, -50%)', width: '400px', height: '400px' }} />
                 <div style={{ position: 'relative', zIndex: 2, textAlign: 'center' }}>
@@ -275,8 +304,8 @@ export default function HomePage() {
                 <Reveal key={v.title} delay={i * 0.08}>
                   <div className="val-card">
                     <div className="val-icon"><Icon size={28} /></div>
-                    <h3 style={{ fontSize: '1.05rem', marginBottom: '8px', fontWeight: 600 }}>{v.title}</h3>
-                    <p className="val-desc" style={{ fontSize: '0.875rem', color: 'var(--gray-600)', lineHeight: 1.6 }}>{v.desc}</p>
+                    <h3 className="text-lg font-semibold mb-2">{v.title}</h3>
+                    <p className="val-desc text-sm" style={{ color: 'var(--gray-600)', lineHeight: 1.6 }}>{v.desc}</p>
                   </div>
                 </Reveal>
               )
@@ -298,12 +327,12 @@ export default function HomePage() {
             <div className="grid md:grid-cols-3 gap-6">
               {posts.slice(0, 3).map((post, i) => (
                 <Reveal key={post.slug} delay={i * 0.08}>
-                  <Link to={`/blog/${post.slug}`} className="blog-card" style={{ display: 'block', height: '100%' }}>
+                  <Link to={`/blog/${post.slug}`} className="blog-card group" style={{ display: 'block', height: '100%' }}>
                     <span className="blog-badge">{post.category}</span>
-                    <h3 style={{ fontSize: '1.1rem', marginBottom: '8px', color: 'var(--navy)' }}>{post.title}</h3>
-                    <p style={{ fontSize: '0.875rem', color: 'var(--gray-500)', lineHeight: 1.6 }}>{post.description}</p>
-                    <span style={{ color: 'var(--gold)', fontSize: '13px', fontWeight: 600, marginTop: '16px', display: 'inline-flex', alignItems: 'center', gap: '4px' }}>
-                      Ler mais <ChevronRight size={14} />
+                    <h3 className="text-lg mb-2" style={{ color: 'var(--navy)' }}>{post.title}</h3>
+                    <p className="text-sm leading-relaxed" style={{ color: 'var(--gray-500)' }}>{post.description}</p>
+                    <span className="inline-flex items-center gap-1 mt-4 text-sm font-semibold" style={{ color: 'var(--gold)' }}>
+                      Ler mais <ChevronRight size={14} className="group-hover:translate-x-1 transition-transform" />
                     </span>
                   </Link>
                 </Reveal>

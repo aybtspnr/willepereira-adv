@@ -473,14 +473,10 @@ const faqData: FAQItem[] = [
 ]
 
 /* ===== PAGE ===== */
-import { useSEO } from '../hooks/useSEO'
+import { Helmet } from 'react-helmet-async'
 
 export default function DireitoPrevidenciarioPage() {
-  useSEO(
-    'Direito Previdenciário',
-    'Advocacia especializada em Direito Previdenciário em Palhoça/SC. Aposentadoria, auxílio-doença, pensão por morte, BPC/LOAS e revisão de benefícios. Atendimento em todo o Brasil.'
-  )
-  const heroRef = useRef<HTMLDivElement>(null)
+const heroRef = useRef<HTMLDivElement>(null)
   const { scrollYProgress } = useScroll({ target: heroRef, offset: ['start start', 'end start'] })
   const heroOpacity = useTransform(scrollYProgress, [0, 0.6], [1, 0])
   const heroY = useTransform(scrollYProgress, [0, 0.8], [0, 150])
@@ -522,7 +518,7 @@ export default function DireitoPrevidenciarioPage() {
   return (
     <div>
       <Helmet>
-        <title>Direito Previdenciário | Will & Pereira Advocacia | Will & Pereira Advocacia</title>
+        <title>Direito Previdenciário | Will & Pereira Advocacia</title>
         <meta name="description" content="Especialistas em Direito Previdenciário: aposentadorias, pensões, auxílios e benefícios do INSS." />
         <link rel="canonical" href="https://willepereira-adv.vercel.app/previdenciario" />
         <meta property="og:title" content="Direito Previdenciário | Will & Pereira Advocacia" />
@@ -997,8 +993,8 @@ export default function DireitoPrevidenciarioPage() {
               <Link to="/contato" className="btn-primary text-base px-8 py-4">
                 <Phone size={18} /> Agende uma Conversa
               </Link>
-              <a href="tel:+5548999999999" className="btn-outline btn-outline-light text-base px-8 py-4">
-                (48) 99999-9999
+              <a href="tel:+5548988420867" className="btn-outline btn-outline-light text-base px-8 py-4">
+                (48) 98842-0867
               </a>
             </div>
             <p className="text-gray-500 text-sm mt-6">

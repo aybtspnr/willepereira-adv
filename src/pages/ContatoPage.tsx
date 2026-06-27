@@ -1,6 +1,7 @@
 import { useState, useRef } from 'react'
 import { motion, useInView } from 'framer-motion'
 import { Phone, Mail, MapPin, Clock, CheckCircle } from 'lucide-react'
+import { Helmet } from 'react-helmet-async'
 
 const contatoInfo = [
   { icon: Phone, label: 'Telefone', value: '(48) 98842-0867', href: 'tel:+5548988420867' },
@@ -25,7 +26,7 @@ export default function ContatoPage() {
   return (
     <div>
       <Helmet>
-        <title>Contato | Will & Pereira Advocacia | Will & Pereira Advocacia</title>
+        <title>Contato | Will & Pereira Advocacia</title>
         <meta name="description" content="Entre em contato com a Will & Pereira Advocacia. Agende uma orientação jurídica. Palhoça/SC." />
         <link rel="canonical" href="https://willepereira-adv.vercel.app/contato" />
         <meta property="og:title" content="Contato | Will & Pereira Advocacia" />

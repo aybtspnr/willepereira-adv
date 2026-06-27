@@ -224,17 +224,13 @@ const faqItems = [
 ]
 
 /* ===== PAGE COMPONENT ===== */
-import { useSEO } from '../hooks/useSEO'
+import { Helmet } from 'react-helmet-async'
 
 export default function DireitoTrabalhistaPage() {
-  useSEO(
-    'Direito Trabalhista',
-    'Advocacia trabalhista em Palhoça/SC. Reclamações trabalhistas, rescisão contratual, horas extras, acidente de trabalho, assédio moral e vínculo empregatício. Atendimento nacional.'
-  )
-  return (
+return (
     <div>
       <Helmet>
-        <title>Direito Trabalhista | Will & Pereira Advocacia | Will & Pereira Advocacia</title>
+        <title>Direito Trabalhista | Will & Pereira Advocacia</title>
         <meta name="description" content="Advocacia Trabalhista especializada em verbas rescisórias, horas extras, FGTS e direitos do trabalhador." />
         <link rel="canonical" href="https://willepereira-adv.vercel.app/trabalhista" />
         <meta property="og:title" content="Direito Trabalhista | Will & Pereira Advocacia" />

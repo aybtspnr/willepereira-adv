@@ -214,17 +214,13 @@ const faqItems = [
 ]
 
 /* ===== PAGE COMPONENT ===== */
-import { useSEO } from '../hooks/useSEO'
+import { Helmet } from 'react-helmet-async'
 
 export default function DireitoConsumidor() {
-  useSEO(
-    'Direito do Consumidor',
-    'Proteção aos direitos do consumidor em Palhoça/SC. Cobranças indevidas, negativação injusta, vícios em produtos, planos de saúde e revisão de contratos. Atendimento nacional.'
-  )
-  return (
+return (
     <div>
       <Helmet>
-        <title>Direito do Consumidor | Will & Pereira Advocacia | Will & Pereira Advocacia</title>
+        <title>Direito do Consumidor | Will & Pereira Advocacia</title>
         <meta name="description" content="Proteção dos direitos do consumidor: CDC, produtos defeituosos, cobrança indevida e planos de saúde." />
         <link rel="canonical" href="https://willepereira-adv.vercel.app/consumidor" />
         <meta property="og:title" content="Direito do Consumidor | Will & Pereira Advocacia" />
