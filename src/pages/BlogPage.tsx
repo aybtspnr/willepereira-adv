@@ -34,7 +34,7 @@ export default function BlogPage() {
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <motion.span
             initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}
-            className="inline-block px-4 py-1.5 bg-gold/15 text-gold text-xs font-semibold uppercase tracking-widest rounded-full mb-4"
+            className="inline-block px-4 py-1.5 bg-gold-15 text-gold text-xs font-semibold uppercase tracking-widest rounded-full mb-4"
           >
             Blog Jurídico
           </motion.span>
@@ -65,7 +65,7 @@ export default function BlogPage() {
                   className={`px-4 py-1.5 text-xs font-semibold rounded-full transition-all ${
                     category === cat
                       ? 'bg-gold text-navy'
-                      : 'bg-white text-navy hover:bg-gold/10'
+                      : 'bg-white text-navy hover:bg-gold-10'
                   }`}
                 >
                   {cat}
@@ -104,7 +104,7 @@ export default function BlogPage() {
                   className="bg-white rounded-2xl p-8 shadow-lg shadow-navy/5 border border-gray-100 hover:shadow-xl hover:border-gold/20 transition-all duration-300 group"
                 >
                   <div className="flex items-center gap-3 mb-4">
-                    <span className="px-3 py-1 bg-gold/10 text-gold text-xs font-semibold rounded-full">
+                    <span className="px-3 py-1 bg-gold-10 text-gold text-xs font-semibold rounded-full">
                       {post.category}
                     </span>
                     <span className="flex items-center gap-1 text-xs text-gray-400">

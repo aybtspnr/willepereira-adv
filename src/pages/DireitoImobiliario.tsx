@@ -39,7 +39,7 @@ function SectionHeading({ label, title, subtitle, light = false }: { label: stri
   return (
     <div className={`text-center mb-16 md:mb-20 ${light ? 'text-white' : ''}`}>
       <span className={`inline-block px-4 py-1.5 text-xs font-semibold uppercase tracking-[0.15em] rounded-full mb-5 ${
-        light ? 'bg-gold/15 text-gold' : 'bg-gold/10 text-gold-dark'
+        light ? 'bg-gold-15 text-gold' : 'bg-gold-10 text-gold-dark'
       }`}>
         {label}
       </span>
@@ -90,7 +90,7 @@ const topicos: TopicItem[] = [
       'Usucapião especial rural: 5 anos, área até 50 hectares, com produção',
       'Usucapião coletiva e familiar: instrumentos de regularização fundiária',
     ],
-    gradient: 'from-amber-600 to-orange-600',
+    gradient: 'linear-gradient(135deg, #d97706, #ea580c)',
     iconBg: 'bg-amber-500/10',
     borderColor: 'border-amber-200',
   },
@@ -111,7 +111,7 @@ const topicos: TopicItem[] = [
       'Promessa de compra e venda registrada confere direito real',
       'Due diligence imobiliária previne riscos jurídicos e fiscais',
     ],
-    gradient: 'from-blue-600 to-indigo-600',
+    gradient: 'linear-gradient(135deg, #2563eb, #4f46e5)',
     iconBg: 'bg-blue-500/10',
     borderColor: 'border-blue-200',
   },
@@ -132,7 +132,7 @@ const topicos: TopicItem[] = [
       'Averbação de construção e retificação de área são procedimentos comuns',
       'Regularização fiscal é etapa indispensável para a transferência',
     ],
-    gradient: 'from-emerald-600 to-teal-600',
+    gradient: 'linear-gradient(135deg, #059669, #0d9488)',
     iconBg: 'bg-emerald-500/10',
     borderColor: 'border-emerald-200',
   },
@@ -174,7 +174,7 @@ const topicos: TopicItem[] = [
       'Garantias: seguro construção, fiança bancária, caução',
       'Prazo de entrega e multa por atraso são cláusulas essenciais',
     ],
-    gradient: 'from-violet-600 to-purple-600',
+    gradient: 'linear-gradient(135deg, #7c3aed, #9333ea)',
     iconBg: 'bg-violet-500/10',
     borderColor: 'border-violet-200',
   },
@@ -237,7 +237,7 @@ const topicos: TopicItem[] = [
       'Ambos são direitos reais registráveis no Cartório de Imóveis',
       'Instrumentos de regularização fundiária e aproveitamento urbanístico',
     ],
-    gradient: 'from-teal-600 to-emerald-600',
+    gradient: 'linear-gradient(135deg, #0d9488, #059669)',
     iconBg: 'bg-teal-500/10',
     borderColor: 'border-teal-200',
   },
@@ -279,7 +279,7 @@ const topicos: TopicItem[] = [
       'Locação comercial: direito de renovação compulsória (5 anos)',
       'Garantias: caução, fiança, seguro fiança e cessão fiduciária',
     ],
-    gradient: 'from-rose-600 to-pink-600',
+    gradient: 'linear-gradient(135deg, #e11d48, #db2777)',
     iconBg: 'bg-rose-500/10',
     borderColor: 'border-rose-200',
   },
@@ -378,14 +378,14 @@ const heroRef = useRef<HTMLDivElement>(null)
         {/* Gradient overlays */}
         <div className="absolute inset-0 bg-gradient-to-br from-navy-dark via-navy to-navy-dark" />
         <div className="absolute inset-0 opacity-[0.04]" style={{ backgroundImage: 'url("data:image/svg+xml,%3Csvg width=\'60\' height=\'60\' viewBox=\'0 0 60 60\' xmlns=\'http://www.w3.org/2000/svg\'%3E%3Cg fill=\'none\' fill-rule=\'evenodd\'%3E%3Cg fill=\'%23c9a84c\' fill-opacity=\'1\'%3E%3Cpath d=\'M30 0L0 30l30 30L60 30z\'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E")' }} />
-        <div className="absolute top-1/4 -left-32 w-96 h-96 bg-gold/5 rounded-full blur-[120px]" />
-        <div className="absolute bottom-1/4 -right-32 w-80 h-80 bg-gold/3 rounded-full blur-[100px]" />
+        <div className="absolute top-1/4 -left-32 w-96 h-96 bg-gold-5 rounded-full blur-[120px]" />
+        <div className="absolute bottom-1/4 -right-32 w-80 h-80 bg-gold-3 rounded-full blur-[100px]" />
 
         {/* Floating particles */}
         {particles.map(p => (
           <motion.div
             key={p.id}
-            className="absolute w-1 h-1 bg-gold/20 rounded-full"
+            className="absolute w-1 h-1 bg-gold-20 rounded-full"
             style={{ left: `${p.x}%`, top: `${p.y}%`, width: p.size, height: p.size }}
             animate={{ y: [0, -30, 0], opacity: [0.2, 0.5, 0.2] }}
             transition={{ duration: p.duration, repeat: Infinity, delay: p.delay, ease: 'easeInOut' }}
@@ -399,7 +399,7 @@ const heroRef = useRef<HTMLDivElement>(null)
                 <div className="flex items-center gap-3 text-gold/80 text-sm font-medium mb-8 tracking-wide">
                   <Scale size={16} />
                   <span className="uppercase tracking-[0.15em]">Will & Pereira Advocacia</span>
-                  <span className="w-8 h-px bg-gold/40" />
+                  <span className="w-8 h-px bg-gold-40" />
                   <span className="text-gold/60 text-xs">Especialidade</span>
                 </div>
               </motion.div>
@@ -475,7 +475,7 @@ const heroRef = useRef<HTMLDivElement>(null)
         <div className="container-premium">
           <div className="grid lg:grid-cols-2 gap-16 items-center">
             <ScrollReveal>
-              <span className="inline-block px-4 py-1.5 bg-gold/10 text-gold-dark text-xs font-semibold uppercase tracking-[0.15em] rounded-full mb-5">
+              <span className="inline-block px-4 py-1.5 bg-gold-10 text-gold-dark text-xs font-semibold uppercase tracking-[0.15em] rounded-full mb-5">
                 O que é
               </span>
               <h2 className="text-3xl md:text-4xl lg:text-5xl text-navy leading-tight mb-6">
@@ -790,7 +790,7 @@ const heroRef = useRef<HTMLDivElement>(null)
                   transition={{ delay: i * 0.1 }}
                   className="text-center"
                 >
-                  <div className="w-12 h-12 rounded-xl bg-gold/10 flex items-center justify-center mx-auto mb-4">
+                  <div className="w-12 h-12 rounded-xl bg-gold-10 flex items-center justify-center mx-auto mb-4">
                     <StatIcon className="w-6 h-6 text-gold" />
                   </div>
                   <div className="text-3xl md:text-4xl font-display text-gradient-gold">
@@ -814,7 +814,7 @@ const heroRef = useRef<HTMLDivElement>(null)
         
         <div className="relative z-10 container-premium text-center">
           <ScrollReveal>
-            <span className="inline-block px-4 py-1.5 bg-gold/15 text-gold text-xs font-semibold uppercase tracking-[0.15em] rounded-full mb-5">
+            <span className="inline-block px-4 py-1.5 bg-gold-15 text-gold text-xs font-semibold uppercase tracking-[0.15em] rounded-full mb-5">
               Estamos Prontos para Ajudar
             </span>
             <h2 className="text-3xl md:text-5xl text-white leading-tight mb-6">

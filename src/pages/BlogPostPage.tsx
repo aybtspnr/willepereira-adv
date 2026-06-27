@@ -79,7 +79,7 @@ export default function BlogPostPage() {
                 <ArrowLeft size={14} /> Voltar ao Blog
               </Link>
               <div className="flex items-center gap-3 mb-4">
-                <span className="px-3 py-1 bg-gold/15 text-gold text-xs font-semibold rounded-full">
+                <span className="px-3 py-1 bg-gold-15 text-gold text-xs font-semibold rounded-full">
                   {post.category}
                 </span>
                 <span className="flex items-center gap-1 text-gray-400 text-xs">

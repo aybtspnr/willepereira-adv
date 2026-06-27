@@ -25,7 +25,7 @@ function SectionHeading({ label, title, subtitle, light = false }: { label: stri
   return (
     <div className={`text-center mb-16 md:mb-20 ${light ? 'text-white' : ''}`}>
       <span className={`inline-block px-4 py-1.5 text-xs font-semibold uppercase tracking-[0.15em] rounded-full mb-5 ${
-        light ? 'bg-gold/15 text-gold' : 'bg-gold/10 text-gold-dark'
+        light ? 'bg-gold-15 text-gold' : 'bg-gold-10 text-gold-dark'
       }`}>
         {label}
       </span>
@@ -61,7 +61,7 @@ const topicosCivel = [
   {
     icon: FileSignature,
     title: 'Contratos',
-    gradient: 'from-blue-600 to-indigo-600',
+    gradient: 'linear-gradient(135deg, #2563eb, #4f46e5)',
     bgLight: 'bg-blue-50',
     borderColor: 'border-blue-200',
     content: [
@@ -73,7 +73,7 @@ const topicosCivel = [
   {
     icon: ClipboardList,
     title: 'Cobranças e Execuções',
-    gradient: 'from-amber-600 to-orange-600',
+    gradient: 'linear-gradient(135deg, #d97706, #ea580c)',
     bgLight: 'bg-amber-50',
     borderColor: 'border-amber-200',
     content: [
@@ -85,7 +85,7 @@ const topicosCivel = [
   {
     icon: Scale,
     title: 'Responsabilidade Civil',
-    gradient: 'from-rose-600 to-pink-600',
+    gradient: 'linear-gradient(135deg, #e11d48, #db2777)',
     bgLight: 'bg-rose-50',
     borderColor: 'border-rose-200',
     content: [
@@ -109,7 +109,7 @@ const topicosCivel = [
   {
     icon: BookOpen,
     title: 'Obrigações',
-    gradient: 'from-violet-600 to-purple-600',
+    gradient: 'linear-gradient(135deg, #7c3aed, #9333ea)',
     bgLight: 'bg-violet-50',
     borderColor: 'border-violet-200',
     content: [
@@ -121,7 +121,7 @@ const topicosCivel = [
   {
     icon: Key,
     title: 'Locação e Direito Imobiliário',
-    gradient: 'from-teal-600 to-cyan-600',
+    gradient: 'linear-gradient(135deg, #0d9488, #0891b2)',
     bgLight: 'bg-teal-50',
     borderColor: 'border-teal-200',
     content: [
@@ -409,7 +409,7 @@ function TopicBlock({ area, idx }: { area: typeof topicosCivel[0]; idx: number }
         {/* Main content */}
         <div className="lg:col-span-3">
           <div className="flex items-center gap-4 mb-4">
-            <div className={`w-12 h-12 rounded-xl bg-gradient-to-br ${area.gradient} flex items-center justify-center shrink-0`}>
+            <div className="w-12 h-12 rounded-xl flex items-center justify-center shrink-0" style={{ background: area.gradient }}>
               <Icon className="w-6 h-6 text-white" />
             </div>
             <h3 className="font-serif text-2xl md:text-3xl text-navy">{area.title}</h3>

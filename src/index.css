@@ -255,8 +255,9 @@ input, textarea, select { font: inherit; color: inherit; }
 .scroll-text-sm { font-size: 10px; letter-spacing: 0.15em; text-transform: uppercase; color: rgba(255,255,255,0.3); }
 
 /* ═══ SECTIONS ═══ */
-.section { padding: 100px 0; }
-@media (min-width: 768px) { .section { padding: 140px 0; } }
+.section { padding: 60px 0; }
+@media (min-width: 768px) { .section { padding: 100px 0; } }
+@media (min-width: 1024px) { .section { padding: 140px 0; } }
 .section-dark { background: var(--navy-dark); color: var(--white); }
 .section-cream { background: var(--cream); }
 .section-navy { background: var(--navy); color: var(--white); }
@@ -363,10 +364,15 @@ input, textarea, select { font: inherit; color: inherit; }
 .bg-cream { background-color: var(--cream); }
 .bg-white { background-color: var(--white); }
 .bg-gold { background-color: var(--gold); }
-.bg-gold\-10 { background-color: rgba(201, 168, 76, 0.1); }
-.bg-gold\-15 { background-color: rgba(201, 168, 76, 0.15); }
-.bg-gold\-5 { background-color: rgba(201, 168, 76, 0.05); }
-.bg-navy\-5 { background-color: rgba(26, 38, 52, 0.05); }
+.bg-gold-3 { background-color: rgba(201, 168, 76, 0.03); }
+.bg-gold-5 { background-color: rgba(201, 168, 76, 0.05); }
+.bg-gold-10 { background-color: rgba(201, 168, 76, 0.1); }
+.bg-gold-15 { background-color: rgba(201, 168, 76, 0.15); }
+.bg-gold-20 { background-color: rgba(201, 168, 76, 0.2); }
+.bg-gold-40 { background-color: rgba(201, 168, 76, 0.4); }
+.bg-gold-50 { background-color: rgba(201, 168, 76, 0.5); }
+.bg-gold-80 { background-color: rgba(201, 168, 76, 0.8); }
+.bg-navy-5 { background-color: rgba(26, 38, 52, 0.05); }
 .bg-transparent { background-color: transparent; }
 
 /* Text colors */
@@ -619,12 +625,24 @@ input, textarea, select { font: inherit; color: inherit; }
 /* Grid columns */
 .grid-cols-2 { grid-template-columns: repeat(2, 1fr); }
 .grid-cols-3 { grid-template-columns: repeat(3, 1fr); }
+.grid-cols-1 { grid-template-columns: repeat(1, 1fr); }
+
+/* Padding & margin extras */
+.py-2\.5 { padding-top: 0.625rem; padding-bottom: 0.625rem; }
+.px-5 { padding-left: 1.25rem; padding-right: 1.25rem; }
+.mt-16 { margin-top: 4rem; }
+.mt-20 { margin-top: 5rem; }
+.mb-1 { margin-bottom: 0.25rem; }
+.mb-3 { margin-bottom: 0.75rem; }
+.mb-5 { margin-bottom: 1.25rem; }
 
 /* SM responsive */
 @media (min-width: 640px) {
   .sm\\:grid-cols-2 { grid-template-columns: repeat(2, 1fr); }
   .sm\\:flex-row { flex-direction: row; }
   .sm\\:w-64 { width: 16rem; }
+  .sm\\:px-6 { padding-left: 1.5rem; padding-right: 1.5rem; }
+  .sm\\:px-0 { padding-left: 0; padding-right: 0; }
 }
 
 /* MD responsive */
@@ -636,6 +654,8 @@ input, textarea, select { font: inherit; color: inherit; }
   .md\\:order-1 { order: 1; }
   .md\\:order-2 { order: 2; }
   .md\\:col-span-2 { grid-column: span 2; }
+  .md\\:px-8 { padding-left: 2rem; padding-right: 2rem; }
+  .md\\:py-4 { padding-top: 1rem; padding-bottom: 1rem; }
 }
 
 /* LG responsive */
@@ -645,6 +665,7 @@ input, textarea, select { font: inherit; color: inherit; }
   .lg\\:col-span-5 { grid-column: span 5; }
   .lg\\:order-first { order: -1; }
   .lg\\:order-last { order: 999; }
+  .lg\\:px-8 { padding-left: 2rem; padding-right: 2rem; }
 }
 
 /* Aspect ratio */

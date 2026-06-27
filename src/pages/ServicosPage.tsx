@@ -26,8 +26,8 @@ function ServiceArea({ area, idx }: AreaProps) {
       transition={{ duration: 0.6 }}
       className={`grid md:grid-cols-2 gap-10 items-center ${idx % 2 === 1 ? '' : ''}`}
     >
-      <div className={`rounded-2xl p-8 border ${area.cor} ${idx % 2 === 1 ? 'md:order-2' : ''}`}>
-        <div className={`w-16 h-16 rounded-xl ${area.iconBg} flex items-center justify-center mb-5`}>
+      <div className={`rounded-2xl p-8 ${idx % 2 === 1 ? 'md:order-2' : ''}`} style={{ background: area.cor, border: '1px solid ' + (area.cor + '80') }}>
+        <div className={`w-16 h-16 rounded-xl flex items-center justify-center mb-5`} style={{ background: area.iconBg }}>
           <area.icon className="w-8 h-8 text-navy" />
         </div>
         <h2 className="font-serif text-2xl md:text-3xl text-navy mb-4">{area.title}</h2>
@@ -65,7 +65,7 @@ const areas = [
       'Salário-Maternidade e Auxílio-Acidente',
       'Planejamento Previdenciário',
     ],
-    cor: 'from-rose-100 to-rose-50', iconBg: 'bg-rose-500/10',
+    cor: '#fce4ec', iconBg: 'rgba(244, 67, 54, 0.1)',
   },
   {
     icon: 'Briefcase', title: 'Direito Trabalhista',
@@ -80,7 +80,7 @@ const areas = [
       'Trabalho Temporário e Terceirização',
       'Acordo Extrajudicial e Homologação',
     ],
-    cor: 'from-blue-100 to-blue-50', iconBg: 'bg-blue-500/10',
+    cor: '#e3f2fd', iconBg: 'rgba(33, 150, 243, 0.1)',
   },
   {
     icon: 'Building2', title: 'Direito Cível',
@@ -95,7 +95,7 @@ const areas = [
       'Locação e Direito Imobiliário',
       'Sucessões e Inventário',
     ],
-    cor: 'from-emerald-100 to-emerald-50', iconBg: 'bg-emerald-500/10',
+    cor: '#e8f5e9', iconBg: 'rgba(76, 175, 80, 0.1)',
   },
   {
     icon: 'Shield', title: 'Direito do Consumidor',
@@ -110,7 +110,7 @@ const areas = [
       'Ações Coletivas de Consumo',
       'Superendividamento',
     ],
-    cor: 'from-amber-100 to-amber-50', iconBg: 'bg-amber-500/10',
+    cor: '#fff8e1', iconBg: 'rgba(255, 193, 7, 0.1)',
   },
   {
     icon: 'Users', title: 'Direito de Família',
@@ -125,7 +125,7 @@ const areas = [
       'Tutela e Curatela',
       'Planejamento Sucessório',
     ],
-    cor: 'from-violet-100 to-violet-50', iconBg: 'bg-violet-500/10',
+    cor: '#f3e5f5', iconBg: 'rgba(156, 39, 176, 0.1)',
   },
   {
     icon: 'Landmark', title: 'Direito Imobiliário',
@@ -140,7 +140,7 @@ const areas = [
       'ITBI e Registro de Imóveis',
       'Direito de Laje e Superfície',
     ],
-    cor: 'from-teal-100 to-teal-50', iconBg: 'bg-teal-500/10',
+    cor: '#e0f2f1', iconBg: 'rgba(0, 150, 136, 0.1)',
   },
 ]
 
@@ -165,7 +165,7 @@ export default function ServicosPage() {
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <motion.span
             initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}
-            className="inline-block px-4 py-1.5 bg-gold/15 text-gold text-xs font-semibold uppercase tracking-widest rounded-full mb-4"
+            className="inline-block px-4 py-1.5 bg-gold-15 text-gold text-xs font-semibold uppercase tracking-widest rounded-full mb-4"
           >
             Nossas Especialidades
           </motion.span>

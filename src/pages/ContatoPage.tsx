@@ -39,7 +39,7 @@ export default function ContatoPage() {
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <motion.span
             initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}
-            className="inline-block px-4 py-1.5 bg-gold/15 text-gold text-xs font-semibold uppercase tracking-widest rounded-full mb-4"
+            className="inline-block px-4 py-1.5 bg-gold-15 text-gold text-xs font-semibold uppercase tracking-widest rounded-full mb-4"
           >
             Entre em Contato
           </motion.span>
@@ -75,9 +75,9 @@ export default function ContatoPage() {
                   initial={{ opacity: 0, y: 20 }}
                   animate={isInView ? { opacity: 1, y: 0 } : {}}
                   transition={{ delay: 0.2 + i * 0.1 }}
-                  className="flex items-start gap-4 p-5 rounded-xl bg-cream hover:bg-gold/5 transition-colors"
+                  className="flex items-start gap-4 p-5 rounded-xl bg-cream hover:bg-gold-5 transition-colors"
                 >
-                  <div className="w-12 h-12 rounded-xl bg-gold/10 flex items-center justify-center shrink-0">
+                  <div className="w-12 h-12 rounded-xl bg-gold-10 flex items-center justify-center shrink-0">
                     <item.icon className="w-5 h-5 text-gold" />
                   </div>
                   <div>

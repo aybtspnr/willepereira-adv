@@ -39,7 +39,7 @@ function SectionHeading({ label, title, subtitle, light = false }: { label: stri
   return (
     <div className={`text-center mb-16 md:mb-20 ${light ? 'text-white' : ''}`}>
       <span className={`inline-block px-4 py-1.5 text-xs font-semibold uppercase tracking-[0.15em] rounded-full mb-5 ${
-        light ? 'bg-gold/15 text-gold' : 'bg-gold/10 text-gold-dark'
+        light ? 'bg-gold-15 text-gold' : 'bg-gold-10 text-gold-dark'
       }`}>
         {label}
       </span>
@@ -97,7 +97,7 @@ const beneficios: BenefitItem[] = [
       'Possibilidade de descarte de contribuições que reduzam o valor',
       'Direito ao benefício integral com maior tempo de contribuição'
     ],
-    gradient: 'from-blue-600 to-indigo-600',
+    gradient: 'linear-gradient(135deg, #2563eb, #4f46e5)',
     iconBg: 'bg-blue-500/10',
     borderColor: 'border-blue-200'
   },
@@ -125,7 +125,7 @@ const beneficios: BenefitItem[] = [
       'Planejamento estratégico para escolha da regra mais vantajosa',
       'Possibilidade de aposentadoria antecipada em até 5 anos com pedágio'
     ],
-    gradient: 'from-emerald-600 to-teal-600',
+    gradient: 'linear-gradient(135deg, #059669, #0d9488)',
     iconBg: 'bg-emerald-500/10',
     borderColor: 'border-emerald-200'
   },
@@ -153,7 +153,7 @@ const beneficios: BenefitItem[] = [
       'Possibilidade de direito adquirido antes da reforma (benefício integral)',
       'Reconhecimento judicial de exposição não documentada no PPP'
     ],
-    gradient: 'from-amber-600 to-orange-600',
+    gradient: 'linear-gradient(135deg, #d97706, #ea580c)',
     iconBg: 'bg-amber-500/10',
     borderColor: 'border-amber-200'
   },
@@ -181,7 +181,7 @@ const beneficios: BenefitItem[] = [
       'Não exige idade mínima na aposentadoria por tempo de contribuição',
       'Avaliação biopsicossocial considera múltiplos fatores'
     ],
-    gradient: 'from-violet-600 to-purple-600',
+    gradient: 'linear-gradient(135deg, #7c3aed, #9333ea)',
     iconBg: 'bg-violet-500/10',
     borderColor: 'border-violet-200'
   },
@@ -209,7 +209,7 @@ const beneficios: BenefitItem[] = [
       'Possibilidade de prorrogação se a incapacidade persistir',
       'Conversão em aposentadoria por invalidez se a incapacidade se tornar permanente'
     ],
-    gradient: 'from-rose-600 to-pink-600',
+    gradient: 'linear-gradient(135deg, #e11d48, #db2777)',
     iconBg: 'bg-rose-500/10',
     borderColor: 'border-rose-200'
   },
@@ -321,7 +321,7 @@ const beneficios: BenefitItem[] = [
       'Avaliação biopsicossocial da deficiência',
       'Benefício revisado a cada 2 anos'
     ],
-    gradient: 'from-teal-600 to-emerald-600',
+    gradient: 'linear-gradient(135deg, #0d9488, #059669)',
     iconBg: 'bg-teal-500/10',
     borderColor: 'border-teal-200'
   },
@@ -377,7 +377,7 @@ const beneficios: BenefitItem[] = [
       'Valor: 50% do salário de benefício',
       'Cessa apenas com a aposentadoria'
     ],
-    gradient: 'from-amber-600 to-yellow-600',
+    gradient: 'linear-gradient(135deg, #d97706, #ca8a04)',
     iconBg: 'bg-amber-500/10',
     borderColor: 'border-amber-200'
   },
@@ -405,7 +405,7 @@ const beneficios: BenefitItem[] = [
       'Revisão da "vida toda" permite incluir contribuições anteriores a 1994',
       'Prazo de 10 anos para requerer'
     ],
-    gradient: 'from-blue-600 to-cyan-600',
+    gradient: 'linear-gradient(135deg, #2563eb, #0891b2)',
     iconBg: 'bg-blue-500/10',
     borderColor: 'border-blue-200'
   },
@@ -530,14 +530,14 @@ const heroRef = useRef<HTMLDivElement>(null)
         {/* Gradient overlays */}
         <div className="absolute inset-0 bg-gradient-to-br from-navy-dark via-navy to-navy-dark" />
         <div className="absolute inset-0 opacity-[0.04]" style={{ backgroundImage: 'url("data:image/svg+xml,%3Csvg width=\'80\' height=\'80\' viewBox=\'0 0 80 80\' xmlns=\'http://www.w3.org/2000/svg\'%3E%3Cg fill=\'none\' fill-rule=\'evenodd\'%3E%3Cg fill=\'%23c9a84c\' fill-opacity=\'1\'%3E%3Cpath d=\'M40 0L0 40l40 40L80 40z\'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E")' }} />
-        <div className="absolute top-1/4 -left-32 w-96 h-96 bg-gold/5 rounded-full blur-[120px]" />
-        <div className="absolute bottom-1/4 -right-32 w-80 h-80 bg-gold/3 rounded-full blur-[100px]" />
+        <div className="absolute top-1/4 -left-32 w-96 h-96 bg-gold-5 rounded-full blur-[120px]" />
+        <div className="absolute bottom-1/4 -right-32 w-80 h-80 bg-gold-3 rounded-full blur-[100px]" />
 
         {/* Floating particles */}
         {particles.map(p => (
           <motion.div
             key={p.id}
-            className="absolute w-1 h-1 bg-gold/20 rounded-full"
+            className="absolute w-1 h-1 bg-gold-20 rounded-full"
             style={{ left: `${p.x}%`, top: `${p.y}%`, width: p.size, height: p.size }}
             animate={{ y: [0, -30, 0], opacity: [0.2, 0.5, 0.2] }}
             transition={{ duration: p.duration, repeat: Infinity, delay: p.delay, ease: 'easeInOut' }}
@@ -551,7 +551,7 @@ const heroRef = useRef<HTMLDivElement>(null)
                 <div className="flex items-center gap-3 text-gold/80 text-sm font-medium mb-8 tracking-wide">
                   <Scale size={16} />
                   <span className="uppercase tracking-[0.15em]">Will & Pereira Advocacia</span>
-                  <span className="w-8 h-px bg-gold/40" />
+                  <span className="w-8 h-px bg-gold-40" />
                   <span className="text-gold/60 text-xs">Especialidade Principal</span>
                 </div>
               </motion.div>
@@ -627,7 +627,7 @@ const heroRef = useRef<HTMLDivElement>(null)
         <div className="container-premium">
           <div className="grid lg:grid-cols-2 gap-16 items-center">
             <ScrollReveal>
-              <span className="inline-block px-4 py-1.5 bg-gold/10 text-gold-dark text-xs font-semibold uppercase tracking-[0.15em] rounded-full mb-5">
+              <span className="inline-block px-4 py-1.5 bg-gold-10 text-gold-dark text-xs font-semibold uppercase tracking-[0.15em] rounded-full mb-5">
                 O que é
               </span>
               <h2 className="text-3xl md:text-4xl lg:text-5xl text-navy leading-tight mb-6">
@@ -954,7 +954,7 @@ const heroRef = useRef<HTMLDivElement>(null)
                   transition={{ delay: i * 0.1 }}
                   className="text-center"
                 >
-                  <div className="w-12 h-12 rounded-xl bg-gold/10 flex items-center justify-center mx-auto mb-4">
+                  <div className="w-12 h-12 rounded-xl bg-gold-10 flex items-center justify-center mx-auto mb-4">
                     <StatIcon className="w-6 h-6 text-gold" />
                   </div>
                   <div className="text-3xl md:text-4xl font-display text-gradient-gold">
@@ -978,7 +978,7 @@ const heroRef = useRef<HTMLDivElement>(null)
         
         <div className="relative z-10 container-premium text-center">
           <ScrollReveal>
-            <span className="inline-block px-4 py-1.5 bg-gold/15 text-gold text-xs font-semibold uppercase tracking-[0.15em] rounded-full mb-5">
+            <span className="inline-block px-4 py-1.5 bg-gold-15 text-gold text-xs font-semibold uppercase tracking-[0.15em] rounded-full mb-5">
               Estamos Prontos para Ajudar
             </span>
             <h2 className="text-3xl md:text-5xl text-white leading-tight mb-6">
