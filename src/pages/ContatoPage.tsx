@@ -1,6 +1,6 @@
 import { useState, useRef } from 'react'
 import { motion, useInView } from 'framer-motion'
-import { Phone, Mail, MapPin, Clock, Send, CheckCircle, Loader2 } from 'lucide-react'
+import { Phone, Mail, MapPin, Clock, CheckCircle } from 'lucide-react'
 
 const contatoInfo = [
   { icon: Phone, label: 'Telefone', value: '(48) 99999-9999', href: 'tel:+5548999999999' },

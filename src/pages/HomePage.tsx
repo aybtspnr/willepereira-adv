@@ -1,9 +1,11 @@
 import { useState, useEffect, useRef } from 'react'
 import { Link } from 'react-router-dom'
-import { motion, useScroll, useTransform, useInView, AnimatePresence } from 'framer-motion'
+import {
+  motion, useScroll, useTransform, useInView,
+} from 'framer-motion'
 import {
   Scale, Shield, Heart, Users, Building2, FileText,
-  ChevronRight, Quote, ArrowRight, CheckCircle, Phone,
+  ChevronRight, ArrowRight, CheckCircle, Phone,
   BookOpen, Gavel, Briefcase, Landmark
 } from 'lucide-react'
 
