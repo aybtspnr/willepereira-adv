@@ -266,9 +266,22 @@ input, textarea, select { font: inherit; color: inherit; }
 .top-bar { background: var(--navy-dark); color: var(--gray-400); font-size: 12px; padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); }
 .top-bar a { transition: color 0.3s; }
 .top-bar a:hover { color: var(--gold); }
+/* Esconde o endereço no mobile */
+#topbar .container > div:last-child { display: none; }
+@media (min-width: 640px) { #topbar .container > div:last-child { display: flex; } }
+/* No mobile muito pequeno, mostra só telefone, esconde email */
+#topbar .container > div:first-child a:last-child { display: none; }
+@media (min-width: 480px) { #topbar .container > div:first-child a:last-child { display: flex; } }
+/* No mobile, reduz gap dos contatos */
+#topbar .container > div:first-child { gap: 8px; align-items: center; }
+@media (min-width: 640px) { #topbar .container > div:first-child { gap: 24px; } }
 
-.nav-wrap { background: var(--navy-dark); }
-.nav-wrap.scrolled { background: rgba(15,23,41,0.92); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px); position: fixed; top: 0; left: 0; right: 0; z-index: 100; box-shadow: 0 4px 20px rgba(0,0,0,0.15); }
+/* Esconde a nav desktop no mobile — usa o ID que já existe */
+#desktop-nav { display: none; }
+@media (min-width: 768px) { #desktop-nav { display: flex; } }
+
+.nav-wrap { background: var(--navy-dark); position: sticky; top: 0; z-index: 100; }
+.nav-wrap.scrolled { background: rgba(15,23,41,0.92); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px); box-shadow: 0 4px 20px rgba(0,0,0,0.15); }
 .nav-link { color: rgba(255,255,255,0.7); font-size: 14px; font-weight: 500; padding: 8px 16px; transition: color 0.3s; }
 .nav-link:hover, .nav-link.active { color: var(--gold); }
 .nav-dropdown { position: absolute; top: 100%; left: 0; margin-top: 8px; width: 260px; background: var(--navy-dark); border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; overflow: hidden; box-shadow: 0 20px 50px rgba(0,0,0,0.3); }
