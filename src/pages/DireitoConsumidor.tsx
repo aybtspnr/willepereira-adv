@@ -214,19 +214,16 @@ const faqItems = [
 ]
 
 /* ===== PAGE COMPONENT ===== */
-import { Helmet } from 'react-helmet-async'
+import SEO from '../components/SEO'
 
 export default function DireitoConsumidor() {
 return (
     <div>
-      <Helmet>
-        <title>Direito do Consumidor | Will & Pereira Advocacia</title>
-        <meta name="description" content="Proteção dos direitos do consumidor: CDC, produtos defeituosos, cobrança indevida e planos de saúde." />
-        <link rel="canonical" href="https://willepereira-adv.vercel.app/consumidor" />
-        <meta property="og:title" content="Direito do Consumidor | Will & Pereira Advocacia" />
-        <meta property="og:description" content="Proteção dos direitos do consumidor: CDC, produtos defeituosos, cobrança indevida e planos de saúde." />
-        <meta property="og:url" content="https://willepereira-adv.vercel.app/consumidor" />
-      </Helmet>
+      <SEO
+        title="Direito do Consumidor | Will & Pereira Advocacia"
+        description="Proteção dos direitos do consumidor: CDC, produtos defeituosos, cobrança indevida e planos de saúde."
+        canonical="https://willepereira-adv.vercel.app/consumidor"
+      />
       {/* ═══════════════ HERO ═══════════════ */}
       <section className="relative pt-32 pb-24 md:pb-32 bg-navy overflow-hidden">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,_#1a2634_0%,_#0f1729_100%)]" />

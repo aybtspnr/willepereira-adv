@@ -95,8 +95,6 @@ input, textarea, select { font: inherit; color: inherit; }
 .text-navy { color: var(--navy); }
 .text-gold { color: var(--gold); }
 .text-gray-400 { color: var(--gray-400); } .text-gray-500 { color: var(--gray-500); } .text-gray-600 { color: var(--gray-600); }
-.text-sm { font-size: 0.875rem; } .text-xs { font-size: 0.75rem; } .text-lg { font-size: 1.125rem; } .text-xl { font-size: 1.25rem; }
-.font-light { font-weight: 300; } .font-medium { font-weight: 500; } .font-semibold { font-weight: 600; } .font-bold { font-weight: 700; }
 .uppercase { text-transform: uppercase; } .tracking-wide { letter-spacing: 0.05em; } .tracking-wider { letter-spacing: 0.1em; }
 .rounded-lg { border-radius: 12px; } .rounded-xl { border-radius: 16px; } .rounded-full { border-radius: 9999px; }
 .border-b { border-bottom: 1px solid; }

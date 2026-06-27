@@ -319,7 +319,7 @@ const faqData: FAQItem[] = [
 ]
 
 /* ===== PAGE ===== */
-import { Helmet } from 'react-helmet-async'
+import SEO from '../components/SEO'
 
 export default function DireitoImobiliario() {
 const heroRef = useRef<HTMLDivElement>(null)
@@ -365,14 +365,11 @@ const heroRef = useRef<HTMLDivElement>(null)
 
   return (
     <div>
-      <Helmet>
-        <title>Direito Imobiliário | Will & Pereira Advocacia</title>
-        <meta name="description" content="Assessoria em Direito Imobiliário: compra e venda, locação, financiamento e regularização de imóveis." />
-        <link rel="canonical" href="https://willepereira-adv.vercel.app/imobiliario" />
-        <meta property="og:title" content="Direito Imobiliário | Will & Pereira Advocacia" />
-        <meta property="og:description" content="Assessoria em Direito Imobiliário: compra e venda, locação, financiamento e regularização de imóveis." />
-        <meta property="og:url" content="https://willepereira-adv.vercel.app/imobiliario" />
-      </Helmet>
+      <SEO
+        title="Direito Imobiliário | Will & Pereira Advocacia"
+        description="Assessoria em Direito Imobiliário: compra e venda, locação, financiamento e regularização de imóveis."
+        canonical="https://willepereira-adv.vercel.app/imobiliario"
+      />
       {/* ═══════════════ HERO ═══════════════ */}
       <section ref={heroRef} className="relative h-screen min-h-[650px] max-h-[1000px] flex items-center overflow-hidden bg-navy-dark">
         {/* Gradient overlays */}

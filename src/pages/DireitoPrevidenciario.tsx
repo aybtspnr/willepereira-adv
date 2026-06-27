@@ -473,7 +473,7 @@ const faqData: FAQItem[] = [
 ]
 
 /* ===== PAGE ===== */
-import { Helmet } from 'react-helmet-async'
+import SEO from '../components/SEO'
 
 export default function DireitoPrevidenciarioPage() {
 const heroRef = useRef<HTMLDivElement>(null)
@@ -517,14 +517,11 @@ const heroRef = useRef<HTMLDivElement>(null)
 
   return (
     <div>
-      <Helmet>
-        <title>Direito Previdenciário | Will & Pereira Advocacia</title>
-        <meta name="description" content="Especialistas em Direito Previdenciário: aposentadorias, pensões, auxílios e benefícios do INSS." />
-        <link rel="canonical" href="https://willepereira-adv.vercel.app/previdenciario" />
-        <meta property="og:title" content="Direito Previdenciário | Will & Pereira Advocacia" />
-        <meta property="og:description" content="Especialistas em Direito Previdenciário: aposentadorias, pensões, auxílios e benefícios do INSS." />
-        <meta property="og:url" content="https://willepereira-adv.vercel.app/previdenciario" />
-      </Helmet>
+      <SEO
+        title="Direito Previdenciário | Will & Pereira Advocacia"
+        description="Especialistas em Direito Previdenciário: aposentadorias, pensões, auxílios e benefícios do INSS."
+        canonical="https://willepereira-adv.vercel.app/previdenciario"
+      />
       {/* ═══════════════ HERO ═══════════════ */}
       <section ref={heroRef} className="relative h-screen min-h-[650px] max-h-[1000px] flex items-center overflow-hidden bg-navy-dark">
         {/* Gradient overlays */}

@@ -5,7 +5,7 @@ import {
   ArrowRight, Phone, Heart, Briefcase, Building2, Shield, Users, Landmark,
   Award, Globe, MessageSquare, Clock, Target, CheckCircle, BookOpen, ChevronRight
 } from 'lucide-react'
-import { Helmet } from 'react-helmet-async'
+import SEO from '../components/SEO'
 import { getAllPosts } from '../data/blogPosts'
 
 /* ═══ Reusable scroll reveal ═══ */
@@ -101,14 +101,11 @@ export default function HomePage() {
 
   return (
     <div>
-      <Helmet>
-        <title>Will & Pereira Advocacia | Escritório Jurídico Premium em Palhoça/SC</title>
-        <meta name="description" content="Escritório de advocacia premium com mais de 15 anos de experiência. Especializado em Direito Previdenciário, Trabalhista, Cível, Consumidor, Família e Imobiliário." />
-        <link rel="canonical" href="https://willepereira-adv.vercel.app/" />
-        <meta property="og:title" content="Will & Pereira Advocacia | Escritório Jurídico Premium em Palhoça/SC" />
-        <meta property="og:description" content="Escritório de advocacia premium com mais de 15 anos de experiência. Especializado em Direito Previdenciário, Trabalhista, Cível, Consumidor, Família e Imobiliário." />
-        <meta property="og:url" content="https://willepereira-adv.vercel.app/" />
-      </Helmet>
+      <SEO
+        title="Will & Pereira Advocacia | Escritório Jurídico Premium em Palhoça/SC"
+        description="Escritório de advocacia premium com mais de 15 anos de experiência. Especializado em Direito Previdenciário, Trabalhista, Cível, Consumidor, Família e Imobiliário."
+        canonical="https://willepereira-adv.vercel.app/"
+      />
 
       {/* ═══════ HERO ═══════ */}
       <section ref={heroRef} className="relative h-screen overflow-hidden" style={{ background: 'var(--navy-dark)' }}>

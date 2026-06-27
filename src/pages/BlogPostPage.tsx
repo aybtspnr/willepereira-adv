@@ -1,7 +1,7 @@
 import { useParams, Link } from 'react-router-dom'
 import { motion } from 'framer-motion'
 import { Calendar, User, ArrowLeft, ChevronRight } from 'lucide-react'
-import { Helmet } from 'react-helmet-async'
+import SEO from '../components/SEO'
 import { getPost, getAllPosts } from '../data/blogPosts'
 
 export default function BlogPostPage() {
@@ -12,11 +12,10 @@ export default function BlogPostPage() {
   if (!post) {
     return (
       <div className="pt-32 pb-20 text-center">
-        <Helmet>
-          <title>Artigo não encontrado | Will & Pereira Advocacia</title>
-          <meta name="robots" content="noindex" />
-        </Helmet>
-        <h1 className="font-serif text-3xl text-navy mb-4">Artigo não encontrado</h1>
+        <SEO
+        title="Artigo não encontrado | Will & Pereira Advocacia"
+      />
+      <h1 className="font-serif text-3xl text-navy mb-4">Artigo não encontrado</h1>
         <Link to="/blog" className="text-gold hover:underline">Voltar ao blog</Link>
       </div>
     )
@@ -51,24 +50,14 @@ export default function BlogPostPage() {
 
   return (
     <>
-      <Helmet>
-        <title>{post.title} | Will & Pereira Advocacia</title>
-        <meta name="description" content={post.description} />
-        <link rel="canonical" href={pageUrl} />
-        <meta property="og:title" content={post.title} />
-        <meta property="og:description" content={post.description} />
-        <meta property="og:url" content={pageUrl} />
-        <meta property="og:type" content="article" />
-        <meta property="og:image" content={ogImage} />
-        <meta property="og:site_name" content="Will & Pereira Advocacia" />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content={post.title} />
-        <meta name="twitter:description" content={post.description} />
-        <meta name="twitter:image" content={ogImage} />
-        <script type="application/ld+json">
+      <SEO
+        title={post.title}
+        description={post.description}
+        canonical={`https://willepereira-adv.vercel.app/blog/${post.slug}`}
+      />
+      <script type="application/ld+json">
           {JSON.stringify(jsonLd)}
         </script>
-      </Helmet>
 
       <div>
         {/* HERO */}

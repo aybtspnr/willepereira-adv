@@ -1,7 +1,7 @@
 import { useState, useRef } from 'react'
 import { motion, useInView } from 'framer-motion'
-import { Phone, Mail, MapPin, Clock, CheckCircle } from 'lucide-react'
-import { Helmet } from 'react-helmet-async'
+import { Phone, Mail, MapPin, Clock, CheckCircle, Loader2, AlertCircle } from 'lucide-react'
+import SEO from '../components/SEO'
 
 const contatoInfo = [
   { icon: Phone, label: 'Telefone', value: '(48) 98842-0867', href: 'tel:+5548988420867' },
@@ -10,29 +10,63 @@ const contatoInfo = [
   { icon: Clock, label: 'Horários', value: 'Seg-Sex: 9h às 18h' },
 ]
 
+const FORM_ENDPOINT = 'https://api.web3forms.com/submit'
+const ACCESS_KEY = '' // <-- Preencha com sua chave do web3forms.com (gratuito)
+
 export default function ContatoPage() {
   const [form, setForm] = useState({ nome: '', email: '', telefone: '', assunto: '', mensagem: '' })
-  const [sent, setSent] = useState(false)
+  const [status, setStatus] = useState<'idle' | 'sending' | 'sent' | 'error'>('idle')
+  const [errorMsg, setErrorMsg] = useState('')
   const ref = useRef(null)
   const isInView = useInView(ref, { once: true })
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
-    // Simulate sending
-    await new Promise(r => setTimeout(r, 1500))
-    setSent(true)
+    setStatus('sending')
+    setErrorMsg('')
+
+    try {
+      if (ACCESS_KEY) {
+        // Web3Forms API
+        const res = await fetch(FORM_ENDPOINT, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+          body: JSON.stringify({
+            access_key: ACCESS_KEY,
+            subject: `Contato Site - ${form.assunto}`,
+            from_name: form.nome,
+            email: form.email,
+            phone: form.telefone,
+            message: form.mensagem,
+          }),
+        })
+        const data = await res.json()
+        if (data.success) {
+          setStatus('sent')
+        } else {
+          throw new Error(data.message || 'Erro ao enviar')
+        }
+      } else {
+        // Fallback: simulação (exibe msg de configuração)
+        await new Promise(r => setTimeout(r, 1500))
+        setStatus('error')
+        setErrorMsg('Configure a chave do Web3Forms (gratuito) em ContatoPage.tsx')
+      }
+    } catch (err) {
+      setStatus('error')
+      setErrorMsg(err instanceof Error ? err.message : 'Erro de conexão. Tente novamente.')
+    }
   }
+
+  const inputClass = "w-full px-4 py-3 rounded-xl border border-gray-200 focus:border-gold focus:ring-1 focus:ring-gold/30 outline-none transition-all text-sm"
 
   return (
     <div>
-      <Helmet>
-        <title>Contato | Will & Pereira Advocacia</title>
-        <meta name="description" content="Entre em contato com a Will & Pereira Advocacia. Agende uma orientação jurídica. Palhoça/SC." />
-        <link rel="canonical" href="https://willepereira-adv.vercel.app/contato" />
-        <meta property="og:title" content="Contato | Will & Pereira Advocacia" />
-        <meta property="og:description" content="Entre em contato com a Will & Pereira Advocacia. Agende uma orientação jurídica. Palhoça/SC." />
-        <meta property="og:url" content="https://willepereira-adv.vercel.app/contato" />
-      </Helmet>
+      <SEO
+        title="Contato | Will & Pereira Advocacia"
+        description="Entre em contato com a Will & Pereira Advocacia. Agende uma orientação jurídica. Palhoça/SC."
+        canonical="https://willepereira-adv.vercel.app/contato"
+      />
       {/* HERO */}
       <section className="relative pt-32 pb-20 bg-navy overflow-hidden">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,_#1a2634_0%,_#0f1729_100%)]" />
@@ -101,7 +135,7 @@ export default function ContatoPage() {
               transition={{ duration: 0.5, delay: 0.2 }}
               className="lg:col-span-3"
             >
-              {sent ? (
+              {status === 'sent' ? (
                 <motion.div
                   initial={{ opacity: 0, scale: 0.95 }}
                   animate={{ opacity: 1, scale: 1 }}
@@ -115,41 +149,57 @@ export default function ContatoPage() {
                 </motion.div>
               ) : (
                 <form onSubmit={handleSubmit} className="bg-white rounded-2xl p-8 shadow-lg shadow-navy/5 border border-gray-100 space-y-5">
+                  {/* Error banner */}
+                  {status === 'error' && (
+                    <div className="flex items-start gap-3 p-4 bg-red-50 border border-red-100 rounded-xl text-sm text-red-700">
+                      <AlertCircle size={18} className="shrink-0 mt-0.5" />
+                      <span>{errorMsg}</span>
+                    </div>
+                  )}
+
                   <div className="grid sm:grid-cols-2 gap-5">
                     <div>
-                      <label className="block text-sm font-medium text-navy mb-1.5">Nome completo *</label>
+                      <label htmlFor="nome" className="block text-sm font-medium text-navy mb-1.5">Nome completo *</label>
                       <input
+                        id="nome"
                         required
                         value={form.nome} onChange={e => setForm(p => ({ ...p, nome: e.target.value }))}
-                        className="w-full px-4 py-3 rounded-xl border border-gray-200 focus:border-gold focus:ring-1 focus:ring-gold/30 outline-none transition-all text-sm"
+                        className={inputClass}
                         placeholder="Seu nome"
+                        disabled={status === 'sending'}
                       />
                     </div>
                     <div>
-                      <label className="block text-sm font-medium text-navy mb-1.5">Email *</label>
+                      <label htmlFor="email" className="block text-sm font-medium text-navy mb-1.5">Email *</label>
                       <input
+                        id="email"
                         required type="email"
                         value={form.email} onChange={e => setForm(p => ({ ...p, email: e.target.value }))}
-                        className="w-full px-4 py-3 rounded-xl border border-gray-200 focus:border-gold focus:ring-1 focus:ring-gold/30 outline-none transition-all text-sm"
+                        className={inputClass}
                         placeholder="seu@email.com"
+                        disabled={status === 'sending'}
                       />
                     </div>
                   </div>
                   <div className="grid sm:grid-cols-2 gap-5">
                     <div>
-                      <label className="block text-sm font-medium text-navy mb-1.5">Telefone</label>
+                      <label htmlFor="telefone" className="block text-sm font-medium text-navy mb-1.5">Telefone</label>
                       <input
+                        id="telefone"
                         value={form.telefone} onChange={e => setForm(p => ({ ...p, telefone: e.target.value }))}
-                        className="w-full px-4 py-3 rounded-xl border border-gray-200 focus:border-gold focus:ring-1 focus:ring-gold/30 outline-none transition-all text-sm"
+                        className={inputClass}
                         placeholder="(48) 99999-9999"
+                        disabled={status === 'sending'}
                       />
                     </div>
                     <div>
-                      <label className="block text-sm font-medium text-navy mb-1.5">Assunto *</label>
+                      <label htmlFor="assunto" className="block text-sm font-medium text-navy mb-1.5">Assunto *</label>
                       <select
+                        id="assunto"
                         required
                         value={form.assunto} onChange={e => setForm(p => ({ ...p, assunto: e.target.value }))}
-                        className="w-full px-4 py-3 rounded-xl border border-gray-200 focus:border-gold focus:ring-1 focus:ring-gold/30 outline-none transition-all text-sm bg-white"
+                        className={`${inputClass} bg-white`}
+                        disabled={status === 'sending'}
                       >
                         <option value="">Selecione...</option>
                         <option>Direito Previdenciário</option>
@@ -163,19 +213,30 @@ export default function ContatoPage() {
                     </div>
                   </div>
                   <div>
-                    <label className="block text-sm font-medium text-navy mb-1.5">Mensagem *</label>
+                    <label htmlFor="mensagem" className="block text-sm font-medium text-navy mb-1.5">Mensagem *</label>
                     <textarea
+                      id="mensagem"
                       required rows={5}
                       value={form.mensagem} onChange={e => setForm(p => ({ ...p, mensagem: e.target.value }))}
-                      className="w-full px-4 py-3 rounded-xl border border-gray-200 focus:border-gold focus:ring-1 focus:ring-gold/30 outline-none transition-all text-sm resize-none"
+                      className={`${inputClass} resize-none`}
                       placeholder="Descreva seu caso..."
+                      disabled={status === 'sending'}
                     />
                   </div>
                   <button
                     type="submit"
-                    className="w-full py-3.5 bg-gold text-navy font-semibold rounded-xl hover:bg-gold-light transition-all duration-300 flex items-center justify-center gap-2"
+                    disabled={status === 'sending'}
+                    className={`w-full py-3.5 rounded-xl flex items-center justify-center gap-2 font-semibold transition-all duration-300 ${
+                      status === 'sending'
+                        ? 'bg-gold/60 text-navy/70 cursor-not-allowed'
+                        : 'bg-gold text-navy hover:bg-gold-light'
+                    }`}
                   >
-                    {sent ? <><CheckCircle size={18} /> Enviado!</> : 'Enviar Mensagem'}
+                    {status === 'sending' ? (
+                      <><Loader2 size={18} className="animate-spin" /> Enviando...</>
+                    ) : (
+                      'Enviar Mensagem'
+                    )}
                   </button>
                   <p className="text-xs text-gray-400 text-center">
                     Ao enviar, você concorda com nossa política de privacidade.

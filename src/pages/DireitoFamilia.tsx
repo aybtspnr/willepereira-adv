@@ -222,19 +222,16 @@ const faqItems = [
   },
 ]
 
-import { Helmet } from 'react-helmet-async'
+import SEO from '../components/SEO'
 
 export default function DireitoFamilia() {
 return (
     <div>
-      <Helmet>
-        <title>Direito de Família | Will & Pereira Advocacia</title>
-        <meta name="description" content="Advocacia especializada em Direito de Família: divórcio, guarda, pensão alimentícia e união estável." />
-        <link rel="canonical" href="https://willepereira-adv.vercel.app/familia" />
-        <meta property="og:title" content="Direito de Família | Will & Pereira Advocacia" />
-        <meta property="og:description" content="Advocacia especializada em Direito de Família: divórcio, guarda, pensão alimentícia e união estável." />
-        <meta property="og:url" content="https://willepereira-adv.vercel.app/familia" />
-      </Helmet>
+      <SEO
+        title="Direito de Família | Will & Pereira Advocacia"
+        description="Advocacia especializada em Direito de Família: divórcio, guarda, pensão alimentícia e união estável."
+        canonical="https://willepereira-adv.vercel.app/familia"
+      />
       {/* ═══════════════ HERO ═══════════════ */}
       <section className="relative pt-32 pb-24 md:pb-32 bg-navy overflow-hidden">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,_#1a2634_0%,_#0f1729_100%)]" />

@@ -224,19 +224,16 @@ const faqItems = [
 ]
 
 /* ===== PAGE COMPONENT ===== */
-import { Helmet } from 'react-helmet-async'
+import SEO from '../components/SEO'
 
 export default function DireitoTrabalhistaPage() {
 return (
     <div>
-      <Helmet>
-        <title>Direito Trabalhista | Will & Pereira Advocacia</title>
-        <meta name="description" content="Advocacia Trabalhista especializada em verbas rescisórias, horas extras, FGTS e direitos do trabalhador." />
-        <link rel="canonical" href="https://willepereira-adv.vercel.app/trabalhista" />
-        <meta property="og:title" content="Direito Trabalhista | Will & Pereira Advocacia" />
-        <meta property="og:description" content="Advocacia Trabalhista especializada em verbas rescisórias, horas extras, FGTS e direitos do trabalhador." />
-        <meta property="og:url" content="https://willepereira-adv.vercel.app/trabalhista" />
-      </Helmet>
+      <SEO
+        title="Direito Trabalhista | Will & Pereira Advocacia"
+        description="Advocacia Trabalhista especializada em verbas rescisórias, horas extras, FGTS e direitos do trabalhador."
+        canonical="https://willepereira-adv.vercel.app/trabalhista"
+      />
       {/* ═══════════════ HERO ═══════════════ */}
       <section className="relative pt-32 pb-24 md:pb-32 bg-navy overflow-hidden">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,_#1a2634_0%,_#0f1729_100%)]" />

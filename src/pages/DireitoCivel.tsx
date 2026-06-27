@@ -144,19 +144,16 @@ const topicosCivel = [
   },
 ]
 
-import { Helmet } from 'react-helmet-async'
+import SEO from '../components/SEO'
 
 export default function DireitoCivel() {
 return (
     <div>
-      <Helmet>
-        <title>Direito Cível | Will & Pereira Advocacia</title>
-        <meta name="description" content="Assessoria jurídica em Direito Cível: contratos, indenizações, responsabilidade civil e obrigações." />
-        <link rel="canonical" href="https://willepereira-adv.vercel.app/civel" />
-        <meta property="og:title" content="Direito Cível | Will & Pereira Advocacia" />
-        <meta property="og:description" content="Assessoria jurídica em Direito Cível: contratos, indenizações, responsabilidade civil e obrigações." />
-        <meta property="og:url" content="https://willepereira-adv.vercel.app/civel" />
-      </Helmet>
+      <SEO
+        title="Direito Cível | Will & Pereira Advocacia"
+        description="Assessoria jurídica em Direito Cível: contratos, indenizações, responsabilidade civil e obrigações."
+        canonical="https://willepereira-adv.vercel.app/civel"
+      />
       {/* ═══════ HERO ═══════ */}
       <section className="relative pt-32 pb-20 bg-navy overflow-hidden">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,_#1a2634_0%,_#0f1729_100%)]" />
