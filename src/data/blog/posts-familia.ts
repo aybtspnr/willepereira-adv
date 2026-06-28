@@ -37,7 +37,7 @@ Nossa equipe está preparada para atender você em todas as questões relacionad
 ### Fale Conosco
 
 Agende uma orientação jurídica com nossa equipe. Rua Najla Carone Guedert, 1080 — Palhoça/SC. Atendemos em todo o Brasil.
-📞 (48) 98842-0867
+📞 (48) 98458-4181
 `
   },
   {
@@ -76,7 +76,7 @@ Nossa equipe está preparada para atender você em todas as questões relacionad
 ### Fale Conosco
 
 Agende uma orientação jurídica com nossa equipe. Rua Najla Carone Guedert, 1080 — Palhoça/SC. Atendemos em todo o Brasil.
-📞 (48) 98842-0867
+📞 (48) 98458-4181
 `
   },
   {
@@ -115,7 +115,7 @@ Nossa equipe está preparada para atender você em todas as questões relacionad
 ### Fale Conosco
 
 Agende uma orientação jurídica com nossa equipe. Rua Najla Carone Guedert, 1080 — Palhoça/SC. Atendemos em todo o Brasil.
-📞 (48) 98842-0867
+📞 (48) 98458-4181
 `
   },
 ]

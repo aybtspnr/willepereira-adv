@@ -1,7 +1,7 @@
 import { useParams, Link } from 'react-router-dom'
 import { motion } from 'framer-motion'
 import { Calendar, User, ArrowLeft, ChevronRight } from 'lucide-react'
-import { Helmet } from 'react-helmet-async'
+import SEO from '../components/SEO'
 import { getPost, getAllPosts } from '../data/blogPosts'
 
 export default function BlogPostPage() {
@@ -12,11 +12,10 @@ export default function BlogPostPage() {
   if (!post) {
     return (
       <div className="pt-32 pb-20 text-center">
-        <Helmet>
-          <title>Artigo não encontrado | Will & Pereira Advocacia</title>
-          <meta name="robots" content="noindex" />
-        </Helmet>
-        <h1 className="font-serif text-3xl text-navy mb-4">Artigo não encontrado</h1>
+        <SEO
+        title="Artigo não encontrado | Will & Pereira Advocacia"
+      />
+      <h1 className="font-serif text-3xl text-navy mb-4">Artigo não encontrado</h1>
         <Link to="/blog" className="text-gold hover:underline">Voltar ao blog</Link>
       </div>
     )
@@ -51,35 +50,25 @@ export default function BlogPostPage() {
 
   return (
     <>
-      <Helmet>
-        <title>{post.title} | Will & Pereira Advocacia</title>
-        <meta name="description" content={post.description} />
-        <link rel="canonical" href={pageUrl} />
-        <meta property="og:title" content={post.title} />
-        <meta property="og:description" content={post.description} />
-        <meta property="og:url" content={pageUrl} />
-        <meta property="og:type" content="article" />
-        <meta property="og:image" content={ogImage} />
-        <meta property="og:site_name" content="Will & Pereira Advocacia" />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content={post.title} />
-        <meta name="twitter:description" content={post.description} />
-        <meta name="twitter:image" content={ogImage} />
-        <script type="application/ld+json">
+      <SEO
+        title={post.title}
+        description={post.description}
+        canonical={`https://willepereira-adv.vercel.app/blog/${post.slug}`}
+      />
+      <script type="application/ld+json">
           {JSON.stringify(jsonLd)}
         </script>
-      </Helmet>
 
       <div>
         {/* HERO */}
         <section className="relative pt-32 pb-16 bg-navy overflow-hidden">
-          <div className="relative z-10 max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="relative z-10 container max-w-4xl">
             <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}>
               <Link to="/blog" className="inline-flex items-center gap-1 text-gold text-sm hover:underline mb-6">
                 <ArrowLeft size={14} /> Voltar ao Blog
               </Link>
               <div className="flex items-center gap-3 mb-4">
-                <span className="px-3 py-1 bg-gold/15 text-gold text-xs font-semibold rounded-full">
+                <span className="px-3 py-1 bg-gold-15 text-gold text-xs font-semibold rounded-full">
                   {post.category}
                 </span>
                 <span className="flex items-center gap-1 text-gray-400 text-xs">
@@ -99,7 +88,7 @@ export default function BlogPostPage() {
 
         {/* CONTENT */}
         <section className="py-12">
-          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="container max-w-4xl">
             <motion.article
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
@@ -138,7 +127,7 @@ export default function BlogPostPage() {
         {/* RELATED */}
         {related.length > 0 && (
           <section className="py-12 bg-cream">
-            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="container">
               <h2 className="font-serif text-2xl text-navy mb-8">Artigos Relacionados</h2>
               <div className="grid md:grid-cols-3 gap-6">
                 {related.map(r => (

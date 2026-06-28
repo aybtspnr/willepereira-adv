@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import { Link, useLocation } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
-import { Phone, Mail, MapPin, ChevronDown, Menu, X } from 'lucide-react'
+import { Phone, ChevronDown, Menu, X, Mail, MapPin, ArrowRight } from 'lucide-react'
 
 const areas = [
   { path: '/previdenciario', label: 'Direito Previdenciário' },
@@ -11,6 +11,12 @@ const areas = [
   { path: '/familia', label: 'Direito de Família' },
   { path: '/imobiliario', label: 'Direito Imobiliário' },
 ]
+
+const menuItem = {
+  hidden: { opacity: 0, x: -20 },
+  visible: (i: number) => ({ opacity: 1, x: 0, transition: { delay: 0.05 * i, duration: 0.3, ease: [0.25, 0.1, 0.25, 1] } }),
+  exit: { opacity: 0, x: -10, transition: { duration: 0.15 } },
+}
 
 export default function Navbar() {
   const [scrolled, setScrolled] = useState(false)
@@ -29,49 +35,57 @@ export default function Navbar() {
 
   const isArea = areas.some(a => location.pathname === a.path)
 
+  useEffect(() => {
+    if (mobileOpen) document.body.style.overflow = 'hidden'
+    else document.body.style.overflow = ''
+    return () => { document.body.style.overflow = '' }
+  }, [mobileOpen])
+
   return (
     <>
-      {/* Top bar */}
+      {/* TOP BAR — desktop only */}
       <div className="top-bar" id="topbar">
         <div className="container flex items-center justify-between">
           <div className="flex items-center gap-6">
-            <a href="tel:+5548988420867" className="flex items-center gap-2" style={{ fontSize: '12px', color: 'var(--gray-400)' }}>
-              <Phone size={12} style={{ color: 'var(--gold)' }} /> (48) 98842-0867
+<a href="tel:+5548984584181" className="topbar-link" aria-label="Ligar para (48) 98458-4181">
+              <Phone size={11} className="topbar-icon" />
+              <span>(48) 98458-4181</span>
             </a>
-            <a href="mailto:contato@willepereira.adv.br" className="flex items-center gap-2" style={{ fontSize: '12px', color: 'var(--gray-400)' }}>
-              <Mail size={12} style={{ color: 'var(--gold)' }} /> contato@willepereira.adv.br
+            <a href="mailto:advocacia@willepereira.adv.br" className="topbar-link" aria-label="Enviar email">
+              <Mail size={11} className="topbar-icon" />
+              <span>advocacia@willepereira.adv.br</span>
             </a>
           </div>
-          <div className="flex items-center gap-2" style={{ fontSize: '12px', color: 'var(--gray-500)' }}>
-            <MapPin size={12} style={{ color: 'var(--gold)' }} /> Rua Najla Carone Guedert, 1080 — Palhoça/SC
+          <div className="topbar-address">
+            <MapPin size={11} className="topbar-icon" />
+            <span>Rua Najla Carone Guedert, 1080 — Palhoça/SC</span>
           </div>
         </div>
       </div>
 
-      {/* Main nav */}
-      <nav className={`nav-wrap ${scrolled ? 'scrolled' : ''}`} style={{ position: 'sticky', top: 0, zIndex: 100 }}>
-        <div className="container flex items-center justify-between" style={{ height: '64px' }}>
-          {/* Logo */}
-          <Link to="/" className="flex items-center">
-            <img src="/logo-horizontal.png" alt="Will & Pereira Advocacia" style={{ height: '28px', width: 'auto', filter: 'brightness(0) invert(1)' }} />
+      {/* MAIN NAV */}
+      <nav className={`nav-wrap ${scrolled ? 'scrolled' : ''}`} aria-label="Navegação principal">
+        <div className="nav-inner">
+          <Link to="/" className="nav-logo" aria-label="Ir para página inicial">
+            <img src="/logo-horizontal.png" alt="Will & Pereira Advocacia" className="nav-logo-img" />
           </Link>
 
-          {/* Desktop links */}
-          <div className="md:flex" style={{ alignItems: 'center', gap: '4px' }} id="desktop-nav">
+          {/* Desktop nav */}
+          <div className="nav-desktop">
             <Link to="/" className={`nav-link ${location.pathname === '/' ? 'active' : ''}`}>Início</Link>
-
-            {/* Dropdown */}
             <div
-              style={{ position: 'relative' }}
+              className="nav-dropdown-wrap"
               onMouseEnter={() => setDropdownOpen(true)}
               onMouseLeave={() => setDropdownOpen(false)}
             >
               <Link
                 to="/servicos"
                 className={`nav-link flex items-center gap-1 ${isArea || location.pathname === '/servicos' ? 'active' : ''}`}
+                aria-expanded={dropdownOpen}
+                aria-haspopup="true"
               >
                 Atuação
-                <motion.span animate={{ rotate: dropdownOpen ? 180 : 0 }} style={{ display: 'inline-flex' }}>
+                <motion.span animate={{ rotate: dropdownOpen ? 180 : 0 }} className="inline-flex">
                   <ChevronDown size={12} />
                 </motion.span>
               </Link>
@@ -83,13 +97,11 @@ export default function Navbar() {
                     exit={{ opacity: 0, y: 8 }}
                     transition={{ duration: 0.2 }}
                     className="nav-dropdown"
+                    role="menu"
+                    aria-label="Áreas de atuação"
                   >
                     {areas.map(a => (
-                      <Link
-                        key={a.path}
-                        to={a.path}
-                        className={location.pathname === a.path ? 'active' : ''}
-                      >
+                      <Link key={a.path} to={a.path} className={location.pathname === a.path ? 'active' : ''} role="menuitem">
                         {a.label}
                       </Link>
                     ))}
@@ -97,71 +109,107 @@ export default function Navbar() {
                 )}
               </AnimatePresence>
             </div>
-
             <Link to="/blog" className={`nav-link ${location.pathname === '/blog' ? 'active' : ''}`}>Blog</Link>
             <Link to="/contato" className={`nav-link ${location.pathname === '/contato' ? 'active' : ''}`}>Contato</Link>
-            <Link to="/contato" className="btn btn-gold" style={{ marginLeft: '16px', padding: '10px 24px', fontSize: '13px' }}>
-              Fale Conosco
-            </Link>
+            <Link to="/contato" className="btn btn-gold nav-cta-btn">Fale Conosco</Link>
           </div>
 
           {/* Mobile hamburger */}
           <button
-            className="md:hidden"
+            className="mobile-hamburger"
             onClick={() => setMobileOpen(!mobileOpen)}
-            style={{ color: 'white', display: 'block' }}
-            id="mobile-btn"
+            aria-label={mobileOpen ? 'Fechar menu' : 'Abrir menu'}
+            aria-controls="mobile-menu"
+            aria-expanded={mobileOpen}
           >
-            {mobileOpen ? <X size={22} /> : <Menu size={22} />}
+            <motion.div
+              animate={mobileOpen ? { rotate: 90 } : { rotate: 0 }}
+              transition={{ duration: 0.25 }}
+              className="flex items-center"
+            >
+              {mobileOpen ? <X size={22} /> : <Menu size={22} />}
+            </motion.div>
           </button>
         </div>
 
-        {/* Mobile menu */}
+        {/* MOBILE MENU */}
         <AnimatePresence>
           {mobileOpen && (
             <motion.div
+              id="mobile-menu"
+              className="mobile-menu"
               initial={{ height: 0, opacity: 0 }}
               animate={{ height: 'auto', opacity: 1 }}
               exit={{ height: 0, opacity: 0 }}
-              transition={{ duration: 0.3 }}
-              style={{ overflow: 'hidden', background: 'var(--navy-dark)', borderTop: '1px solid rgba(255,255,255,0.05)' }}
+              transition={{ duration: 0.3, ease: [0.25, 0.1, 0.25, 1] }}
+              role="menu"
+              aria-label="Menu de navegação mobile"
             >
-              <div className="container" style={{ padding: '16px 24px' }}>
-                <Link to="/" className="nav-link" style={{ display: 'block', padding: '12px 0' }}>Início</Link>
-                <button
-                  onClick={() => setMobileAreas(!mobileAreas)}
-                  className="nav-link flex items-center justify-between w-full"
-                  style={{ padding: '12px 0', width: '100%' }}
-                >
-                  Atuação
-                  <ChevronDown size={14} style={{ transform: mobileAreas ? 'rotate(180deg)' : 'none', transition: 'transform 0.3s' }} />
-                </button>
-                <AnimatePresence>
-                  {mobileAreas && (
-                    <motion.div
-                      initial={{ height: 0, opacity: 0 }}
-                      animate={{ height: 'auto', opacity: 1 }}
-                      exit={{ height: 0, opacity: 0 }}
-                      style={{ overflow: 'hidden', paddingLeft: '16px' }}
-                    >
-                      {areas.map(a => (
-                        <Link key={a.path} to={a.path} className="nav-link" style={{ display: 'block', padding: '8px 0', fontSize: '13px' }}>
-                          {a.label}
-                        </Link>
-                      ))}
+              <div className="mobile-menu-accent" />
+              <div className="mobile-menu-inner">
+                {[
+                  { label: 'Início', path: '/' },
+                  { label: 'Atuação', path: '/servicos', hasSubmenu: true },
+                  { label: 'Blog', path: '/blog' },
+                  { label: 'Contato', path: '/contato' },
+                ].map((item, i) =>
+                  item.hasSubmenu ? (
+                    <motion.div key={item.label} custom={i} variants={menuItem} initial="hidden" animate="visible" exit="exit">
+                      <button
+                        onClick={() => setMobileAreas(!mobileAreas)}
+                        className="mobile-menu-link mobile-menu-trigger"
+                        aria-expanded={mobileAreas}
+                        aria-controls="mobile-areas-list"
+                      >
+                        <span>{item.label}</span>
+                        <ChevronDown
+                          size={14}
+                          className="mobile-menu-chevron"
+                          style={{ transform: mobileAreas ? 'rotate(180deg)' : 'none' }}
+                        />
+                      </button>
+                      <AnimatePresence>
+                        {mobileAreas && (
+                          <motion.div
+                            id="mobile-areas-list"
+                            initial={{ height: 0, opacity: 0 }}
+                            animate={{ height: 'auto', opacity: 1 }}
+                            exit={{ height: 0, opacity: 0 }}
+                            className="mobile-submenu"
+                          >
+                            {areas.map(a => (
+                              <Link key={a.path} to={a.path} className="mobile-submenu-link" role="menuitem">
+                                {a.label}
+                              </Link>
+                            ))}
+                          </motion.div>
+                        )}
+                      </AnimatePresence>
                     </motion.div>
-                  )}
-                </AnimatePresence>
-                <Link to="/blog" className="nav-link" style={{ display: 'block', padding: '12px 0' }}>Blog</Link>
-                <Link to="/contato" className="nav-link" style={{ display: 'block', padding: '12px 0' }}>Contato</Link>
-                <div style={{ borderTop: '1px solid rgba(255,255,255,0.05)', marginTop: '12px', paddingTop: '12px' }}>
-                  <a href="tel:+5548988420867" className="flex items-center gap-2" style={{ fontSize: '12px', color: 'var(--gray-400)', padding: '6px 0' }}>
-                    <Phone size={12} style={{ color: 'var(--gold)' }} /> (48) 98842-0867
+                  ) : (
+                    <motion.div key={item.label} custom={i} variants={menuItem} initial="hidden" animate="visible" exit="exit">
+                      <Link to={item.path} className="mobile-menu-link" role="menuitem">
+                        {item.label}
+                      </Link>
+                    </motion.div>
+                  )
+                )}
+                <motion.div custom={4} variants={menuItem} initial="hidden" animate="visible" exit="exit" className="mobile-menu-cta">
+                  <Link to="/contato" className="mobile-cta-btn">
+                    Fale Conosco <ArrowRight size={16} />
+                  </Link>
+                </motion.div>
+                <motion.div custom={5} variants={menuItem} initial="hidden" animate="visible" exit="exit" className="mobile-menu-contact">
+                  <div className="mobile-menu-divider" />
+                  <a href="tel:+5548984584181" className="mobile-contact-link" aria-label="Ligar para (48) 98458-4181">
+                    <Phone size={13} className="mobile-contact-icon" />
+                    (48) 98458-4181
                   </a>
-                  <a href="mailto:contato@willepereira.adv.br" className="flex items-center gap-2" style={{ fontSize: '12px', color: 'var(--gray-400)', padding: '6px 0' }}>
-                    <Mail size={12} style={{ color: 'var(--gold)' }} /> contato@willepereira.adv.br
+                  <a href="mailto:advocacia@willepereira.adv.br" className="mobile-contact-link" aria-label="Enviar email">
+                    <Mail size={13} className="mobile-contact-icon" />
+                    advocacia@willepereira.adv.br
                   </a>
-                </div>
+                </motion.div>
               </div>
             </motion.div>
           )}

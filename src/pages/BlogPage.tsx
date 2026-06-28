@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { motion } from 'framer-motion'
 import { Calendar, User, ChevronRight, Search } from 'lucide-react'
-import { Helmet } from 'react-helmet-async'
+import SEO from '../components/SEO'
 import { getAllPosts } from '../data/blogPosts'
 
 export default function BlogPage() {
@@ -19,22 +19,18 @@ export default function BlogPage() {
 
   return (
     <div>
-      <Helmet>
-        <title>Blog Jurídico | Will & Pereira Advocacia</title>
-        <meta name="description" content="Artigos e informações sobre Direito Previdenciário, Trabalhista, Cível, Consumidor, Família e Imobiliário. Conteúdo jurídico atualizado pela Will & Pereira Advocacia." />
-        <link rel="canonical" href="https://willepereira-adv.vercel.app/blog" />
-        <meta property="og:title" content="Blog Jurídico | Will & Pereira Advocacia" />
-        <meta property="og:description" content="Artigos e informações sobre Direito Previdenciário, Trabalhista, Cível, Consumidor, Família e Imobiliário." />
-        <meta property="og:url" content="https://willepereira-adv.vercel.app/blog" />
-        <meta property="og:type" content="website" />
-      </Helmet>
+      <SEO
+        title="Blog Jurídico | Will & Pereira Advocacia"
+        description="Artigos e informações sobre Direito Previdenciário, Trabalhista, Cível, Consumidor, Família e Imobiliário. Conteúdo jurídico atualizado pela Will & Pereira Advocacia."
+        canonical="https://willepereira-adv.vercel.app/blog"
+      />
       {/* HERO */}
       <section className="relative pt-32 pb-20 bg-navy overflow-hidden">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,_#1a2634_0%,_#0f1729_100%)]" />
-        <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <div className="relative z-10 container text-center">
           <motion.span
             initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}
-            className="inline-block px-4 py-1.5 bg-gold/15 text-gold text-xs font-semibold uppercase tracking-widest rounded-full mb-4"
+            className="inline-block px-4 py-1.5 bg-gold-15 text-gold text-xs font-semibold uppercase tracking-widest rounded-full mb-4"
           >
             Blog Jurídico
           </motion.span>
@@ -54,8 +50,8 @@ export default function BlogPage() {
       </section>
 
       {/* SEARCH + FILTERS */}
-      <section className="py-8 bg-cream sticky top-20 z-30">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <section className="py-8 bg-cream sticky top-24 z-30">
+        <div className="container">
           <div className="flex flex-col sm:flex-row gap-4 items-center justify-between">
             <div className="flex gap-2 flex-wrap">
               {categories.map(cat => (
@@ -65,7 +61,7 @@ export default function BlogPage() {
                   className={`px-4 py-1.5 text-xs font-semibold rounded-full transition-all ${
                     category === cat
                       ? 'bg-gold text-navy'
-                      : 'bg-white text-navy hover:bg-gold/10'
+                      : 'bg-white text-navy hover:bg-gold-10'
                   }`}
                 >
                   {cat}
@@ -87,7 +83,7 @@ export default function BlogPage() {
 
       {/* POSTS */}
       <section className="py-12">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="container">
           {filtered.length === 0 ? (
             <div className="text-center py-20 text-gray-400">
               Nenhum artigo encontrado para sua busca.
@@ -104,7 +100,7 @@ export default function BlogPage() {
                   className="bg-white rounded-2xl p-8 shadow-lg shadow-navy/5 border border-gray-100 hover:shadow-xl hover:border-gold/20 transition-all duration-300 group"
                 >
                   <div className="flex items-center gap-3 mb-4">
-                    <span className="px-3 py-1 bg-gold/10 text-gold text-xs font-semibold rounded-full">
+                    <span className="px-3 py-1 bg-gold-10 text-gold text-xs font-semibold rounded-full">
                       {post.category}
                     </span>
                     <span className="flex items-center gap-1 text-xs text-gray-400">

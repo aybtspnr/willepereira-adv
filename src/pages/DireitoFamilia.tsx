@@ -35,7 +35,7 @@ function SectionHeading({ label, title, subtitle, light = false }: { label: stri
   return (
     <div className={`text-center mb-16 md:mb-20 ${light ? 'text-white' : ''}`}>
       <span className={`inline-block px-4 py-1.5 text-xs font-semibold uppercase tracking-[0.15em] rounded-full mb-5 ${
-        light ? 'bg-gold/15 text-gold' : 'bg-gold/10 text-gold-dark'
+        light ? 'bg-gold-15 text-gold' : 'bg-gold-10 text-gold-dark'
       }`}>
         {label}
       </span>
@@ -222,31 +222,24 @@ const faqItems = [
   },
 ]
 
-import { useSEO } from '../hooks/useSEO'
+import SEO from '../components/SEO'
 
 export default function DireitoFamilia() {
-  useSEO(
-    'Direito de Família',
-    'Advocacia em Direito de Família em Palhoça/SC. Divórcio, guarda de filhos, pensão alimentícia, inventário, união estável e planejamento sucessório. Atendimento humanizado em todo o Brasil.'
-  )
-  return (
+return (
     <div>
-      <Helmet>
-        <title>Direito de Família | Will & Pereira Advocacia | Will & Pereira Advocacia</title>
-        <meta name="description" content="Advocacia especializada em Direito de Família: divórcio, guarda, pensão alimentícia e união estável." />
-        <link rel="canonical" href="https://willepereira-adv.vercel.app/familia" />
-        <meta property="og:title" content="Direito de Família | Will & Pereira Advocacia" />
-        <meta property="og:description" content="Advocacia especializada em Direito de Família: divórcio, guarda, pensão alimentícia e união estável." />
-        <meta property="og:url" content="https://willepereira-adv.vercel.app/familia" />
-      </Helmet>
+      <SEO
+        title="Direito de Família | Will & Pereira Advocacia"
+        description="Advocacia especializada em Direito de Família: divórcio, guarda, pensão alimentícia e união estável."
+        canonical="https://willepereira-adv.vercel.app/familia"
+      />
       {/* ═══════════════ HERO ═══════════════ */}
       <section className="relative pt-32 pb-24 md:pb-32 bg-navy overflow-hidden">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,_#1a2634_0%,_#0f1729_100%)]" />
         <div className="absolute inset-0 opacity-[0.04]" style={{ backgroundImage: 'url("data:image/svg+xml,%3Csvg width=\'80\' height=\'80\' viewBox=\'0 0 80 80\' xmlns=\'http://www.w3.org/2000/svg\'%3E%3Cg fill=\'none\' fill-rule=\'evenodd\'%3E%3Cg fill=\'%23c9a84c\' fill-opacity=\'1\'%3E%3Cpath d=\'M40 0L0 40l40 40L80 40z\'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E")' }} />
-        <div className="absolute top-1/4 -left-40 w-96 h-96 bg-gold/5 rounded-full blur-[120px]" />
-        <div className="absolute bottom-1/4 -right-32 w-80 h-80 bg-gold/3 rounded-full blur-[100px]" />
+        <div className="absolute top-1/4 -left-40 w-96 h-96 bg-gold-5 rounded-full blur-[120px]" />
+        <div className="absolute bottom-1/4 -right-32 w-80 h-80 bg-gold-3 rounded-full blur-[100px]" />
 
-        <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="relative z-10 container">
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
@@ -255,7 +248,7 @@ export default function DireitoFamilia() {
             <div className="flex items-center gap-3 text-gold/80 text-sm font-medium mb-6 tracking-wide">
               <Heart size={16} />
               <span className="uppercase tracking-[0.15em]">Área de Atuação</span>
-              <span className="w-8 h-px bg-gold/40" />
+              <span className="w-8 h-px bg-gold-40" />
             </div>
           </motion.div>
 
@@ -470,14 +463,14 @@ export default function DireitoFamilia() {
         <div className="relative z-10 container-premium">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <ScrollReveal>
-              <span className="inline-block px-4 py-1.5 bg-gold/15 text-gold text-xs font-semibold uppercase tracking-[0.15em] rounded-full mb-5">
+              <span className="inline-block px-4 py-1.5 bg-gold-15 text-gold text-xs font-semibold uppercase tracking-[0.15em] rounded-full mb-5">
                 Por Que Contratar um Advogado
               </span>
               <h2 className="font-serif text-3xl md:text-4xl text-white leading-tight mb-6">
                 Assessoria Jurídica<br />
                 <span className="text-gradient-gold">Humanizada e Estratégica</span>
               </h2>
-              <div className="w-16 h-px bg-gold/50 mb-6" />
+              <div className="w-16 h-px bg-gold-50 mb-6" />
               <div className="space-y-4 text-gray-300 leading-relaxed">
                 <p>
                   O Direito de Família lida com as questões mais sensíveis e emocionais da vida 
@@ -562,7 +555,7 @@ export default function DireitoFamilia() {
                   className="group bg-white rounded-2xl border border-gray-100 overflow-hidden hover:shadow-lg hover:shadow-navy/5 transition-all duration-300"
                 >
                   <summary className="flex items-center gap-3 p-5 md:p-6 cursor-pointer list-none">
-                    <div className="w-9 h-9 rounded-lg bg-gold/10 flex items-center justify-center shrink-0">
+                    <div className="w-9 h-9 rounded-lg bg-gold-10 flex items-center justify-center shrink-0">
                       <FaqIcon className="w-4 h-4 text-gold" />
                     </div>
                     <span className="font-display text-base md:text-lg text-navy flex-1 pr-4">
@@ -602,7 +595,7 @@ export default function DireitoFamilia() {
         
         <div className="relative z-10 container-premium text-center">
           <ScrollReveal>
-            <span className="inline-block px-4 py-1.5 bg-gold/15 text-gold text-xs font-semibold uppercase tracking-[0.15em] rounded-full mb-5">
+            <span className="inline-block px-4 py-1.5 bg-gold-15 text-gold text-xs font-semibold uppercase tracking-[0.15em] rounded-full mb-5">
               Estamos Prontos para Ajudar
             </span>
             <h2 className="font-serif text-3xl md:text-5xl text-white leading-tight mb-6">

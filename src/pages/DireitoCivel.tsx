@@ -25,7 +25,7 @@ function SectionHeading({ label, title, subtitle, light = false }: { label: stri
   return (
     <div className={`text-center mb-16 md:mb-20 ${light ? 'text-white' : ''}`}>
       <span className={`inline-block px-4 py-1.5 text-xs font-semibold uppercase tracking-[0.15em] rounded-full mb-5 ${
-        light ? 'bg-gold/15 text-gold' : 'bg-gold/10 text-gold-dark'
+        light ? 'bg-gold-15 text-gold' : 'bg-gold-10 text-gold-dark'
       }`}>
         {label}
       </span>
@@ -61,7 +61,7 @@ const topicosCivel = [
   {
     icon: FileSignature,
     title: 'Contratos',
-    gradient: 'from-blue-600 to-indigo-600',
+    gradient: 'linear-gradient(135deg, #2563eb, #4f46e5)',
     bgLight: 'bg-blue-50',
     borderColor: 'border-blue-200',
     content: [
@@ -73,7 +73,7 @@ const topicosCivel = [
   {
     icon: ClipboardList,
     title: 'Cobranças e Execuções',
-    gradient: 'from-amber-600 to-orange-600',
+    gradient: 'linear-gradient(135deg, #d97706, #ea580c)',
     bgLight: 'bg-amber-50',
     borderColor: 'border-amber-200',
     content: [
@@ -85,7 +85,7 @@ const topicosCivel = [
   {
     icon: Scale,
     title: 'Responsabilidade Civil',
-    gradient: 'from-rose-600 to-pink-600',
+    gradient: 'linear-gradient(135deg, #e11d48, #db2777)',
     bgLight: 'bg-rose-50',
     borderColor: 'border-rose-200',
     content: [
@@ -109,7 +109,7 @@ const topicosCivel = [
   {
     icon: BookOpen,
     title: 'Obrigações',
-    gradient: 'from-violet-600 to-purple-600',
+    gradient: 'linear-gradient(135deg, #7c3aed, #9333ea)',
     bgLight: 'bg-violet-50',
     borderColor: 'border-violet-200',
     content: [
@@ -121,7 +121,7 @@ const topicosCivel = [
   {
     icon: Key,
     title: 'Locação e Direito Imobiliário',
-    gradient: 'from-teal-600 to-cyan-600',
+    gradient: 'linear-gradient(135deg, #0d9488, #0891b2)',
     bgLight: 'bg-teal-50',
     borderColor: 'border-teal-200',
     content: [
@@ -144,29 +144,22 @@ const topicosCivel = [
   },
 ]
 
-import { useSEO } from '../hooks/useSEO'
+import SEO from '../components/SEO'
 
 export default function DireitoCivel() {
-  useSEO(
-    'Direito Cível',
-    'Advocacia especializada em Direito Cível em Palhoça/SC. Indenizações, contratos, cobranças, responsabilidade civil, usucapião, locação e inventário. Atendimento em todo o Brasil.'
-  )
-  return (
+return (
     <div>
-      <Helmet>
-        <title>Direito Cível | Will & Pereira Advocacia | Will & Pereira Advocacia</title>
-        <meta name="description" content="Assessoria jurídica em Direito Cível: contratos, indenizações, responsabilidade civil e obrigações." />
-        <link rel="canonical" href="https://willepereira-adv.vercel.app/civel" />
-        <meta property="og:title" content="Direito Cível | Will & Pereira Advocacia" />
-        <meta property="og:description" content="Assessoria jurídica em Direito Cível: contratos, indenizações, responsabilidade civil e obrigações." />
-        <meta property="og:url" content="https://willepereira-adv.vercel.app/civel" />
-      </Helmet>
+      <SEO
+        title="Direito Cível | Will & Pereira Advocacia"
+        description="Assessoria jurídica em Direito Cível: contratos, indenizações, responsabilidade civil e obrigações."
+        canonical="https://willepereira-adv.vercel.app/civel"
+      />
       {/* ═══════ HERO ═══════ */}
       <section className="relative pt-32 pb-20 bg-navy overflow-hidden">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,_#1a2634_0%,_#0f1729_100%)]" />
         <div className="absolute top-1/4 -left-32 w-96 h-96 bg-emerald-500/5 rounded-full blur-[120px]" />
         <div className="absolute bottom-1/4 -right-32 w-80 h-80 bg-emerald-500/3 rounded-full blur-[100px]" />
-        <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <div className="relative z-10 container text-center">
           <motion.span
             initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}
             className="inline-block px-4 py-1.5 bg-emerald-500/15 text-emerald-400 text-xs font-semibold uppercase tracking-widest rounded-full mb-4"
@@ -388,7 +381,7 @@ export default function DireitoCivel() {
             Will & Pereira Advocacia — Especialistas em Direito Cível
           </p>
           <p className="text-gray-500 text-xs">
-            OAB/SC • Atendimento em todo o Brasil • (48) 98842-0867
+            OAB/SC • Atendimento em todo o Brasil • (48) 98458-4181
           </p>
         </div>
       </section>
@@ -413,7 +406,7 @@ function TopicBlock({ area, idx }: { area: typeof topicosCivel[0]; idx: number }
         {/* Main content */}
         <div className="lg:col-span-3">
           <div className="flex items-center gap-4 mb-4">
-            <div className={`w-12 h-12 rounded-xl bg-gradient-to-br ${area.gradient} flex items-center justify-center shrink-0`}>
+            <div className="w-12 h-12 rounded-xl flex items-center justify-center shrink-0" style={{ background: area.gradient }}>
               <Icon className="w-6 h-6 text-white" />
             </div>
             <h3 className="font-serif text-2xl md:text-3xl text-navy">{area.title}</h3>

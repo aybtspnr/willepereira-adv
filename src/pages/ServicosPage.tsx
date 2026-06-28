@@ -26,8 +26,8 @@ function ServiceArea({ area, idx }: AreaProps) {
       transition={{ duration: 0.6 }}
       className={`grid md:grid-cols-2 gap-10 items-center ${idx % 2 === 1 ? '' : ''}`}
     >
-      <div className={`rounded-2xl p-8 border ${area.cor} ${idx % 2 === 1 ? 'md:order-2' : ''}`}>
-        <div className={`w-16 h-16 rounded-xl ${area.iconBg} flex items-center justify-center mb-5`}>
+      <div className={`rounded-2xl p-8 ${idx % 2 === 1 ? 'md:order-2' : ''}`} style={{ background: area.cor, border: '1px solid ' + (area.cor + '80') }}>
+        <div className={`w-16 h-16 rounded-xl flex items-center justify-center mb-5`} style={{ background: area.iconBg }}>
           <area.icon className="w-8 h-8 text-navy" />
         </div>
         <h2 className="font-serif text-2xl md:text-3xl text-navy mb-4">{area.title}</h2>
@@ -65,7 +65,7 @@ const areas = [
       'Salário-Maternidade e Auxílio-Acidente',
       'Planejamento Previdenciário',
     ],
-    cor: 'from-rose-100 to-rose-50', iconBg: 'bg-rose-500/10',
+    cor: '#fce4ec', iconBg: 'rgba(244, 67, 54, 0.1)',
   },
   {
     icon: 'Briefcase', title: 'Direito Trabalhista',
@@ -80,7 +80,7 @@ const areas = [
       'Trabalho Temporário e Terceirização',
       'Acordo Extrajudicial e Homologação',
     ],
-    cor: 'from-blue-100 to-blue-50', iconBg: 'bg-blue-500/10',
+    cor: '#e3f2fd', iconBg: 'rgba(33, 150, 243, 0.1)',
   },
   {
     icon: 'Building2', title: 'Direito Cível',
@@ -95,7 +95,7 @@ const areas = [
       'Locação e Direito Imobiliário',
       'Sucessões e Inventário',
     ],
-    cor: 'from-emerald-100 to-emerald-50', iconBg: 'bg-emerald-500/10',
+    cor: '#e8f5e9', iconBg: 'rgba(76, 175, 80, 0.1)',
   },
   {
     icon: 'Shield', title: 'Direito do Consumidor',
@@ -110,7 +110,7 @@ const areas = [
       'Ações Coletivas de Consumo',
       'Superendividamento',
     ],
-    cor: 'from-amber-100 to-amber-50', iconBg: 'bg-amber-500/10',
+    cor: '#fff8e1', iconBg: 'rgba(255, 193, 7, 0.1)',
   },
   {
     icon: 'Users', title: 'Direito de Família',
@@ -125,7 +125,7 @@ const areas = [
       'Tutela e Curatela',
       'Planejamento Sucessório',
     ],
-    cor: 'from-violet-100 to-violet-50', iconBg: 'bg-violet-500/10',
+    cor: '#f3e5f5', iconBg: 'rgba(156, 39, 176, 0.1)',
   },
   {
     icon: 'Landmark', title: 'Direito Imobiliário',
@@ -140,31 +140,29 @@ const areas = [
       'ITBI e Registro de Imóveis',
       'Direito de Laje e Superfície',
     ],
-    cor: 'from-teal-100 to-teal-50', iconBg: 'bg-teal-500/10',
+    cor: '#e0f2f1', iconBg: 'rgba(0, 150, 136, 0.1)',
   },
 ]
 
 import { Heart, Briefcase, Building2, Shield, Users, Landmark } from 'lucide-react'
+import SEO from '../components/SEO'
 
 const iconMap: Record<string, any> = { Heart, Briefcase, Building2, Shield, Users, Landmark }
 
 export default function ServicosPage() {
   return (
     <div>
-      <Helmet>
-        <title>Serviços Jurídicos | Will & Pereira Advocacia | Will & Pereira Advocacia</title>
-        <meta name="description" content="Conheça nossos serviços jurídicos especializados em todas as áreas do Direito. Atendimento em todo o Brasil." />
-        <link rel="canonical" href="https://willepereira-adv.vercel.app/servicos" />
-        <meta property="og:title" content="Serviços Jurídicos | Will & Pereira Advocacia" />
-        <meta property="og:description" content="Conheça nossos serviços jurídicos especializados em todas as áreas do Direito. Atendimento em todo o Brasil." />
-        <meta property="og:url" content="https://willepereira-adv.vercel.app/servicos" />
-      </Helmet>
+      <SEO
+        title="Serviços Jurídicos | Will & Pereira Advocacia"
+        description="Conheça nossos serviços jurídicos especializados em todas as áreas do Direito. Atendimento em todo o Brasil."
+        canonical="https://willepereira-adv.vercel.app/servicos"
+      />
       <section className="relative pt-32 pb-20 bg-navy overflow-hidden">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,_#1a2634_0%,_#0f1729_100%)]" />
-        <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <div className="relative z-10 container text-center">
           <motion.span
             initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}
-            className="inline-block px-4 py-1.5 bg-gold/15 text-gold text-xs font-semibold uppercase tracking-widest rounded-full mb-4"
+            className="inline-block px-4 py-1.5 bg-gold-15 text-gold text-xs font-semibold uppercase tracking-widest rounded-full mb-4"
           >
             Nossas Especialidades
           </motion.span>
@@ -184,7 +182,7 @@ export default function ServicosPage() {
       </section>
 
       <section className="py-20">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-24">
+        <div className="container space-y-24-mobile-16 space-y-24">
           {areas.map((area, idx) => (
             <ServiceArea key={area.title} area={{ ...area, icon: iconMap[area.icon] }} idx={idx} />
           ))}
@@ -192,7 +190,7 @@ export default function ServicosPage() {
       </section>
 
       <section className="bg-navy py-16 text-center">
-        <div className="max-w-2xl mx-auto px-4">
+        <div className="container max-w-2xl">
           <h2 className="font-serif text-3xl text-white mb-4">Não encontrou seu caso?</h2>
           <p className="text-gray-300 mb-8">Entre em contato. Analisamos cada situação individualmente.</p>
           <Link to="/contato" className="inline-flex items-center gap-2 px-8 py-3.5 bg-gold text-navy font-semibold rounded-full hover:bg-gold-light transition-all duration-300">
