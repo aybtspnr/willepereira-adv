@@ -31,7 +31,7 @@ export default function BlogPage() {
       {/* HERO */}
       <section className="relative pt-32 pb-20 bg-navy overflow-hidden">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,_#1a2634_0%,_#0f1729_100%)]" />
-        <div className="relative z-10 container text-center">
+        <div className="relative z-10 text-center" style={{ maxWidth: 1280, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
           <motion.span
             initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}
             className="inline-block px-4 py-1.5 bg-gold-15 text-gold text-xs font-semibold uppercase tracking-widest rounded-full mb-4"
@@ -55,7 +55,7 @@ export default function BlogPage() {
 
       {/* SEARCH + FILTERS */}
       <section className="py-8 bg-cream sticky top-24 z-30">
-        <div className="container">
+        <div className="" style={{ maxWidth: 1280, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
           <div className="flex flex-col sm:flex-row gap-4 items-center justify-between">
             <div className="flex gap-2 flex-wrap">
               {categories.map(cat => (
@@ -87,7 +87,7 @@ export default function BlogPage() {
 
       {/* POSTS */}
       <section className="py-12">
-        <div className="container">
+        <div className="" style={{ maxWidth: 1280, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
           {filtered.length === 0 ? (
             <div className="text-center py-20 text-gray-400">
               Nenhum artigo encontrado para sua busca.

@@ -54,18 +54,18 @@ export default function CTACard({ category, compact = false }: CTACardProps) {
 
   if (compact) {
     return (
-      <div className="my-8 bg-gradient-to-br from-navy to-navy-dark rounded-2xl p-6 md:p-8 relative overflow-hidden group">
-        <div className="absolute top-0 right-0 w-48 h-48 bg-gold-5 rounded-full blur-[80px]" />
-        <div className="relative z-10 flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
-          <div className="flex-1 text-center sm:text-left">
-            <h4 className="text-white font-serif text-lg md:text-xl mb-1">{content.title}</h4>
-            <p className="text-gray-400 text-sm">{content.desc}</p>
+      <div style={{ margin: '32px 0', background: 'linear-gradient(135deg, #1a2634, #0f1729)', borderRadius: 16, padding: '24px 32px', position: 'relative', overflow: 'hidden' }}>
+        <div style={{ position: 'absolute', top: -40, right: -40, width: 192, height: 192, background: 'rgba(201,168,76,0.05)', borderRadius: '50%', filter: 'blur(80px)' }} />
+        <div style={{ position: 'relative', zIndex: 10, display: 'flex', flexDirection: 'row', alignItems: 'center', gap: 24, flexWrap: 'wrap' }}>
+          <div style={{ flex: 1, minWidth: 200 }}>
+            <h4 style={{ color: 'white', fontFamily: 'var(--font-serif)', fontSize: '1.125rem', marginBottom: 4 }}>{content.title}</h4>
+            <p style={{ color: 'var(--gray-400)', fontSize: '0.875rem' }}>{content.desc}</p>
           </div>
           <Link
             to={content.slug}
-            className="group/btn inline-flex items-center gap-2 px-6 py-3 bg-gold text-navy text-sm font-semibold rounded-full hover:bg-gold-light transition-all duration-300 shadow-lg shadow-gold/20 hover:shadow-xl hover:shadow-gold/30 shrink-0"
+            style={{ display: 'inline-flex', alignItems: 'center', gap: 8, padding: '12px 24px', background: 'var(--gold)', color: 'var(--navy-dark)', fontSize: '0.875rem', fontWeight: 600, borderRadius: 9999, textDecoration: 'none', transition: 'all 0.3s', boxShadow: '0 10px 15px -3px rgba(201,168,76,0.2)', flexShrink: 0 }}
           >
-            Fale Conosco <ArrowRight size={16} className="group-hover/btn:translate-x-1 transition-transform" />
+            Fale Conosco <ArrowRight size={16} />
           </Link>
         </div>
       </div>
@@ -73,33 +73,31 @@ export default function CTACard({ category, compact = false }: CTACardProps) {
   }
 
   return (
-    <div className="my-10 md:my-12 bg-gradient-to-br from-navy to-navy-dark rounded-3xl p-8 md:p-10 relative overflow-hidden group">
-      <div className="absolute inset-0">
-        <div className="absolute top-1/2 left-1/3 w-64 h-64 bg-gold-5 rounded-full blur-[100px]" />
-        <div className="absolute bottom-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-gold/20 to-transparent" />
-      </div>
-      <div className="relative z-10 text-center">
-        <div className="inline-flex items-center gap-2 px-4 py-1.5 bg-gold-10 text-gold text-xs font-semibold uppercase tracking-widest rounded-full mb-5 border border-gold/20">
-          <span className="w-1.5 h-1.5 rounded-full bg-gold animate-pulse" />
+    <div style={{ margin: '40px 0', background: 'linear-gradient(135deg, #1a2634, #0f1729)', borderRadius: 24, padding: '32px 40px', position: 'relative', overflow: 'hidden' }}>
+      <div style={{ position: 'absolute', top: '50%', left: '33%', width: 256, height: 256, background: 'rgba(201,168,76,0.05)', borderRadius: '50%', filter: 'blur(100px)' }} />
+      <div style={{ position: 'absolute', bottom: 0, left: 0, right: 0, height: 1, background: 'linear-gradient(90deg, transparent, rgba(201,168,76,0.2), transparent)' }} />
+      <div style={{ position: 'relative', zIndex: 10, textAlign: 'center' }}>
+        <div style={{ display: 'inline-flex', alignItems: 'center', gap: 8, padding: '6px 16px', background: 'rgba(201,168,76,0.1)', color: 'var(--gold)', fontSize: '0.75rem', fontWeight: 600, textTransform: 'uppercase', letterSpacing: '0.1em', borderRadius: 9999, marginBottom: 20, border: '1px solid rgba(201,168,76,0.2)' }}>
+          <span style={{ width: 6, height: 6, borderRadius: '50%', background: 'var(--gold)', animation: 'pulse 2s infinite' }} />
           Will & Pereira Advocacia
         </div>
-        <h3 className="text-white font-serif text-2xl md:text-3xl mb-3">{content.title}</h3>
-        <p className="text-gray-300 max-w-xl mx-auto mb-6 text-base leading-relaxed">{content.desc}</p>
-        <div className="flex flex-col sm:flex-row gap-3 justify-center">
+        <h3 style={{ color: 'white', fontFamily: 'var(--font-serif)', fontSize: '1.5rem', marginBottom: 12 }}>{content.title}</h3>
+        <p style={{ color: 'var(--gray-300)', maxWidth: 576, margin: '0 auto 24px', fontSize: '1rem', lineHeight: 1.6 }}>{content.desc}</p>
+        <div style={{ display: 'flex', flexDirection: 'row', gap: 12, justifyContent: 'center', flexWrap: 'wrap' }}>
           <Link
             to={content.slug}
-            className="group/btn inline-flex items-center gap-2 px-8 py-3.5 bg-gold text-navy font-semibold rounded-full hover:bg-gold-light transition-all duration-300 shadow-lg shadow-gold/20 hover:shadow-xl hover:shadow-gold/30"
+            style={{ display: 'inline-flex', alignItems: 'center', gap: 8, padding: '14px 32px', background: 'var(--gold)', color: 'var(--navy-dark)', fontWeight: 600, borderRadius: 9999, textDecoration: 'none', transition: 'all 0.3s', boxShadow: '0 10px 15px -3px rgba(201,168,76,0.2)' }}
           >
-            Solicitar Atendimento <ArrowRight size={18} className="group-hover/btn:translate-x-1 transition-transform" />
+            Solicitar Atendimento <ArrowRight size={18} />
           </Link>
           <a
             href="tel:+5548984584181"
-            className="inline-flex items-center gap-2 px-8 py-3.5 border border-white/20 text-white font-semibold rounded-full hover:bg-white/5 transition-all duration-300"
+            style={{ display: 'inline-flex', alignItems: 'center', gap: 8, padding: '14px 32px', border: '1.5px solid rgba(255,255,255,0.2)', color: 'white', fontWeight: 600, borderRadius: 9999, textDecoration: 'none', transition: 'all 0.3s' }}
           >
             <Phone size={16} /> (48) 98458-4181
           </a>
         </div>
-        <p className="text-gray-500 text-xs mt-4">
+        <p style={{ color: 'var(--gray-500)', fontSize: '0.75rem', marginTop: 16 }}>
           Atendimento em todo o Brasil • Presencial e Online • Sigilo Profissional
         </p>
       </div>

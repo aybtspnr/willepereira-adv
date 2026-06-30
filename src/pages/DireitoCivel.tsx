@@ -159,7 +159,7 @@ return (
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,_#1a2634_0%,_#0f1729_100%)]" />
         <div className="absolute top-1/4 -left-32 w-96 h-96 bg-emerald-500/5 rounded-full blur-[120px]" />
         <div className="absolute bottom-1/4 -right-32 w-80 h-80 bg-emerald-500/3 rounded-full blur-[100px]" />
-        <div className="relative z-10 container text-center">
+        <div className="relative z-10 text-center" style={{ maxWidth: 1280, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
           <motion.span
             initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}
             className="inline-block px-4 py-1.5 bg-emerald-500/15 text-emerald-400 text-xs font-semibold uppercase tracking-widest rounded-full mb-4"
@@ -192,7 +192,7 @@ return (
 
       {/* ═══════ INTRODUÇÃO ═══════ */}
       <section className="section-padding">
-        <div className="container-premium">
+        <div className="" style={{ maxWidth: 1280, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
           <div className="max-w-4xl mx-auto">
             <ScrollReveal>
               <span className="inline-block px-4 py-1.5 bg-emerald-500/10 text-emerald-700 text-xs font-semibold uppercase tracking-[0.15em] rounded-full mb-5">
@@ -238,7 +238,7 @@ return (
 
       {/* ═══════ ÁREAS EM DESTAQUE ═══════ */}
       <section className="section-padding bg-gradient-to-b from-cream to-warm">
-        <div className="container-premium">
+        <div className="" style={{ maxWidth: 1280, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
           <SectionHeading
             label="Nossa Atuação"
             title="Áreas do Direito Cível"
@@ -257,7 +257,7 @@ return (
       <section className="relative py-24 md:py-28 bg-navy overflow-hidden">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_bottom_left,_rgba(16,185,129,0.06)_0%,_transparent_60%)]" />
         <div className="absolute top-0 left-1/3 w-72 h-72 bg-gold-5 rounded-full blur-[100px]" />
-        <div className="relative z-10 container-premium text-center">
+        <div className="relative z-10 text-center" style={{ maxWidth: 1280, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
           <ScrollReveal>
             <span className="inline-block px-5 py-1.5 bg-emerald-500/15 text-emerald-400 text-xs font-semibold uppercase tracking-widest rounded-full mb-5 border border-emerald-500/20">
               Atendimento Personalizado
@@ -278,7 +278,7 @@ return (
 
       {/* ═══════ DIFERENCIAIS ═══════ */}
       <section className="section-padding">
-        <div className="container-premium">
+        <div className="" style={{ maxWidth: 1280, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
           <SectionHeading
             label="Por Que nos Escolher"
             title="Nossos Diferenciais no Direito Cível"
@@ -315,7 +315,7 @@ return (
 
       {/* ═══════ FAQ ═══════ */}
       <section className="section-padding bg-cream">
-        <div className="container-premium">
+        <div className="" style={{ maxWidth: 1280, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
           <SectionHeading
             label="Dúvidas Frequentes"
             title="Perguntas Sobre Direito Cível"
@@ -381,7 +381,7 @@ return (
           <div className="absolute top-0 left-1/4 w-80 h-80 bg-gold-5 rounded-full blur-[120px]" />
           <div className="absolute bottom-0 right-1/4 w-96 h-96 bg-gold-5 rounded-full blur-[150px]" />
         </div>
-        <div className="relative z-10 container-premium">
+        <div className="relative z-10" style={{ maxWidth: 1280, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
           <span className="inline-block px-5 py-1.5 bg-gold-10 text-gold text-xs font-semibold uppercase tracking-widest rounded-full mb-6 border border-gold/20">
             Will & Pereira Advocacia
           </span>

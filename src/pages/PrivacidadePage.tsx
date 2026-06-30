@@ -26,7 +26,7 @@ export default function PrivacidadePage() {
       {/* HERO */}
       <section className="relative pt-32 pb-16 overflow-hidden" style={{ background: 'var(--navy-dark)' }}>
         <div className="absolute inset-0 opacity-10" style={{ backgroundImage: 'radial-gradient(circle at 2px 2px, rgba(201,168,76,0.3) 1px, transparent 0)', backgroundSize: '48px 48px' }} />
-        <div className="relative z-10 container max-w-4xl text-center">
+        <div className="relative z-10 max-w-4xl text-center" style={{ maxWidth: 896, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
           <motion.span
             initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}
             className="inline-flex items-center gap-3 text-xs font-semibold uppercase tracking-widest rounded-full mb-6"
@@ -53,7 +53,7 @@ export default function PrivacidadePage() {
 
       {/* LGPD BADGE */}
       <section className="py-8" style={{ background: 'var(--cream)' }}>
-        <div className="container max-w-4xl">
+        <div className="max-w-4xl" style={{ maxWidth: 896, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
           <div className="flex items-center gap-4 p-5 rounded-2xl" style={{ background: 'rgba(201,168,76,0.08)', border: '1px solid rgba(201,168,76,0.15)' }}>
             <div className="w-12 h-12 rounded-xl flex items-center justify-center shrink-0" style={{ background: 'rgba(201,168,76,0.15)' }}>
               <Shield size={22} style={{ color: 'var(--gold)' }} />
@@ -70,7 +70,7 @@ export default function PrivacidadePage() {
 
       {/* CONTENT */}
       <section className="py-24 md:py-28" style={{ background: 'var(--white)' }}>
-        <div className="container max-w-4xl">
+        <div className="max-w-4xl" style={{ maxWidth: 896, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
           <div className="flex items-center gap-2 mb-8 text-sm" style={{ color: 'var(--gray-400)' }}>
             <FileText size={16} style={{ color: 'var(--gold)' }} />
             Última atualização: Janeiro de 2025

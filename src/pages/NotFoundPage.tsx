@@ -4,7 +4,7 @@ import { Home, ArrowLeft } from 'lucide-react'
 export default function NotFoundPage() {
   return (
     <div className="min-h-screen flex items-center justify-center" style={{ background: 'var(--navy-dark)' }}>
-      <div className="container text-center px-4">
+      <div className="text-center px-4" style={{ maxWidth: 1280, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
         <div style={{ marginBottom: '24px' }}>
           <span
             className="text-8xl font-bold"

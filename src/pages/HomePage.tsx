@@ -129,7 +129,7 @@ export default function HomePage() {
         <div className="glow-gold" style={{ top: '30%', left: '50%', transform: 'translate(-50%, -50%)' }} />
 
         <motion.div style={{ opacity: heroOpacity, y: heroY }} className="absolute inset-0 flex items-center">
-          <div className="container">
+          <div className="" style={{ maxWidth: 1280, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
             <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8, delay: 0.2 }}>
               <span className="section-tag" style={{ color: 'rgba(201,168,76,0.8)' }}>Will & Pereira Advocacia</span>
             </motion.div>
@@ -196,7 +196,7 @@ export default function HomePage() {
 
       {/* ═══════ STATS ═══════ */}
       <section className="stats-section">
-        <div className="container">
+        <div className="" style={{ maxWidth: 1280, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
           <Reveal>
             <div className="stats-grid">
               {[
@@ -217,7 +217,7 @@ export default function HomePage() {
 
       {/* ═══════ SERVIÇOS ═══════ */}
       <section className="section section-cream">
-        <div className="container">
+        <div className="" style={{ maxWidth: 1280, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
           <Reveal className="text-center" style={{ marginBottom: '64px' }}>
             <span className="section-tag">Áreas de Atuação</span>
             <h2 className="section-title" style={{ marginBottom: '20px' }}>Soluções Jurídicas Completas</h2>
@@ -255,7 +255,7 @@ export default function HomePage() {
 
       {/* ═══════ SOBRE ═══════ */}
       <section className="section">
-        <div className="container">
+        <div className="" style={{ maxWidth: 1280, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
           <div className="grid lg:grid-cols-2 gap-16 items-center">
             <Reveal>
               <span className="section-tag">Quem Somos</span>
@@ -292,7 +292,7 @@ export default function HomePage() {
 
       {/* ═══════ FAQ RÁPIDO ═══════ */}
       <section className="section section-cream">
-        <div className="container">
+        <div className="" style={{ maxWidth: 1280, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
           <Reveal className="text-center" style={{ marginBottom: '48px' }}>
             <span className="section-tag">Dúvidas Comuns</span>
             <h2 className="section-title" style={{ marginBottom: '16px' }}>Perguntas Frequentes</h2>
@@ -345,7 +345,7 @@ export default function HomePage() {
       <section className="section section-navy" style={{ position: 'relative', overflow: 'hidden' }}>
         <div className="pattern-dots" />
         <div className="glow-gold" style={{ top: '20%', right: '-10%', width: '400px', height: '400px' }} />
-        <div className="container" style={{ position: 'relative', zIndex: 2 }}>
+        <div className="" style={{ maxWidth: 1280, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }} style={{ position: 'relative', zIndex: 2 }}>
           <Reveal className="text-center" style={{ marginBottom: '64px' }}>
             <span className="section-tag" style={{ color: 'var(--gold)' }}>Processo</span>
             <h1 className="section-title text-white" style={{ marginBottom: '16px' }}>Como Funciona</h1>
@@ -402,7 +402,7 @@ export default function HomePage() {
 
       {/* ═══════ DIFERENCIAIS ═══════ */}
       <section className="section section-dark" style={{ position: 'relative' }}>
-        <div className="container" style={{ position: 'relative', zIndex: 2 }}>
+        <div className="" style={{ maxWidth: 1280, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }} style={{ position: 'relative', zIndex: 2 }}>
           <Reveal className="text-center" style={{ marginBottom: '64px' }}>
             <span className="section-tag" style={{ color: 'var(--gold)' }}>Diferenciais</span>
             <h2 className="section-title text-white" style={{ marginBottom: '20px' }}>Por Que nos Escolher</h2>
@@ -430,7 +430,7 @@ export default function HomePage() {
 
       {/* ═══════ BLOG PREVIEW ═══════ */}
       <section className="section section-cream">
-        <div className="container">
+        <div className="" style={{ maxWidth: 1280, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
           <Reveal className="text-center" style={{ marginBottom: '64px' }}>
             <span className="section-tag">Blog Jurídico</span>
             <h2 className="section-title" style={{ marginBottom: '20px' }}>Artigos e Notícias</h2>
@@ -465,7 +465,7 @@ export default function HomePage() {
       {/* ═══════ CTA ═══════ */}
       <section className="section section-dark" style={{ position: 'relative', overflow: 'hidden' }}>
         <div className="glow-gold" style={{ top: '50%', left: '50%', transform: 'translate(-50%, -50%)', width: '600px', height: '600px' }} />
-        <div className="container" style={{ position: 'relative', zIndex: 2, textAlign: 'center' }}>
+        <div className="" style={{ maxWidth: 1280, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }} style={{ position: 'relative', zIndex: 2, textAlign: 'center' }}>
           <Reveal>
             <span className="section-tag" style={{ color: 'var(--gold)' }}>Entre em Contato</span>
             <h2 className="section-title text-white" style={{ marginBottom: '20px' }}>

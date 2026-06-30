@@ -15,7 +15,7 @@ export default function Footer() {
     <footer className="site-footer">
       {/* CTA Bar */}
       <div style={{ borderBottom: '1px solid rgba(255,255,255,0.05)' }}>
-        <div className="container flex flex-col sm:flex-row items-center justify-between" style={{ paddingTop: '48px', paddingBottom: '48px', gap: '32px' }}>
+        <div className="flex flex-col sm:flex-row items-center justify-between" style={{ maxWidth: 1280, margin: "0 auto", padding: "48px clamp(24px, 5vw, 48px)", gap: "32px" }}>
           <div className="text-center sm:text-left">
             <h3 style={{ color: 'white', fontSize: '20px', fontWeight: 600, marginBottom: '4px' }}>
               Precisa de orientação jurídica?
@@ -31,7 +31,7 @@ export default function Footer() {
       </div>
 
       {/* Main footer */}
-      <div className="container" style={{ paddingTop: '48px', paddingBottom: '40px' }}>
+      <div style={{ maxWidth: 1280, margin: "0 auto", padding: "48px clamp(24px, 5vw, 48px) 40px" }}>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-12 md:gap-10">
           {/* Brand */}
           <div>
@@ -93,7 +93,7 @@ export default function Footer() {
 
       {/* Bottom */}
       <div style={{ borderTop: '1px solid rgba(255,255,255,0.05)' }}>
-        <div className="container" style={{ paddingTop: '32px', paddingBottom: '32px' }}>
+        <div style={{ maxWidth: 1280, margin: "0 auto", padding: "32px clamp(24px, 5vw, 48px)" }}>
           <div className="flex flex-col md:flex-row items-center justify-between gap-6">
             <div className="flex flex-col sm:flex-row items-center gap-2 sm:gap-4 text-center sm:text-left">
               <p style={{ color: 'var(--gray-500)', fontSize: '13px' }}>

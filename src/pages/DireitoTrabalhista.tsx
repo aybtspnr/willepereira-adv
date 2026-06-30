@@ -240,7 +240,7 @@ return (
         <div className="absolute top-1/4 -left-40 w-96 h-96 bg-gold-5 rounded-full blur-[120px]" />
         <div className="absolute bottom-1/4 -right-32 w-80 h-80 bg-gold-3 rounded-full blur-[100px]" />
 
-        <div className="relative z-10 container">
+        <div className="relative z-10" style={{ maxWidth: 1280, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
@@ -310,7 +310,7 @@ return (
 
       {/* ═══════════════ INTRODUÇÃO ═══════════════ */}
       <section id="topics" className="section-padding">
-        <div className="container-premium">
+        <div className="" style={{ maxWidth: 1280, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
           <SectionHeading
             label="Guia Completo"
             title="Direito Trabalhista em Detalhes"
@@ -376,7 +376,7 @@ return (
 
       {/* ═══════════════ TÓPICOS DETALHADOS ═══════════════ */}
       <section className="section-padding bg-cream">
-        <div className="container-premium">
+        <div className="" style={{ maxWidth: 1280, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
           <SectionHeading
             label="Conteúdo Detalhado"
             title="Todos os Temas Trabalhistas"
@@ -452,7 +452,7 @@ return (
  <div className="absolute inset-0 " style={{ background: 'radial-gradient(ellipse at center, rgba(201,168,76,0.06) 0%, transparent 60%)' }} />
         <div className="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-gold/30 to-transparent" />
 
-        <div className="relative z-10 container-premium">
+        <div className="relative z-10" style={{ maxWidth: 1280, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <ScrollReveal>
               <span className="inline-block px-4 py-1.5 bg-gold-15 text-gold text-xs font-semibold uppercase tracking-[0.15em] rounded-full mb-5">
@@ -523,7 +523,7 @@ return (
 
       {/* ═══════════════ FAQ ═══════════════ */}
       <section className="section-padding">
-        <div className="container-premium max-w-4xl">
+        <div className="max-w-4xl" style={{ maxWidth: 896, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
           <SectionHeading
             label="FAQ"
             title="Perguntas Frequentes"
@@ -582,7 +582,7 @@ return (
         <div className="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-gold/30 to-transparent" />
         <div className="absolute inset-0"><div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-gold-5 rounded-full blur-[150px]" /></div>
         
-        <div className="relative z-10 container-premium text-center">
+        <div className="relative z-10 text-center" style={{ maxWidth: 1280, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
           <ScrollReveal>
             <span className="inline-block px-4 py-1.5 bg-gold-15 text-gold text-xs font-semibold uppercase tracking-[0.15em] rounded-full mb-5">
               Estamos Prontos para Ajudar

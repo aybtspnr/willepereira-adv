@@ -162,7 +162,7 @@ export default function ServicosPage() {
       />
       <section className="relative pt-32 pb-20 bg-navy overflow-hidden">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,_#1a2634_0%,_#0f1729_100%)]" />
-        <div className="relative z-10 container text-center">
+        <div className="relative z-10 text-center" style={{ maxWidth: 1280, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
           <motion.span
             initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}
             className="inline-block px-4 py-1.5 bg-gold-15 text-gold text-xs font-semibold uppercase tracking-widest rounded-full mb-4"
@@ -185,7 +185,7 @@ export default function ServicosPage() {
       </section>
 
       <section className="py-20 md:py-24">
-        <div className="container space-y-24 lg:space-y-28">
+        <div className="space-y-24 lg:space-y-28" style={{ maxWidth: 1280, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
           {areas.map((area, idx) => (
             <ServiceArea key={area.title} area={{ ...area, icon: iconMap[area.icon] }} idx={idx} />
           ))}

@@ -401,7 +401,7 @@ ${ctaSection(cidade)}`
       {/* Hero */}
       <section className="relative pt-32 pb-20 bg-navy overflow-hidden">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,_#1a2634_0%,_#0f1729_100%)]" />
-        <div className="relative z-10 container text-center">
+        <div className="relative z-10 text-center" style={{ maxWidth: 1280, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
           <motion.span
             initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}
             className="inline-block px-4 py-1.5 bg-gold-15 text-gold text-xs font-semibold uppercase tracking-widest rounded-full mb-4"
@@ -438,7 +438,7 @@ ${ctaSection(cidade)}`
 
       {/* Conteúdo Principal */}
       <section className="py-16 md:py-24">
-        <div className="container max-w-4xl">
+        <div className="max-w-4xl" style={{ maxWidth: 896, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
           <div className="prose max-w-none">
             {content.split('\n').map((line, i) => {
               if (line.startsWith('### ')) {
@@ -495,7 +495,7 @@ ${ctaSection(cidade)}`
           <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-gold-5 rounded-full blur-[150px]" />
         </div>
         <div className="absolute bottom-0 left-0 right-0 h-px" style={{ background: 'linear-gradient(to right, transparent, rgba(201,168,76,0.3), transparent)' }} />
-        <div className="relative z-10 container max-w-3xl pb-16 md:pb-20">
+        <div className="relative z-10 max-w-3xl pb-16 md:pb-20" style={{ maxWidth: 768, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
           <div className="inline-flex items-center gap-2 px-4 py-1.5 bg-gold-10 text-gold text-xs font-semibold uppercase tracking-widest rounded-full mb-6">
             <span className="w-1.5 h-1.5 rounded-full bg-gold animate-pulse" />
             Fale Conosco

@@ -76,7 +76,7 @@ export default function EscritorioPage() {
       <section className="relative pt-32 pb-20 overflow-hidden" style={{ background: 'var(--navy-dark)' }}>
         <div className="absolute inset-0 opacity-10" style={{ backgroundImage: 'radial-gradient(circle at 2px 2px, rgba(201,168,76,0.3) 1px, transparent 0)', backgroundSize: '48px 48px' }} />
         <div className="absolute top-0 right-0 w-96 h-96 opacity-5" style={{ background: 'var(--gold)', filter: 'blur(120px)', borderRadius: '50%' }} />
-        <div className="relative z-10 container text-center">
+        <div className="relative z-10 text-center" style={{ maxWidth: 1280, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
           <motion.span
             initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}
             className="inline-flex items-center gap-3 text-xs font-semibold uppercase tracking-widest rounded-full mb-6"
