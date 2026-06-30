@@ -2,6 +2,7 @@ import type { ReactNode } from 'react'
 import Navbar from './Navbar'
 import Footer from './Footer'
 import ScrollProgress from './ScrollProgress'
+import FloatingButtons from './FloatingButtons'
 
 /* ═══ JSON-LD Structured Data ═══ */
 const structuredData = {
@@ -11,7 +12,7 @@ const structuredData = {
       '@type': 'Organization',
       name: 'Will & Pereira Advocacia',
       url: 'https://willepereira-adv.vercel.app',
-      logo: 'https://willepereira-adv.vercel.app/logo-horizontal.png',
+      logo: 'https://willepereira-adv.vercel.app/logo-horizontal.webp',
       description: 'Escritório de advocacia premium com mais de 15 anos de experiência em Palhoça/SC, atendendo todo o Brasil.',
       contactPoint: {
         '@type': 'ContactPoint',
@@ -30,10 +31,35 @@ const structuredData = {
       },
     },
     {
+      '@type': 'LocalBusiness',
+      name: 'Will & Pereira Advocacia',
+      url: 'https://willepereira-adv.vercel.app',
+      image: 'https://willepereira-adv.vercel.app/logo-horizontal.webp',
+      telephone: '+5548984584181',
+      email: 'advocacia@willepereira.adv.br',
+      address: {
+        '@type': 'PostalAddress',
+        streetAddress: 'Rua Najla Carone Guedert, 1080',
+        addressLocality: 'Palhoça',
+        addressRegion: 'SC',
+        postalCode: '88132-150',
+        addressCountry: 'BR',
+      },
+      geo: {
+        '@type': 'GeoCoordinates',
+        latitude: -27.6403,
+        longitude: -48.6697,
+      },
+      openingHoursSpecification: [
+        { '@type': 'OpeningHoursSpecification', dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'], opens: '09:00', closes: '18:00' },
+      ],
+      priceRange: '$$',
+    },
+    {
       '@type': 'LegalService',
       name: 'Will & Pereira Advocacia',
       url: 'https://willepereira-adv.vercel.app',
-      image: 'https://willepereira-adv.vercel.app/logo-horizontal.png',
+      image: 'https://willepereira-adv.vercel.app/logo-horizontal.webp',
       areaServed: 'BR',
       description: 'Advocacia especializada em Direito Previdenciário, Trabalhista, Cível, Consumidor, Família e Imobiliário.',
       foundingDate: '2011',
@@ -68,6 +94,7 @@ export default function Layout({ children }: { children: ReactNode }) {
       <Navbar />
       <main style={{ flex: 1 }}>{children}</main>
       <Footer />
+      <FloatingButtons />
     </div>
   )
 }

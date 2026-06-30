@@ -1,12 +1,8 @@
 import { useState, useEffect, useRef } from 'react'
 import { Link } from 'react-router-dom'
 import { motion, useScroll, useTransform, useInView } from 'framer-motion'
-import {
-  ArrowRight, Phone, Heart, Briefcase, Building2, Shield, Users, Landmark,
-  Award, Globe, MessageSquare, Clock, Target, CheckCircle, BookOpen, ChevronRight
-} from 'lucide-react'
+import { ArrowRight, Phone, Heart, Briefcase, Building2, Shield, Users, Landmark, Award, Globe, MessageSquare, Clock, Target, BookOpen, ChevronRight } from 'lucide-react'
 import SEO from '../components/SEO'
-import { getAllPosts } from '../data/blogPosts'
 
 /* ═══ Reusable scroll reveal ═══ */
 function Reveal({ children, delay = 0, className = '', style }: { children: React.ReactNode; delay?: number; className?: string; style?: React.CSSProperties }) {
@@ -112,7 +108,11 @@ export default function HomePage() {
   const { scrollYProgress } = useScroll({ target: heroRef })
   const heroY = useTransform(scrollYProgress, [0, 1], [0, 200])
   const heroOpacity = useTransform(scrollYProgress, [0, 0.5], [1, 0])
-  const posts = getAllPosts()
+  const [posts, setPosts] = useState<import('../data/blogPosts').BlogPost[]>([])
+
+  useEffect(() => {
+    import('../data/blogPosts').then(m => m.getAllPosts()).then(setPosts)
+  }, [])
 
   return (
     <div>
@@ -348,7 +348,7 @@ export default function HomePage() {
         <div className="container" style={{ position: 'relative', zIndex: 2 }}>
           <Reveal className="text-center" style={{ marginBottom: '64px' }}>
             <span className="section-tag" style={{ color: 'var(--gold)' }}>Processo</span>
-            <h2 className="section-title text-white" style={{ marginBottom: '16px' }}>Como Funciona</h2>
+            <h1 className="section-title text-white" style={{ marginBottom: '16px' }}>Como Funciona</h1>
             <p className="section-sub mx-auto" style={{ color: 'rgba(255,255,255,0.5)' }}>
               Um processo simples, transparente e focado no seu resultado.
             </p>

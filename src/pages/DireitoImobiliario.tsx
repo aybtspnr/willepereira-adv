@@ -1,15 +1,7 @@
 import { useState, useRef } from 'react'
 import { Link } from 'react-router-dom'
 import { motion, useScroll, useTransform, useInView } from 'framer-motion'
-import {
-  Home, FileText, Scale, Building, Key, Map,
-  ArrowRight, CheckCircle, Landmark, BookOpen,
-  MapPin, Star, Gavel, Shield, Search,
-  ChevronDown, AlertCircle, BadgeCheck, Award,
-  HelpCircle, Phone, UserCheck, Lock, FileSignature,
-  Layers, DollarSign, Receipt, ClipboardCheck,
-  Building2, Trees, Users, BookMarked
-} from 'lucide-react'
+import { FileText, Scale, Building, Key, Map, ArrowRight, MapPin, Gavel, Shield, Search, ChevronDown, BadgeCheck, Award, Phone, FileSignature, Layers, Receipt, ClipboardCheck, Users } from 'lucide-react'
 
 /* ===== ANIMATION VARIANTS ===== */
 const fadeUp = { hidden: { opacity: 0, y: 50 }, visible: { opacity: 1, y: 0, transition: { duration: 0.8, ease: [0.25, 0.1, 0.25, 1] } } }
@@ -371,10 +363,9 @@ const heroRef = useRef<HTMLDivElement>(null)
         canonical="https://willepereira-adv.vercel.app/imobiliario"
       />
       {/* ═══════════════ HERO ═══════════════ */}
-      <section ref={heroRef} className="relative h-screen min-h-[650px] max-h-[1000px] flex items-center overflow-hidden bg-navy-dark">
+      <section ref={heroRef} className="relative h-screen min-h-[650px] max-h-[1000px] flex items-center overflow-hidden bg-navy-dark" role="region" aria-label="Hero Direito Imobiliário">
         {/* Gradient overlays */}
         <div className="absolute inset-0 bg-gradient-to-br from-navy-dark via-navy to-navy-dark" />
-        <div className="absolute inset-0 opacity-[0.04]" style={{ backgroundImage: 'url("data:image/svg+xml,%3Csvg width=\'60\' height=\'60\' viewBox=\'0 0 60 60\' xmlns=\'http://www.w3.org/2000/svg\'%3E%3Cg fill=\'none\' fill-rule=\'evenodd\'%3E%3Cg fill=\'%23c9a84c\' fill-opacity=\'1\'%3E%3Cpath d=\'M30 0L0 30l30 30L60 30z\'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E")' }} />
         <div className="absolute top-1/4 -left-32 w-96 h-96 bg-gold-5 rounded-full blur-[120px]" />
         <div className="absolute bottom-1/4 -right-32 w-80 h-80 bg-gold-3 rounded-full blur-[100px]" />
 
@@ -468,10 +459,10 @@ const heroRef = useRef<HTMLDivElement>(null)
               <span className="inline-block px-4 py-1.5 bg-gold-10 text-gold-dark text-xs font-semibold uppercase tracking-[0.15em] rounded-full mb-5">
                 O que é
               </span>
-              <h2 className="text-3xl md:text-4xl lg:text-5xl text-navy leading-tight mb-6">
+              <h1 className="text-3xl md:text-4xl lg:text-5xl text-navy leading-tight mb-6">
                 Direito<br />
                 <span className="text-gradient-gold">Imobiliário</span>
-              </h2>
+              </h1>
               <div className="gold-divider mb-6" />
               <div className="space-y-4 text-gray-600 leading-relaxed">
                 <p>
@@ -760,7 +751,7 @@ const heroRef = useRef<HTMLDivElement>(null)
       </section>
 
       {/* ═══════════════ NÚMEROS ═══════════════ */}
-      <section className="py-16 md:py-20 bg-navy-dark relative overflow-hidden">
+      <section className="py-24 md:py-28 bg-navy-dark relative overflow-hidden">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,_rgba(201,168,76,0.05)_0%,_transparent_60%)]" />
         <div className="relative z-10 container-premium">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 max-w-4xl mx-auto">
@@ -801,6 +792,7 @@ const heroRef = useRef<HTMLDivElement>(null)
         <div className="absolute inset-0 bg-navy-dark" />
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,_rgba(201,168,76,0.08)_0%,_transparent_60%)]" />
         <div className="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-gold/30 to-transparent" />
+        <div className="absolute inset-0"><div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-gold-5 rounded-full blur-[150px]" /></div>
         
         <div className="relative z-10 container-premium text-center">
           <ScrollReveal>
@@ -816,8 +808,8 @@ const heroRef = useRef<HTMLDivElement>(null)
               imobiliário. Assessoria completa em todo o Brasil.
             </p>
             <div className="flex flex-wrap justify-center gap-4">
-              <Link to="/contato" className="btn-primary text-base px-8 py-4">
-                <Phone size={18} /> Agende uma Conversa
+              <Link to="/contato" className="btn-primary text-base px-8 py-4 shadow-lg shadow-gold/20 hover:shadow-xl hover:shadow-gold/30 group">
+                <Phone size={18} className="group-hover:translate-x-1 transition-transform" /> Agende uma Conversa
               </Link>
               <a href="tel:+5548984584181" className="btn-outline btn-outline-light text-base px-8 py-4">
                 (48) 98458-4181

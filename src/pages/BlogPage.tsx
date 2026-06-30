@@ -1,14 +1,18 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import { motion } from 'framer-motion'
 import { Calendar, User, ChevronRight, Search } from 'lucide-react'
 import SEO from '../components/SEO'
-import { getAllPosts } from '../data/blogPosts'
 
 export default function BlogPage() {
   const [search, setSearch] = useState('')
   const [category, setCategory] = useState('Todas')
-  const posts = getAllPosts()
+  const [posts, setPosts] = useState<import('../data/blogPosts').BlogPost[]>([])
+
+  useEffect(() => {
+    import('../data/blogPosts').then(m => m.getAllPosts()).then(all => setPosts(all.filter(Boolean)))
+  }, [])
+
   const categories = ['Todas', ...new Set(posts.map(p => p.category))]
 
   const filtered = posts.filter(p => {
@@ -107,9 +111,9 @@ export default function BlogPage() {
                       <Calendar size={12} /> {post.date}
                     </span>
                   </div>
-                  <h2 className="font-serif text-xl text-navy mb-3 leading-snug group-hover:text-gold transition-colors">
+                  <h1 className="font-serif text-xl text-navy mb-3 leading-snug group-hover:text-gold transition-colors">
                     <Link to={`/blog/${post.slug}`}>{post.title}</Link>
-                  </h2>
+                  </h1>
                   <p className="text-gray-500 text-sm leading-relaxed mb-5 line-clamp-3">
                     {post.description}
                   </p>

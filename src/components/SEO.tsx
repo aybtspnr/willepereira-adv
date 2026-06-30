@@ -19,10 +19,11 @@ export default function SEO({ title, description, canonical, ogType = 'website' 
       <meta property="og:type" content={ogType} />
       <meta property="og:image" content="https://willepereira-adv.vercel.app/og-image.jpg" />
       <meta property="og:image:width" content="1280" />
-      <meta property="og:image:height" content="1280" />
+      <meta property="og:image:height" content="709" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={description} />
+      <meta name="twitter:image" content="https://willepereira-adv.vercel.app/og-image.jpg" />
     </Helmet>
   )
 }

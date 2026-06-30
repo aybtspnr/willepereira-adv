@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion'
 import { Link } from 'react-router-dom'
-import { ArrowLeft, Shield, FileText, Scale } from 'lucide-react'
+import { ArrowLeft, FileText } from 'lucide-react'
 import SEO from '../components/SEO'
 
 function SectionTitle({ num, title }: { num: string; title: string }) {
@@ -52,7 +52,7 @@ export default function TermosPage() {
       </section>
 
       {/* CONTENT */}
-      <section className="py-16" style={{ background: 'var(--white)' }}>
+      <section className="py-24 md:py-28" style={{ background: 'var(--white)' }}>
         <div className="container max-w-4xl">
           <div className="flex items-center gap-2 mb-8 text-sm" style={{ color: 'var(--gray-400)' }}>
             <FileText size={16} style={{ color: 'var(--gold)' }} />

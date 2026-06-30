@@ -70,8 +70,8 @@ export default function ContatoPage() {
           throw new Error(data.message || 'Erro ao enviar')
         }
       } else {
-        await new Promise(r => setTimeout(r, 1500))
-        setStatus('sent')
+        setStatus('error')
+        setErrorMsg('Formulário temporariamente indisponível. Entre em contato pelo WhatsApp.')
       }
     } catch (err) {
       setStatus('error')
@@ -117,7 +117,7 @@ export default function ContatoPage() {
       </section>
 
       {/* INFO CARDS + FORM */}
-      <section ref={ref} className="py-20" style={{ background: 'var(--white)' }}>
+      <section ref={ref} className="py-24 md:py-28" style={{ background: 'var(--white)' }}>
         <div className="container">
           <div className="grid lg:grid-cols-5 gap-12">
             {/* Left: Contact Info */}
@@ -131,9 +131,9 @@ export default function ContatoPage() {
                 <span className="w-6 h-px" style={{ background: 'var(--gold)' }} />
                 Informações
               </span>
-              <h2 className="font-serif text-3xl mb-8" style={{ color: 'var(--navy)' }}>
+              <h1 className="font-serif text-3xl mb-8" style={{ color: 'var(--navy)' }}>
                 Canais de Atendimento
-              </h2>
+              </h1>
 
               <div className="space-y-4">
                 {contatoInfo.map((item, i) => {
@@ -248,7 +248,7 @@ export default function ContatoPage() {
                 <motion.div
                   initial={{ opacity: 0, scale: 0.95 }}
                   animate={{ opacity: 1, scale: 1 }}
-                  className="rounded-3xl p-12 text-center"
+                  className="rounded-3xl p-12 text-center hover:shadow-xl hover:-translate-y-1 transition-all duration-300"
                   style={{ background: 'var(--cream)' }}
                 >
                   <div className="w-20 h-20 mx-auto mb-6 rounded-full flex items-center justify-center" style={{ background: 'rgba(34,197,94,0.1)' }}>
@@ -267,7 +267,7 @@ export default function ContatoPage() {
                   </button>
                 </motion.div>
               ) : (
-                <form onSubmit={handleSubmit} className="rounded-3xl p-8 md:p-10" style={{ background: 'var(--cream)' }}>
+                <form onSubmit={handleSubmit} className="rounded-3xl p-8 md:p-10" aria-label="Formulário de contato" style={{ background: 'var(--cream)' }}>
                   <div className="flex items-center gap-3 mb-6">
                     <MessageSquare size={20} style={{ color: 'var(--gold)' }} />
                     <h3 className="font-serif text-2xl" style={{ color: 'var(--navy)' }}>Envie sua Mensagem</h3>
@@ -283,8 +283,9 @@ export default function ContatoPage() {
                   <div className="space-y-5">
                     <div className="grid sm:grid-cols-2 gap-5">
                       <div>
-                        <label className="block text-sm font-medium mb-2" style={{ color: 'var(--navy)' }}>Nome completo *</label>
+                        <label htmlFor="nome" className="block text-sm font-medium mb-2" style={{ color: 'var(--navy)' }}>Nome completo *</label>
                         <input
+                          id="nome"
                           required
                           type="text"
                           value={form.nome}
@@ -294,8 +295,9 @@ export default function ContatoPage() {
                         />
                       </div>
                       <div>
-                        <label className="block text-sm font-medium mb-2" style={{ color: 'var(--navy)' }}>Email *</label>
+                        <label htmlFor="email" className="block text-sm font-medium mb-2" style={{ color: 'var(--navy)' }}>Email *</label>
                         <input
+                          id="email"
                           required
                           type="email"
                           value={form.email}
@@ -308,8 +310,9 @@ export default function ContatoPage() {
 
                     <div className="grid sm:grid-cols-2 gap-5">
                       <div>
-                        <label className="block text-sm font-medium mb-2" style={{ color: 'var(--navy)' }}>Telefone</label>
+                        <label htmlFor="telefone" className="block text-sm font-medium mb-2" style={{ color: 'var(--navy)' }}>Telefone</label>
                         <input
+                          id="telefone"
                           type="tel"
                           value={form.telefone}
                           onChange={e => setForm({ ...form, telefone: e.target.value })}
@@ -318,8 +321,9 @@ export default function ContatoPage() {
                         />
                       </div>
                       <div>
-                        <label className="block text-sm font-medium mb-2" style={{ color: 'var(--navy)' }}>Assunto *</label>
+                        <label htmlFor="assunto" className="block text-sm font-medium mb-2" style={{ color: 'var(--navy)' }}>Assunto *</label>
                         <select
+                          id="assunto"
                           required
                           value={form.assunto}
                           onChange={e => setForm({ ...form, assunto: e.target.value })}
@@ -339,8 +343,9 @@ export default function ContatoPage() {
                     </div>
 
                     <div>
-                      <label className="block text-sm font-medium mb-2" style={{ color: 'var(--navy)' }}>Mensagem *</label>
+                      <label htmlFor="mensagem" className="block text-sm font-medium mb-2" style={{ color: 'var(--navy)' }}>Mensagem *</label>
                       <textarea
+                        id="mensagem"
                         required
                         rows={5}
                         value={form.mensagem}
@@ -381,7 +386,7 @@ export default function ContatoPage() {
       </section>
 
       {/* MAP SECTION */}
-      <section className="py-20" style={{ background: 'var(--navy-dark)' }}>
+      <section className="py-24 md:py-28" style={{ background: 'var(--navy-dark)' }}>
         <div className="container">
           <ScrollReveal className="text-center mb-12">
             <span className="inline-flex items-center gap-3 text-xs font-semibold uppercase tracking-widest mb-4" style={{ color: 'var(--gold)' }}>

@@ -24,26 +24,29 @@ function ServiceArea({ area, idx }: AreaProps) {
       initial={{ opacity: 0, y: 40 }}
       animate={isInView ? { opacity: 1, y: 0 } : {}}
       transition={{ duration: 0.6 }}
-      className={`grid md:grid-cols-2 gap-10 items-center ${idx % 2 === 1 ? '' : ''}`}
+      className={`grid md:grid-cols-2 gap-10 lg:gap-14 items-center ${idx % 2 === 1 ? '' : ''}`}
     >
-      <div className={`rounded-2xl p-8 ${idx % 2 === 1 ? 'md:order-2' : ''}`} style={{ background: area.cor, border: '1px solid ' + (area.cor + '80') }}>
-        <div className={`w-16 h-16 rounded-xl flex items-center justify-center mb-5`} style={{ background: area.iconBg }}>
-          <area.icon className="w-8 h-8 text-navy" />
+      <div className={`rounded-2xl p-8 lg:p-10 ${idx % 2 === 1 ? 'md:order-2' : ''} relative group transition-all duration-500 hover:shadow-2xl hover:-translate-y-1`} style={{ background: `linear-gradient(135deg, ${area.cor}, white)`, border: '1px solid ' + (area.cor + '80') }}>
+        <div className="absolute -inset-0.5 bg-gradient-to-r from-transparent via-gold/20 to-transparent rounded-2xl opacity-0 group-hover:opacity-100 transition-opacity duration-500 blur-sm" />
+        <div className="relative">
+          <div className={`w-16 h-16 rounded-xl flex items-center justify-center mb-5 shadow-lg transition-transform duration-300 group-hover:scale-110`} style={{ background: area.iconBg }}>
+            <area.icon className="w-8 h-8 text-navy" />
+          </div>
+          <h1 className="font-serif text-2xl md:text-3xl text-navy mb-4">{area.title}</h1>
+          <p className="text-gray-600 mb-6 leading-relaxed">{area.desc}</p>
+          <Link
+            to="/contato"
+            className="group/btn inline-flex items-center gap-2 px-6 py-2.5 bg-navy text-white text-sm rounded-full hover:bg-navy-light transition-all duration-300 shadow-md hover:shadow-lg"
+          >
+            Consultar Advogado <ArrowRight size={14} className="group-hover/btn:translate-x-1 transition-transform" />
+          </Link>
         </div>
-        <h2 className="font-serif text-2xl md:text-3xl text-navy mb-4">{area.title}</h2>
-        <p className="text-gray-600 mb-6">{area.desc}</p>
-        <Link
-          to="/contato"
-          className="inline-flex items-center gap-2 px-6 py-2.5 bg-navy text-white text-sm rounded-full hover:bg-navy-light transition-all duration-300"
-        >
-          Consultar Advogado <ArrowRight size={14} />
-        </Link>
       </div>
       <div className={`grid sm:grid-cols-2 gap-3 ${idx % 2 === 1 ? 'md:order-1' : ''}`}>
         {area.topics.map(topic => (
-          <div key={topic} className="flex items-start gap-2 p-3 rounded-lg hover:bg-cream transition-colors">
-            <CheckCircle size={16} className="text-gold mt-0.5 shrink-0" />
-            <span className="text-sm text-navy">{topic}</span>
+          <div key={topic} className="flex items-start gap-2.5 p-3.5 rounded-xl bg-white/70 backdrop-blur-sm border border-gray-100/50 hover:border-gold/30 hover:shadow-lg hover:shadow-gold/5 transition-all duration-300 group/topic">
+            <CheckCircle size={16} className="text-gold mt-0.5 shrink-0 group-hover/topic:scale-110 transition-transform" />
+            <span className="text-sm text-navy font-medium">{topic}</span>
           </div>
         ))}
       </div>
@@ -181,21 +184,11 @@ export default function ServicosPage() {
         </div>
       </section>
 
-      <section className="py-20">
-        <div className="container space-y-24-mobile-16 space-y-24">
+      <section className="py-20 md:py-24">
+        <div className="container space-y-24 lg:space-y-28">
           {areas.map((area, idx) => (
             <ServiceArea key={area.title} area={{ ...area, icon: iconMap[area.icon] }} idx={idx} />
           ))}
-        </div>
-      </section>
-
-      <section className="bg-navy py-16 text-center">
-        <div className="container max-w-2xl">
-          <h2 className="font-serif text-3xl text-white mb-4">Não encontrou seu caso?</h2>
-          <p className="text-gray-300 mb-8">Entre em contato. Analisamos cada situação individualmente.</p>
-          <Link to="/contato" className="inline-flex items-center gap-2 px-8 py-3.5 bg-gold text-navy font-semibold rounded-full hover:bg-gold-light transition-all duration-300">
-            Fale Conosco <ArrowRight size={18} />
-          </Link>
         </div>
       </section>
     </div>

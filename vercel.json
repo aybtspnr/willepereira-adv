@@ -8,6 +8,7 @@
     { "source": "/direito-civel", "destination": "/civel", "permanent": true },
     { "source": "/direito-consumidor", "destination": "/consumidor", "permanent": true },
     { "source": "/direito-familia", "destination": "/familia", "permanent": true },
-    { "source": "/direito-imobiliario", "destination": "/imobiliario", "permanent": true }
+    { "source": "/direito-imobiliario", "destination": "/imobiliario", "permanent": true },
+    { "source": "/blog/advogado-em-:slug", "destination": "/cidade/advogado-em-:slug", "permanent": true }
   ]
 }

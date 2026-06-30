@@ -1,4 +1,15 @@
+@import "tailwindcss";
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Inter:wght@200;300;400;500;600;700&display=swap');
+
+@theme {
+  --color-gold: #c9a84c;
+  --color-gold-light: #d4b96a;
+  --color-gold-dark: #b8942e;
+  --color-navy: #1a2634;
+  --color-navy-dark: #0f1729;
+  --color-navy-light: #2a3a4f;
+  --color-cream: #faf8f5;
+}
 
 :root {
   --navy: #1a2634;
@@ -112,12 +123,17 @@ input, textarea, select { font: inherit; color: inherit; }
   .md\\:items-center { align-items: center; }
   .md\\:justify-between { justify-content: space-between; }
   .md\\:py-6 { padding-top: 24px; padding-bottom: 24px; }
+  .md\\:pb-20 { padding-bottom: 80px; }
+  .md\\:space-y-28 > * + * { margin-top: 7rem; }
+  .md\\:gap-14 { gap: 3.5rem; }
 }
 @media (min-width: 1024px) {
   .lg\\:grid-cols-2 { grid-template-columns: repeat(2, 1fr); }
   .lg\\:grid-cols-3 { grid-template-columns: repeat(3, 1fr); }
   .lg\\:grid-cols-4 { grid-template-columns: repeat(4, 1fr); }
   .lg\\:flex-row { flex-direction: row; }
+  .lg\\:space-y-28 > * + * { margin-top: 7rem; }
+  .lg\\:gap-14 { gap: 3.5rem; }
 }
 
 /* ═══ CONTAINER ═══ */
@@ -915,4 +931,16 @@ input, textarea, select { font: inherit; color: inherit; }
     width: 48px;
     height: 48px;
   }
+}
+
+/* Skeleton loading animation */
+.skeleton-line {
+  background: linear-gradient(90deg, rgba(26,38,52,0.06) 25%, rgba(26,38,52,0.12) 50%, rgba(26,38,52,0.06) 75%);
+  background-size: 200% 100%;
+  animation: skeleton-shimmer 1.5s ease-in-out infinite;
+  border-radius: 8px;
+}
+@keyframes skeleton-shimmer {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
 }

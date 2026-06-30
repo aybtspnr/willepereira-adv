@@ -1,6 +1,6 @@
 import { useRef } from 'react'
 import { motion, useInView } from 'framer-motion'
-import { ArrowRight, CheckCircle, FileText, Scale, FileSignature, Landmark, Home, Key, BookOpen, Building2, Users, ClipboardList } from 'lucide-react'
+import { ArrowRight, CheckCircle, FileText, Scale, FileSignature, Landmark, Key, BookOpen, Building2, Users, ClipboardList } from 'lucide-react'
 import { Link } from 'react-router-dom'
 
 /* ===== ANIMATION ===== */
@@ -155,7 +155,7 @@ return (
         canonical="https://willepereira-adv.vercel.app/civel"
       />
       {/* ═══════ HERO ═══════ */}
-      <section className="relative pt-32 pb-20 bg-navy overflow-hidden">
+      <section className="relative pt-32 pb-20 bg-navy overflow-hidden" role="region" aria-label="Hero Direito Cível">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,_#1a2634_0%,_#0f1729_100%)]" />
         <div className="absolute top-1/4 -left-32 w-96 h-96 bg-emerald-500/5 rounded-full blur-[120px]" />
         <div className="absolute bottom-1/4 -right-32 w-80 h-80 bg-emerald-500/3 rounded-full blur-[100px]" />
@@ -198,9 +198,9 @@ return (
               <span className="inline-block px-4 py-1.5 bg-emerald-500/10 text-emerald-700 text-xs font-semibold uppercase tracking-[0.15em] rounded-full mb-5">
                 Visão Geral
               </span>
-              <h2 className="text-3xl md:text-4xl lg:text-5xl text-navy leading-tight mb-6">
+              <h1 className="text-3xl md:text-4xl lg:text-5xl text-navy leading-tight mb-6">
                 O Que é o <span className="text-gradient-gold">Direito Cível</span>
-              </h2>
+              </h1>
               <div className="gold-divider mb-6" />
             </ScrollReveal>
             <ScrollReveal delay={0.1}>
@@ -254,22 +254,23 @@ return (
       </section>
 
       {/* ═══════ CTA ═══════ */}
-      <section className="relative py-20 bg-navy overflow-hidden">
+      <section className="relative py-24 md:py-28 bg-navy overflow-hidden">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_bottom_left,_rgba(16,185,129,0.06)_0%,_transparent_60%)]" />
+        <div className="absolute top-0 left-1/3 w-72 h-72 bg-gold-5 rounded-full blur-[100px]" />
         <div className="relative z-10 container-premium text-center">
           <ScrollReveal>
-            <span className="inline-block px-4 py-1.5 bg-emerald-500/15 text-emerald-400 text-xs font-semibold uppercase tracking-widest rounded-full mb-4">
+            <span className="inline-block px-5 py-1.5 bg-emerald-500/15 text-emerald-400 text-xs font-semibold uppercase tracking-widest rounded-full mb-5 border border-emerald-500/20">
               Atendimento Personalizado
             </span>
             <h2 className="font-serif text-3xl md:text-4xl lg:text-5xl text-white leading-tight mb-4">
               Precisa de Ajuda com <span className="text-gradient-gold">Direito Cível</span>?
             </h2>
-            <p className="text-gray-300 max-w-2xl mx-auto mb-8 text-base md:text-lg">
+            <p className="text-gray-300 max-w-2xl mx-auto mb-10 text-base md:text-lg leading-relaxed">
               Nossa equipe está pronta para analisar seu caso e oferecer a melhor estratégia jurídica. 
               Entre em contato e agende uma consulta.
             </p>
-            <Link to="/contato" className="inline-flex items-center gap-2 px-8 py-3.5 bg-gold text-navy font-semibold rounded-full hover:bg-gold-light transition-all duration-300">
-              Solicitar Atendimento <ArrowRight size={18} />
+            <Link to="/contato" className="group inline-flex items-center gap-3 px-10 py-4 bg-gold text-navy font-semibold rounded-full hover:bg-gold-light transition-all duration-300 shadow-lg shadow-gold/20 hover:shadow-xl hover:shadow-gold/30">
+              Solicitar Atendimento <ArrowRight size={18} className="group-hover:translate-x-1 transition-transform" />
             </Link>
           </ScrollReveal>
         </div>
@@ -375,14 +376,29 @@ return (
       </section>
 
       {/* ═══════ FINAL CTA ═══════ */}
-      <section className="py-16 bg-navy-dark">
-        <div className="container-premium text-center">
-          <p className="text-gray-400 text-sm mb-4">
-            Will & Pereira Advocacia — Especialistas em Direito Cível
-          </p>
-          <p className="text-gray-500 text-xs">
-            OAB/SC • Atendimento em todo o Brasil • (48) 98458-4181
-          </p>
+      <section className="relative py-24 md:py-28 bg-gradient-to-b from-navy via-navy-dark to-navy text-center overflow-hidden">
+        <div className="absolute inset-0">
+          <div className="absolute top-0 left-1/4 w-80 h-80 bg-gold-5 rounded-full blur-[120px]" />
+          <div className="absolute bottom-0 right-1/4 w-96 h-96 bg-gold-5 rounded-full blur-[150px]" />
+        </div>
+        <div className="relative z-10 container-premium">
+          <span className="inline-block px-5 py-1.5 bg-gold-10 text-gold text-xs font-semibold uppercase tracking-widest rounded-full mb-6 border border-gold/20">
+            Will & Pereira Advocacia
+          </span>
+          <h2 className="font-serif text-3xl md:text-4xl text-white leading-tight mb-3">
+            Especialistas em <span className="text-gradient-gold">Direito Cível</span>
+          </h2>
+          <div className="flex flex-wrap items-center justify-center gap-x-6 gap-y-2 text-gray-400 text-sm mt-6 mb-8">
+            <span className="flex items-center gap-2"><span className="w-1.5 h-1.5 rounded-full bg-gold" /> OAB/SC</span>
+            <span className="flex items-center gap-2"><span className="w-1.5 h-1.5 rounded-full bg-gold" /> Atendimento em todo o Brasil</span>
+            <span className="flex items-center gap-2"><span className="w-1.5 h-1.5 rounded-full bg-gold" /> (48) 98458-4181</span>
+          </div>
+          <Link
+            to="/contato"
+            className="group inline-flex items-center gap-3 px-10 py-4 bg-gold text-navy font-semibold rounded-full hover:bg-gold-light transition-all duration-300 shadow-lg shadow-gold/20 hover:shadow-xl hover:shadow-gold/30"
+          >
+            Solicitar Atendimento <ArrowRight size={18} className="group-hover:translate-x-1 transition-transform" />
+          </Link>
         </div>
       </section>
     </div>

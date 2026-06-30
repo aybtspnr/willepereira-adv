@@ -1,6 +1,5 @@
 import { lazy, Suspense } from 'react'
-import { Routes, Route, useLocation } from 'react-router-dom'
-import { AnimatePresence } from 'framer-motion'
+import { Routes, Route } from 'react-router-dom'
 import Layout from './components/Layout'
 import AnimatedPage from './components/AnimatedPage'
 
@@ -18,6 +17,8 @@ const BlogPostPage = lazy(() => import('./pages/BlogPostPage'))
 const EscritorioPage = lazy(() => import('./pages/EscritorioPage'))
 const TermosPage = lazy(() => import('./pages/TermosPage'))
 const PrivacidadePage = lazy(() => import('./pages/PrivacidadePage'))
+const CidadePage = lazy(() => import('./pages/CidadePage'))
+const NotFoundPage = lazy(() => import('./pages/NotFoundPage'))
 
 function PageLoader() {
   return (
@@ -34,29 +35,27 @@ function PageLoader() {
 }
 
 export default function App() {
-  const location = useLocation()
-
   return (
     <Layout>
       <Suspense fallback={<PageLoader />}>
-        <AnimatePresence mode="wait">
-          <Routes location={location} key={location.pathname}>
-            <Route path="/" element={<AnimatedPage><HomePage /></AnimatedPage>} />
-            <Route path="/servicos" element={<AnimatedPage><ServicosPage /></AnimatedPage>} />
-            <Route path="/previdenciario" element={<AnimatedPage><DireitoPrevidenciario /></AnimatedPage>} />
-            <Route path="/trabalhista" element={<AnimatedPage><DireitoTrabalhista /></AnimatedPage>} />
-            <Route path="/civel" element={<AnimatedPage><DireitoCivelPage /></AnimatedPage>} />
-            <Route path="/familia" element={<AnimatedPage><DireitoFamilia /></AnimatedPage>} />
-            <Route path="/consumidor" element={<AnimatedPage><DireitoConsumidor /></AnimatedPage>} />
-            <Route path="/imobiliario" element={<AnimatedPage><DireitoImobiliario /></AnimatedPage>} />
-            <Route path="/contato" element={<AnimatedPage><ContatoPage /></AnimatedPage>} />
-            <Route path="/blog" element={<AnimatedPage><BlogPage /></AnimatedPage>} />
-            <Route path="/blog/:slug" element={<AnimatedPage><BlogPostPage /></AnimatedPage>} />
-            <Route path="/escritorio" element={<AnimatedPage><EscritorioPage /></AnimatedPage>} />
-            <Route path="/termos" element={<AnimatedPage><TermosPage /></AnimatedPage>} />
-            <Route path="/privacidade" element={<AnimatedPage><PrivacidadePage /></AnimatedPage>} />
-          </Routes>
-        </AnimatePresence>
+        <Routes>
+          <Route path="/" element={<AnimatedPage><HomePage /></AnimatedPage>} />
+          <Route path="/servicos" element={<AnimatedPage><ServicosPage /></AnimatedPage>} />
+          <Route path="/previdenciario" element={<AnimatedPage><DireitoPrevidenciario /></AnimatedPage>} />
+          <Route path="/trabalhista" element={<AnimatedPage><DireitoTrabalhista /></AnimatedPage>} />
+          <Route path="/civel" element={<AnimatedPage><DireitoCivelPage /></AnimatedPage>} />
+          <Route path="/familia" element={<AnimatedPage><DireitoFamilia /></AnimatedPage>} />
+          <Route path="/consumidor" element={<AnimatedPage><DireitoConsumidor /></AnimatedPage>} />
+          <Route path="/imobiliario" element={<AnimatedPage><DireitoImobiliario /></AnimatedPage>} />
+          <Route path="/contato" element={<AnimatedPage><ContatoPage /></AnimatedPage>} />
+          <Route path="/blog" element={<AnimatedPage><BlogPage /></AnimatedPage>} />
+          <Route path="/blog/:slug" element={<AnimatedPage><BlogPostPage /></AnimatedPage>} />
+          <Route path="/escritorio" element={<AnimatedPage><EscritorioPage /></AnimatedPage>} />
+          <Route path="/termos" element={<AnimatedPage><TermosPage /></AnimatedPage>} />
+          <Route path="/privacidade" element={<AnimatedPage><PrivacidadePage /></AnimatedPage>} />
+          <Route path="/cidade/:slug" element={<AnimatedPage><CidadePage /></AnimatedPage>} />
+          <Route path="*" element={<AnimatedPage><NotFoundPage /></AnimatedPage>} />
+        </Routes>
       </Suspense>
     </Layout>
   )

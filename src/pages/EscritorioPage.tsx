@@ -1,6 +1,6 @@
 import { useRef } from 'react'
 import { motion, useInView } from 'framer-motion'
-import { Award, Users, Scale, Heart, Shield, Clock, MapPin, Phone, Mail, ArrowRight, CheckCircle, BookOpen, Briefcase, Target, Globe, Star, Quote } from 'lucide-react'
+import { Users, Scale, Heart, Shield, Clock, MapPin, Phone, ArrowRight, Briefcase, Target, Globe, Star, Quote } from 'lucide-react'
 import { Link } from 'react-router-dom'
 import SEO from '../components/SEO'
 
@@ -122,7 +122,7 @@ export default function EscritorioPage() {
       </section>
 
       {/* SOBRE */}
-      <section className="py-20" style={{ background: 'var(--white)' }}>
+      <section className="py-24 md:py-28" style={{ background: 'var(--white)' }}>
         <div className="container">
           <div className="grid lg:grid-cols-2 gap-16 items-center">
             <ScrollReveal>
@@ -130,9 +130,9 @@ export default function EscritorioPage() {
                 <span className="w-6 h-px" style={{ background: 'var(--gold)' }} />
                 Quem Somos
               </span>
-              <h2 className="font-serif text-3xl md:text-4xl leading-tight mb-6" style={{ color: 'var(--navy)' }}>
+              <h1 className="font-serif text-3xl md:text-4xl leading-tight mb-6" style={{ color: 'var(--navy)' }}>
                 Compromisso com a justiça desde 2011
-              </h2>
+              </h1>
               <div className="space-y-4" style={{ color: 'var(--gray-600)' }}>
                 <p className="leading-relaxed">
                   O escritório <strong style={{ color: 'var(--navy)' }}>Will & Pereira Advocacia</strong> foi fundado com o propósito de oferecer serviços jurídicos de excelência, pautados pela ética, transparência e compromisso com os resultados dos nossos clientes.
@@ -178,7 +178,7 @@ export default function EscritorioPage() {
       </section>
 
       {/* DEPOIMENTOS */}
-      <section className="py-20" style={{ background: 'var(--navy-dark)' }}>
+      <section className="py-24 md:py-28" style={{ background: 'var(--navy-dark)' }}>
         <div className="container">
           <ScrollReveal className="text-center mb-12">
             <span className="inline-flex items-center gap-3 text-xs font-semibold uppercase tracking-widest mb-4" style={{ color: 'var(--gold)' }}>
@@ -209,7 +209,7 @@ export default function EscritorioPage() {
       </section>
 
       {/* ÁREAS DE ATUAÇÃO */}
-      <section className="py-20" style={{ background: 'var(--cream)' }}>
+      <section className="py-24 md:py-28" style={{ background: 'var(--cream)' }}>
         <div className="container">
           <ScrollReveal className="text-center mb-12">
             <span className="inline-flex items-center gap-3 text-xs font-semibold uppercase tracking-widest mb-4" style={{ color: 'var(--gold)' }}>
@@ -227,7 +227,7 @@ export default function EscritorioPage() {
               const Icon = area.icon
               return (
                 <ScrollReveal key={area.title} delay={i * 0.08}>
-                  <div className="bg-white rounded-3xl p-6 border border-gray-100 hover:border-gray-200 transition-all h-full group">
+                  <div className="bg-white rounded-3xl p-6 border border-gray-100 hover:border-gold/30 hover:shadow-xl hover:-translate-y-1 transition-all duration-500 h-full group">
                     <div className="w-14 h-14 rounded-2xl flex items-center justify-center mb-5 transition-colors" style={{ background: 'rgba(201,168,76,0.1)' }}>
                       <Icon size={24} style={{ color: 'var(--gold)' }} />
                     </div>
@@ -242,16 +242,17 @@ export default function EscritorioPage() {
       </section>
 
       {/* CTA */}
-      <section className="py-20" style={{ background: 'var(--navy-dark)' }}>
-        <div className="container max-w-4xl text-center">
+      <section className="py-24 md:py-28" style={{ background: 'var(--navy-dark)' }}>
+        <div className="absolute inset-0"><div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-gold-5 rounded-full blur-[150px]" /></div>
+        <div className="container max-w-4xl text-center relative z-10">
           <ScrollReveal>
             <h2 className="font-serif text-3xl md:text-4xl text-white mb-4">Pronto para Cuidar dos Seus Direitos?</h2>
             <p className="text-gray-300 mb-8 max-w-2xl mx-auto text-lg">
               Entre em contato e agende uma orientação jurídica. Estamos prontos para ajudar.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Link to="/contato" className="inline-flex items-center justify-center gap-2 px-8 py-4 rounded-full font-semibold text-sm transition-all" style={{ background: 'var(--gold)', color: 'var(--navy-dark)' }}>
-                <Phone size={16} /> Fale Conosco
+              <Link to="/contato" className="inline-flex items-center justify-center gap-2 px-8 py-4 rounded-full font-semibold text-sm transition-all shadow-lg shadow-gold/20 hover:shadow-xl hover:shadow-gold/30 group" style={{ background: 'var(--gold)', color: 'var(--navy-dark)' }}>
+                <Phone size={16} className="group-hover:translate-x-1 transition-transform" /> Fale Conosco
               </Link>
               <a href="https://wa.me/5548984584181" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center gap-2 px-8 py-4 rounded-full font-semibold text-sm border transition-all hover:bg-white/5" style={{ borderColor: 'rgba(255,255,255,0.2)', color: 'white' }}>
                 WhatsApp

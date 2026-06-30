@@ -225,9 +225,8 @@ return (
         canonical="https://willepereira-adv.vercel.app/consumidor"
       />
       {/* ═══════════════ HERO ═══════════════ */}
-      <section className="relative pt-32 pb-24 md:pb-32 bg-navy overflow-hidden">
-        <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,_#1a2634_0%,_#0f1729_100%)]" />
-        <div className="absolute inset-0 opacity-[0.04]" style={{ backgroundImage: 'url("data:image/svg+xml,%3Csvg width=\'80\' height=\'80\' viewBox=\'0 0 80 80\' xmlns=\'http://www.w3.org/2000/svg\'%3E%3Cg fill=\'none\' fill-rule=\'evenodd\'%3E%3Cg fill=\'%23c9a84c\' fill-opacity=\'1\'%3E%3Cpath d=\'M40 0L0 40l40 40L80 40z\'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E")' }} />
+<section className="relative pt-32 pb-20 overflow-hidden" role="region" aria-label="Hero Direito do Consumidor">
+ <div className="absolute inset-0 " style={{ background: 'radial-gradient(ellipse at top right, #1a2634 0%, #0f1729 100%)' }} />
         <div className="absolute top-1/4 -left-40 w-96 h-96 bg-gold-5 rounded-full blur-[120px]" />
         <div className="absolute bottom-1/4 -right-32 w-80 h-80 bg-gold-3 rounded-full blur-[100px]" />
 
@@ -397,7 +396,7 @@ return (
                 >
                   {/* Icon and highlights sidebar */}
                   <div className={`lg:col-span-2 ${idx % 2 === 1 ? 'lg:col-start-4' : ''}`}>
-                    <div className="bg-white rounded-2xl p-6 md:p-8 border border-gray-100 shadow-lg shadow-navy/5 sticky top-28">
+                    <div className="bg-white rounded-2xl p-6 md:p-8 border border-gray-100 shadow-lg shadow-navy/5 sticky top-28 group hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
                       <div className="w-14 h-14 rounded-xl bg-navy flex items-center justify-center mb-5">
                         <Icon className="w-7 h-7 text-gold" />
                       </div>
@@ -446,7 +445,7 @@ return (
       {/* ═══════════════ IMPORTÂNCIA DO ADVOGADO ═══════════════ */}
       <section className="section-padding relative overflow-hidden">
         <div className="absolute inset-0 bg-navy-dark" />
-        <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,_rgba(201,168,76,0.06)_0%,_transparent_60%)]" />
+ <div className="absolute inset-0 " style={{ background: 'radial-gradient(ellipse at center, rgba(201,168,76,0.06) 0%, transparent 60%)' }} />
         <div className="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-gold/30 to-transparent" />
 
         <div className="relative z-10 container-premium">
@@ -455,10 +454,10 @@ return (
               <span className="inline-block px-4 py-1.5 bg-gold-15 text-gold text-xs font-semibold uppercase tracking-[0.15em] rounded-full mb-5">
                 Por Que Contratar um Advogado
               </span>
-              <h2 className="font-serif text-3xl md:text-4xl text-white leading-tight mb-6">
+              <h1 className="font-serif text-3xl md:text-4xl text-white leading-tight mb-6">
                 Defesa Técnica e<br />
                 <span className="text-gradient-gold">Estratégica</span>
-              </h2>
+              </h1>
               <div className="w-16 h-px bg-gold-50 mb-6" />
               <div className="space-y-4 text-gray-300 leading-relaxed">
                 <p>
@@ -485,7 +484,7 @@ return (
 
             <ScrollReveal delay={0.2}>
               <div className="relative">
-                <div className="bg-white rounded-2xl p-6 md:p-8 border border-gray-100 shadow-xl">
+                <div className="bg-white rounded-2xl p-6 md:p-8 border border-gray-100 shadow-xl hover:shadow-2xl hover:-translate-y-1 transition-all duration-300">
                   <h3 className="font-serif text-2xl text-navy mb-6">Nossa Atuação</h3>
                   <div className="space-y-4">
                     {[
@@ -576,8 +575,9 @@ return (
       {/* ═══════════════ CTA ═══════════════ */}
       <section className="section-padding relative overflow-hidden">
         <div className="absolute inset-0 bg-navy-dark" />
-        <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,_rgba(201,168,76,0.08)_0%,_transparent_60%)]" />
+ <div className="absolute inset-0 " style={{ background: 'radial-gradient(ellipse at center, rgba(201,168,76,0.08) 0%, transparent 60%)' }} />
         <div className="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-gold/30 to-transparent" />
+        <div className="absolute inset-0"><div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-gold-5 rounded-full blur-[150px]" /></div>
         
         <div className="relative z-10 container-premium text-center">
           <ScrollReveal>
@@ -593,8 +593,8 @@ return (
               Analisamos seu caso com a excelência e dedicação que você merece.
             </p>
             <div className="flex flex-wrap justify-center gap-4">
-              <Link to="/contato" className="btn-primary text-base px-8 py-4">
-                <Phone size={18} /> Fale Conosco
+              <Link to="/contato" className="btn-primary text-base px-8 py-4 shadow-lg shadow-gold/20 hover:shadow-xl hover:shadow-gold/30 group">
+                <Phone size={18} className="group-hover:translate-x-1 transition-transform" /> Fale Conosco
               </Link>
               <a href="#topics" className="btn-outline btn-outline-light text-base px-8 py-4">
                 <BookOpen size={18} /> Ver Todos os Temas

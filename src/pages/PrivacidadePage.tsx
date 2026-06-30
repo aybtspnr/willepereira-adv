@@ -69,7 +69,7 @@ export default function PrivacidadePage() {
       </section>
 
       {/* CONTENT */}
-      <section className="py-16" style={{ background: 'var(--white)' }}>
+      <section className="py-24 md:py-28" style={{ background: 'var(--white)' }}>
         <div className="container max-w-4xl">
           <div className="flex items-center gap-2 mb-8 text-sm" style={{ color: 'var(--gray-400)' }}>
             <FileText size={16} style={{ color: 'var(--gold)' }} />
