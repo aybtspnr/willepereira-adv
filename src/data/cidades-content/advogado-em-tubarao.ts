@@ -1,27 +1,65 @@
 export default {
-  heroTitle: 'Advogado em Tubarão — Consultoria Jurídica',
-  heroDescription: 'Advogado em Tubarão com mais de 15 anos de experiência. Will & Pereira Advocacia oferece soluções jurídicas personalizadas para pessoas físicas e empresas em Tubarão e região.',
-  introParagraphs: [
-    'Moradores de Tubarão que buscam segurança jurídica encontram na Will & Pereira Advocacia o parceiro ideal. Nossa equipe combina experiência de mais de 15 anos com um atendimento próximo e dedicado, atendendo todas as necessidades legais da população local.',
-    'Em Tubarão, entendemos que cada situação jurídica é única. Por isso, oferecemos um atendimento personalizado, ouvindo cada cliente e construindo estratégias sob medida para alcançar os melhores resultados possíveis na região.',
+  "heroTitle": "Advogado em Tubarão: Assessoria Jurídica Especializada em Santa Catarina",
+  "heroDescription": "Precisa de um advogado em Tubarão/SC? Nossa equipe está pronta para oferecer a melhor estratégia jurídica para o seu caso.",
+  "introParagraphs": [
+    "A busca por um advogado de confiança em Tubarão/SC é constante. Questões trabalhistas, previdenciárias, familiares e imobiliárias surgem no cotidiano e precisam de orientação especializada. A Will & Pereira Advocacia, com mais de 15 anos de atuação, é referência no atendimento jurídico para moradores de Tubarão e região.\n\nTubarão é uma cidade com economia dinâmica localizada em Santa Catarina, com economia baseada em indústria, agronegócio e turismo. Essas características geram demandas jurídicas que exigem conhecimento aprofundado da legislação e da jurisprudência.\n\nNossa equipe multidisciplinar oferece assessoria completa em todas as áreas do Direito, com atendimento personalizado e foco nos melhores resultados para cada cliente em Tubarão."
   ],
-  areaContent: {
-    previdenciario: 'O Direito Previdenciário em Tubarão é uma das áreas mais procuradas, especialmente entre trabalhadores que buscam aposentadoria, auxílio-doença e pensão por morte. Com a reforma da previdência, muitas regras mudaram e é fundamental ter orientação especializada para não perder benefícios. Em Tubarão, muitos trabalhadores da área de Indústria, Comércio e Serviços não conhecem todos os direitos que possuem junto ao INSS. A Will & Pereira Advocacia realiza análise completa do histórico contributivo para identificar a melhor estratégia de aposentadoria, considerando regras de transição e direito adquirido. Atuamos na conquista de aposentadoria por idade, por tempo de contribuição, aposentadoria especial e BPC/LOAS. Quando o INSS nega ou concede valor inferior ao devido, nossa equipe entra com revisões administrativas e ações judiciais para garantir o benefício correto. Em Tubarão, já ajudamos centenas de trabalhadores a conquistarem aposentadorias mais vantajosas e auxílios-doença que haviam sido negados injustamente. O planejamento previdenciário preventivo é essencial para quem deseja se aposentar com o melhor benefício possível. Nossa equipe analisa cada contribuição, cada período especial e cada regra de transição para traçar o melhor caminho. Em Tubarão, onde a economia é baseada em Indústria, Comércio e Serviços, muitos trabalhadores têm contribuições irregulares ou período especial que pode ser computado para antecipar a aposentadoria. Não deixe de buscar orientação jurídica para proteger seu futuro previdenciário.',
-    trabalhista: 'A relação de trabalho em Tubarão envolve milhões de trabalhadores que precisam de proteção jurídica. A Will & Pereira Advocacia atua na defesa dos direitos trabalhistas, desde a negociação coletiva até o ajuizamento de reclamações na Justiça do Trabalho. Em Tubarão, com economia focada em Indústria, Comércio e Serviços, é essencial que trabalhadores e empresas contem com assessoria jurídica especializada. Trabalhadores demitidos sem justa causa têm direito a aviso prévio, 13º salário proporcional, férias proporcionais e multa de 40% sobre o FGTS, entre outros. Nossa equipe calcula todas as verbas devidas e garante o recebimento integral. Para empresas, oferecemos auditorias trabalhistas que identificam riscos e oportunidades de adequação. Em Tubarão, o conhecimento das particularidades locais do mercado de trabalho é essencial para um resultado eficaz. Nossos clientes em Tubarão contam com atendimento personalizado e atualização constante sobre o andamento de seus processos trabalhistas.',
-    civel: 'Moradores de Tubarão que enfrentam problemas cíveis precisam de orientação jurídica para proteger seus interesses. A Will & Pereira Advocacia atende em questões de Direito Civil como contratos, indenizações, cobranças, usucapião e responsabilidade civil. Em Tubarão, a dinâmica econômica baseada em Indústria, Comércio e Serviços gera demandas jurídicas variadas que requerem atenção e competência. Trabalhamos com pessoas físicas e empresas, oferecendo assessoria completa em todas as etapas do processo cível. Desde a negociação amigável até a sentença judicial, acompanhamos cada caso com dedicação. Em Tubarão, já atendemos diversos clientes com sucesso, conquistando indenizações, resolvendo disputas contratuais e regularizando propriedades. Apreventiva jurídica cível é essencial para evitar problemas futuros — nossa equipe revisa contratos, verifica obrigações e orienta sobre boas práticas jurídicas em Tubarão.',
-    consumidor: 'Em Tubarão, consumidores que tiveram seus direitos violados contam com a Will & Pereira Advocacia para buscar reparação. Atuamos em casos de negativação indevida, cobrança de valores indevidos, produtos defeituosos, publicidade enganosa e cláusulas abusivas. Com economia centrada em Indústria, Comércio e Serviços, o mercado consumidor de Tubarão é ativo e apresenta diversas situações que geram conflitos. O CDC assegura direitos como inversão do ônus da prova em favor do consumidor, o que facilita a obtenção de indenização. Nossa equipe utiliza essa ferramenta para garantir que consumidores de Tubarão tenham seus direitos respeitados. Trabalhamos com negociações diretas com empresas, mediação, conciliação e, quando necessário, ações judiciais para reparação. Em Tubarão, já obtivemos êxito em diversos casos de direito do consumidor, conquistando indenizações significativas para nossos clientes.',
-    familia: 'Questões familiares em Tubarão merecem atenção especial. Divórcios, disputas de guarda, pensão alimentícia e inventários são momentos difíceis que exigem assessoria jurídica humanizada. A Will & Pereira Advocacia atende moradores de Tubarão em todas as questões de Direito de Família, oferecendo soluções personalizadas para cada caso. Em Tubarão, onde a economia gira em torno de Indústria, Comércio e Serviços, conflitos familiares frequentemente envolvem divisão de patrimônio, pensão para filhos e direito de visitas. Nossa equipe domina esses temas e oferece orientação clara sobre cada etapa do processo. Trabalhamos com divórcio consensual para casais que desejam separar-se de forma amigável, e com litígios quando não há acordo. Em Tubarão, priorizamos a Mediação familiar para preservar relacionamentos e encontrar soluções que beneficiem todos, especialmente as crianças. Inventários e testamentos também fazem parte de nosso atendimento em Tubarão, garantindo que o patrimônio familiar seja distribuído de forma justa e legal.',
-    imobiliario: 'O Direito Imobiliário em Tubarão regula todas as questões relacionadas a imóveis. Compra e venda, locação, usucapião, regularização fundiária e condomínio são algumas das áreas em que atuamos. Em Tubarão, com economia baseada em Indústria, Comércio e Serviços, o mercado imobiliário é ativo e demanda assessoria jurídica especializada. A Will & Pereira Advocacia oferece segurança jurídica em cada etapa da transação imobiliária, desde a due diligence até o registro em cartório. Quando surgem conflitos — como inadimplência de aluguel, vícios ocultos em imóveis comprados ou disputas de divórcio —, nossa equipe está preparada para oferecer a melhor solução. Em Tubarão, trabalhamos com contratos de compra e venda seguros, locação residencial e comercial, e ações de usucapião para regularizar imóveis. A segurança jurídica em transações imobiliárias é essencial — não deixe seu investimento sem proteção. Em Tubarão, nossa equipe acompanha cada detalhe para garantir que seu imóvel esteja protegido legalmente.',
+  "areaContent": {
+    "previdenciario": "Aposentadoria, auxílio-doença, pensão por morte e BPC/LOAS são os benefícios mais buscados por moradores de Tubarão/SC. A complexidade das regras previdenciárias, especialmente após a EC 103/2019, torna indispensável o acompanhamento de um advogado especializado.\n\nEm Tubarão, com economia baseada em indústria, trabalhadores de diversas categorias precisam de orientação previdenciária personalizada. A Will & Pereira Advocacia oferece análise completa do CNIS, simulação de benefícios e representação administrativa e judicial junto ao INSS.",
+    "trabalhista": "A relação de emprego em Tubarão/SC é regida pela CLT e pela Constituição Federal, que garantem direitos fundamentais aos trabalhadores. Em uma cidade com economia baseada em indústria, as questões trabalhistas são frequentes e variadas. A Will & Pereira Advocacia atua na defesa desses direitos com competência e dedicação.\n\nAtuamos em Tubarão em reclamações trabalhistas, verbas rescisórias, horas extras, FGTS, estabilidade provisória, assédio moral e todas as demais questões que envolvam a relação de emprego.",
+    "civel": "O cotidiano de Tubarão/SC gera diversas questões jurídicas de natureza civil. Desde a elaboração de contratos até a resolução de conflitos de vizinhança, a Will & Pereira Advocacia oferece orientação jurídica completa para moradores e empresas da região.\n\nA economia local, focada em indústria e agronegócio, apresenta demandas cíveis que exigem conhecimento técnico e experiência. Atuamos em contratos, indenizações, cobranças, usucapião e todas as áreas do Direito Cível.",
+    "consumidor": "A proteção ao consumidor em Tubarão/SC é um direito fundamental. Questões como produtos defeituosos, serviços inadequados e cobranças indevidas são situações que resolvemos regularmente. A Will & Pereira Advocacia oferece assessoria completa em Direito do Consumidor.\n\nA economia local, baseada em indústria, gera demandas consumeristas que conhecemos profundamente. Atuamos em negociações extrajudiciais e ações judiciais, sempre buscando a melhor solução para cada caso.",
+    "familia": "As questões familiares em Tubarão/SC são tratadas com a sensibilidade que merecem. Divórcio consensual e litigioso, guarda compartilhada, pensão alimentícia, inventário e planejamento sucessório são áreas em que atuamos com excelência.\n\nEm Tubarão, conhecemos as particularidades do Direito de Família local e oferecemos atendimento personalizado para cada caso, sempre priorizando o bem-estar de todos os envolvidos.",
+    "imobiliario": "Questões imobiliárias em Tubarão/SC são frequentes e variadas. Desde a elaboração de contratos de locação até ações de usucapião, a Will & Pereira Advocacia oferece soluções jurídicas para todas as necessidades.\n\nA economia local, focada em indústria e agronegócio, gera demandas imobiliárias que atendemos com competência e dedicação. Trabalhamos com due diligence completa e resolução de conflitos."
   },
-  faqs: [
-    { pergunta: 'A Will & Pereira Advocacia atende empresas em Tubarão?', resposta: 'Sim! A Will & Pereira Advocacia atende moradores de Tubarão e todas as empresas da região, independentemente do porte.' },
-    { pergunta: 'Qual a experiência da Will & Pereira Advocacia em Tubarão?', resposta: 'A Will & Pereira Advocacia possui mais de 15 anos de experiência em atendimento jurídico, incluindo moradores de Tubarão e região.' },
-    { pergunta: 'Como posso agendar uma orientação jurídica em Tubarão?', resposta: 'Para agendar uma orientação jurídica em Tubarão, entre em contato com a Will & Pereira Advocacia pelo telefone, WhatsApp ou formulário do site.' },
+  "exclusiva": "## Por Que Escolher a Will & Pereira Advocacia em Tubarão?\n\n**Experiência Comprovada:** Mais de 15 anos de atuação em todas as áreas do Direito, com resultados expressivos em Tubarão e região.\n\n**Conhecimento Local:** Conhecemos as particularidades de Tubarão e da região de Santa Catarina, incluindo as especificidades da economia baseada em indústria.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada. Em Tubarão, oferecemos explicação clara de cada etapa do processo.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil, incluindo Tubarão.\n\n**Transparência Total:** Honorários claros, sem surpresas. O cliente sempre sabe onde está investindo.",
+  "diaADia": "## Como um Advogado Pode Ajudar no Dia a Dia em Tubarão\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis, elaboração de testamentos.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial, economizando tempo e recursos. Nossa equipe busca soluções consensuais sempre que possível.\n\n**Atendimento de Emergência:** Imprevistos acontecem. Oferecemos atendimento prioritário para situações urgentes em Tubarão.",
+  "faqs": [
+    {
+      "p": "Quais são as principais áreas do direito atendidas em ${n}?",
+      "r": "Em ${n}/${uf}, atuamos em Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário, com foco nas necessidades da economia local baseada em ${e.join(' e ')}."
+    },
+    {
+      "p": "Como funciona o primeiro atendimento jurídico?",
+      "r": "O primeiro atendimento é orientativo, para análise do caso e definição da melhor estratégia. Atendemos presencialmente em Palhoça/SC e por videoconferência para ${n}."
+    },
+    {
+      "p": "Qual o prazo para entrar com uma reclamação trabalhista?",
+      "r": "O trabalhador tem até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Em ${n}, orientamos sobre prazos e procedimentos."
+    },
+    {
+      "p": "A Will & Pereira Advocacia atende ${n}?",
+      "r": "Sim! Atendemos moradores de ${n} e toda a região de ${uf}, com o mesmo nível de dedicação e profissionalismo."
+    },
+    {
+      "p": "Quais documentos preciso para uma consulta?",
+      "r": "Documentos relacionados à questão: contratos, comprovantes, documentos pessoais. Orientamos sobre a documentação antes da consulta."
+    },
+    {
+      "p": "Quanto custa um advogado em ${n}?",
+      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com honorários de sucumbência. Entre em contato para orientação."
+    },
+    {
+      "p": "É possível resolver questões jurídicas sem ir ao tribunal?",
+      "r": "Sim! Muitos conflitos se resolvem via negociação, mediação ou conciliação. Em ${n}, buscamos soluções extrajudiciais sempre que possível."
+    },
+    {
+      "p": "Como a economia de ${n} influencia as questões jurídicas?",
+      "r": "A economia baseada em ${e[0]} gera demandas trabalhistas, previdenciárias e consumeristas específicas que conhecemos profundamente."
+    },
+    {
+      "p": "Vocês atendem pessoas físicas e jurídicas?",
+      "r": "Sim! Atendemos tanto pessoas físicas quanto empresas em ${n}, oferecendo soluções jurídicas completas."
+    },
+    {
+      "p": "Qual a diferença entre consultar um advogado e contratar?",
+      "r": "A consulta é para análise e orientação. A contratação envolve representação formal. Em ${n}, oferecemos ambos os serviços com transparência."
+    }
   ],
-  stats: {
-    experiencia: '15+',
-    clientes: '5000+',
-    taxa: '98%',
-    cidades: '302',
-  },
+  "stats": {
+    "experiencia": "15+",
+    "clientes": "5000+",
+    "taxa": "98%",
+    "cidades": "5571"
+  }
 }

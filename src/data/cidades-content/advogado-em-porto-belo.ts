@@ -1,28 +1,65 @@
 export default {
-  heroTitle: 'Advogado em Porto Belo | Escritório de Advocacia',
-  heroDescription: 'Advogado em Porto Belo | Escritório Will & Pereira Advocacia. Atendimento jurídico completo e humanizado para moradores de Porto Belo e toda a região.',
-  introParagraphs: [
-    'A Will & Pereira Advocacia é a escolha certa para quem em Porto Belo busca orientação jurídica de confiança. Nossa equipe multidisciplinar atende moradores de Porto Belo e região, combinando conhecimento técnico com atendimento humanizado.',
-    'Com atendimento que vai além da consulta jurídica, buscamos construir relacionamentos de confiança com nossos clientes em Porto Belo. Transparência, ética e dedicação são os pilares que sustentam nosso trabalho.',
-    'Proteger seus direitos é um direito fundamental. Em Porto Belo, a Will & Pereira Advocacia trabalha para que cada cidadão tenha acesso à justiça com qualidade e preço justo.',
+  "heroTitle": "Porto Belo/SC — Advogados com Tradição em Resultados",
+  "heroDescription": "Encontre o melhor advogado em Porto Belo/SC. A Will & Pereira Advocacia oferece assessoria jurídica completa com mais de 15 anos de experiência atendendo moradores de Porto Belo e região.",
+  "introParagraphs": [
+    "A busca por um advogado de confiança em Porto Belo/SC é constante. Questões trabalhistas, previdenciárias, familiares e imobiliárias surgem no cotidiano e precisam de orientação especializada. A Will & Pereira Advocacia, com mais de 15 anos de atuação, é referência no atendimento jurídico para moradores de Porto Belo e região.\n\nPorto Belo é uma cidade com economia dinâmica localizada em Santa Catarina, com economia baseada em indústria, agronegócio e turismo. Essas características geram demandas jurídicas que exigem conhecimento aprofundado da legislação e da jurisprudência.\n\nNossa equipe multidisciplinar oferece assessoria completa em todas as áreas do Direito, com atendimento personalizado e foco nos melhores resultados para cada cliente em Porto Belo."
   ],
-  areaContent: {
-    previdenciario: 'Para moradores de Porto Belo que buscam aposentadoria ou benefício do INSS, a Will & Pereira Advocacia oferece orientação jurídica de excelência. Nossa equipe compreende que o processo previdenciário pode ser confuso e frustrante, por isso simplificamos cada etapa para o nosso cliente. Em Porto Belo, com economia fundamentada em Turismo, Comércio e Serviços, há trabalhadores de diversos perfis que necessitam de assessoria previdenciária. Seja para aposentadoria por idade, aposentadoria especial, auxílio-doença, auxílio-acidente ou pensão por morte, nossos advogados conduzem o caso com dedicação e competência. Trabalhamos com revisão de benefícios quando o INSS concede valores menores que os devidos, e com planejamento previdenciário para trabalhadores que ainda não atingiram os requisitos para aposentadoria. Em Porto Belo, já fizemos centenas de trabalhadores conquistarem benefícios que haviam sido negados ou subvalorizados. O atendimento é personalizado, com atualização constante sobre o andamento do processo. Em Porto Belo e região, a Will & Pereira Advocacia é referência em Direito Previdenciário.',
-    trabalhista: 'Em Porto Belo, a dinâmica do mercado de trabalho gera demandas constantes por assessoria trabalhista. Seja um trabalhador que precisa cobrar verbas rescisórias ou uma empresa que deseja adequar seus contratos, a Will & Pereira Advocacia oferece soluções eficazes. Atuamos em reclamações trabalhistas na Justiça do Trabalho, buscando horas extras, adicional noturno, insalubridade, periculosidade e indenizações por dano moral e material. Em Porto Belo, onde o setor de Turismo, Comércio e Serviços emprega grande parte da população, é comum encontrar questões como jornada excessiva, condições insalubres e assédio moral. Nossa equipe conhece a jurisprudência trabalhista atualizada e está preparada para enfrentar os casos mais complexos. Para empresas, oferecemos consultoria preventiva, elaboração de contratos de trabalho, acordos extrajudiciais e auditorias trabalhistas. Em Porto Belo, já ajudamos diversas empresas a evitarem passivos trabalhistas significativos e trabalhadores a conquistarem seus direitos na Justiça do Trabalho. O prazo para ingressar com reclamação trabalhista é de 2 anos após a demissão, então não perca tempo.',
-    civel: 'A Will & Pereira Advocacia é referência em Direito Cível em Porto Belo. Seja para resolver uma questão contratual, cobrar uma dívida ou buscar indenização por danos, nossa equipe está preparada para oferecer a melhor solução. Em Porto Belo, com economia focada em Turismo, Comércio e Serviços, os conflitos cíveis são variados e exigem conhecimento aprofundado do Código Civil e da jurisprudência. Trabalhamos com elaboração e revisão de contratos para prevenir futuros litígios. Quando o litígio é inevitável, ingressamos com ações judiciais de cobrança, indenização, despejo, usucapião e demais medidas cabíveis. Em Porto Belo, já resolvemos centenas de casos cíveis com sucesso, garantindo a nossos clientes a reparação ou o direito pleiteado. A assessoria cível preventiva é especialmente importante para empresas de Porto Belo, que precisam de contratos adequados para evitar prejuízos futuros. Nossa equipe analisa cada situação e apresenta as melhores alternativas para o caso.',
-    consumidor: 'Moradores de Porto Belo que tiveram problemas com produtos defeituosos, serviços inadequados ou cobranças indevidas encontram na Will & Pereira Advocacia o parceiro ideal para fazer valer seus direitos. O CDC protege consumidores em Porto Belo contra práticas abusivas e garante reparação por danos. Em Porto Belo, com economia vinculada a Turismo, Comércio e Serviços, o consumo é parte fundamental da vida cotidiana e, por isso, os conflitos consumeristas são frequentes. Nossa equipe atua na defesa dos direitos do consumidor, desde negociações amigáveis até ações judiciais complexas. Utilizamos ferramentas como inversão do ônus da prova, repetição de indébito em dobro e indenização por danos morais para garantir a reparação adequada. Em Porto Belo, já ajudamos diversos consumidores a resolverem problemas com bancos, planos de saúde, empresas de telefonia e fornecedores locais. Seus direitos são importantes — não hesite em buscá-los.',
-    familia: 'Em Porto Belo, famílias que precisam de assistência jurídica em questões como divórcio, guarda, pensão alimentícia ou inventário encontram na Will & Pereira Advocacia o parceiro ideal. Nossa equipe atua com sensibilidade e competência, buscando soluções que preservem os vínculos familiares quando possível. O Direito de Família é uma das áreas mais emotivas do Direito, e em Porto Belo, onde as relações familiares são valorizadas, é fundamental contar com um advogado que compreenda a importância de cada decisão. Trabalhamos comMediação familiar, acordos consensuais e, quando necessário, litígios para proteger os direitos dos clientes. Em Porto Belo, já resolvemos diversos casos de divórcio, guarda e pensão alimentícia com sucesso. O inventário e a partilha de bens também são áreas em que atuamos, oferecendo orientação clara sobre os procedimentos legais e as melhores estratégias para cada caso familiar em Porto Belo.',
-    imobiliario: 'O mercado imobiliário em Porto Belo exige atenção jurídica cuidadosa. Compra, venda, locação e usucapião são operações que envolvem valores significativos e riscos legais. A Will & Pereira Advocacia atende moradores de Porto Belo em todas as questões imobiliárias, oferecendo segurança e tranquilidade em cada transação. Em Porto Belo, com economia vinculada a Turismo, Comércio e Serviços, é comum encontrarmos conflitos como inadimplência em aluguéis, vícios ocultos em imóveis e disputas de limites de terreno. Nossa equipe domina essas questões e oferece soluções eficazes. Trabalhamos com due diligence imobiliária completa, verificando matrícula, certidões e situação fiscal dos imóveis. Em Porto Belo, também atuamos em regularização fundiária e usucapião, ajudando moradores a tornarem seus imóveis legalmente. O planejamento imobiliário preventivo é essencial — antes de qualquer transação, conte com orientação jurídica em Porto Belo para garantir que tudo esteja em ordem.',
+  "areaContent": {
+    "previdenciario": "Aposentadoria, auxílio-doença, pensão por morte e BPC/LOAS são os benefícios mais buscados por moradores de Porto Belo/SC. A complexidade das regras previdenciárias, especialmente após a EC 103/2019, torna indispensável o acompanhamento de um advogado especializado.\n\nEm Porto Belo, com economia baseada em indústria, trabalhadores de diversas categorias precisam de orientação previdenciária personalizada. A Will & Pereira Advocacia oferece análise completa do CNIS, simulação de benefícios e representação administrativa e judicial junto ao INSS.",
+    "trabalhista": "A relação de emprego em Porto Belo/SC é regida pela CLT e pela Constituição Federal, que garantem direitos fundamentais aos trabalhadores. Em uma cidade com economia baseada em indústria, as questões trabalhistas são frequentes e variadas. A Will & Pereira Advocacia atua na defesa desses direitos com competência e dedicação.\n\nAtuamos em Porto Belo em reclamações trabalhistas, verbas rescisórias, horas extras, FGTS, estabilidade provisória, assédio moral e todas as demais questões que envolvam a relação de emprego.",
+    "civel": "O cotidiano de Porto Belo/SC gera diversas questões jurídicas de natureza civil. Desde a elaboração de contratos até a resolução de conflitos de vizinhança, a Will & Pereira Advocacia oferece orientação jurídica completa para moradores e empresas da região.\n\nA economia local, focada em indústria e agronegócio, apresenta demandas cíveis que exigem conhecimento técnico e experiência. Atuamos em contratos, indenizações, cobranças, usucapião e todas as áreas do Direito Cível.",
+    "consumidor": "A proteção ao consumidor em Porto Belo/SC é um direito fundamental. Questões como produtos defeituosos, serviços inadequados e cobranças indevidas são situações que resolvemos regularmente. A Will & Pereira Advocacia oferece assessoria completa em Direito do Consumidor.\n\nA economia local, baseada em indústria, gera demandas consumeristas que conhecemos profundamente. Atuamos em negociações extrajudiciais e ações judiciais, sempre buscando a melhor solução para cada caso.",
+    "familia": "As questões familiares em Porto Belo/SC são tratadas com a sensibilidade que merecem. Divórcio consensual e litigioso, guarda compartilhada, pensão alimentícia, inventário e planejamento sucessório são áreas em que atuamos com excelência.\n\nEm Porto Belo, conhecemos as particularidades do Direito de Família local e oferecemos atendimento personalizado para cada caso, sempre priorizando o bem-estar de todos os envolvidos.",
+    "imobiliario": "Questões imobiliárias em Porto Belo/SC são frequentes e variadas. Desde a elaboração de contratos de locação até ações de usucapião, a Will & Pereira Advocacia oferece soluções jurídicas para todas as necessidades.\n\nA economia local, focada em indústria e agronegócio, gera demandas imobiliárias que atendemos com competência e dedicação. Trabalhamos com due diligence completa e resolução de conflitos."
   },
-  faqs: [
-    { pergunta: 'Quais áreas do direito são mais comuns em Porto Belo?', resposta: 'Em Porto Belo, as áreas mais demandadas são Direito Trabalhista, Direito Previdenciário e Direito do Consumidor. A Will & Pereira Advocacia atua em todas essas áreas com excelência e compromisso.' },
-    { pergunta: 'Como funciona o atendimento da Will & Pereira Advocacia para moradores de Porto Belo?', resposta: 'A Will & Pereira Advocacia atende moradores de Porto Belo de forma integral, presencialmente em Palhoça/SC ou por videoconferência. Nossa equipe oferece orientação jurídica de qualidade, independentemente da localização.' },
-    { pergunta: 'Qual o prazo para entrar com uma ação trabalhista em Porto Belo?', resposta: 'O trabalhador tem até 2 anos após a extinção do contrato para ajuizar reclamação trabalhista. Em Porto Belo, a Will & Pereira Advocacia orienta trabalhadores sobre seus direitos e prazos.' },
+  "exclusiva": "## Por Que Escolher a Will & Pereira Advocacia em Porto Belo?\n\n**Experiência Comprovada:** Mais de 15 anos de atuação em todas as áreas do Direito, com resultados expressivos em Porto Belo e região.\n\n**Conhecimento Local:** Conhecemos as particularidades de Porto Belo e da região de Santa Catarina, incluindo as especificidades da economia baseada em indústria.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada. Em Porto Belo, oferecemos explicação clara de cada etapa do processo.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil, incluindo Porto Belo.\n\n**Transparência Total:** Honorários claros, sem surpresas. O cliente sempre sabe onde está investindo.",
+  "diaADia": "## Como um Advogado Pode Ajudar no Dia a Dia em Porto Belo\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis, elaboração de testamentos.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial, economizando tempo e recursos. Nossa equipe busca soluções consensuais sempre que possível.\n\n**Atendimento de Emergência:** Imprevistos acontecem. Oferecemos atendimento prioritário para situações urgentes em Porto Belo.",
+  "faqs": [
+    {
+      "p": "Quais são as principais áreas do direito atendidas em ${n}?",
+      "r": "Em ${n}/${uf}, atuamos em Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário, com foco nas necessidades da economia local baseada em ${e.join(' e ')}."
+    },
+    {
+      "p": "Como funciona o primeiro atendimento jurídico?",
+      "r": "O primeiro atendimento é orientativo, para análise do caso e definição da melhor estratégia. Atendemos presencialmente em Palhoça/SC e por videoconferência para ${n}."
+    },
+    {
+      "p": "Qual o prazo para entrar com uma reclamação trabalhista?",
+      "r": "O trabalhador tem até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Em ${n}, orientamos sobre prazos e procedimentos."
+    },
+    {
+      "p": "A Will & Pereira Advocacia atende ${n}?",
+      "r": "Sim! Atendemos moradores de ${n} e toda a região de ${uf}, com o mesmo nível de dedicação e profissionalismo."
+    },
+    {
+      "p": "Quais documentos preciso para uma consulta?",
+      "r": "Documentos relacionados à questão: contratos, comprovantes, documentos pessoais. Orientamos sobre a documentação antes da consulta."
+    },
+    {
+      "p": "Quanto custa um advogado em ${n}?",
+      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com honorários de sucumbência. Entre em contato para orientação."
+    },
+    {
+      "p": "É possível resolver questões jurídicas sem ir ao tribunal?",
+      "r": "Sim! Muitos conflitos se resolvem via negociação, mediação ou conciliação. Em ${n}, buscamos soluções extrajudiciais sempre que possível."
+    },
+    {
+      "p": "Como a economia de ${n} influencia as questões jurídicas?",
+      "r": "A economia baseada em ${e[0]} gera demandas trabalhistas, previdenciárias e consumeristas específicas que conhecemos profundamente."
+    },
+    {
+      "p": "Vocês atendem pessoas físicas e jurídicas?",
+      "r": "Sim! Atendemos tanto pessoas físicas quanto empresas em ${n}, oferecendo soluções jurídicas completas."
+    },
+    {
+      "p": "Qual a diferença entre consultar um advogado e contratar?",
+      "r": "A consulta é para análise e orientação. A contratação envolve representação formal. Em ${n}, oferecemos ambos os serviços com transparência."
+    }
   ],
-  stats: {
-    experiencia: '15+',
-    clientes: '5000+',
-    taxa: '98%',
-    cidades: '302',
-  },
+  "stats": {
+    "experiencia": "15+",
+    "clientes": "5000+",
+    "taxa": "98%",
+    "cidades": "5571"
+  }
 }

@@ -1,28 +1,65 @@
 export default {
-  heroTitle: 'Will & Pereira — Advogado em Palma Sola, SC',
-  heroDescription: 'Precisa de um advogado em Palma Sola? A Will & Pereira Advocacia atende em todas as áreas do Direito, com foco em resultados e atendimento humanizado para moradores de Palma Sola.',
-  introParagraphs: [
-    'Quantas vezes você precisou de um advogado e não soube a quem recorrer? Em Palma Sola, a Will & Pereira Advocacia resolve isso com atendimento humanizado e soluções eficazes nas mais diversas áreas do Direito.',
-    'Com atendimento que vai além da consulta jurídica, buscamos construir relacionamentos de confiança com nossos clientes em Palma Sola. Transparência, ética e dedicação são os pilares que sustentam nosso trabalho.',
-    'Do atendimento inicial até a resolução do caso, acompanhamos cada etapa com atenção. Em Palma Sola, nosso compromisso é garantir que o cliente se sinta amparado em cada momento do processo.',
+  "heroTitle": "Assessoria Jurídica em Palma Sola | Will & Pereira Advocacia",
+  "heroDescription": "Assessoria jurídica de qualidade em Palma Sola/SC. Atendimento em todo o Brasil com excelência, ética e dedicação.",
+  "introParagraphs": [
+    "Moradores de Palma Sola/SC que precisam de serviços jurídicos encontram na Will & Pereira Advocacia uma parceira de confiança. Com mais de 15 anos de experiência e escritório em Palhoça/SC, nossa equipe atende clientes em todo o Brasil, incluindo Palma Sola e toda a região de Santa Catarina.\n\nA economia de Palma Sola é caracterizada por indústria, agronegócio e turismo, o que gera demandas jurídicas específicas que conhecemos profundamente. Questões trabalhistas decorrentes da atividade industrial, questões previdenciárias de trabalhadores rurais e urbanos, e questões consumeristas do cotidiano são situações que atendemos com regularidade.\n\nEste guia completo abrange todas as principais áreas do Direito atendidas pela Will & Pereira Advocacia em Palma Sola: Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário. Cada seção é elaborada com base na realidade de Palma Sola/SC."
   ],
-  areaContent: {
-    previdenciario: 'Trabalhadores de Palma Sola que precisam de auxílio-doença, aposentadoria ou pensão por morte contam com a Will & Pereira Advocacia para orientação previdenciária completa. Nossa equipe domina todas as nuances da legislação previdenciária brasileira e está preparada para analisar cada caso com atenção. Em Palma Sola, onde a força de trabalho está concentrada em Agroindústria, Comércio, Agricultura e Serviços, é comum encontrar trabalhadores com vínculos informais ou contribuições em atraso. Isso não significa que não exista direito — nossa equipe identifica todas as possibilidades de regularização e conquista de benefícios. Atuamos em aposentadoria especial para trabalhadores expostos a condições insalubres, BPC/LOAS para idosos e deficientes de baixa renda e pensão por morte para dependentes de segurados falecidos. Quando o INSS nega um benefício, entramos com recurso administrativo ou ação judicial para reverter a decisão. Em Palma Sola, já conquistamos benefícios previdenciários para centenas de trabalhadores que estavam sem renda. O momento de agir é agora — entre em contato e saiba como podemos ajudar a conquistar seus direitos previdenciários em Palma Sola.',
-    trabalhista: 'Quando os direitos trabalhistas são violados em Palma Sola, a Will & Pereira Advocacia entra em ação. Atuamos em casos de demissão injusta, horas extras não pagas, FGTS descontado indevidamente, acidente de trabalho e assédio moral e sexual. Em Palma Sola, onde o setor de Agroindústria, Comércio, Agricultura e Serviços é expressivo, é comum encontrarmos trabalhadores que não recebem todos os seus direitos previstos na CLT. Nossa equipe realiza o levantamento de todos os valores devidos e ingressa com reclamação trabalhista quando necessário. Trabalhamos também com acordos extrajudiciais, que permitem a resolução rápida e amigável de conflitos trabalhistas. Para empresas de Palma Sola, oferecemos consultoria preventiva para evitar passivos trabalhistas e adequar práticas de gestão de pessoas. Em Palma Sola, nossa taxa de sucesso em ações trabalhistas é resultado de preparação técnica, conhecimento da jurisprudência e compromisso com o cliente.',
-    civel: 'O Direito Cível em Palma Sola abrange uma ampla gama de questões que afetam o cotidiano das pessoas e empresas. Contratos, indenizações, cobranças, usucapião e responsabilidade civil são algumas das áreas em que atuamos. Em Palma Sola, onde a economia gira em torno de Agroindústria, Comércio, Agricultura e Serviços, conflitos cíveis surgem frequentemente entre vizinhos, empresas e consumidores. A Will & Pereira Advocacia oferece assessoria completa em Direito Cível, desde a elaboração de contratos preventivos até ações judiciais complexas. Quando um contrato é descumprido, uma dívida não é paga ou um dano é causado, é necessário contar com um advogado experiente para buscar reparação. Em Palma Sola, nossa equipe conduz processos de indenização, cobrança, execução e usucapião com foco em resultados rápidos e eficazes. Trabalhamos para resolver conflitos de forma célere, priorizando soluções extrajudiciais quando possível, mas sem hesitar em ir a juízo quando necessário. Moradores de Palma Sola que precisam de orientação cível encontram na Will & Pereira Advocacia o parceiro ideal para proteger seus interesses.',
-    consumidor: 'O Direito do Consumidor em Palma Sola protege quem compra, contrata ou utiliza serviços. Se você sofreu com um produto defeituoso, um serviço mal prestado ou uma cobrança abusiva, a Will & Pereira Advocacia está pronta para agir. Em Palma Sola, com economia focada em Agroindústria, Comércio, Agricultura e Serviços, é essencial que consumidores conheçam seus direitos para não serem vítimas de práticas abusivas. Nossa equipe atua em defesa do consumidor em Palma Sola, buscando reparação por danos morais e materiais, repetição de valores pagos indevidamente e cessação de práticas abusivas. O CDC é uma lei poderosa que confere ao consumidor vantagens processuais significativas, como a inversão do ônus da prova e a competência da Justiça Federal para causas de valor superior a 40 salários mínimos. Em Palma Sola, trabalhamos para garantir que cada consumidor tenha acesso à justiça e receba a reparação que merece. Não deixe que empresas abuse do consumidor — entre em contato e saiba como podemos ajudar em Palma Sola.',
-    familia: 'Famílias de Palma Sola que precisam de apoio jurídico em momentos delicados contam com a Will & Pereira Advocacia. Atuamos em divórcio, guarda de filhos, pensão alimentícia, inventário, união estável e todas as questões que envolvem relações familiares. Em Palma Sola, com economia centrada em Agroindústria, Comércio, Agricultura e Serviços, conflitos familiares frequentemente envolvem questões patrimoniais e de guarda que exigem expertise jurídica. Nossa equipe entende a sensibilidade de cada caso e oferece atendimento com discrição e profissionalismo. Trabalhamos para encontrar soluções que protejam os interesses de todos, especialmente dos menores. Em Palma Sola, já orientamos diversas famílias em processos de divórcio, fixação de alimentos e inventário, sempre com foco em resultados rápidos e justos. O planejamento sucessório preventivo é uma forma de evitar conflitos futuros — nossa equipe orienta sobre testamentos e doações em Palma Sola para proteger o patrimônio familiar.',
-    imobiliario: 'Em Palma Sola, o mercado imobiliário apresenta características próprias que demandam conhecimento especializado. A Will & Pereira Advocacia atua em todas as áreas do Direito Imobiliário, desde a elaboração de contratos até a resolução de conflitos. Em Palma Sola, onde o setor de Agroindústria, Comércio, Agricultura e Serviços é dinâmico, transações imobiliárias são frequentes e geram demandas jurídicas específicas. Nossa equipe oferece assessoria em compra e venda de imóveis, locação, usucapião, regularização fundiária e direito condominial. Quando há disputas sobre propriedade,limites de terreno ou inadimplência em contratos de locação, nossa equipe conduz o caso com competência e dedicação. Em Palma Sola, já resolvemos diversos conflitos imobiliários com sucesso, garantindo a segurança jurídica de nossos clientes. A due diligence imobiliária é especialmente importante em Palma Sola, onde a verificação de matrícula, certidões negativas e situação fiscal do imóvel pode evitar problemas futuros.',
+  "areaContent": {
+    "previdenciario": "A seguridade social é um direito fundamental dos trabalhadores de Palma Sola/SC. Muitos moradores da região têm dúvidas sobre seus direitos previdenciários, especialmente após as mudanças trazidas pela Reforma da Previdência. A Will & Pereira Advocacia orienta clientes em todos os processos junto ao INSS, desde o planejamento da aposentadoria até recursos administrativos e ações judiciais.\n\nA economia local, baseada em indústria, apresenta particularidades que influenciam os benefícios previdenciários. Trabalhadores rurais, por exemplo, possuem regras diferenciadas de aposentadoria. Nossa equipe domina essas especificidades e oferece orientação precisa para cada caso em Palma Sola.",
+    "trabalhista": "Em Palma Sola/SC, os trabalhadores precisam conhecer seus direitos para evitar situações de exploração e injustiça. A CLT garante diversos direitos, mas muitos trabalhadores não conhecem a totalidade deles. A Will & Pereira Advocacia orienta trabalhadores sobre seus direitos e prazos, garantindo que nenhum direito seja perdido.\n\nA economia de Palma Sola, focada em indústria, gera demandas trabalhistas específicas que atendemos com expertise: desde reclamações trabalhistas até acordos extrajudiciais e consultoria para empresas.",
+    "civel": "Questões cíveis como contratos mal elaborados, dívidas não pagas e danos causados por terceiros são comuns em Palma Sola/SC. A Will & Pereira Advocacia resolve essas questões com eficiência e profissionalismo, oferecendo soluções extrajudiciais e judiciais conforme o caso.\n\nEm Palma Sola, com economia baseada em indústria, os conflitos cíveis apresentam particularidades que conhecemos. Nossa equipe domina o Código Civil, o Código de Processo Civil e a jurisprudência dos tribunais superiores.",
+    "consumidor": "Moradores de Palma Sola/SC que tiveram direitos violados por empresas contam com a Will & Pereira Advocacia para buscar reparação. O CDC assegura direitos como inversão do ônus da prova, repetição de indébito e indenização por danos morais.\n\nEm Palma Sola, com economia baseada em indústria, os conflitos consumeristas envolvem desde cobranças bancárias até negativas de planos de saúde. Nossa equipe domina os instrumentos processuais do CDC e oferece atendimento personalizado.",
+    "familia": "Famílias de Palma Sola/SC que precisam de assistência jurídica encontram na Will & Pereira Advocacia o parceiro ideal. Questões como divórcio, guarda, pensão alimentícia e inventário são tratadas com discrição e profissionalismo.\n\nA economia de Palma Sola, baseada em indústria, influencia questões familiares como partilha de bens e pensão alimentícia. Nossa equipe oferece orientação clara sobre os procedimentos legais e as melhores estratégias.",
+    "imobiliario": "O mercado imobiliário em Palma Sola/SC exige atenção jurídica cuidadosa. Transações imobiliárias envolvem valores significativos e riscos legais que precisam ser avaliados por profissional especializado. A Will & Pereira Advocacia protege os interesses de seus clientes em cada etapa.\n\nEm Palma Sola, com economia baseada em indústria, as questões imobiliárias incluem contratos de compra e venda, locação, usucapião e regularização fundiária. Nossa equipe domina essas questões."
   },
-  faqs: [
-    { pergunta: 'A Will & Pereira Advocacia trabalha com plano de saúde em Palma Sola?', resposta: 'Sim! A Will & Pereira Advocacia atua em ações contra planos de saúde que negam cobertura ou praticam abusos contra consumidores de Palma Sola.' },
-    { pergunta: 'A Will & Pereira Advocacia faz atendimento por videoconferência para Palma Sola?', resposta: 'Sim! Oferecemos atendimento por videoconferência para moradores de Palma Sola que não podem se deslocar até Palhoça/SC.' },
-    { pergunta: 'Em quais situações devo procurar um advogado trabalhista em Palma Sola?', resposta: 'Em Palma Sola, procure um advogado trabalhista quando tiver problemas com verbas rescisórias, horas extras, FGTS, acidente de trabalho ou assédio moral.' },
+  "exclusiva": "## Por Que Escolher a Will & Pereira Advocacia em Palma Sola?\n\n**Experiência Comprovada:** Mais de 15 anos de atuação em todas as áreas do Direito, com resultados expressivos em Palma Sola e região.\n\n**Conhecimento Local:** Conhecemos as particularidades de Palma Sola e da região de Santa Catarina, incluindo as especificidades da economia baseada em indústria.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada. Em Palma Sola, oferecemos explicação clara de cada etapa do processo.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil, incluindo Palma Sola.\n\n**Transparência Total:** Honorários claros, sem surpresas. O cliente sempre sabe onde está investindo.",
+  "diaADia": "## Como um Advogado Pode Ajudar no Dia a Dia em Palma Sola\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis, elaboração de testamentos.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial, economizando tempo e recursos. Nossa equipe busca soluções consensuais sempre que possível.\n\n**Atendimento de Emergência:** Imprevistos acontecem. Oferecemos atendimento prioritário para situações urgentes em Palma Sola.",
+  "faqs": [
+    {
+      "p": "Quais são as principais áreas do direito atendidas em ${n}?",
+      "r": "Em ${n}/${uf}, atuamos em Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário, com foco nas necessidades da economia local baseada em ${e.join(' e ')}."
+    },
+    {
+      "p": "Como funciona o primeiro atendimento jurídico?",
+      "r": "O primeiro atendimento é orientativo, para análise do caso e definição da melhor estratégia. Atendemos presencialmente em Palhoça/SC e por videoconferência para ${n}."
+    },
+    {
+      "p": "Qual o prazo para entrar com uma reclamação trabalhista?",
+      "r": "O trabalhador tem até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Em ${n}, orientamos sobre prazos e procedimentos."
+    },
+    {
+      "p": "A Will & Pereira Advocacia atende ${n}?",
+      "r": "Sim! Atendemos moradores de ${n} e toda a região de ${uf}, com o mesmo nível de dedicação e profissionalismo."
+    },
+    {
+      "p": "Quais documentos preciso para uma consulta?",
+      "r": "Documentos relacionados à questão: contratos, comprovantes, documentos pessoais. Orientamos sobre a documentação antes da consulta."
+    },
+    {
+      "p": "Quanto custa um advogado em ${n}?",
+      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com honorários de sucumbência. Entre em contato para orientação."
+    },
+    {
+      "p": "É possível resolver questões jurídicas sem ir ao tribunal?",
+      "r": "Sim! Muitos conflitos se resolvem via negociação, mediação ou conciliação. Em ${n}, buscamos soluções extrajudiciais sempre que possível."
+    },
+    {
+      "p": "Como a economia de ${n} influencia as questões jurídicas?",
+      "r": "A economia baseada em ${e[0]} gera demandas trabalhistas, previdenciárias e consumeristas específicas que conhecemos profundamente."
+    },
+    {
+      "p": "Vocês atendem pessoas físicas e jurídicas?",
+      "r": "Sim! Atendemos tanto pessoas físicas quanto empresas em ${n}, oferecendo soluções jurídicas completas."
+    },
+    {
+      "p": "Qual a diferença entre consultar um advogado e contratar?",
+      "r": "A consulta é para análise e orientação. A contratação envolve representação formal. Em ${n}, oferecemos ambos os serviços com transparência."
+    }
   ],
-  stats: {
-    experiencia: '15+',
-    clientes: '5000+',
-    taxa: '98%',
-    cidades: '302',
-  },
+  "stats": {
+    "experiencia": "15+",
+    "clientes": "5000+",
+    "taxa": "98%",
+    "cidades": "5571"
+  }
 }

@@ -1,28 +1,65 @@
 export default {
-  heroTitle: 'Escritório de Advocacia em Iraceminha — Will & Pereira',
-  heroDescription: 'Will & Pereira Advocacia: advogado em Iraceminha para pessoas físicas e empresas. Atuação em Direito Trabalhista, Previdenciário, Cível, Consumidor, Família e Imobiliário.',
-  introParagraphs: [
-    'A Will & Pereira Advocacia é a escolha certa para quem em Iraceminha busca orientação jurídica de confiança. Nossa equipe multidisciplinar atende moradores de Iraceminha e região, combinando conhecimento técnico com atendimento humanizado.',
-    'Nossa experiência demonstra que o planejamento jurídico preventivo evita muitos problemas futuros. Em Iraceminha, oferecemos assessoria contínua para empresas e famílias que desejam proteger seus interesses.',
-    'Acreditamos que um bom advogado faz a diferença entre ganhar e perder um caso. Em Iraceminha, contamos com profissionais qualificados e comprometidos com o sucesso de cada cliente.',
+  "heroTitle": "Direito em Iraceminha, SC — Advogados Experientes e Comprometidos",
+  "heroDescription": "Advogados especializados em Iraceminha/SC para questões trabalhistas, previdenciárias, cíveis e familiares. Atendimento personalizado.",
+  "introParagraphs": [
+    "Moradores de Iraceminha/SC que precisam de serviços jurídicos encontram na Will & Pereira Advocacia uma parceira de confiança. Com mais de 15 anos de experiência e escritório em Palhoça/SC, nossa equipe atende clientes em todo o Brasil, incluindo Iraceminha e toda a região de Santa Catarina.\n\nA economia de Iraceminha é caracterizada por indústria, agronegócio e turismo, o que gera demandas jurídicas específicas que conhecemos profundamente. Questões trabalhistas decorrentes da atividade industrial, questões previdenciárias de trabalhadores rurais e urbanos, e questões consumeristas do cotidiano são situações que atendemos com regularidade.\n\nEste guia completo abrange todas as principais áreas do Direito atendidas pela Will & Pereira Advocacia em Iraceminha: Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário. Cada seção é elaborada com base na realidade de Iraceminha/SC."
   ],
-  areaContent: {
-    previdenciario: 'O Direito Previdenciário em Iraceminha é uma das áreas mais procuradas, especialmente entre trabalhadores que buscam aposentadoria, auxílio-doença e pensão por morte. Com a reforma da previdência, muitas regras mudaram e é fundamental ter orientação especializada para não perder benefícios. Em Iraceminha, muitos trabalhadores da área de Agroindústria, Comércio, Agricultura e Serviços não conhecem todos os direitos que possuem junto ao INSS. A Will & Pereira Advocacia realiza análise completa do histórico contributivo para identificar a melhor estratégia de aposentadoria, considerando regras de transição e direito adquirido. Atuamos na conquista de aposentadoria por idade, por tempo de contribuição, aposentadoria especial e BPC/LOAS. Quando o INSS nega ou concede valor inferior ao devido, nossa equipe entra com revisões administrativas e ações judiciais para garantir o benefício correto. Em Iraceminha, já ajudamos centenas de trabalhadores a conquistarem aposentadorias mais vantajosas e auxílios-doença que haviam sido negados injustamente. O planejamento previdenciário preventivo é essencial para quem deseja se aposentar com o melhor benefício possível. Nossa equipe analisa cada contribuição, cada período especial e cada regra de transição para traçar o melhor caminho. Em Iraceminha, onde a economia é baseada em Agroindústria, Comércio, Agricultura e Serviços, muitos trabalhadores têm contribuições irregulares ou período especial que pode ser computado para antecipar a aposentadoria. Não deixe de buscar orientação jurídica para proteger seu futuro previdenciário.',
-    trabalhista: 'A relação de trabalho em Iraceminha envolve milhões de trabalhadores que precisam de proteção jurídica. A Will & Pereira Advocacia atua na defesa dos direitos trabalhistas, desde a negociação coletiva até o ajuizamento de reclamações na Justiça do Trabalho. Em Iraceminha, com economia focada em Agroindústria, Comércio, Agricultura e Serviços, é essencial que trabalhadores e empresas contem com assessoria jurídica especializada. Trabalhadores demitidos sem justa causa têm direito a aviso prévio, 13º salário proporcional, férias proporcionais e multa de 40% sobre o FGTS, entre outros. Nossa equipe calcula todas as verbas devidas e garante o recebimento integral. Para empresas, oferecemos auditorias trabalhistas que identificam riscos e oportunidades de adequação. Em Iraceminha, o conhecimento das particularidades locais do mercado de trabalho é essencial para um resultado eficaz. Nossos clientes em Iraceminha contam com atendimento personalizado e atualização constante sobre o andamento de seus processos trabalhistas.',
-    civel: 'Moradores de Iraceminha que enfrentam problemas cíveis precisam de orientação jurídica para proteger seus interesses. A Will & Pereira Advocacia atende em questões de Direito Civil como contratos, indenizações, cobranças, usucapião e responsabilidade civil. Em Iraceminha, a dinâmica econômica baseada em Agroindústria, Comércio, Agricultura e Serviços gera demandas jurídicas variadas que requerem atenção e competência. Trabalhamos com pessoas físicas e empresas, oferecendo assessoria completa em todas as etapas do processo cível. Desde a negociação amigável até a sentença judicial, acompanhamos cada caso com dedicação. Em Iraceminha, já atendemos diversos clientes com sucesso, conquistando indenizações, resolvendo disputas contratuais e regularizando propriedades. Apreventiva jurídica cível é essencial para evitar problemas futuros — nossa equipe revisa contratos, verifica obrigações e orienta sobre boas práticas jurídicas em Iraceminha.',
-    consumidor: 'Em Iraceminha, consumidores que tiveram seus direitos violados contam com a Will & Pereira Advocacia para buscar reparação. Atuamos em casos de negativação indevida, cobrança de valores indevidos, produtos defeituosos, publicidade enganosa e cláusulas abusivas. Com economia centrada em Agroindústria, Comércio, Agricultura e Serviços, o mercado consumidor de Iraceminha é ativo e apresenta diversas situações que geram conflitos. O CDC assegura direitos como inversão do ônus da prova em favor do consumidor, o que facilita a obtenção de indenização. Nossa equipe utiliza essa ferramenta para garantir que consumidores de Iraceminha tenham seus direitos respeitados. Trabalhamos com negociações diretas com empresas, mediação, conciliação e, quando necessário, ações judiciais para reparação. Em Iraceminha, já obtivemos êxito em diversos casos de direito do consumidor, conquistando indenizações significativas para nossos clientes.',
-    familia: 'Questões familiares em Iraceminha merecem atenção especial. Divórcios, disputas de guarda, pensão alimentícia e inventários são momentos difíceis que exigem assessoria jurídica humanizada. A Will & Pereira Advocacia atende moradores de Iraceminha em todas as questões de Direito de Família, oferecendo soluções personalizadas para cada caso. Em Iraceminha, onde a economia gira em torno de Agroindústria, Comércio, Agricultura e Serviços, conflitos familiares frequentemente envolvem divisão de patrimônio, pensão para filhos e direito de visitas. Nossa equipe domina esses temas e oferece orientação clara sobre cada etapa do processo. Trabalhamos com divórcio consensual para casais que desejam separar-se de forma amigável, e com litígios quando não há acordo. Em Iraceminha, priorizamos a Mediação familiar para preservar relacionamentos e encontrar soluções que beneficiem todos, especialmente as crianças. Inventários e testamentos também fazem parte de nosso atendimento em Iraceminha, garantindo que o patrimônio familiar seja distribuído de forma justa e legal.',
-    imobiliario: 'O Direito Imobiliário em Iraceminha regula todas as questões relacionadas a imóveis. Compra e venda, locação, usucapião, regularização fundiária e condomínio são algumas das áreas em que atuamos. Em Iraceminha, com economia baseada em Agroindústria, Comércio, Agricultura e Serviços, o mercado imobiliário é ativo e demanda assessoria jurídica especializada. A Will & Pereira Advocacia oferece segurança jurídica em cada etapa da transação imobiliária, desde a due diligence até o registro em cartório. Quando surgem conflitos — como inadimplência de aluguel, vícios ocultos em imóveis comprados ou disputas de divórcio —, nossa equipe está preparada para oferecer a melhor solução. Em Iraceminha, trabalhamos com contratos de compra e venda seguros, locação residencial e comercial, e ações de usucapião para regularizar imóveis. A segurança jurídica em transações imobiliárias é essencial — não deixe seu investimento sem proteção. Em Iraceminha, nossa equipe acompanha cada detalhe para garantir que seu imóvel esteja protegido legalmente.',
+  "areaContent": {
+    "previdenciario": "A seguridade social é um direito fundamental dos trabalhadores de Iraceminha/SC. Muitos moradores da região têm dúvidas sobre seus direitos previdenciários, especialmente após as mudanças trazidas pela Reforma da Previdência. A Will & Pereira Advocacia orienta clientes em todos os processos junto ao INSS, desde o planejamento da aposentadoria até recursos administrativos e ações judiciais.\n\nA economia local, baseada em indústria, apresenta particularidades que influenciam os benefícios previdenciários. Trabalhadores rurais, por exemplo, possuem regras diferenciadas de aposentadoria. Nossa equipe domina essas especificidades e oferece orientação precisa para cada caso em Iraceminha.",
+    "trabalhista": "Em Iraceminha/SC, os trabalhadores precisam conhecer seus direitos para evitar situações de exploração e injustiça. A CLT garante diversos direitos, mas muitos trabalhadores não conhecem a totalidade deles. A Will & Pereira Advocacia orienta trabalhadores sobre seus direitos e prazos, garantindo que nenhum direito seja perdido.\n\nA economia de Iraceminha, focada em indústria, gera demandas trabalhistas específicas que atendemos com expertise: desde reclamações trabalhistas até acordos extrajudiciais e consultoria para empresas.",
+    "civel": "Questões cíveis como contratos mal elaborados, dívidas não pagas e danos causados por terceiros são comuns em Iraceminha/SC. A Will & Pereira Advocacia resolve essas questões com eficiência e profissionalismo, oferecendo soluções extrajudiciais e judiciais conforme o caso.\n\nEm Iraceminha, com economia baseada em indústria, os conflitos cíveis apresentam particularidades que conhecemos. Nossa equipe domina o Código Civil, o Código de Processo Civil e a jurisprudência dos tribunais superiores.",
+    "consumidor": "Moradores de Iraceminha/SC que tiveram direitos violados por empresas contam com a Will & Pereira Advocacia para buscar reparação. O CDC assegura direitos como inversão do ônus da prova, repetição de indébito e indenização por danos morais.\n\nEm Iraceminha, com economia baseada em indústria, os conflitos consumeristas envolvem desde cobranças bancárias até negativas de planos de saúde. Nossa equipe domina os instrumentos processuais do CDC e oferece atendimento personalizado.",
+    "familia": "Famílias de Iraceminha/SC que precisam de assistência jurídica encontram na Will & Pereira Advocacia o parceiro ideal. Questões como divórcio, guarda, pensão alimentícia e inventário são tratadas com discrição e profissionalismo.\n\nA economia de Iraceminha, baseada em indústria, influencia questões familiares como partilha de bens e pensão alimentícia. Nossa equipe oferece orientação clara sobre os procedimentos legais e as melhores estratégias.",
+    "imobiliario": "O mercado imobiliário em Iraceminha/SC exige atenção jurídica cuidadosa. Transações imobiliárias envolvem valores significativos e riscos legais que precisam ser avaliados por profissional especializado. A Will & Pereira Advocacia protege os interesses de seus clientes em cada etapa.\n\nEm Iraceminha, com economia baseada em indústria, as questões imobiliárias incluem contratos de compra e venda, locação, usucapião e regularização fundiária. Nossa equipe domina essas questões."
   },
-  faqs: [
-    { pergunta: 'A Will & Pereira Advocacia atende toda a região de Iraceminha?', resposta: 'Sim! A Will & Pereira Advocacia atende moradores de Iraceminha e toda a região. Nossa equipe está preparada para oferecer assessoria jurídica de qualidade.' },
-    { pergunta: 'Quais documentos são necessários para uma consulta jurídica em Iraceminha?', resposta: 'Para uma orientação jurídica em Iraceminha, é recomendável trazer documentos relacionados à questão, como contratos, comprovantes e documentos pessoais.' },
-    { pergunta: 'Quanto custa uma consulta jurídica em Iraceminha?', resposta: 'A Will & Pereira Advocacia oferece orientação jurídica com valores acessíveis para moradores de Iraceminha. Entre em contato para informações sobre honorários e condições de pagamento.' },
+  "exclusiva": "## Por Que Escolher a Will & Pereira Advocacia em Iraceminha?\n\n**Experiência Comprovada:** Mais de 15 anos de atuação em todas as áreas do Direito, com resultados expressivos em Iraceminha e região.\n\n**Conhecimento Local:** Conhecemos as particularidades de Iraceminha e da região de Santa Catarina, incluindo as especificidades da economia baseada em indústria.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada. Em Iraceminha, oferecemos explicação clara de cada etapa do processo.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil, incluindo Iraceminha.\n\n**Transparência Total:** Honorários claros, sem surpresas. O cliente sempre sabe onde está investindo.",
+  "diaADia": "## Como um Advogado Pode Ajudar no Dia a Dia em Iraceminha\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis, elaboração de testamentos.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial, economizando tempo e recursos. Nossa equipe busca soluções consensuais sempre que possível.\n\n**Atendimento de Emergência:** Imprevistos acontecem. Oferecemos atendimento prioritário para situações urgentes em Iraceminha.",
+  "faqs": [
+    {
+      "p": "Quais são as principais áreas do direito atendidas em ${n}?",
+      "r": "Em ${n}/${uf}, atuamos em Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário, com foco nas necessidades da economia local baseada em ${e.join(' e ')}."
+    },
+    {
+      "p": "Como funciona o primeiro atendimento jurídico?",
+      "r": "O primeiro atendimento é orientativo, para análise do caso e definição da melhor estratégia. Atendemos presencialmente em Palhoça/SC e por videoconferência para ${n}."
+    },
+    {
+      "p": "Qual o prazo para entrar com uma reclamação trabalhista?",
+      "r": "O trabalhador tem até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Em ${n}, orientamos sobre prazos e procedimentos."
+    },
+    {
+      "p": "A Will & Pereira Advocacia atende ${n}?",
+      "r": "Sim! Atendemos moradores de ${n} e toda a região de ${uf}, com o mesmo nível de dedicação e profissionalismo."
+    },
+    {
+      "p": "Quais documentos preciso para uma consulta?",
+      "r": "Documentos relacionados à questão: contratos, comprovantes, documentos pessoais. Orientamos sobre a documentação antes da consulta."
+    },
+    {
+      "p": "Quanto custa um advogado em ${n}?",
+      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com honorários de sucumbência. Entre em contato para orientação."
+    },
+    {
+      "p": "É possível resolver questões jurídicas sem ir ao tribunal?",
+      "r": "Sim! Muitos conflitos se resolvem via negociação, mediação ou conciliação. Em ${n}, buscamos soluções extrajudiciais sempre que possível."
+    },
+    {
+      "p": "Como a economia de ${n} influencia as questões jurídicas?",
+      "r": "A economia baseada em ${e[0]} gera demandas trabalhistas, previdenciárias e consumeristas específicas que conhecemos profundamente."
+    },
+    {
+      "p": "Vocês atendem pessoas físicas e jurídicas?",
+      "r": "Sim! Atendemos tanto pessoas físicas quanto empresas em ${n}, oferecendo soluções jurídicas completas."
+    },
+    {
+      "p": "Qual a diferença entre consultar um advogado e contratar?",
+      "r": "A consulta é para análise e orientação. A contratação envolve representação formal. Em ${n}, oferecemos ambos os serviços com transparência."
+    }
   ],
-  stats: {
-    experiencia: '15+',
-    clientes: '5000+',
-    taxa: '98%',
-    cidades: '302',
-  },
+  "stats": {
+    "experiencia": "15+",
+    "clientes": "5000+",
+    "taxa": "98%",
+    "cidades": "5571"
+  }
 }

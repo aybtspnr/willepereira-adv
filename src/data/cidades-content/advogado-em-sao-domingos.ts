@@ -1,29 +1,65 @@
 export default {
-  heroTitle: 'Melhor Advogado em São Domingos — Will & Pereira Advocacia',
-  heroDescription: 'Encontre o melhor advogado em São Domingos. A Will & Pereira Advocacia oferece consultoria e representação jurídica em diversas áreas do Direito.',
-  introParagraphs: [
-    'Quando se fala em assessoria jurídica de qualidade em São Domingos, a Will & Pereira Advocacia se destaca pelo histórico de resultados e pelo compromisso com cada cliente. Atuando em todo o Brasil, nossa equipe está preparada para atender moradores de São Domingos com dedicação.',
-    'O acesso à justiça é um direito de todos. Em São Domingos, trabalhamos para democratizar o acesso a serviços jurídicos de qualidade, oferecendo condições acessíveis e atendimento humanizado.',
-    'Para moradores de São Domingos que buscam orientação jurídica de qualidade, o primeiro passo é entrar em contato. Nossa equipe está pronta para analisar seu caso e apresentar as melhores opções disponíveis.',
-    'Com escritório em Palhoça/SC, atendemos São Domingos e todo o estado de Santa Catarina, além de clientes em todo o Brasil. Sua localização não é obstáculo para receber assessoria jurídica de excelência.',
+  "heroTitle": "Consultoria Jurídica em São Domingos, GO — Experiência e Resultados",
+  "heroDescription": "Encontre o melhor advogado em São Domingos/GO. A Will & Pereira Advocacia oferece assessoria jurídica completa com mais de 15 anos de experiência atendendo moradores de São Domingos e região.",
+  "introParagraphs": [
+    "Moradores de São Domingos/GO que precisam de serviços jurídicos encontram na Will & Pereira Advocacia uma parceira de confiança. Com mais de 15 anos de experiência e escritório em Palhoça/SC, nossa equipe atende clientes em todo o Brasil, incluindo São Domingos e toda a região de Goiás.\n\nA economia de São Domingos é caracterizada por agronegócio, mineração e comércio, o que gera demandas jurídicas específicas que conhecemos profundamente. Questões trabalhistas decorrentes da atividade comercial, questões previdenciárias de trabalhadores rurais e urbanos, e questões consumeristas do cotidiano são situações que atendemos com regularidade.\n\nEste guia completo abrange todas as principais áreas do Direito atendidas pela Will & Pereira Advocacia em São Domingos: Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário. Cada seção é elaborada com base na realidade de São Domingos/GO."
   ],
-  areaContent: {
-    previdenciario: 'O INSS é frequentemente omisso quando se trata de conceder benefícios de forma justa. Em São Domingos, trabalhadores que têm direito a aposentadoria, auxílio-doença ou pensão por morte enfrentam negativas injustificadas e valores abaixo do devido. A Will & Pereira Advocacia combate essas irregularidades com conhecimento técnico e experiência comprovada. Nossa equipe analisa cada caso individualmente, verificando se todos os períodos de contribuição foram computados, se houve exposição a agentes nocivos que garanta aposentadoria especial e se o cálculo do benefício está correto. Em São Domingos, onde a economia gira em torno de Agroindústria, Comércio, Agricultura e Serviços, muitos trabalhadores possuem especificidades que apenas um advogado especializado consegue identificar. Desde trabalhadores rurais até servidores públicos, oferecemos assessoria completa em todas as modalidades de benefício previdenciário. Em caso de negativa do INSS, entramos com recurso administrativo ou ação judicial para reverter a decisão. Em São Domingos, nossa taxa de sucesso em ações previdenciárias é elevada, refletindo o compromisso com a qualidade do trabalho jurídico.',
-    trabalhista: 'O Direito Trabalhista protege os direitos de trabalhadores e empregadores em São Domingos. Nossa equipe atua em reclamações trabalhistas, verbas rescisórias, horas extras, FGTS, adicional de insalubridade, periculosidade e assédio moral. Em São Domingos, onde a economia se baseia em Agroindústria, Comércio, Agricultura e Serviços, as relações de trabalho apresentam particularidades que conhecemos profundamente. Trabalhadores que foram demitidos sem justa causa, não receberam horas extras ou sofreram acidente de trabalho podem contar com a Will & Pereira Advocacia para buscar reparação. Austramos também empresas na consultoria preventiva, ajudando a evitar passivos trabalhistas e a adequar práticas management à legislação. Em São Domingos, já conquistamos indenizações por dano moral, horas extras não pagas e verbas rescisórias de forma célere e eficiente. A CLT garante diversos direitos, mas muitos trabalhadores não conhecem a totalidade deles. Nossa equipe esclarece dúvidas e conduz o processo trabalhista com foco no melhor resultado possível para o cliente em São Domingos.',
-    civel: 'A Will & Pereira Advocacia é referência em Direito Cível em São Domingos. Seja para resolver uma questão contratual, cobrar uma dívida ou buscar indenização por danos, nossa equipe está preparada para oferecer a melhor solução. Em São Domingos, com economia focada em Agroindústria, Comércio, Agricultura e Serviços, os conflitos cíveis são variados e exigem conhecimento aprofundado do Código Civil e da jurisprudência. Trabalhamos com elaboração e revisão de contratos para prevenir futuros litígios. Quando o litígio é inevitável, ingressamos com ações judiciais de cobrança, indenização, despejo, usucapião e demais medidas cabíveis. Em São Domingos, já resolvemos centenas de casos cíveis com sucesso, garantindo a nossos clientes a reparação ou o direito pleiteado. A assessoria cível preventiva é especialmente importante para empresas de São Domingos, que precisam de contratos adequados para evitar prejuízos futuros. Nossa equipe analisa cada situação e apresenta as melhores alternativas para o caso.',
-    consumidor: 'Moradores de São Domingos que tiveram problemas com produtos defeituosos, serviços inadequados ou cobranças indevidas encontram na Will & Pereira Advocacia o parceiro ideal para fazer valer seus direitos. O CDC protege consumidores em São Domingos contra práticas abusivas e garante reparação por danos. Em São Domingos, com economia vinculada a Agroindústria, Comércio, Agricultura e Serviços, o consumo é parte fundamental da vida cotidiana e, por isso, os conflitos consumeristas são frequentes. Nossa equipe atua na defesa dos direitos do consumidor, desde negociações amigáveis até ações judiciais complexas. Utilizamos ferramentas como inversão do ônus da prova, repetição de indébito em dobro e indenização por danos morais para garantir a reparação adequada. Em São Domingos, já ajudamos diversos consumidores a resolverem problemas com bancos, planos de saúde, empresas de telefonia e fornecedores locais. Seus direitos são importantes — não hesite em buscá-los.',
-    familia: 'Em São Domingos, famílias que precisam de assistência jurídica em questões como divórcio, guarda, pensão alimentícia ou inventário encontram na Will & Pereira Advocacia o parceiro ideal. Nossa equipe atua com sensibilidade e competência, buscando soluções que preservem os vínculos familiares quando possível. O Direito de Família é uma das áreas mais emotivas do Direito, e em São Domingos, onde as relações familiares são valorizadas, é fundamental contar com um advogado que compreenda a importância de cada decisão. Trabalhamos comMediação familiar, acordos consensuais e, quando necessário, litígios para proteger os direitos dos clientes. Em São Domingos, já resolvemos diversos casos de divórcio, guarda e pensão alimentícia com sucesso. O inventário e a partilha de bens também são áreas em que atuamos, oferecendo orientação clara sobre os procedimentos legais e as melhores estratégias para cada caso familiar em São Domingos.',
-    imobiliario: 'O mercado imobiliário em São Domingos exige atenção jurídica cuidadosa. Compra, venda, locação e usucapião são operações que envolvem valores significativos e riscos legais. A Will & Pereira Advocacia atende moradores de São Domingos em todas as questões imobiliárias, oferecendo segurança e tranquilidade em cada transação. Em São Domingos, com economia vinculada a Agroindústria, Comércio, Agricultura e Serviços, é comum encontrarmos conflitos como inadimplência em aluguéis, vícios ocultos em imóveis e disputas de limites de terreno. Nossa equipe domina essas questões e oferece soluções eficazes. Trabalhamos com due diligence imobiliária completa, verificando matrícula, certidões e situação fiscal dos imóveis. Em São Domingos, também atuamos em regularização fundiária e usucapião, ajudando moradores a tornarem seus imóveis legalmente. O planejamento imobiliário preventivo é essencial — antes de qualquer transação, conte com orientação jurídica em São Domingos para garantir que tudo esteja em ordem.',
+  "areaContent": {
+    "previdenciario": "A seguridade social é um direito fundamental dos trabalhadores de São Domingos/GO. Muitos moradores da região têm dúvidas sobre seus direitos previdenciários, especialmente após as mudanças trazidas pela Reforma da Previdência. A Will & Pereira Advocacia orienta clientes em todos os processos junto ao INSS, desde o planejamento da aposentadoria até recursos administrativos e ações judiciais.\n\nA economia local, baseada em agronegócio, apresenta particularidades que influenciam os benefícios previdenciários. Trabalhadores rurais, por exemplo, possuem regras diferenciadas de aposentadoria. Nossa equipe domina essas especificidades e oferece orientação precisa para cada caso em São Domingos.",
+    "trabalhista": "Em São Domingos/GO, os trabalhadores precisam conhecer seus direitos para evitar situações de exploração e injustiça. A CLT garante diversos direitos, mas muitos trabalhadores não conhecem a totalidade deles. A Will & Pereira Advocacia orienta trabalhadores sobre seus direitos e prazos, garantindo que nenhum direito seja perdido.\n\nA economia de São Domingos, focada em agronegócio, gera demandas trabalhistas específicas que atendemos com expertise: desde reclamações trabalhistas até acordos extrajudiciais e consultoria para empresas.",
+    "civel": "Questões cíveis como contratos mal elaborados, dívidas não pagas e danos causados por terceiros são comuns em São Domingos/GO. A Will & Pereira Advocacia resolve essas questões com eficiência e profissionalismo, oferecendo soluções extrajudiciais e judiciais conforme o caso.\n\nEm São Domingos, com economia baseada em agronegócio, os conflitos cíveis apresentam particularidades que conhecemos. Nossa equipe domina o Código Civil, o Código de Processo Civil e a jurisprudência dos tribunais superiores.",
+    "consumidor": "Moradores de São Domingos/GO que tiveram direitos violados por empresas contam com a Will & Pereira Advocacia para buscar reparação. O CDC assegura direitos como inversão do ônus da prova, repetição de indébito e indenização por danos morais.\n\nEm São Domingos, com economia baseada em agronegócio, os conflitos consumeristas envolvem desde cobranças bancárias até negativas de planos de saúde. Nossa equipe domina os instrumentos processuais do CDC e oferece atendimento personalizado.",
+    "familia": "Famílias de São Domingos/GO que precisam de assistência jurídica encontram na Will & Pereira Advocacia o parceiro ideal. Questões como divórcio, guarda, pensão alimentícia e inventário são tratadas com discrição e profissionalismo.\n\nA economia de São Domingos, baseada em agronegócio, influencia questões familiares como partilha de bens e pensão alimentícia. Nossa equipe oferece orientação clara sobre os procedimentos legais e as melhores estratégias.",
+    "imobiliario": "O mercado imobiliário em São Domingos/GO exige atenção jurídica cuidadosa. Transações imobiliárias envolvem valores significativos e riscos legais que precisam ser avaliados por profissional especializado. A Will & Pereira Advocacia protege os interesses de seus clientes em cada etapa.\n\nEm São Domingos, com economia baseada em agronegócio, as questões imobiliárias incluem contratos de compra e venda, locação, usucapião e regularização fundiária. Nossa equipe domina essas questões."
   },
-  faqs: [
-    { pergunta: 'Quais áreas do direito são mais comuns em São Domingos?', resposta: 'Em São Domingos, as áreas mais demandadas são Direito Trabalhista, Direito Previdenciário e Direito do Consumidor. A Will & Pereira Advocacia atua em todas essas áreas com excelência e compromisso.' },
-    { pergunta: 'Como funciona o atendimento da Will & Pereira Advocacia para moradores de São Domingos?', resposta: 'A Will & Pereira Advocacia atende moradores de São Domingos de forma integral, presencialmente em Palhoça/SC ou por videoconferência. Nossa equipe oferece orientação jurídica de qualidade, independentemente da localização.' },
-    { pergunta: 'Qual o prazo para entrar com uma ação trabalhista em São Domingos?', resposta: 'O trabalhador tem até 2 anos após a extinção do contrato para ajuizar reclamação trabalhista. Em São Domingos, a Will & Pereira Advocacia orienta trabalhadores sobre seus direitos e prazos.' },
+  "exclusiva": "## Por Que Escolher a Will & Pereira Advocacia em São Domingos?\n\n**Experiência Comprovada:** Mais de 15 anos de atuação em todas as áreas do Direito, com resultados expressivos em São Domingos e região.\n\n**Conhecimento Local:** Conhecemos as particularidades de São Domingos e da região de Goiás, incluindo as especificidades da economia baseada em agronegócio.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada. Em São Domingos, oferecemos explicação clara de cada etapa do processo.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil, incluindo São Domingos.\n\n**Transparência Total:** Honorários claros, sem surpresas. O cliente sempre sabe onde está investindo.",
+  "diaADia": "## Como um Advogado Pode Ajudar no Dia a Dia em São Domingos\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis, elaboração de testamentos.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial, economizando tempo e recursos. Nossa equipe busca soluções consensuais sempre que possível.\n\n**Atendimento de Emergência:** Imprevistos acontecem. Oferecemos atendimento prioritário para situações urgentes em São Domingos.",
+  "faqs": [
+    {
+      "p": "Quais são as principais áreas do direito atendidas em ${n}?",
+      "r": "Em ${n}/${uf}, atuamos em Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário, com foco nas necessidades da economia local baseada em ${e.join(' e ')}."
+    },
+    {
+      "p": "Como funciona o primeiro atendimento jurídico?",
+      "r": "O primeiro atendimento é orientativo, para análise do caso e definição da melhor estratégia. Atendemos presencialmente em Palhoça/SC e por videoconferência para ${n}."
+    },
+    {
+      "p": "Qual o prazo para entrar com uma reclamação trabalhista?",
+      "r": "O trabalhador tem até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Em ${n}, orientamos sobre prazos e procedimentos."
+    },
+    {
+      "p": "A Will & Pereira Advocacia atende ${n}?",
+      "r": "Sim! Atendemos moradores de ${n} e toda a região de ${uf}, com o mesmo nível de dedicação e profissionalismo."
+    },
+    {
+      "p": "Quais documentos preciso para uma consulta?",
+      "r": "Documentos relacionados à questão: contratos, comprovantes, documentos pessoais. Orientamos sobre a documentação antes da consulta."
+    },
+    {
+      "p": "Quanto custa um advogado em ${n}?",
+      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com honorários de sucumbência. Entre em contato para orientação."
+    },
+    {
+      "p": "É possível resolver questões jurídicas sem ir ao tribunal?",
+      "r": "Sim! Muitos conflitos se resolvem via negociação, mediação ou conciliação. Em ${n}, buscamos soluções extrajudiciais sempre que possível."
+    },
+    {
+      "p": "Como a economia de ${n} influencia as questões jurídicas?",
+      "r": "A economia baseada em ${e[0]} gera demandas trabalhistas, previdenciárias e consumeristas específicas que conhecemos profundamente."
+    },
+    {
+      "p": "Vocês atendem pessoas físicas e jurídicas?",
+      "r": "Sim! Atendemos tanto pessoas físicas quanto empresas em ${n}, oferecendo soluções jurídicas completas."
+    },
+    {
+      "p": "Qual a diferença entre consultar um advogado e contratar?",
+      "r": "A consulta é para análise e orientação. A contratação envolve representação formal. Em ${n}, oferecemos ambos os serviços com transparência."
+    }
   ],
-  stats: {
-    experiencia: '15+',
-    clientes: '5000+',
-    taxa: '98%',
-    cidades: '302',
-  },
+  "stats": {
+    "experiencia": "15+",
+    "clientes": "5000+",
+    "taxa": "98%",
+    "cidades": "5571"
+  }
 }

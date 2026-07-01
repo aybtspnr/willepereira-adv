@@ -1,29 +1,65 @@
 export default {
-  heroTitle: 'Advogado em Irineópolis: Assessoria Jurídica Completa',
-  heroDescription: 'Assessoria jurídica de qualidade em Irineópolis. A Will & Pereira Advocacia combina experiência, especialização e compromisso com o cliente para resolver questões jurídicas em Irineópolis.',
-  introParagraphs: [
-    'Saber que existe um time de advogados dedicados faz toda a diferença. Em Irineópolis, moradores e empresas confiam na Will & Pereira Advocacia para orientação jurídica confiável, seja em questões trabalhistas, familiares, cíveis ou imobiliárias.',
-    'Nossos clientes em Irineópolis têm acesso a um time completo de especialistas, cobrindo todas as principais áreas do Direito com competência e dedicação.',
-    'Para moradores de Irineópolis que buscam orientação jurídica de qualidade, o primeiro passo é entrar em contato. Nossa equipe está pronta para analisar seu caso e apresentar as melhores opções disponíveis.',
-    'Em Irineópolis, a Will & Pereira Advocacia é sinônimo de confiança e resultados. Não importa a complexidade do caso, estamos prontos para oferecer a melhor solução jurídica disponível.',
+  "heroTitle": "Direito em Irineópolis, SC — Advogados Experientes e Comprometidos",
+  "heroDescription": "Assessoria jurídica de qualidade em Irineópolis/SC. Atendimento em todo o Brasil com excelência, ética e dedicação.",
+  "introParagraphs": [
+    "Moradores de Irineópolis/SC que precisam de serviços jurídicos encontram na Will & Pereira Advocacia uma parceira de confiança. Com mais de 15 anos de experiência e escritório em Palhoça/SC, nossa equipe atende clientes em todo o Brasil, incluindo Irineópolis e toda a região de Santa Catarina.\n\nA economia de Irineópolis é caracterizada por indústria, agronegócio e turismo, o que gera demandas jurídicas específicas que conhecemos profundamente. Questões trabalhistas decorrentes da atividade industrial, questões previdenciárias de trabalhadores rurais e urbanos, e questões consumeristas do cotidiano são situações que atendemos com regularidade.\n\nEste guia completo abrange todas as principais áreas do Direito atendidas pela Will & Pereira Advocacia em Irineópolis: Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário. Cada seção é elaborada com base na realidade de Irineópolis/SC."
   ],
-  areaContent: {
-    previdenciario: 'O INSS é frequentemente omisso quando se trata de conceder benefícios de forma justa. Em Irineópolis, trabalhadores que têm direito a aposentadoria, auxílio-doença ou pensão por morte enfrentam negativas injustificadas e valores abaixo do devido. A Will & Pereira Advocacia combate essas irregularidades com conhecimento técnico e experiência comprovada. Nossa equipe analisa cada caso individualmente, verificando se todos os períodos de contribuição foram computados, se houve exposição a agentes nocivos que garanta aposentadoria especial e se o cálculo do benefício está correto. Em Irineópolis, onde a economia gira em torno de Agricultura, Comércio, Indústria e Serviços, muitos trabalhadores possuem especificidades que apenas um advogado especializado consegue identificar. Desde trabalhadores rurais até servidores públicos, oferecemos assessoria completa em todas as modalidades de benefício previdenciário. Em caso de negativa do INSS, entramos com recurso administrativo ou ação judicial para reverter a decisão. Em Irineópolis, nossa taxa de sucesso em ações previdenciárias é elevada, refletindo o compromisso com a qualidade do trabalho jurídico.',
-    trabalhista: 'O Direito Trabalhista protege os direitos de trabalhadores e empregadores em Irineópolis. Nossa equipe atua em reclamações trabalhistas, verbas rescisórias, horas extras, FGTS, adicional de insalubridade, periculosidade e assédio moral. Em Irineópolis, onde a economia se baseia em Agricultura, Comércio, Indústria e Serviços, as relações de trabalho apresentam particularidades que conhecemos profundamente. Trabalhadores que foram demitidos sem justa causa, não receberam horas extras ou sofreram acidente de trabalho podem contar com a Will & Pereira Advocacia para buscar reparação. Austramos também empresas na consultoria preventiva, ajudando a evitar passivos trabalhistas e a adequar práticas management à legislação. Em Irineópolis, já conquistamos indenizações por dano moral, horas extras não pagas e verbas rescisórias de forma célere e eficiente. A CLT garante diversos direitos, mas muitos trabalhadores não conhecem a totalidade deles. Nossa equipe esclarece dúvidas e conduz o processo trabalhista com foco no melhor resultado possível para o cliente em Irineópolis.',
-    civel: 'A Will & Pereira Advocacia é referência em Direito Cível em Irineópolis. Seja para resolver uma questão contratual, cobrar uma dívida ou buscar indenização por danos, nossa equipe está preparada para oferecer a melhor solução. Em Irineópolis, com economia focada em Agricultura, Comércio, Indústria e Serviços, os conflitos cíveis são variados e exigem conhecimento aprofundado do Código Civil e da jurisprudência. Trabalhamos com elaboração e revisão de contratos para prevenir futuros litígios. Quando o litígio é inevitável, ingressamos com ações judiciais de cobrança, indenização, despejo, usucapião e demais medidas cabíveis. Em Irineópolis, já resolvemos centenas de casos cíveis com sucesso, garantindo a nossos clientes a reparação ou o direito pleiteado. A assessoria cível preventiva é especialmente importante para empresas de Irineópolis, que precisam de contratos adequados para evitar prejuízos futuros. Nossa equipe analisa cada situação e apresenta as melhores alternativas para o caso.',
-    consumidor: 'Moradores de Irineópolis que tiveram problemas com produtos defeituosos, serviços inadequados ou cobranças indevidas encontram na Will & Pereira Advocacia o parceiro ideal para fazer valer seus direitos. O CDC protege consumidores em Irineópolis contra práticas abusivas e garante reparação por danos. Em Irineópolis, com economia vinculada a Agricultura, Comércio, Indústria e Serviços, o consumo é parte fundamental da vida cotidiana e, por isso, os conflitos consumeristas são frequentes. Nossa equipe atua na defesa dos direitos do consumidor, desde negociações amigáveis até ações judiciais complexas. Utilizamos ferramentas como inversão do ônus da prova, repetição de indébito em dobro e indenização por danos morais para garantir a reparação adequada. Em Irineópolis, já ajudamos diversos consumidores a resolverem problemas com bancos, planos de saúde, empresas de telefonia e fornecedores locais. Seus direitos são importantes — não hesite em buscá-los.',
-    familia: 'Em Irineópolis, famílias que precisam de assistência jurídica em questões como divórcio, guarda, pensão alimentícia ou inventário encontram na Will & Pereira Advocacia o parceiro ideal. Nossa equipe atua com sensibilidade e competência, buscando soluções que preservem os vínculos familiares quando possível. O Direito de Família é uma das áreas mais emotivas do Direito, e em Irineópolis, onde as relações familiares são valorizadas, é fundamental contar com um advogado que compreenda a importância de cada decisão. Trabalhamos comMediação familiar, acordos consensuais e, quando necessário, litígios para proteger os direitos dos clientes. Em Irineópolis, já resolvemos diversos casos de divórcio, guarda e pensão alimentícia com sucesso. O inventário e a partilha de bens também são áreas em que atuamos, oferecendo orientação clara sobre os procedimentos legais e as melhores estratégias para cada caso familiar em Irineópolis.',
-    imobiliario: 'O mercado imobiliário em Irineópolis exige atenção jurídica cuidadosa. Compra, venda, locação e usucapião são operações que envolvem valores significativos e riscos legais. A Will & Pereira Advocacia atende moradores de Irineópolis em todas as questões imobiliárias, oferecendo segurança e tranquilidade em cada transação. Em Irineópolis, com economia vinculada a Agricultura, Comércio, Indústria e Serviços, é comum encontrarmos conflitos como inadimplência em aluguéis, vícios ocultos em imóveis e disputas de limites de terreno. Nossa equipe domina essas questões e oferece soluções eficazes. Trabalhamos com due diligence imobiliária completa, verificando matrícula, certidões e situação fiscal dos imóveis. Em Irineópolis, também atuamos em regularização fundiária e usucapião, ajudando moradores a tornarem seus imóveis legalmente. O planejamento imobiliário preventivo é essencial — antes de qualquer transação, conte com orientação jurídica em Irineópolis para garantir que tudo esteja em ordem.',
+  "areaContent": {
+    "previdenciario": "A seguridade social é um direito fundamental dos trabalhadores de Irineópolis/SC. Muitos moradores da região têm dúvidas sobre seus direitos previdenciários, especialmente após as mudanças trazidas pela Reforma da Previdência. A Will & Pereira Advocacia orienta clientes em todos os processos junto ao INSS, desde o planejamento da aposentadoria até recursos administrativos e ações judiciais.\n\nA economia local, baseada em indústria, apresenta particularidades que influenciam os benefícios previdenciários. Trabalhadores rurais, por exemplo, possuem regras diferenciadas de aposentadoria. Nossa equipe domina essas especificidades e oferece orientação precisa para cada caso em Irineópolis.",
+    "trabalhista": "Em Irineópolis/SC, os trabalhadores precisam conhecer seus direitos para evitar situações de exploração e injustiça. A CLT garante diversos direitos, mas muitos trabalhadores não conhecem a totalidade deles. A Will & Pereira Advocacia orienta trabalhadores sobre seus direitos e prazos, garantindo que nenhum direito seja perdido.\n\nA economia de Irineópolis, focada em indústria, gera demandas trabalhistas específicas que atendemos com expertise: desde reclamações trabalhistas até acordos extrajudiciais e consultoria para empresas.",
+    "civel": "Questões cíveis como contratos mal elaborados, dívidas não pagas e danos causados por terceiros são comuns em Irineópolis/SC. A Will & Pereira Advocacia resolve essas questões com eficiência e profissionalismo, oferecendo soluções extrajudiciais e judiciais conforme o caso.\n\nEm Irineópolis, com economia baseada em indústria, os conflitos cíveis apresentam particularidades que conhecemos. Nossa equipe domina o Código Civil, o Código de Processo Civil e a jurisprudência dos tribunais superiores.",
+    "consumidor": "Moradores de Irineópolis/SC que tiveram direitos violados por empresas contam com a Will & Pereira Advocacia para buscar reparação. O CDC assegura direitos como inversão do ônus da prova, repetição de indébito e indenização por danos morais.\n\nEm Irineópolis, com economia baseada em indústria, os conflitos consumeristas envolvem desde cobranças bancárias até negativas de planos de saúde. Nossa equipe domina os instrumentos processuais do CDC e oferece atendimento personalizado.",
+    "familia": "Famílias de Irineópolis/SC que precisam de assistência jurídica encontram na Will & Pereira Advocacia o parceiro ideal. Questões como divórcio, guarda, pensão alimentícia e inventário são tratadas com discrição e profissionalismo.\n\nA economia de Irineópolis, baseada em indústria, influencia questões familiares como partilha de bens e pensão alimentícia. Nossa equipe oferece orientação clara sobre os procedimentos legais e as melhores estratégias.",
+    "imobiliario": "O mercado imobiliário em Irineópolis/SC exige atenção jurídica cuidadosa. Transações imobiliárias envolvem valores significativos e riscos legais que precisam ser avaliados por profissional especializado. A Will & Pereira Advocacia protege os interesses de seus clientes em cada etapa.\n\nEm Irineópolis, com economia baseada em indústria, as questões imobiliárias incluem contratos de compra e venda, locação, usucapião e regularização fundiária. Nossa equipe domina essas questões."
   },
-  faqs: [
-    { pergunta: 'Quais áreas do direito são mais comuns em Irineópolis?', resposta: 'Em Irineópolis, as áreas mais demandadas são Direito Trabalhista, Direito Previdenciário e Direito do Consumidor. A Will & Pereira Advocacia atua em todas essas áreas com excelência e compromisso.' },
-    { pergunta: 'Como funciona o atendimento da Will & Pereira Advocacia para moradores de Irineópolis?', resposta: 'A Will & Pereira Advocacia atende moradores de Irineópolis de forma integral, presencialmente em Palhoça/SC ou por videoconferência. Nossa equipe oferece orientação jurídica de qualidade, independentemente da localização.' },
-    { pergunta: 'Qual o prazo para entrar com uma ação trabalhista em Irineópolis?', resposta: 'O trabalhador tem até 2 anos após a extinção do contrato para ajuizar reclamação trabalhista. Em Irineópolis, a Will & Pereira Advocacia orienta trabalhadores sobre seus direitos e prazos.' },
+  "exclusiva": "## Por Que Escolher a Will & Pereira Advocacia em Irineópolis?\n\n**Experiência Comprovada:** Mais de 15 anos de atuação em todas as áreas do Direito, com resultados expressivos em Irineópolis e região.\n\n**Conhecimento Local:** Conhecemos as particularidades de Irineópolis e da região de Santa Catarina, incluindo as especificidades da economia baseada em indústria.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada. Em Irineópolis, oferecemos explicação clara de cada etapa do processo.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil, incluindo Irineópolis.\n\n**Transparência Total:** Honorários claros, sem surpresas. O cliente sempre sabe onde está investindo.",
+  "diaADia": "## Como um Advogado Pode Ajudar no Dia a Dia em Irineópolis\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis, elaboração de testamentos.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial, economizando tempo e recursos. Nossa equipe busca soluções consensuais sempre que possível.\n\n**Atendimento de Emergência:** Imprevistos acontecem. Oferecemos atendimento prioritário para situações urgentes em Irineópolis.",
+  "faqs": [
+    {
+      "p": "Quais são as principais áreas do direito atendidas em ${n}?",
+      "r": "Em ${n}/${uf}, atuamos em Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário, com foco nas necessidades da economia local baseada em ${e.join(' e ')}."
+    },
+    {
+      "p": "Como funciona o primeiro atendimento jurídico?",
+      "r": "O primeiro atendimento é orientativo, para análise do caso e definição da melhor estratégia. Atendemos presencialmente em Palhoça/SC e por videoconferência para ${n}."
+    },
+    {
+      "p": "Qual o prazo para entrar com uma reclamação trabalhista?",
+      "r": "O trabalhador tem até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Em ${n}, orientamos sobre prazos e procedimentos."
+    },
+    {
+      "p": "A Will & Pereira Advocacia atende ${n}?",
+      "r": "Sim! Atendemos moradores de ${n} e toda a região de ${uf}, com o mesmo nível de dedicação e profissionalismo."
+    },
+    {
+      "p": "Quais documentos preciso para uma consulta?",
+      "r": "Documentos relacionados à questão: contratos, comprovantes, documentos pessoais. Orientamos sobre a documentação antes da consulta."
+    },
+    {
+      "p": "Quanto custa um advogado em ${n}?",
+      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com honorários de sucumbência. Entre em contato para orientação."
+    },
+    {
+      "p": "É possível resolver questões jurídicas sem ir ao tribunal?",
+      "r": "Sim! Muitos conflitos se resolvem via negociação, mediação ou conciliação. Em ${n}, buscamos soluções extrajudiciais sempre que possível."
+    },
+    {
+      "p": "Como a economia de ${n} influencia as questões jurídicas?",
+      "r": "A economia baseada em ${e[0]} gera demandas trabalhistas, previdenciárias e consumeristas específicas que conhecemos profundamente."
+    },
+    {
+      "p": "Vocês atendem pessoas físicas e jurídicas?",
+      "r": "Sim! Atendemos tanto pessoas físicas quanto empresas em ${n}, oferecendo soluções jurídicas completas."
+    },
+    {
+      "p": "Qual a diferença entre consultar um advogado e contratar?",
+      "r": "A consulta é para análise e orientação. A contratação envolve representação formal. Em ${n}, oferecemos ambos os serviços com transparência."
+    }
   ],
-  stats: {
-    experiencia: '15+',
-    clientes: '5000+',
-    taxa: '98%',
-    cidades: '302',
-  },
+  "stats": {
+    "experiencia": "15+",
+    "clientes": "5000+",
+    "taxa": "98%",
+    "cidades": "5571"
+  }
 }

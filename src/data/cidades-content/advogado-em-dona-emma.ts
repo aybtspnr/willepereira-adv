@@ -1,28 +1,65 @@
 export default {
-  heroTitle: 'Advogado em Dona Emma | Will & Pereira — Palhoça/SC',
-  heroDescription: 'Precisa de um advogado em Dona Emma? A Will & Pereira Advocacia atende em todas as áreas do Direito, com foco em resultados e atendimento humanizado para moradores de Dona Emma.',
-  introParagraphs: [
-    'Dona Emma, com sua economia baseada em Indústria Têxtil, Comércio, Tecnologia e Serviços e população de até 50 mil, enfrenta desafios jurídicos que requerem profissionais capacitados. A Will & Pereira Advocacia atende moradores de Dona Emma com expertise e compromisso em cada caso.',
-    'Dona Emma é uma cidade dinâmica, e suas necessidades jurídicas refletem essa realidade. Estamos preparados para atender desde questões simples até demandas complexas, sempre com foco no resultado do nosso cliente.',
-    'Combinamos experiência jurídica com tecnologia para oferecer um atendimento moderno e eficiente em Dona Emma. Nossos clientes podem acompanhar seus processos de forma ágil e transparente.',
+  "heroTitle": "Assessoria Jurídica em Dona Emma | Will & Pereira Advocacia",
+  "heroDescription": "Assessoria jurídica de qualidade em Dona Emma/SC. Atendimento em todo o Brasil com excelência, ética e dedicação.",
+  "introParagraphs": [
+    "Moradores de Dona Emma/SC que precisam de serviços jurídicos encontram na Will & Pereira Advocacia uma parceira de confiança. Com mais de 15 anos de experiência e escritório em Palhoça/SC, nossa equipe atende clientes em todo o Brasil, incluindo Dona Emma e toda a região de Santa Catarina.\n\nA economia de Dona Emma é caracterizada por indústria, agronegócio e turismo, o que gera demandas jurídicas específicas que conhecemos profundamente. Questões trabalhistas decorrentes da atividade industrial, questões previdenciárias de trabalhadores rurais e urbanos, e questões consumeristas do cotidiano são situações que atendemos com regularidade.\n\nEste guia completo abrange todas as principais áreas do Direito atendidas pela Will & Pereira Advocacia em Dona Emma: Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário. Cada seção é elaborada com base na realidade de Dona Emma/SC."
   ],
-  areaContent: {
-    previdenciario: 'O Direito Previdenciário em Dona Emma é uma das áreas mais procuradas, especialmente entre trabalhadores que buscam aposentadoria, auxílio-doença e pensão por morte. Com a reforma da previdência, muitas regras mudaram e é fundamental ter orientação especializada para não perder benefícios. Em Dona Emma, muitos trabalhadores da área de Indústria Têxtil, Comércio, Tecnologia e Serviços não conhecem todos os direitos que possuem junto ao INSS. A Will & Pereira Advocacia realiza análise completa do histórico contributivo para identificar a melhor estratégia de aposentadoria, considerando regras de transição e direito adquirido. Atuamos na conquista de aposentadoria por idade, por tempo de contribuição, aposentadoria especial e BPC/LOAS. Quando o INSS nega ou concede valor inferior ao devido, nossa equipe entra com revisões administrativas e ações judiciais para garantir o benefício correto. Em Dona Emma, já ajudamos centenas de trabalhadores a conquistarem aposentadorias mais vantajosas e auxílios-doença que haviam sido negados injustamente. O planejamento previdenciário preventivo é essencial para quem deseja se aposentar com o melhor benefício possível. Nossa equipe analisa cada contribuição, cada período especial e cada regra de transição para traçar o melhor caminho. Em Dona Emma, onde a economia é baseada em Indústria Têxtil, Comércio, Tecnologia e Serviços, muitos trabalhadores têm contribuições irregulares ou período especial que pode ser computado para antecipar a aposentadoria. Não deixe de buscar orientação jurídica para proteger seu futuro previdenciário.',
-    trabalhista: 'A relação de trabalho em Dona Emma envolve milhões de trabalhadores que precisam de proteção jurídica. A Will & Pereira Advocacia atua na defesa dos direitos trabalhistas, desde a negociação coletiva até o ajuizamento de reclamações na Justiça do Trabalho. Em Dona Emma, com economia focada em Indústria Têxtil, Comércio, Tecnologia e Serviços, é essencial que trabalhadores e empresas contem com assessoria jurídica especializada. Trabalhadores demitidos sem justa causa têm direito a aviso prévio, 13º salário proporcional, férias proporcionais e multa de 40% sobre o FGTS, entre outros. Nossa equipe calcula todas as verbas devidas e garante o recebimento integral. Para empresas, oferecemos auditorias trabalhistas que identificam riscos e oportunidades de adequação. Em Dona Emma, o conhecimento das particularidades locais do mercado de trabalho é essencial para um resultado eficaz. Nossos clientes em Dona Emma contam com atendimento personalizado e atualização constante sobre o andamento de seus processos trabalhistas.',
-    civel: 'Moradores de Dona Emma que enfrentam problemas cíveis precisam de orientação jurídica para proteger seus interesses. A Will & Pereira Advocacia atende em questões de Direito Civil como contratos, indenizações, cobranças, usucapião e responsabilidade civil. Em Dona Emma, a dinâmica econômica baseada em Indústria Têxtil, Comércio, Tecnologia e Serviços gera demandas jurídicas variadas que requerem atenção e competência. Trabalhamos com pessoas físicas e empresas, oferecendo assessoria completa em todas as etapas do processo cível. Desde a negociação amigável até a sentença judicial, acompanhamos cada caso com dedicação. Em Dona Emma, já atendemos diversos clientes com sucesso, conquistando indenizações, resolvendo disputas contratuais e regularizando propriedades. Apreventiva jurídica cível é essencial para evitar problemas futuros — nossa equipe revisa contratos, verifica obrigações e orienta sobre boas práticas jurídicas em Dona Emma.',
-    consumidor: 'O Código de Defesa do Consumidor protege moradores de Dona Emma contra abusos de empresas e fornecedores. Se você contratou um serviço defeituoso, comprou um produto com vício, sofreu cobrança indevida ou negativação injusta, a Will & Pereira Advocacia pode ajudar. Em Dona Emma, com economia baseada em Indústria Têxtil, Comércio, Tecnologia e Serviços, o consumo de produtos e serviços é intenso e, consequentemente, os conflitos consumeristas são frequentes. Nossa equipe atua na defesa dos direitos do consumidor, buscando indenização por danos morais e materiais, repetição de indébito e inversão do ônus da prova quando cabível. O CDC garante direitos fundamentais que muitos consumidores de Dona Emma desconhecem. Por isso, oferecemos orientação jurídica clara e acessível para que cada cidadão saiba como agir quando seus direitos são violados. Em Dona Emma, já ajudamos centenas de consumidores a conquistarem indenizações e a terem seus direitos reconhecidos.',
-    familia: 'A Will & Pereira Advocacia atua em todas as áreas do Direito de Família em Dona Emma: divórcio consensual e litigioso, guarda compartilhada, pensão alimentícia, investigação de paternidade, inventário e planejamento sucessório. Em Dona Emma, com sua comunidade unida e economia baseada em Indústria Têxtil, Comércio, Tecnologia e Serviços, conflitos familiares precisam de solução jurídica adequada. Nossa equipe está preparada para oferecer orientação jurídica em cada situação, com foco na proteção dos direitos de todos os envolvidos, especialmente crianças e idosos. Trabalhamos com Mediação familiar para buscar acordos que beneficiem todas as partes. Em Dona Emma, já ajudamos diversas famílias a resolverem questões de divórcio, fixação de guarda e pensão alimentícia de forma ágil e justa. O planejamento sucessório é essencial para proteger o patrimônio familiar — nossa equipe orienta sobre testamento, doação e planejamento de herança em Dona Emma.',
-    imobiliario: 'Em Dona Emma, a assessoria jurídica imobiliária é fundamental para proteger investimentos e evitar conflitos. A Will & Pereira Advocacia atua em contratos de compra e venda, locação, usucapião e regularização fundiária, oferecendo segurança em cada etapa. Com economia baseada em Indústria Têxtil, Comércio, Tecnologia e Serviços, o mercado imobiliário de Dona Emma é ativo e gera demandas jurídicas variadas. Nossa equipe oferece assessoria completa em Direito Imobiliário, desde a análise preliminar do imóvel até o registro definitivo em cartório. Quando há disputas, conduzimos ações de reivindicatória, despejo e indenização com foco em resultados. Em Dona Emma, já ajudamos diversos clientes a resolverem conflitos imobiliários complexos, incluindo disputas de herança que envolvem imóveis e usucapião de terras urbanas. A prevenção é a melhor estratégia — conte com a Will & Pereira Advocacia em Dona Emma para garantir que sua transação imobiliária esteja protegida legalmente.',
+  "areaContent": {
+    "previdenciario": "A seguridade social é um direito fundamental dos trabalhadores de Dona Emma/SC. Muitos moradores da região têm dúvidas sobre seus direitos previdenciários, especialmente após as mudanças trazidas pela Reforma da Previdência. A Will & Pereira Advocacia orienta clientes em todos os processos junto ao INSS, desde o planejamento da aposentadoria até recursos administrativos e ações judiciais.\n\nA economia local, baseada em indústria, apresenta particularidades que influenciam os benefícios previdenciários. Trabalhadores rurais, por exemplo, possuem regras diferenciadas de aposentadoria. Nossa equipe domina essas especificidades e oferece orientação precisa para cada caso em Dona Emma.",
+    "trabalhista": "Em Dona Emma/SC, os trabalhadores precisam conhecer seus direitos para evitar situações de exploração e injustiça. A CLT garante diversos direitos, mas muitos trabalhadores não conhecem a totalidade deles. A Will & Pereira Advocacia orienta trabalhadores sobre seus direitos e prazos, garantindo que nenhum direito seja perdido.\n\nA economia de Dona Emma, focada em indústria, gera demandas trabalhistas específicas que atendemos com expertise: desde reclamações trabalhistas até acordos extrajudiciais e consultoria para empresas.",
+    "civel": "Questões cíveis como contratos mal elaborados, dívidas não pagas e danos causados por terceiros são comuns em Dona Emma/SC. A Will & Pereira Advocacia resolve essas questões com eficiência e profissionalismo, oferecendo soluções extrajudiciais e judiciais conforme o caso.\n\nEm Dona Emma, com economia baseada em indústria, os conflitos cíveis apresentam particularidades que conhecemos. Nossa equipe domina o Código Civil, o Código de Processo Civil e a jurisprudência dos tribunais superiores.",
+    "consumidor": "Moradores de Dona Emma/SC que tiveram direitos violados por empresas contam com a Will & Pereira Advocacia para buscar reparação. O CDC assegura direitos como inversão do ônus da prova, repetição de indébito e indenização por danos morais.\n\nEm Dona Emma, com economia baseada em indústria, os conflitos consumeristas envolvem desde cobranças bancárias até negativas de planos de saúde. Nossa equipe domina os instrumentos processuais do CDC e oferece atendimento personalizado.",
+    "familia": "Famílias de Dona Emma/SC que precisam de assistência jurídica encontram na Will & Pereira Advocacia o parceiro ideal. Questões como divórcio, guarda, pensão alimentícia e inventário são tratadas com discrição e profissionalismo.\n\nA economia de Dona Emma, baseada em indústria, influencia questões familiares como partilha de bens e pensão alimentícia. Nossa equipe oferece orientação clara sobre os procedimentos legais e as melhores estratégias.",
+    "imobiliario": "O mercado imobiliário em Dona Emma/SC exige atenção jurídica cuidadosa. Transações imobiliárias envolvem valores significativos e riscos legais que precisam ser avaliados por profissional especializado. A Will & Pereira Advocacia protege os interesses de seus clientes em cada etapa.\n\nEm Dona Emma, com economia baseada em indústria, as questões imobiliárias incluem contratos de compra e venda, locação, usucapião e regularização fundiária. Nossa equipe domina essas questões."
   },
-  faqs: [
-    { pergunta: 'A Will & Pereira Advocacia atende toda a região de Dona Emma?', resposta: 'Sim! A Will & Pereira Advocacia atende moradores de Dona Emma e toda a região. Nossa equipe está preparada para oferecer assessoria jurídica de qualidade.' },
-    { pergunta: 'Quais documentos são necessários para uma consulta jurídica em Dona Emma?', resposta: 'Para uma orientação jurídica em Dona Emma, é recomendável trazer documentos relacionados à questão, como contratos, comprovantes e documentos pessoais.' },
-    { pergunta: 'Quanto custa uma consulta jurídica em Dona Emma?', resposta: 'A Will & Pereira Advocacia oferece orientação jurídica com valores acessíveis para moradores de Dona Emma. Entre em contato para informações sobre honorários e condições de pagamento.' },
+  "exclusiva": "## Por Que Escolher a Will & Pereira Advocacia em Dona Emma?\n\n**Experiência Comprovada:** Mais de 15 anos de atuação em todas as áreas do Direito, com resultados expressivos em Dona Emma e região.\n\n**Conhecimento Local:** Conhecemos as particularidades de Dona Emma e da região de Santa Catarina, incluindo as especificidades da economia baseada em indústria.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada. Em Dona Emma, oferecemos explicação clara de cada etapa do processo.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil, incluindo Dona Emma.\n\n**Transparência Total:** Honorários claros, sem surpresas. O cliente sempre sabe onde está investindo.",
+  "diaADia": "## Como um Advogado Pode Ajudar no Dia a Dia em Dona Emma\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis, elaboração de testamentos.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial, economizando tempo e recursos. Nossa equipe busca soluções consensuais sempre que possível.\n\n**Atendimento de Emergência:** Imprevistos acontecem. Oferecemos atendimento prioritário para situações urgentes em Dona Emma.",
+  "faqs": [
+    {
+      "p": "Quais são as principais áreas do direito atendidas em ${n}?",
+      "r": "Em ${n}/${uf}, atuamos em Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário, com foco nas necessidades da economia local baseada em ${e.join(' e ')}."
+    },
+    {
+      "p": "Como funciona o primeiro atendimento jurídico?",
+      "r": "O primeiro atendimento é orientativo, para análise do caso e definição da melhor estratégia. Atendemos presencialmente em Palhoça/SC e por videoconferência para ${n}."
+    },
+    {
+      "p": "Qual o prazo para entrar com uma reclamação trabalhista?",
+      "r": "O trabalhador tem até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Em ${n}, orientamos sobre prazos e procedimentos."
+    },
+    {
+      "p": "A Will & Pereira Advocacia atende ${n}?",
+      "r": "Sim! Atendemos moradores de ${n} e toda a região de ${uf}, com o mesmo nível de dedicação e profissionalismo."
+    },
+    {
+      "p": "Quais documentos preciso para uma consulta?",
+      "r": "Documentos relacionados à questão: contratos, comprovantes, documentos pessoais. Orientamos sobre a documentação antes da consulta."
+    },
+    {
+      "p": "Quanto custa um advogado em ${n}?",
+      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com honorários de sucumbência. Entre em contato para orientação."
+    },
+    {
+      "p": "É possível resolver questões jurídicas sem ir ao tribunal?",
+      "r": "Sim! Muitos conflitos se resolvem via negociação, mediação ou conciliação. Em ${n}, buscamos soluções extrajudiciais sempre que possível."
+    },
+    {
+      "p": "Como a economia de ${n} influencia as questões jurídicas?",
+      "r": "A economia baseada em ${e[0]} gera demandas trabalhistas, previdenciárias e consumeristas específicas que conhecemos profundamente."
+    },
+    {
+      "p": "Vocês atendem pessoas físicas e jurídicas?",
+      "r": "Sim! Atendemos tanto pessoas físicas quanto empresas em ${n}, oferecendo soluções jurídicas completas."
+    },
+    {
+      "p": "Qual a diferença entre consultar um advogado e contratar?",
+      "r": "A consulta é para análise e orientação. A contratação envolve representação formal. Em ${n}, oferecemos ambos os serviços com transparência."
+    }
   ],
-  stats: {
-    experiencia: '15+',
-    clientes: '5000+',
-    taxa: '98%',
-    cidades: '302',
-  },
+  "stats": {
+    "experiencia": "15+",
+    "clientes": "5000+",
+    "taxa": "98%",
+    "cidades": "5571"
+  }
 }

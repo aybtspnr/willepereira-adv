@@ -1,28 +1,65 @@
 export default {
-  heroTitle: 'Advogado em Xavantina — Will & Pereira Advocacia',
-  heroDescription: 'Assessoria jurídica de qualidade em Xavantina. A Will & Pereira Advocacia combina experiência, especialização e compromisso com o cliente para resolver questões jurídicas em Xavantina.',
-  introParagraphs: [
-    'Saber que existe um time de advogados dedicados faz toda a diferença. Em Xavantina, moradores e empresas confiam na Will & Pereira Advocacia para orientação jurídica confiável, seja em questões trabalhistas, familiares, cíveis ou imobiliárias.',
-    'Cada cidade tem suas particularidades, e Xavantina não é diferente. Conhecer a realidade local nos permite oferecer um serviço jurídico mais eficiente e alinhado com as necessidades da população.',
-    'Nossa reputação em Xavantina é construídia caso a caso, com resultados concretos e clientes satisfeitos. Escolha a Will & Pereira Advocacia para cuidar dos seus interesses jurídicos.',
+  "heroTitle": "Assessoria Jurídica em Xavantina | Will & Pereira Advocacia",
+  "heroDescription": "Precisa de um advogado em Xavantina/SC? Nossa equipe está pronta para oferecer a melhor estratégia jurídica para o seu caso.",
+  "introParagraphs": [
+    "A busca por um advogado de confiança em Xavantina/SC é constante. Questões trabalhistas, previdenciárias, familiares e imobiliárias surgem no cotidiano e precisam de orientação especializada. A Will & Pereira Advocacia, com mais de 15 anos de atuação, é referência no atendimento jurídico para moradores de Xavantina e região.\n\nXavantina é uma cidade com economia dinâmica localizada em Santa Catarina, com economia baseada em indústria, agronegócio e turismo. Essas características geram demandas jurídicas que exigem conhecimento aprofundado da legislação e da jurisprudência.\n\nNossa equipe multidisciplinar oferece assessoria completa em todas as áreas do Direito, com atendimento personalizado e foco nos melhores resultados para cada cliente em Xavantina."
   ],
-  areaContent: {
-    previdenciario: 'Em Xavantina, a demanda por assessoria previdenciária cresce a cada ano. Trabalhadores que se aposentam precisam garantir que receberão o valor correto, e aqueles que necessitam de auxílio-doença ou BPC/LOAS precisam de orientação para não terem seus pedidos negados. A Will & Pereira Advocacia atende moradores de Xavantina com análise detalhada do histórico contributivo do INSS, verificando possibilidades de aposentadoria antecipada, majoração de benefício e revisão de cálculos. Muitos trabalhadores de Xavantina, especialmente os que atuam em Agroindústria, Comércio, Agricultura e Serviços, possuem períodos de contribuição que não foram computados corretamente pelo INSS. Nossa equipe identifica essas falhas e entra com as medidas cabíveis para correção. Atuamos também em planejamento previdenciário para trabalhadores que ainda estão longe da aposentadoria, traçando estratégias para maximizar o benefício futuro. Em Xavantina, já ajudamos diversos trabalhadores a conquistarem aposentadoria especial, revisões de benefício e indenizações por mora do INSS. Não espere até ficar impossibilitado de trabalhar — procure orientação jurídica antecipada e proteja seu futuro.',
-    trabalhista: 'Moradores de Xavantina que trabalham em condições inadequadas ou tiveram seus direitos violados podem contar com a Will & Pereira Advocacia para buscar reparação na Justiça do Trabalho. Em Xavantina, com economia baseada em Agroindústria, Comércio, Agricultura e Serviços, as relações de trabalho apresentam desafios específicos que exigem conhecimento especializado. Atuamos em reclamações trabalhistas individuais e coletivas, defendendo trabalhadores em casos de jornada excessiva, insalubridade, periculosidade, acidente de trabalho e assédio moral. Em Xavantina, trabalhadores que foram demitidos sem justa causa têm direito a diversas verbas rescisórias que muitas vezes não são pagas corretamente. Nossa equipe verifica cada item e garante o recebimento integral devido. Para empresas, oferecemos assessoria trabalhista preventiva, elaboração de contratos, acordos e negociações coletivas. Em Xavantina, a Will & Pereira Advocacia é reconhecida pela competência e dedicação em causas trabalhistas. Não aceite ter seus direitos negados — procure nossa equipe e saiba como podemos ajudar.',
-    civel: 'Em Xavantina, questões cíveis do cotidiano muitas vezes escalam para litígios judiciais. Contratos de compra e venda, locações, empréstimos e relações de consumo geram conflitos que precisam de solução jurídica. A Will & Pereira Advocacia atende moradores de Xavantina em todas as questões de Direito Cível, oferecendo assessoria preventiva e contenciosa. Quando um conflito não pode ser resolvido extrajudicialmente, nossa equipe ingressa com ações de cobrança, indenização ou execução judicial para garantir o direito do cliente. Em Xavantina, onde o setor de Agroindústria, Comércio, Agricultura e Serviços é dinâmico, é comum surgirem questões como contratos comerciais descumpridos, danos materiais e morais, e disputas de propriedade. Nossa experiência em causas cíveis nos permite oferecer soluções eficazes, mesmo em situações complexas. Atuamos também em usucapião, quando trabalhadores ou moradores de Xavantina precisam regularizar imóveis que ocupam há anos. Nossa equipe acompanha cada etapa do processo, desde a instrução processual até a sentença definitiva.',
-    consumidor: 'O Direito do Consumidor em Xavantina protege quem compra, contrata ou utiliza serviços. Se você sofreu com um produto defeituoso, um serviço mal prestado ou uma cobrança abusiva, a Will & Pereira Advocacia está pronta para agir. Em Xavantina, com economia focada em Agroindústria, Comércio, Agricultura e Serviços, é essencial que consumidores conheçam seus direitos para não serem vítimas de práticas abusivas. Nossa equipe atua em defesa do consumidor em Xavantina, buscando reparação por danos morais e materiais, repetição de valores pagos indevidamente e cessação de práticas abusivas. O CDC é uma lei poderosa que confere ao consumidor vantagens processuais significativas, como a inversão do ônus da prova e a competência da Justiça Federal para causas de valor superior a 40 salários mínimos. Em Xavantina, trabalhamos para garantir que cada consumidor tenha acesso à justiça e receba a reparação que merece. Não deixe que empresas abuse do consumidor — entre em contato e saiba como podemos ajudar em Xavantina.',
-    familia: 'Famílias de Xavantina que precisam de apoio jurídico em momentos delicados contam com a Will & Pereira Advocacia. Atuamos em divórcio, guarda de filhos, pensão alimentícia, inventário, união estável e todas as questões que envolvem relações familiares. Em Xavantina, com economia centrada em Agroindústria, Comércio, Agricultura e Serviços, conflitos familiares frequentemente envolvem questões patrimoniais e de guarda que exigem expertise jurídica. Nossa equipe entende a sensibilidade de cada caso e oferece atendimento com discrição e profissionalismo. Trabalhamos para encontrar soluções que protejam os interesses de todos, especialmente dos menores. Em Xavantina, já orientamos diversas famílias em processos de divórcio, fixação de alimentos e inventário, sempre com foco em resultados rápidos e justos. O planejamento sucessório preventivo é uma forma de evitar conflitos futuros — nossa equipe orienta sobre testamentos e doações em Xavantina para proteger o patrimônio familiar.',
-    imobiliario: 'Em Xavantina, o mercado imobiliário apresenta características próprias que demandam conhecimento especializado. A Will & Pereira Advocacia atua em todas as áreas do Direito Imobiliário, desde a elaboração de contratos até a resolução de conflitos. Em Xavantina, onde o setor de Agroindústria, Comércio, Agricultura e Serviços é dinâmico, transações imobiliárias são frequentes e geram demandas jurídicas específicas. Nossa equipe oferece assessoria em compra e venda de imóveis, locação, usucapião, regularização fundiária e direito condominial. Quando há disputas sobre propriedade,limites de terreno ou inadimplência em contratos de locação, nossa equipe conduz o caso com competência e dedicação. Em Xavantina, já resolvemos diversos conflitos imobiliários com sucesso, garantindo a segurança jurídica de nossos clientes. A due diligence imobiliária é especialmente importante em Xavantina, onde a verificação de matrícula, certidões negativas e situação fiscal do imóvel pode evitar problemas futuros.',
+  "areaContent": {
+    "previdenciario": "Aposentadoria, auxílio-doença, pensão por morte e BPC/LOAS são os benefícios mais buscados por moradores de Xavantina/SC. A complexidade das regras previdenciárias, especialmente após a EC 103/2019, torna indispensável o acompanhamento de um advogado especializado.\n\nEm Xavantina, com economia baseada em indústria, trabalhadores de diversas categorias precisam de orientação previdenciária personalizada. A Will & Pereira Advocacia oferece análise completa do CNIS, simulação de benefícios e representação administrativa e judicial junto ao INSS.",
+    "trabalhista": "A relação de emprego em Xavantina/SC é regida pela CLT e pela Constituição Federal, que garantem direitos fundamentais aos trabalhadores. Em uma cidade com economia baseada em indústria, as questões trabalhistas são frequentes e variadas. A Will & Pereira Advocacia atua na defesa desses direitos com competência e dedicação.\n\nAtuamos em Xavantina em reclamações trabalhistas, verbas rescisórias, horas extras, FGTS, estabilidade provisória, assédio moral e todas as demais questões que envolvam a relação de emprego.",
+    "civel": "O cotidiano de Xavantina/SC gera diversas questões jurídicas de natureza civil. Desde a elaboração de contratos até a resolução de conflitos de vizinhança, a Will & Pereira Advocacia oferece orientação jurídica completa para moradores e empresas da região.\n\nA economia local, focada em indústria e agronegócio, apresenta demandas cíveis que exigem conhecimento técnico e experiência. Atuamos em contratos, indenizações, cobranças, usucapião e todas as áreas do Direito Cível.",
+    "consumidor": "A proteção ao consumidor em Xavantina/SC é um direito fundamental. Questões como produtos defeituosos, serviços inadequados e cobranças indevidas são situações que resolvemos regularmente. A Will & Pereira Advocacia oferece assessoria completa em Direito do Consumidor.\n\nA economia local, baseada em indústria, gera demandas consumeristas que conhecemos profundamente. Atuamos em negociações extrajudiciais e ações judiciais, sempre buscando a melhor solução para cada caso.",
+    "familia": "As questões familiares em Xavantina/SC são tratadas com a sensibilidade que merecem. Divórcio consensual e litigioso, guarda compartilhada, pensão alimentícia, inventário e planejamento sucessório são áreas em que atuamos com excelência.\n\nEm Xavantina, conhecemos as particularidades do Direito de Família local e oferecemos atendimento personalizado para cada caso, sempre priorizando o bem-estar de todos os envolvidos.",
+    "imobiliario": "Questões imobiliárias em Xavantina/SC são frequentes e variadas. Desde a elaboração de contratos de locação até ações de usucapião, a Will & Pereira Advocacia oferece soluções jurídicas para todas as necessidades.\n\nA economia local, focada em indústria e agronegócio, gera demandas imobiliárias que atendemos com competência e dedicação. Trabalhamos com due diligence completa e resolução de conflitos."
   },
-  faqs: [
-    { pergunta: 'A Will & Pereira Advocacia trabalha com plano de saúde em Xavantina?', resposta: 'Sim! A Will & Pereira Advocacia atua em ações contra planos de saúde que negam cobertura ou praticam abusos contra consumidores de Xavantina.' },
-    { pergunta: 'A Will & Pereira Advocacia faz atendimento por videoconferência para Xavantina?', resposta: 'Sim! Oferecemos atendimento por videoconferência para moradores de Xavantina que não podem se deslocar até Palhoça/SC.' },
-    { pergunta: 'Em quais situações devo procurar um advogado trabalhista em Xavantina?', resposta: 'Em Xavantina, procure um advogado trabalhista quando tiver problemas com verbas rescisórias, horas extras, FGTS, acidente de trabalho ou assédio moral.' },
+  "exclusiva": "## Por Que Escolher a Will & Pereira Advocacia em Xavantina?\n\n**Experiência Comprovada:** Mais de 15 anos de atuação em todas as áreas do Direito, com resultados expressivos em Xavantina e região.\n\n**Conhecimento Local:** Conhecemos as particularidades de Xavantina e da região de Santa Catarina, incluindo as especificidades da economia baseada em indústria.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada. Em Xavantina, oferecemos explicação clara de cada etapa do processo.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil, incluindo Xavantina.\n\n**Transparência Total:** Honorários claros, sem surpresas. O cliente sempre sabe onde está investindo.",
+  "diaADia": "## Como um Advogado Pode Ajudar no Dia a Dia em Xavantina\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis, elaboração de testamentos.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial, economizando tempo e recursos. Nossa equipe busca soluções consensuais sempre que possível.\n\n**Atendimento de Emergência:** Imprevistos acontecem. Oferecemos atendimento prioritário para situações urgentes em Xavantina.",
+  "faqs": [
+    {
+      "p": "Quais são as principais áreas do direito atendidas em ${n}?",
+      "r": "Em ${n}/${uf}, atuamos em Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário, com foco nas necessidades da economia local baseada em ${e.join(' e ')}."
+    },
+    {
+      "p": "Como funciona o primeiro atendimento jurídico?",
+      "r": "O primeiro atendimento é orientativo, para análise do caso e definição da melhor estratégia. Atendemos presencialmente em Palhoça/SC e por videoconferência para ${n}."
+    },
+    {
+      "p": "Qual o prazo para entrar com uma reclamação trabalhista?",
+      "r": "O trabalhador tem até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Em ${n}, orientamos sobre prazos e procedimentos."
+    },
+    {
+      "p": "A Will & Pereira Advocacia atende ${n}?",
+      "r": "Sim! Atendemos moradores de ${n} e toda a região de ${uf}, com o mesmo nível de dedicação e profissionalismo."
+    },
+    {
+      "p": "Quais documentos preciso para uma consulta?",
+      "r": "Documentos relacionados à questão: contratos, comprovantes, documentos pessoais. Orientamos sobre a documentação antes da consulta."
+    },
+    {
+      "p": "Quanto custa um advogado em ${n}?",
+      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com honorários de sucumbência. Entre em contato para orientação."
+    },
+    {
+      "p": "É possível resolver questões jurídicas sem ir ao tribunal?",
+      "r": "Sim! Muitos conflitos se resolvem via negociação, mediação ou conciliação. Em ${n}, buscamos soluções extrajudiciais sempre que possível."
+    },
+    {
+      "p": "Como a economia de ${n} influencia as questões jurídicas?",
+      "r": "A economia baseada em ${e[0]} gera demandas trabalhistas, previdenciárias e consumeristas específicas que conhecemos profundamente."
+    },
+    {
+      "p": "Vocês atendem pessoas físicas e jurídicas?",
+      "r": "Sim! Atendemos tanto pessoas físicas quanto empresas em ${n}, oferecendo soluções jurídicas completas."
+    },
+    {
+      "p": "Qual a diferença entre consultar um advogado e contratar?",
+      "r": "A consulta é para análise e orientação. A contratação envolve representação formal. Em ${n}, oferecemos ambos os serviços com transparência."
+    }
   ],
-  stats: {
-    experiencia: '15+',
-    clientes: '5000+',
-    taxa: '98%',
-    cidades: '302',
-  },
+  "stats": {
+    "experiencia": "15+",
+    "clientes": "5000+",
+    "taxa": "98%",
+    "cidades": "5571"
+  }
 }

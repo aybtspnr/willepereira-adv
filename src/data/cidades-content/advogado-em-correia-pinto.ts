@@ -1,29 +1,65 @@
 export default {
-  heroTitle: 'Will & Pereira Advocacia — Advogado em Correia Pinto/SC',
-  heroDescription: 'Will & Pereira Advocacia: advogado em Correia Pinto para pessoas físicas e empresas. Atuação em Direito Trabalhista, Previdenciário, Cível, Consumidor, Família e Imobiliário.',
-  introParagraphs: [
-    'Você sabia que Correia Pinto conta com mais de até 50 mil habitantes e uma economia baseada em Turismo, Agricultura, Comércio e Serviços? Com essa dinâmica, a necessidade de assessoria jurídica qualificada é constante. A Will & Pereira Advocacia, com escritório em Palhoça/SC, atende moradores de Correia Pinto com excelência e compromisso.',
-    'Nossos clientes em Correia Pinto têm acesso a um time completo de especialistas, cobrindo todas as principais áreas do Direito com competência e dedicação.',
-    'Mais do que resolver problemas, buscamos prevenir conflitos. Em Correia Pinto, oferecemos consultoria jurídica contínua para empresas e famílias que desejam evitar transtornos legais.',
-    'Acreditamos que o direito deve ser acessível a todos. Em Correia Pinto, trabalhamos para que cada cidadão possa resolver seus problemas jurídicos com dignidade e eficiência.',
+  "heroTitle": "Direito em Correia Pinto: Atendimento Humanizado e Eficiente",
+  "heroDescription": "Precisa de um advogado em Correia Pinto/SC? Nossa equipe está pronta para oferecer a melhor estratégia jurídica para o seu caso.",
+  "introParagraphs": [
+    "Quando um cidadão de Correia Pinto/SC precisa de orientação jurídica, a primeira preocupação é encontrar um profissional que combine conhecimento técnico com compromisso com resultados. A Will & Pereira Advocacia, com sede em Palhoça/SC e atuação nacional, atende moradores de Correia Pinto há mais de 15 anos, oferecendo soluções jurídicas personalizadas para cada caso.\n\nA cidade de Correia Pinto apresenta características econômicas e sociais que influenciam diretamente as demandas jurídicas da população. Com economia voltada para indústria, agronegócio, turismo, comércio e serviços, os moradores enfrentam questões trabalhistas, previdenciárias e consumeristas que exigem conhecimento especializado. Indústria e turismo são desafios recorrentes na região.\n\nNeste guia, apresentamos de forma detalhada os serviços jurídicos disponíveis para moradores de Correia Pinto, organizados por área do Direito. Cada seção é elaborada considerando a realidade específica de Correia Pinto/SC, oferecendo informações práticas e relevantes para quem busca orientação jurídica na região."
   ],
-  areaContent: {
-    previdenciario: 'Em Correia Pinto, a demanda por assessoria previdenciária cresce a cada ano. Trabalhadores que se aposentam precisam garantir que receberão o valor correto, e aqueles que necessitam de auxílio-doença ou BPC/LOAS precisam de orientação para não terem seus pedidos negados. A Will & Pereira Advocacia atende moradores de Correia Pinto com análise detalhada do histórico contributivo do INSS, verificando possibilidades de aposentadoria antecipada, majoração de benefício e revisão de cálculos. Muitos trabalhadores de Correia Pinto, especialmente os que atuam em Turismo, Agricultura, Comércio e Serviços, possuem períodos de contribuição que não foram computados corretamente pelo INSS. Nossa equipe identifica essas falhas e entra com as medidas cabíveis para correção. Atuamos também em planejamento previdenciário para trabalhadores que ainda estão longe da aposentadoria, traçando estratégias para maximizar o benefício futuro. Em Correia Pinto, já ajudamos diversos trabalhadores a conquistarem aposentadoria especial, revisões de benefício e indenizações por mora do INSS. Não espere até ficar impossibilitado de trabalhar — procure orientação jurídica antecipada e proteja seu futuro.',
-    trabalhista: 'Moradores de Correia Pinto que trabalham em condições inadequadas ou tiveram seus direitos violados podem contar com a Will & Pereira Advocacia para buscar reparação na Justiça do Trabalho. Em Correia Pinto, com economia baseada em Turismo, Agricultura, Comércio e Serviços, as relações de trabalho apresentam desafios específicos que exigem conhecimento especializado. Atuamos em reclamações trabalhistas individuais e coletivas, defendendo trabalhadores em casos de jornada excessiva, insalubridade, periculosidade, acidente de trabalho e assédio moral. Em Correia Pinto, trabalhadores que foram demitidos sem justa causa têm direito a diversas verbas rescisórias que muitas vezes não são pagas corretamente. Nossa equipe verifica cada item e garante o recebimento integral devido. Para empresas, oferecemos assessoria trabalhista preventiva, elaboração de contratos, acordos e negociações coletivas. Em Correia Pinto, a Will & Pereira Advocacia é reconhecida pela competência e dedicação em causas trabalhistas. Não aceite ter seus direitos negados — procure nossa equipe e saiba como podemos ajudar.',
-    civel: 'Em Correia Pinto, questões cíveis do cotidiano muitas vezes escalam para litígios judiciais. Contratos de compra e venda, locações, empréstimos e relações de consumo geram conflitos que precisam de solução jurídica. A Will & Pereira Advocacia atende moradores de Correia Pinto em todas as questões de Direito Cível, oferecendo assessoria preventiva e contenciosa. Quando um conflito não pode ser resolvido extrajudicialmente, nossa equipe ingressa com ações de cobrança, indenização ou execução judicial para garantir o direito do cliente. Em Correia Pinto, onde o setor de Turismo, Agricultura, Comércio e Serviços é dinâmico, é comum surgirem questões como contratos comerciais descumpridos, danos materiais e morais, e disputas de propriedade. Nossa experiência em causas cíveis nos permite oferecer soluções eficazes, mesmo em situações complexas. Atuamos também em usucapião, quando trabalhadores ou moradores de Correia Pinto precisam regularizar imóveis que ocupam há anos. Nossa equipe acompanha cada etapa do processo, desde a instrução processual até a sentença definitiva.',
-    consumidor: 'Em Correia Pinto, consumidores que enfrentam problemas com empresas, bancos, planos de saúde ou fornecedores de serviços contam com a Will & Pereira Advocacia para fazer valer seus direitos. Atuamos em negociações e ações judiciais contra práticas abusivas, garantindo reparação por danos morais e materiais. Com economia baseada em Turismo, Agricultura, Comércio e Serviços, o mercado consumidor de Correia Pinto é ativo, o que significa mais oportunidades de conflitos consumeristas. Nossa equipe domina o CDC e a jurisprudência do STJ, utilizando essas ferramentas para benefício dos consumidores de Correia Pinto. Trabalhamos com negativação indevida, cobrança de dívida prescrita, cláusulas abusivas em contratos, seguro de vida e plano de saúde. Em Correia Pinto, já conquistamos diversas indenizações para consumidores que tiveram seus direitos violados. O atendimento é personalizado, com análise detalhada de cada caso para identificar a melhor estratégia de atuação.',
-    familia: 'O Direito de Família em Correia Pinto lida com questões sensíveis que afetam a vida das pessoas. Divórcio, guarda de filhos, pensão alimentícia, inventário e união estável são algumas das áreas em que atuamos com discrição e profissionalismo. Em Correia Pinto, onde a comunidade tem laços familiares fortes, conflitos familiares precisam ser tratados com delicadeza e competência. A Will & Pereira Advocacia oferece assessoria completa em Direito de Família, buscando soluções equilibradas que protejam os interesses de todos os envolvidos, especialmente das crianças. Em Correia Pinto, trabalhamos com divórcio consensual e litigioso, guarda compartilhada, fixação de alimentos, investigação de paternidade e inventário extrajudicial. Nossa equipe entende que questões familiares são delicadas e exigem um atendimento humanizado. Por isso, dedicamos especial atenção a cada caso em Correia Pinto, garantindo que o cliente se sinta amparado em cada etapa do processo.',
-    imobiliario: 'Moradores de Correia Pinto que precisam de orientação em questões imobiliárias contam com a Will & Pereira Advocacia. Atuamos em contratos de compra e venda, locação, usucapião e regularização de imóveis. Em Correia Pinto, com economia centrada em Turismo, Agricultura, Comércio e Serviços, o mercado imobiliário é ativo e apresenta diversas situações que geram conflitos. A segurança jurídica em transações imobiliárias é essencial. Nossa equipe analisa cada situação e oferece a melhor solução, evitando problemas futuros. Em Correia Pinto, trabalhamos com elaboração e revisão de contratos, mediação de conflitos e ações judiciais quando necessário. A usucapião é uma ferramenta importante para moradores de Correia Pinto que ocupam imóveis há anos sem documentação regular — nossa equipe conduz o processo desde a instrução processual até o registro em cartório. Em Correia Pinto e região, a Will & Pereira Advocacia é reconhecida pela competência em Direito Imobiliário.',
+  "areaContent": {
+    "previdenciario": "O Direito Previdenciário em Correia Pinto/SC é uma das áreas mais demandadas. Trabalhadores da região, tanto rurais quanto urbanos, frequentemente buscam orientação sobre aposentadoria, auxílio-doença e pensão por morte. A reforma da previdência (EC 103/2019) trouxe mudanças significativas nas regras de aposentadoria, e contar com um advogado especializado é essencial para garantir o melhor benefício possível.\n\nEm Correia Pinto, a economia baseada em indústria e agronegócio gera diversas categorias de trabalhadores com necessidades previdenciárias específicas. A Will & Pereira Advocacia realiza análise completa do histórico contributivo de cada cliente, identificando todas as possibilidades de antecipação ou majoração da aposentadoria. Atendemos aposentadoria por idade, tempo de contribuição e especial, auxílio-doença, pensão por morte, BPC/LOAS e revisões de benefícios.",
+    "trabalhista": "O Direito Trabalhista em Correia Pinto/SC protege os direitos tanto de empregados quanto de empregadores. Em uma cidade com economia baseada em indústria e agronegócio, as relações de trabalho apresentam características próprias que conhecemos profundamente. A Will & Pereira Advocacia atua na defesa dos direitos trabalhistas com foco em resultados.\n\nPrincipais atuações em Correia Pinto: verbas rescisórias, horas extras, FGTS, adicional de insalubridade e periculosidade, equiparação salarial, assédio moral e dano moral trabalhista. Para empresas, oferecemos consultoria preventiva e defesa em reclamações trabalhistas.",
+    "civel": "O Direito Cível em Correia Pinto/SC abrange as relações cotidianas entre pessoas e empresas. Contratos, indenizações, cobranças, usucapião e questões de propriedade são situações que surgem no dia a dia dos moradores. A Will & Pereira Advocacia oferece assessoria completa em todas essas áreas.\n\nA economia de Correia Pinto, baseada em indústria, gera conflitos cíveis que exigem conhecimento aprofundado do Código Civil e da jurisprudência. Trabalhamos com elaboração e revisão de contratos, ações de cobrança, indenização por danos e todas as questões cíveis.",
+    "consumidor": "O Código de Defesa do Consumidor protege os moradores de Correia Pinto/SC contra abusos de empresas e fornecedores. Em uma cidade com economia baseada em indústria, os conflitos consumeristas são frequentes e variados. A Will & Pereira Advocacia atua na defesa dos direitos do consumidor com competência.\n\nAtendemos em Correia Pinto casos de cobrança indevida, negativação injusta, produtos com defeito, negativas de planos de saúde, cláusulas abusivas e todas as demais violações aos direitos do consumidor.",
+    "familia": "O Direito de Família em Correia Pinto/SC lida com questões sensíveis que afetam a vida das pessoas. Divórcios, guarda de filhos, pensão alimentícia, inventários e união estável são situações que demandam sensibilidade e competência. A Will & Pereira Advocacia oferece atendimento humanizado e profissional.\n\nEm Correia Pinto, as relações familiares são valorizadas, e é fundamental contar com um advogado que compreenda a importância de cada decisão. Nossa equipe trabalha com mediação familiar e acordos consensuais sempre que possível.",
+    "imobiliario": "O Direito Imobiliário em Correia Pinto/SC regula todas as questões relacionadas a imóveis. Compra e venda, locação, usucapião, regularização fundiária e condomínio são áreas em que atuamos. A economia de Correia Pinto, baseada em indústria, gera demandas imobiliárias que conhecemos.\n\nA Will & Pereira Advocacia oferece assessoria completa em cada etapa da transação imobiliária, desde a análise de documentação até a resolução de conflitos possessórios."
   },
-  faqs: [
-    { pergunta: 'A Will & Pereira Advocacia atende casos urgentes em Correia Pinto?', resposta: 'Sim! A Will & Pereira Advocacia oferece atendimento urgente para moradores de Correia Pinto que necessitam de solução jurídica imediata.' },
-    { pergunta: 'O que fazer se o INSS negar um benefício em Correia Pinto?', resposta: 'Se o INSS negou um benefício em Correia Pinto, entre em contato com a Will & Pereira Advocacia. Nossa equipe analisa a negativa e entra com recurso administrativo ou ação judicial.' },
-    { pergunta: 'A Will & Pereira Advocacia trabalha com inventário em Correia Pinto?', resposta: 'Sim! A Will & Pereira Advocacia atua em inventários judiciais e extrajudiciais para moradores de Correia Pinto, garantindo a partilha de bens de forma justa.' },
+  "exclusiva": "## Por Que Escolher a Will & Pereira Advocacia em Correia Pinto?\n\n**Experiência Comprovada:** Mais de 15 anos de atuação em todas as áreas do Direito, com resultados expressivos em Correia Pinto e região.\n\n**Conhecimento Local:** Conhecemos as particularidades de Correia Pinto e da região de Santa Catarina, incluindo as especificidades da economia baseada em indústria.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada. Em Correia Pinto, oferecemos explicação clara de cada etapa do processo.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil, incluindo Correia Pinto.\n\n**Transparência Total:** Honorários claros, sem surpresas. O cliente sempre sabe onde está investindo.",
+  "diaADia": "## Como um Advogado Pode Ajudar no Dia a Dia em Correia Pinto\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis, elaboração de testamentos.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial, economizando tempo e recursos. Nossa equipe busca soluções consensuais sempre que possível.\n\n**Atendimento de Emergência:** Imprevistos acontecem. Oferecemos atendimento prioritário para situações urgentes em Correia Pinto.",
+  "faqs": [
+    {
+      "p": "Quais são as principais áreas do direito atendidas em ${n}?",
+      "r": "Em ${n}/${uf}, atuamos em Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário, com foco nas necessidades da economia local baseada em ${e.join(' e ')}."
+    },
+    {
+      "p": "Como funciona o primeiro atendimento jurídico?",
+      "r": "O primeiro atendimento é orientativo, para análise do caso e definição da melhor estratégia. Atendemos presencialmente em Palhoça/SC e por videoconferência para ${n}."
+    },
+    {
+      "p": "Qual o prazo para entrar com uma reclamação trabalhista?",
+      "r": "O trabalhador tem até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Em ${n}, orientamos sobre prazos e procedimentos."
+    },
+    {
+      "p": "A Will & Pereira Advocacia atende ${n}?",
+      "r": "Sim! Atendemos moradores de ${n} e toda a região de ${uf}, com o mesmo nível de dedicação e profissionalismo."
+    },
+    {
+      "p": "Quais documentos preciso para uma consulta?",
+      "r": "Documentos relacionados à questão: contratos, comprovantes, documentos pessoais. Orientamos sobre a documentação antes da consulta."
+    },
+    {
+      "p": "Quanto custa um advogado em ${n}?",
+      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com honorários de sucumbência. Entre em contato para orientação."
+    },
+    {
+      "p": "É possível resolver questões jurídicas sem ir ao tribunal?",
+      "r": "Sim! Muitos conflitos se resolvem via negociação, mediação ou conciliação. Em ${n}, buscamos soluções extrajudiciais sempre que possível."
+    },
+    {
+      "p": "Como a economia de ${n} influencia as questões jurídicas?",
+      "r": "A economia baseada em ${e[0]} gera demandas trabalhistas, previdenciárias e consumeristas específicas que conhecemos profundamente."
+    },
+    {
+      "p": "Vocês atendem pessoas físicas e jurídicas?",
+      "r": "Sim! Atendemos tanto pessoas físicas quanto empresas em ${n}, oferecendo soluções jurídicas completas."
+    },
+    {
+      "p": "Qual a diferença entre consultar um advogado e contratar?",
+      "r": "A consulta é para análise e orientação. A contratação envolve representação formal. Em ${n}, oferecemos ambos os serviços com transparência."
+    }
   ],
-  stats: {
-    experiencia: '15+',
-    clientes: '5000+',
-    taxa: '98%',
-    cidades: '302',
-  },
+  "stats": {
+    "experiencia": "15+",
+    "clientes": "5000+",
+    "taxa": "98%",
+    "cidades": "5571"
+  }
 }

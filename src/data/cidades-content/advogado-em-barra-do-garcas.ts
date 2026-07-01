@@ -1,43 +1,59 @@
 export default {
   "heroTitle": "Advogado em Barra do Garças: Assessoria Jurídica Especializada em Mato Grosso",
-  "heroDescription": "Encontre o melhor advogado em Barra do Garças/MT. A Will & Pereira Advocacia oferece assessoria jurídica completa com mais de 15 anos de experiência atendendo moradores de Barra do Garças e região.",
+  "heroDescription": "Precisa de um advogado em Barra do Garças/MT? Nossa equipe está pronta para oferecer a melhor estratégia jurídica para o seu caso.",
   "introParagraphs": [
-    "Quando se fala em assessoria jurídica de qualidade em Barra do Garças/MT, encontrar um profissional que conheça as particularidades locais é essencial. A Will & Pereira Advocacia, com mais de 15 anos de atuação e escritório em Palhoça/SC, é referência no atendimento jurídico para moradores de Barra do Garças e de toda a região de Mato Grosso.\n\nEm Barra do Garças/MT, as demandas jurídicas apresentam características específicas que conhecemos profundamente. A economia local é baseada em Agronegócio, Mineração e Comércio, o que gera necessidades jurídicas particulares em áreas como direito trabalhista, previdenciário, consumerista e imobiliário. Nossa equipe multidisciplinar combina conhecimento técnico aprofundado com atendimento humanizado.\n\nEste guia apresenta os serviços jurídicos disponíveis para moradores de Barra do Garças, abrangendo Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário. Cada seção é elaborada com base na realidade de Barra do Garças/MT."
+    "Quando um cidadão de Barra do Garças/MT precisa de orientação jurídica, a primeira preocupação é encontrar um profissional que combine conhecimento técnico com compromisso com resultados. A Will & Pereira Advocacia, com sede em Palhoça/SC e atuação nacional, atende moradores de Barra do Garças há mais de 15 anos, oferecendo soluções jurídicas personalizadas para cada caso.\n\nA cidade de Barra do Garças apresenta características econômicas e sociais que influenciam diretamente as demandas jurídicas da população. Com economia voltada para agronegócio, mineração, pecuária, comércio e serviços, os moradores enfrentam questões trabalhistas, previdenciárias e consumeristas que exigem conhecimento especializado. Meio ambiente e desmatamento são desafios recorrentes na região.\n\nNeste guia, apresentamos de forma detalhada os serviços jurídicos disponíveis para moradores de Barra do Garças, organizados por área do Direito. Cada seção é elaborada considerando a realidade específica de Barra do Garças/MT, oferecendo informações práticas e relevantes para quem busca orientação jurídica na região."
   ],
   "areaContent": {
-    "previdenciario": "O Direito Previdenciário é uma das áreas mais demandadas em Barra do Garças/MT. Trabalhadores da região têm dúvidas sobre aposentadoria, auxílio-doença e pensão por morte. A reforma da previdência (EC 103/2019) trouxe mudanças significativas, e um advogado especializado é essencial para garantir o melhor benefício.\n\nEm Barra do Garças, com economia baseada em Agronegócio, Mineração e Comércio, trabalhadores de diversas categorias precisam de orientação previdenciária. A Will & Pereira Advocacia realiza análise completa do histórico contributivo, identificando possibilidades de antecipação ou majoração da aposentadoria. Atendemos: aposentadoria por idade, tempo de contribuição e especial, auxílio-doença, pensão por morte, BPC/LOAS e revisões de benefícios.",
-    "trabalhista": "O Direito Trabalhista protege relações entre empregados e empregadores. Em Barra do Garças/MT, oferecemos assessoria completa: verbas rescisórias, horas extras, FGTS, assédio moral e acidente de trabalho. A economia local baseada em Agronegócio, Mineração e Comércio gera demandas trabalhistas específicas que conhecemos.\n\nAtuamos na defesa de trabalhadores que tiveram direitos violados e na consultoria preventiva para empresas. Principais direitos: pagamento correto de horas extras, verbas rescisórias, depósito do FGTS, estabilidade para acidentados e combate ao assédio.",
-    "civel": "O Direito Cível abrange relações cotidianas. Em Barra do Garças/MT, atuamos em contratos, indenizações, cobranças, usucapião e questões de propriedade. A economia local baseada em Agronegócio, Mineração e Comércio gera conflitos cíveis que exigem conhecimento aprofundado do Código Civil.\n\nTrabalhamos com elaboração e revisão de contratos, ações de cobrança, indenização por danos morais e materiais, usucapião e todas as questões cíveis que possam surgir no cotidiano dos moradores de Barra do Garças.",
-    "consumidor": "O CDC protege moradores de Barra do Garças/MT contra abusos de empresas. Atendemos consumidores com produtos defeituosos, cobranças indevidas, negativas de planos de saúde e cláusulas abusivas. A economia local baseada em Agronegócio, Mineração e Comércio gera demandas consumeristas que conhecemos.\n\nDominamos inversão do ônus da prova, repetição de indébito e indenização por danos morais, garantindo a reparação adequada para cada caso.",
-    "familia": "O Direito de Família lida com questões sensíveis. Em Barra do Garças/MT, atendemos em divórcios, guarda, pensão alimentícia, inventários e união estável. Cada caso é tratado com discrição e profissionalismo.\n\nOferecemos mediação familiar, acordos consensuais e litígios quando necessário, sempre protegendo os direitos dos clientes, especialmente crianças e idosos.",
-    "imobiliario": "O Direito Imobiliário regula questões de imóveis. Em Barra do Garças/MT, atuamos em compra e venda, locação, usucapião e regularização fundiária. A economia local baseada em Agronegócio, Mineração e Comércio gera demandas imobiliárias que conhecemos.\n\nTrabalhamos com due diligence completa, elaboração de contratos e resolução de conflitos possessórios e condominiais."
+    "previdenciario": "O Direito Previdenciário em Barra do Garças/MT é uma das áreas mais demandadas. Trabalhadores da região, tanto rurais quanto urbanos, frequentemente buscam orientação sobre aposentadoria, auxílio-doença e pensão por morte. A reforma da previdência (EC 103/2019) trouxe mudanças significativas nas regras de aposentadoria, e contar com um advogado especializado é essencial para garantir o melhor benefício possível.\n\nEm Barra do Garças, a economia baseada em agronegócio e mineração gera diversas categorias de trabalhadores com necessidades previdenciárias específicas. A Will & Pereira Advocacia realiza análise completa do histórico contributivo de cada cliente, identificando todas as possibilidades de antecipação ou majoração da aposentadoria. Atendemos aposentadoria por idade, tempo de contribuição e especial, auxílio-doença, pensão por morte, BPC/LOAS e revisões de benefícios.",
+    "trabalhista": "O Direito Trabalhista em Barra do Garças/MT protege os direitos tanto de empregados quanto de empregadores. Em uma cidade com economia baseada em agronegócio e mineração, as relações de trabalho apresentam características próprias que conhecemos profundamente. A Will & Pereira Advocacia atua na defesa dos direitos trabalhistas com foco em resultados.\n\nPrincipais atuações em Barra do Garças: verbas rescisórias, horas extras, FGTS, adicional de insalubridade e periculosidade, equiparação salarial, assédio moral e dano moral trabalhista. Para empresas, oferecemos consultoria preventiva e defesa em reclamações trabalhistas.",
+    "civel": "O Direito Cível em Barra do Garças/MT abrange as relações cotidianas entre pessoas e empresas. Contratos, indenizações, cobranças, usucapião e questões de propriedade são situações que surgem no dia a dia dos moradores. A Will & Pereira Advocacia oferece assessoria completa em todas essas áreas.\n\nA economia de Barra do Garças, baseada em agronegócio, gera conflitos cíveis que exigem conhecimento aprofundado do Código Civil e da jurisprudência. Trabalhamos com elaboração e revisão de contratos, ações de cobrança, indenização por danos e todas as questões cíveis.",
+    "consumidor": "O Código de Defesa do Consumidor protege os moradores de Barra do Garças/MT contra abusos de empresas e fornecedores. Em uma cidade com economia baseada em agronegócio, os conflitos consumeristas são frequentes e variados. A Will & Pereira Advocacia atua na defesa dos direitos do consumidor com competência.\n\nAtendemos em Barra do Garças casos de cobrança indevida, negativação injusta, produtos com defeito, negativas de planos de saúde, cláusulas abusivas e todas as demais violações aos direitos do consumidor.",
+    "familia": "O Direito de Família em Barra do Garças/MT lida com questões sensíveis que afetam a vida das pessoas. Divórcios, guarda de filhos, pensão alimentícia, inventários e união estável são situações que demandam sensibilidade e competência. A Will & Pereira Advocacia oferece atendimento humanizado e profissional.\n\nEm Barra do Garças, as relações familiares são valorizadas, e é fundamental contar com um advogado que compreenda a importância de cada decisão. Nossa equipe trabalha com mediação familiar e acordos consensuais sempre que possível.",
+    "imobiliario": "O Direito Imobiliário em Barra do Garças/MT regula todas as questões relacionadas a imóveis. Compra e venda, locação, usucapião, regularização fundiária e condomínio são áreas em que atuamos. A economia de Barra do Garças, baseada em agronegócio, gera demandas imobiliárias que conhecemos.\n\nA Will & Pereira Advocacia oferece assessoria completa em cada etapa da transação imobiliária, desde a análise de documentação até a resolução de conflitos possessórios."
   },
-  "exclusiva": "## Por Que Escolher a Will & Pereira Advocacia em Barra do Garças?\n\n**Experiência:** Mais de 15 anos de atuação em todas as áreas do Direito.\n\n**Conhecimento Local:** Conhecemos as particularidades de Barra do Garças e da região de Mato Grosso.\n\n**Atendimento Personalizado:** Cada caso recebe atenção individualizada.\n\n**Atuação Nacional:** Atendemos presencialmente e por videoconferência em todo o Brasil.\n\n**Transparência:** Honorários claros, sem surpresas.",
-  "diaADia": "## Como um Advogado Pode Ajudar em Barra do Garças\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis.\n\n**Resolução:** Muitos conflitos se resolvem sem ação judicial, economizando tempo.\n\n**Emergência:** Atendimento prioritário para situações urgentes.",
+  "exclusiva": "## Por Que Escolher a Will & Pereira Advocacia em Barra do Garças?\n\n**Experiência Comprovada:** Mais de 15 anos de atuação em todas as áreas do Direito, com resultados expressivos em Barra do Garças e região.\n\n**Conhecimento Local:** Conhecemos as particularidades de Barra do Garças e da região de Mato Grosso, incluindo as especificidades da economia baseada em agronegócio.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada. Em Barra do Garças, oferecemos explicação clara de cada etapa do processo.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil, incluindo Barra do Garças.\n\n**Transparência Total:** Honorários claros, sem surpresas. O cliente sempre sabe onde está investindo.",
+  "diaADia": "## Como um Advogado Pode Ajudar no Dia a Dia em Barra do Garças\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis, elaboração de testamentos.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial, economizando tempo e recursos. Nossa equipe busca soluções consensuais sempre que possível.\n\n**Atendimento de Emergência:** Imprevistos acontecem. Oferecemos atendimento prioritário para situações urgentes em Barra do Garças.",
   "faqs": [
     {
-      "p": "Áreas mais comuns em Barra do Garças?",
-      "r": "Em Barra do Garças/MT, as áreas variam conforme a economia (Agronegócio, Mineração e Comércio). Atuamos em todas com excelência."
+      "p": "Quais são as principais áreas do direito atendidas em ${n}?",
+      "r": "Em ${n}/${uf}, atuamos em Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário, com foco nas necessidades da economia local baseada em ${e.join(' e ')}."
     },
     {
-      "p": "Como funciona o atendimento?",
-      "r": "Presencial em Palhoça/SC e por videoconferência para todo o Brasil, incluindo Barra do Garças."
+      "p": "Como funciona o primeiro atendimento jurídico?",
+      "r": "O primeiro atendimento é orientativo, para análise do caso e definição da melhor estratégia. Atendemos presencialmente em Palhoça/SC e por videoconferência para ${n}."
     },
     {
-      "p": "Prazo para ação trabalhista?",
-      "r": "Até 2 anos após a extinção do contrato, cobrando verbas dos últimos 5 anos."
+      "p": "Qual o prazo para entrar com uma reclamação trabalhista?",
+      "r": "O trabalhador tem até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Em ${n}, orientamos sobre prazos e procedimentos."
     },
     {
-      "p": "Atendem Barra do Garças?",
-      "r": "Sim! Atendemos Barra do Garças e toda a região de MT."
+      "p": "A Will & Pereira Advocacia atende ${n}?",
+      "r": "Sim! Atendemos moradores de ${n} e toda a região de ${uf}, com o mesmo nível de dedicação e profissionalismo."
     },
     {
-      "p": "Documentos para consulta?",
-      "r": "Contratos, comprovantes e documentos pessoais relacionados à questão."
+      "p": "Quais documentos preciso para uma consulta?",
+      "r": "Documentos relacionados à questão: contratos, comprovantes, documentos pessoais. Orientamos sobre a documentação antes da consulta."
     },
     {
-      "p": "Quanto custa?",
-      "r": "Varia conforme o caso. Em muitos casos trabalhistas, trabalhamos com sucumbência."
+      "p": "Quanto custa um advogado em ${n}?",
+      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com honorários de sucumbência. Entre em contato para orientação."
+    },
+    {
+      "p": "É possível resolver questões jurídicas sem ir ao tribunal?",
+      "r": "Sim! Muitos conflitos se resolvem via negociação, mediação ou conciliação. Em ${n}, buscamos soluções extrajudiciais sempre que possível."
+    },
+    {
+      "p": "Como a economia de ${n} influencia as questões jurídicas?",
+      "r": "A economia baseada em ${e[0]} gera demandas trabalhistas, previdenciárias e consumeristas específicas que conhecemos profundamente."
+    },
+    {
+      "p": "Vocês atendem pessoas físicas e jurídicas?",
+      "r": "Sim! Atendemos tanto pessoas físicas quanto empresas em ${n}, oferecendo soluções jurídicas completas."
+    },
+    {
+      "p": "Qual a diferença entre consultar um advogado e contratar?",
+      "r": "A consulta é para análise e orientação. A contratação envolve representação formal. Em ${n}, oferecemos ambos os serviços com transparência."
     }
   ],
   "stats": {

@@ -1,28 +1,65 @@
 export default {
-  heroTitle: 'Advogado em Doutor Pedrinho | Will & Pereira — Palhoça/SC',
-  heroDescription: 'Advogado em Doutor Pedrinho | Escritório Will & Pereira Advocacia. Atendimento jurídico completo e humanizado para moradores de Doutor Pedrinho e toda a região.',
-  introParagraphs: [
-    'Situada na Doutor Pedrinho está localizada na região do Vale do Itajaí em Santa Catarina, Doutor Pedrinho possui características econômicas e sociais que geram demandas jurídicas específicas. A Will & Pereira Advocacia conhece profundamente essas particularidades e oferece soluções personalizadas para cada caso.',
-    'Em Doutor Pedrinho, entendemos que cada situação jurídica é única. Por isso, oferecemos um atendimento personalizado, ouvindo cada cliente e construindo estratégias sob medida para alcançar os melhores resultados possíveis na região.',
-    'Nossa reputação em Doutor Pedrinho é construídia caso a caso, com resultados concretos e clientes satisfeitos. Escolha a Will & Pereira Advocacia para cuidar dos seus interesses jurídicos.',
+  "heroTitle": "Doutor Pedrinho/SC — Advogados com Tradição em Resultados",
+  "heroDescription": "Advogados especializados em Doutor Pedrinho/SC para questões trabalhistas, previdenciárias, cíveis e familiares. Atendimento personalizado.",
+  "introParagraphs": [
+    "Quando um cidadão de Doutor Pedrinho/SC precisa de orientação jurídica, a primeira preocupação é encontrar um profissional que combine conhecimento técnico com compromisso com resultados. A Will & Pereira Advocacia, com sede em Palhoça/SC e atuação nacional, atende moradores de Doutor Pedrinho há mais de 15 anos, oferecendo soluções jurídicas personalizadas para cada caso.\n\nA cidade de Doutor Pedrinho apresenta características econômicas e sociais que influenciam diretamente as demandas jurídicas da população. Com economia voltada para indústria, agronegócio, turismo, comércio e serviços, os moradores enfrentam questões trabalhistas, previdenciárias e consumeristas que exigem conhecimento especializado. Indústria e turismo são desafios recorrentes na região.\n\nNeste guia, apresentamos de forma detalhada os serviços jurídicos disponíveis para moradores de Doutor Pedrinho, organizados por área do Direito. Cada seção é elaborada considerando a realidade específica de Doutor Pedrinho/SC, oferecendo informações práticas e relevantes para quem busca orientação jurídica na região."
   ],
-  areaContent: {
-    previdenciario: 'O Direito Previdenciário em Doutor Pedrinho é uma das áreas mais procuradas, especialmente entre trabalhadores que buscam aposentadoria, auxílio-doença e pensão por morte. Com a reforma da previdência, muitas regras mudaram e é fundamental ter orientação especializada para não perder benefícios. Em Doutor Pedrinho, muitos trabalhadores da área de Indústria Têxtil, Comércio, Tecnologia e Serviços não conhecem todos os direitos que possuem junto ao INSS. A Will & Pereira Advocacia realiza análise completa do histórico contributivo para identificar a melhor estratégia de aposentadoria, considerando regras de transição e direito adquirido. Atuamos na conquista de aposentadoria por idade, por tempo de contribuição, aposentadoria especial e BPC/LOAS. Quando o INSS nega ou concede valor inferior ao devido, nossa equipe entra com revisões administrativas e ações judiciais para garantir o benefício correto. Em Doutor Pedrinho, já ajudamos centenas de trabalhadores a conquistarem aposentadorias mais vantajosas e auxílios-doença que haviam sido negados injustamente. O planejamento previdenciário preventivo é essencial para quem deseja se aposentar com o melhor benefício possível. Nossa equipe analisa cada contribuição, cada período especial e cada regra de transição para traçar o melhor caminho. Em Doutor Pedrinho, onde a economia é baseada em Indústria Têxtil, Comércio, Tecnologia e Serviços, muitos trabalhadores têm contribuições irregulares ou período especial que pode ser computado para antecipar a aposentadoria. Não deixe de buscar orientação jurídica para proteger seu futuro previdenciário.',
-    trabalhista: 'A relação de trabalho em Doutor Pedrinho envolve milhões de trabalhadores que precisam de proteção jurídica. A Will & Pereira Advocacia atua na defesa dos direitos trabalhistas, desde a negociação coletiva até o ajuizamento de reclamações na Justiça do Trabalho. Em Doutor Pedrinho, com economia focada em Indústria Têxtil, Comércio, Tecnologia e Serviços, é essencial que trabalhadores e empresas contem com assessoria jurídica especializada. Trabalhadores demitidos sem justa causa têm direito a aviso prévio, 13º salário proporcional, férias proporcionais e multa de 40% sobre o FGTS, entre outros. Nossa equipe calcula todas as verbas devidas e garante o recebimento integral. Para empresas, oferecemos auditorias trabalhistas que identificam riscos e oportunidades de adequação. Em Doutor Pedrinho, o conhecimento das particularidades locais do mercado de trabalho é essencial para um resultado eficaz. Nossos clientes em Doutor Pedrinho contam com atendimento personalizado e atualização constante sobre o andamento de seus processos trabalhistas.',
-    civel: 'Moradores de Doutor Pedrinho que enfrentam problemas cíveis precisam de orientação jurídica para proteger seus interesses. A Will & Pereira Advocacia atende em questões de Direito Civil como contratos, indenizações, cobranças, usucapião e responsabilidade civil. Em Doutor Pedrinho, a dinâmica econômica baseada em Indústria Têxtil, Comércio, Tecnologia e Serviços gera demandas jurídicas variadas que requerem atenção e competência. Trabalhamos com pessoas físicas e empresas, oferecendo assessoria completa em todas as etapas do processo cível. Desde a negociação amigável até a sentença judicial, acompanhamos cada caso com dedicação. Em Doutor Pedrinho, já atendemos diversos clientes com sucesso, conquistando indenizações, resolvendo disputas contratuais e regularizando propriedades. Apreventiva jurídica cível é essencial para evitar problemas futuros — nossa equipe revisa contratos, verifica obrigações e orienta sobre boas práticas jurídicas em Doutor Pedrinho.',
-    consumidor: 'O Código de Defesa do Consumidor protege moradores de Doutor Pedrinho contra abusos de empresas e fornecedores. Se você contratou um serviço defeituoso, comprou um produto com vício, sofreu cobrança indevida ou negativação injusta, a Will & Pereira Advocacia pode ajudar. Em Doutor Pedrinho, com economia baseada em Indústria Têxtil, Comércio, Tecnologia e Serviços, o consumo de produtos e serviços é intenso e, consequentemente, os conflitos consumeristas são frequentes. Nossa equipe atua na defesa dos direitos do consumidor, buscando indenização por danos morais e materiais, repetição de indébito e inversão do ônus da prova quando cabível. O CDC garante direitos fundamentais que muitos consumidores de Doutor Pedrinho desconhecem. Por isso, oferecemos orientação jurídica clara e acessível para que cada cidadão saiba como agir quando seus direitos são violados. Em Doutor Pedrinho, já ajudamos centenas de consumidores a conquistarem indenizações e a terem seus direitos reconhecidos.',
-    familia: 'A Will & Pereira Advocacia atua em todas as áreas do Direito de Família em Doutor Pedrinho: divórcio consensual e litigioso, guarda compartilhada, pensão alimentícia, investigação de paternidade, inventário e planejamento sucessório. Em Doutor Pedrinho, com sua comunidade unida e economia baseada em Indústria Têxtil, Comércio, Tecnologia e Serviços, conflitos familiares precisam de solução jurídica adequada. Nossa equipe está preparada para oferecer orientação jurídica em cada situação, com foco na proteção dos direitos de todos os envolvidos, especialmente crianças e idosos. Trabalhamos com Mediação familiar para buscar acordos que beneficiem todas as partes. Em Doutor Pedrinho, já ajudamos diversas famílias a resolverem questões de divórcio, fixação de guarda e pensão alimentícia de forma ágil e justa. O planejamento sucessório é essencial para proteger o patrimônio familiar — nossa equipe orienta sobre testamento, doação e planejamento de herança em Doutor Pedrinho.',
-    imobiliario: 'Em Doutor Pedrinho, a assessoria jurídica imobiliária é fundamental para proteger investimentos e evitar conflitos. A Will & Pereira Advocacia atua em contratos de compra e venda, locação, usucapião e regularização fundiária, oferecendo segurança em cada etapa. Com economia baseada em Indústria Têxtil, Comércio, Tecnologia e Serviços, o mercado imobiliário de Doutor Pedrinho é ativo e gera demandas jurídicas variadas. Nossa equipe oferece assessoria completa em Direito Imobiliário, desde a análise preliminar do imóvel até o registro definitivo em cartório. Quando há disputas, conduzimos ações de reivindicatória, despejo e indenização com foco em resultados. Em Doutor Pedrinho, já ajudamos diversos clientes a resolverem conflitos imobiliários complexos, incluindo disputas de herança que envolvem imóveis e usucapião de terras urbanas. A prevenção é a melhor estratégia — conte com a Will & Pereira Advocacia em Doutor Pedrinho para garantir que sua transação imobiliária esteja protegida legalmente.',
+  "areaContent": {
+    "previdenciario": "O Direito Previdenciário em Doutor Pedrinho/SC é uma das áreas mais demandadas. Trabalhadores da região, tanto rurais quanto urbanos, frequentemente buscam orientação sobre aposentadoria, auxílio-doença e pensão por morte. A reforma da previdência (EC 103/2019) trouxe mudanças significativas nas regras de aposentadoria, e contar com um advogado especializado é essencial para garantir o melhor benefício possível.\n\nEm Doutor Pedrinho, a economia baseada em indústria e agronegócio gera diversas categorias de trabalhadores com necessidades previdenciárias específicas. A Will & Pereira Advocacia realiza análise completa do histórico contributivo de cada cliente, identificando todas as possibilidades de antecipação ou majoração da aposentadoria. Atendemos aposentadoria por idade, tempo de contribuição e especial, auxílio-doença, pensão por morte, BPC/LOAS e revisões de benefícios.",
+    "trabalhista": "O Direito Trabalhista em Doutor Pedrinho/SC protege os direitos tanto de empregados quanto de empregadores. Em uma cidade com economia baseada em indústria e agronegócio, as relações de trabalho apresentam características próprias que conhecemos profundamente. A Will & Pereira Advocacia atua na defesa dos direitos trabalhistas com foco em resultados.\n\nPrincipais atuações em Doutor Pedrinho: verbas rescisórias, horas extras, FGTS, adicional de insalubridade e periculosidade, equiparação salarial, assédio moral e dano moral trabalhista. Para empresas, oferecemos consultoria preventiva e defesa em reclamações trabalhistas.",
+    "civel": "O Direito Cível em Doutor Pedrinho/SC abrange as relações cotidianas entre pessoas e empresas. Contratos, indenizações, cobranças, usucapião e questões de propriedade são situações que surgem no dia a dia dos moradores. A Will & Pereira Advocacia oferece assessoria completa em todas essas áreas.\n\nA economia de Doutor Pedrinho, baseada em indústria, gera conflitos cíveis que exigem conhecimento aprofundado do Código Civil e da jurisprudência. Trabalhamos com elaboração e revisão de contratos, ações de cobrança, indenização por danos e todas as questões cíveis.",
+    "consumidor": "O Código de Defesa do Consumidor protege os moradores de Doutor Pedrinho/SC contra abusos de empresas e fornecedores. Em uma cidade com economia baseada em indústria, os conflitos consumeristas são frequentes e variados. A Will & Pereira Advocacia atua na defesa dos direitos do consumidor com competência.\n\nAtendemos em Doutor Pedrinho casos de cobrança indevida, negativação injusta, produtos com defeito, negativas de planos de saúde, cláusulas abusivas e todas as demais violações aos direitos do consumidor.",
+    "familia": "O Direito de Família em Doutor Pedrinho/SC lida com questões sensíveis que afetam a vida das pessoas. Divórcios, guarda de filhos, pensão alimentícia, inventários e união estável são situações que demandam sensibilidade e competência. A Will & Pereira Advocacia oferece atendimento humanizado e profissional.\n\nEm Doutor Pedrinho, as relações familiares são valorizadas, e é fundamental contar com um advogado que compreenda a importância de cada decisão. Nossa equipe trabalha com mediação familiar e acordos consensuais sempre que possível.",
+    "imobiliario": "O Direito Imobiliário em Doutor Pedrinho/SC regula todas as questões relacionadas a imóveis. Compra e venda, locação, usucapião, regularização fundiária e condomínio são áreas em que atuamos. A economia de Doutor Pedrinho, baseada em indústria, gera demandas imobiliárias que conhecemos.\n\nA Will & Pereira Advocacia oferece assessoria completa em cada etapa da transação imobiliária, desde a análise de documentação até a resolução de conflitos possessórios."
   },
-  faqs: [
-    { pergunta: 'A Will & Pereira Advocacia atende toda a região de Doutor Pedrinho?', resposta: 'Sim! A Will & Pereira Advocacia atende moradores de Doutor Pedrinho e toda a região. Nossa equipe está preparada para oferecer assessoria jurídica de qualidade.' },
-    { pergunta: 'Quais documentos são necessários para uma consulta jurídica em Doutor Pedrinho?', resposta: 'Para uma orientação jurídica em Doutor Pedrinho, é recomendável trazer documentos relacionados à questão, como contratos, comprovantes e documentos pessoais.' },
-    { pergunta: 'Quanto custa uma consulta jurídica em Doutor Pedrinho?', resposta: 'A Will & Pereira Advocacia oferece orientação jurídica com valores acessíveis para moradores de Doutor Pedrinho. Entre em contato para informações sobre honorários e condições de pagamento.' },
+  "exclusiva": "## Por Que Escolher a Will & Pereira Advocacia em Doutor Pedrinho?\n\n**Experiência Comprovada:** Mais de 15 anos de atuação em todas as áreas do Direito, com resultados expressivos em Doutor Pedrinho e região.\n\n**Conhecimento Local:** Conhecemos as particularidades de Doutor Pedrinho e da região de Santa Catarina, incluindo as especificidades da economia baseada em indústria.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada. Em Doutor Pedrinho, oferecemos explicação clara de cada etapa do processo.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil, incluindo Doutor Pedrinho.\n\n**Transparência Total:** Honorários claros, sem surpresas. O cliente sempre sabe onde está investindo.",
+  "diaADia": "## Como um Advogado Pode Ajudar no Dia a Dia em Doutor Pedrinho\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis, elaboração de testamentos.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial, economizando tempo e recursos. Nossa equipe busca soluções consensuais sempre que possível.\n\n**Atendimento de Emergência:** Imprevistos acontecem. Oferecemos atendimento prioritário para situações urgentes em Doutor Pedrinho.",
+  "faqs": [
+    {
+      "p": "Quais são as principais áreas do direito atendidas em ${n}?",
+      "r": "Em ${n}/${uf}, atuamos em Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário, com foco nas necessidades da economia local baseada em ${e.join(' e ')}."
+    },
+    {
+      "p": "Como funciona o primeiro atendimento jurídico?",
+      "r": "O primeiro atendimento é orientativo, para análise do caso e definição da melhor estratégia. Atendemos presencialmente em Palhoça/SC e por videoconferência para ${n}."
+    },
+    {
+      "p": "Qual o prazo para entrar com uma reclamação trabalhista?",
+      "r": "O trabalhador tem até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Em ${n}, orientamos sobre prazos e procedimentos."
+    },
+    {
+      "p": "A Will & Pereira Advocacia atende ${n}?",
+      "r": "Sim! Atendemos moradores de ${n} e toda a região de ${uf}, com o mesmo nível de dedicação e profissionalismo."
+    },
+    {
+      "p": "Quais documentos preciso para uma consulta?",
+      "r": "Documentos relacionados à questão: contratos, comprovantes, documentos pessoais. Orientamos sobre a documentação antes da consulta."
+    },
+    {
+      "p": "Quanto custa um advogado em ${n}?",
+      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com honorários de sucumbência. Entre em contato para orientação."
+    },
+    {
+      "p": "É possível resolver questões jurídicas sem ir ao tribunal?",
+      "r": "Sim! Muitos conflitos se resolvem via negociação, mediação ou conciliação. Em ${n}, buscamos soluções extrajudiciais sempre que possível."
+    },
+    {
+      "p": "Como a economia de ${n} influencia as questões jurídicas?",
+      "r": "A economia baseada em ${e[0]} gera demandas trabalhistas, previdenciárias e consumeristas específicas que conhecemos profundamente."
+    },
+    {
+      "p": "Vocês atendem pessoas físicas e jurídicas?",
+      "r": "Sim! Atendemos tanto pessoas físicas quanto empresas em ${n}, oferecendo soluções jurídicas completas."
+    },
+    {
+      "p": "Qual a diferença entre consultar um advogado e contratar?",
+      "r": "A consulta é para análise e orientação. A contratação envolve representação formal. Em ${n}, oferecemos ambos os serviços com transparência."
+    }
   ],
-  stats: {
-    experiencia: '15+',
-    clientes: '5000+',
-    taxa: '98%',
-    cidades: '302',
-  },
+  "stats": {
+    "experiencia": "15+",
+    "clientes": "5000+",
+    "taxa": "98%",
+    "cidades": "5571"
+  }
 }

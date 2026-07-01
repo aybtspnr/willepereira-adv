@@ -1,29 +1,65 @@
 export default {
-  heroTitle: 'Escritório de Advocacia em Guabiruba — Will & Pereira',
-  heroDescription: 'Encontre o melhor advogado em Guabiruba. A Will & Pereira Advocacia oferece consultoria e representação jurídica em diversas áreas do Direito.',
-  introParagraphs: [
-    'Quando se fala em assessoria jurídica de qualidade em Guabiruba, a Will & Pereira Advocacia se destaca pelo histórico de resultados e pelo compromisso com cada cliente. Atuando em todo o Brasil, nossa equipe está preparada para atender moradores de Guabiruba com dedicação.',
-    'Nossos clientes em Guabiruba têm acesso a um time completo de especialistas, cobrindo todas as principais áreas do Direito com competência e dedicação.',
-    'Nossos clientes em Guabiruba são nosso maior patrimônio. Por isso, dedicamos tempo e atenção especial para entender cada necessidade e oferecer soluções que realmente funcionam.',
-    'Acreditamos que o direito deve ser acessível a todos. Em Guabiruba, trabalhamos para que cada cidadão possa resolver seus problemas jurídicos com dignidade e eficiência.',
+  "heroTitle": "Assessoria Jurídica em Guabiruba | Will & Pereira Advocacia",
+  "heroDescription": "Advogados especializados em Guabiruba/SC para questões trabalhistas, previdenciárias, cíveis e familiares. Atendimento personalizado.",
+  "introParagraphs": [
+    "A busca por um advogado de confiança em Guabiruba/SC é constante. Questões trabalhistas, previdenciárias, familiares e imobiliárias surgem no cotidiano e precisam de orientação especializada. A Will & Pereira Advocacia, com mais de 15 anos de atuação, é referência no atendimento jurídico para moradores de Guabiruba e região.\n\nGuabiruba é uma cidade com economia dinâmica localizada em Santa Catarina, com economia baseada em indústria, agronegócio e turismo. Essas características geram demandas jurídicas que exigem conhecimento aprofundado da legislação e da jurisprudência.\n\nNossa equipe multidisciplinar oferece assessoria completa em todas as áreas do Direito, com atendimento personalizado e foco nos melhores resultados para cada cliente em Guabiruba."
   ],
-  areaContent: {
-    previdenciario: 'O Direito Previdenciário em Guabiruba é uma das áreas mais procuradas, especialmente entre trabalhadores que buscam aposentadoria, auxílio-doença e pensão por morte. Com a reforma da previdência, muitas regras mudaram e é fundamental ter orientação especializada para não perder benefícios. Em Guabiruba, muitos trabalhadores da área de Indústria Têxtil, Comércio, Tecnologia e Serviços não conhecem todos os direitos que possuem junto ao INSS. A Will & Pereira Advocacia realiza análise completa do histórico contributivo para identificar a melhor estratégia de aposentadoria, considerando regras de transição e direito adquirido. Atuamos na conquista de aposentadoria por idade, por tempo de contribuição, aposentadoria especial e BPC/LOAS. Quando o INSS nega ou concede valor inferior ao devido, nossa equipe entra com revisões administrativas e ações judiciais para garantir o benefício correto. Em Guabiruba, já ajudamos centenas de trabalhadores a conquistarem aposentadorias mais vantajosas e auxílios-doença que haviam sido negados injustamente. O planejamento previdenciário preventivo é essencial para quem deseja se aposentar com o melhor benefício possível. Nossa equipe analisa cada contribuição, cada período especial e cada regra de transição para traçar o melhor caminho. Em Guabiruba, onde a economia é baseada em Indústria Têxtil, Comércio, Tecnologia e Serviços, muitos trabalhadores têm contribuições irregulares ou período especial que pode ser computado para antecipar a aposentadoria. Não deixe de buscar orientação jurídica para proteger seu futuro previdenciário.',
-    trabalhista: 'A relação de trabalho em Guabiruba envolve milhões de trabalhadores que precisam de proteção jurídica. A Will & Pereira Advocacia atua na defesa dos direitos trabalhistas, desde a negociação coletiva até o ajuizamento de reclamações na Justiça do Trabalho. Em Guabiruba, com economia focada em Indústria Têxtil, Comércio, Tecnologia e Serviços, é essencial que trabalhadores e empresas contem com assessoria jurídica especializada. Trabalhadores demitidos sem justa causa têm direito a aviso prévio, 13º salário proporcional, férias proporcionais e multa de 40% sobre o FGTS, entre outros. Nossa equipe calcula todas as verbas devidas e garante o recebimento integral. Para empresas, oferecemos auditorias trabalhistas que identificam riscos e oportunidades de adequação. Em Guabiruba, o conhecimento das particularidades locais do mercado de trabalho é essencial para um resultado eficaz. Nossos clientes em Guabiruba contam com atendimento personalizado e atualização constante sobre o andamento de seus processos trabalhistas.',
-    civel: 'Moradores de Guabiruba que enfrentam problemas cíveis precisam de orientação jurídica para proteger seus interesses. A Will & Pereira Advocacia atende em questões de Direito Civil como contratos, indenizações, cobranças, usucapião e responsabilidade civil. Em Guabiruba, a dinâmica econômica baseada em Indústria Têxtil, Comércio, Tecnologia e Serviços gera demandas jurídicas variadas que requerem atenção e competência. Trabalhamos com pessoas físicas e empresas, oferecendo assessoria completa em todas as etapas do processo cível. Desde a negociação amigável até a sentença judicial, acompanhamos cada caso com dedicação. Em Guabiruba, já atendemos diversos clientes com sucesso, conquistando indenizações, resolvendo disputas contratuais e regularizando propriedades. Apreventiva jurídica cível é essencial para evitar problemas futuros — nossa equipe revisa contratos, verifica obrigações e orienta sobre boas práticas jurídicas em Guabiruba.',
-    consumidor: 'Em Guabiruba, consumidores que tiveram seus direitos violados contam com a Will & Pereira Advocacia para buscar reparação. Atuamos em casos de negativação indevida, cobrança de valores indevidos, produtos defeituosos, publicidade enganosa e cláusulas abusivas. Com economia centrada em Indústria Têxtil, Comércio, Tecnologia e Serviços, o mercado consumidor de Guabiruba é ativo e apresenta diversas situações que geram conflitos. O CDC assegura direitos como inversão do ônus da prova em favor do consumidor, o que facilita a obtenção de indenização. Nossa equipe utiliza essa ferramenta para garantir que consumidores de Guabiruba tenham seus direitos respeitados. Trabalhamos com negociações diretas com empresas, mediação, conciliação e, quando necessário, ações judiciais para reparação. Em Guabiruba, já obtivemos êxito em diversos casos de direito do consumidor, conquistando indenizações significativas para nossos clientes.',
-    familia: 'A Will & Pereira Advocacia atua em todas as áreas do Direito de Família em Guabiruba: divórcio consensual e litigioso, guarda compartilhada, pensão alimentícia, investigação de paternidade, inventário e planejamento sucessório. Em Guabiruba, com sua comunidade unida e economia baseada em Indústria Têxtil, Comércio, Tecnologia e Serviços, conflitos familiares precisam de solução jurídica adequada. Nossa equipe está preparada para oferecer orientação jurídica em cada situação, com foco na proteção dos direitos de todos os envolvidos, especialmente crianças e idosos. Trabalhamos com Mediação familiar para buscar acordos que beneficiem todas as partes. Em Guabiruba, já ajudamos diversas famílias a resolverem questões de divórcio, fixação de guarda e pensão alimentícia de forma ágil e justa. O planejamento sucessório é essencial para proteger o patrimônio familiar — nossa equipe orienta sobre testamento, doação e planejamento de herança em Guabiruba.',
-    imobiliario: 'Em Guabiruba, a assessoria jurídica imobiliária é fundamental para proteger investimentos e evitar conflitos. A Will & Pereira Advocacia atua em contratos de compra e venda, locação, usucapião e regularização fundiária, oferecendo segurança em cada etapa. Com economia baseada em Indústria Têxtil, Comércio, Tecnologia e Serviços, o mercado imobiliário de Guabiruba é ativo e gera demandas jurídicas variadas. Nossa equipe oferece assessoria completa em Direito Imobiliário, desde a análise preliminar do imóvel até o registro definitivo em cartório. Quando há disputas, conduzimos ações de reivindicatória, despejo e indenização com foco em resultados. Em Guabiruba, já ajudamos diversos clientes a resolverem conflitos imobiliários complexos, incluindo disputas de herança que envolvem imóveis e usucapião de terras urbanas. A prevenção é a melhor estratégia — conte com a Will & Pereira Advocacia em Guabiruba para garantir que sua transação imobiliária esteja protegida legalmente.',
+  "areaContent": {
+    "previdenciario": "Aposentadoria, auxílio-doença, pensão por morte e BPC/LOAS são os benefícios mais buscados por moradores de Guabiruba/SC. A complexidade das regras previdenciárias, especialmente após a EC 103/2019, torna indispensável o acompanhamento de um advogado especializado.\n\nEm Guabiruba, com economia baseada em indústria, trabalhadores de diversas categorias precisam de orientação previdenciária personalizada. A Will & Pereira Advocacia oferece análise completa do CNIS, simulação de benefícios e representação administrativa e judicial junto ao INSS.",
+    "trabalhista": "A relação de emprego em Guabiruba/SC é regida pela CLT e pela Constituição Federal, que garantem direitos fundamentais aos trabalhadores. Em uma cidade com economia baseada em indústria, as questões trabalhistas são frequentes e variadas. A Will & Pereira Advocacia atua na defesa desses direitos com competência e dedicação.\n\nAtuamos em Guabiruba em reclamações trabalhistas, verbas rescisórias, horas extras, FGTS, estabilidade provisória, assédio moral e todas as demais questões que envolvam a relação de emprego.",
+    "civel": "O cotidiano de Guabiruba/SC gera diversas questões jurídicas de natureza civil. Desde a elaboração de contratos até a resolução de conflitos de vizinhança, a Will & Pereira Advocacia oferece orientação jurídica completa para moradores e empresas da região.\n\nA economia local, focada em indústria e agronegócio, apresenta demandas cíveis que exigem conhecimento técnico e experiência. Atuamos em contratos, indenizações, cobranças, usucapião e todas as áreas do Direito Cível.",
+    "consumidor": "A proteção ao consumidor em Guabiruba/SC é um direito fundamental. Questões como produtos defeituosos, serviços inadequados e cobranças indevidas são situações que resolvemos regularmente. A Will & Pereira Advocacia oferece assessoria completa em Direito do Consumidor.\n\nA economia local, baseada em indústria, gera demandas consumeristas que conhecemos profundamente. Atuamos em negociações extrajudiciais e ações judiciais, sempre buscando a melhor solução para cada caso.",
+    "familia": "As questões familiares em Guabiruba/SC são tratadas com a sensibilidade que merecem. Divórcio consensual e litigioso, guarda compartilhada, pensão alimentícia, inventário e planejamento sucessório são áreas em que atuamos com excelência.\n\nEm Guabiruba, conhecemos as particularidades do Direito de Família local e oferecemos atendimento personalizado para cada caso, sempre priorizando o bem-estar de todos os envolvidos.",
+    "imobiliario": "Questões imobiliárias em Guabiruba/SC são frequentes e variadas. Desde a elaboração de contratos de locação até ações de usucapião, a Will & Pereira Advocacia oferece soluções jurídicas para todas as necessidades.\n\nA economia local, focada em indústria e agronegócio, gera demandas imobiliárias que atendemos com competência e dedicação. Trabalhamos com due diligence completa e resolução de conflitos."
   },
-  faqs: [
-    { pergunta: 'A Will & Pereira Advocacia atende toda a região de Guabiruba?', resposta: 'Sim! A Will & Pereira Advocacia atende moradores de Guabiruba e toda a região. Nossa equipe está preparada para oferecer assessoria jurídica de qualidade.' },
-    { pergunta: 'Quais documentos são necessários para uma consulta jurídica em Guabiruba?', resposta: 'Para uma orientação jurídica em Guabiruba, é recomendável trazer documentos relacionados à questão, como contratos, comprovantes e documentos pessoais.' },
-    { pergunta: 'Quanto custa uma consulta jurídica em Guabiruba?', resposta: 'A Will & Pereira Advocacia oferece orientação jurídica com valores acessíveis para moradores de Guabiruba. Entre em contato para informações sobre honorários e condições de pagamento.' },
+  "exclusiva": "## Por Que Escolher a Will & Pereira Advocacia em Guabiruba?\n\n**Experiência Comprovada:** Mais de 15 anos de atuação em todas as áreas do Direito, com resultados expressivos em Guabiruba e região.\n\n**Conhecimento Local:** Conhecemos as particularidades de Guabiruba e da região de Santa Catarina, incluindo as especificidades da economia baseada em indústria.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada. Em Guabiruba, oferecemos explicação clara de cada etapa do processo.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil, incluindo Guabiruba.\n\n**Transparência Total:** Honorários claros, sem surpresas. O cliente sempre sabe onde está investindo.",
+  "diaADia": "## Como um Advogado Pode Ajudar no Dia a Dia em Guabiruba\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis, elaboração de testamentos.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial, economizando tempo e recursos. Nossa equipe busca soluções consensuais sempre que possível.\n\n**Atendimento de Emergência:** Imprevistos acontecem. Oferecemos atendimento prioritário para situações urgentes em Guabiruba.",
+  "faqs": [
+    {
+      "p": "Quais são as principais áreas do direito atendidas em ${n}?",
+      "r": "Em ${n}/${uf}, atuamos em Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário, com foco nas necessidades da economia local baseada em ${e.join(' e ')}."
+    },
+    {
+      "p": "Como funciona o primeiro atendimento jurídico?",
+      "r": "O primeiro atendimento é orientativo, para análise do caso e definição da melhor estratégia. Atendemos presencialmente em Palhoça/SC e por videoconferência para ${n}."
+    },
+    {
+      "p": "Qual o prazo para entrar com uma reclamação trabalhista?",
+      "r": "O trabalhador tem até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Em ${n}, orientamos sobre prazos e procedimentos."
+    },
+    {
+      "p": "A Will & Pereira Advocacia atende ${n}?",
+      "r": "Sim! Atendemos moradores de ${n} e toda a região de ${uf}, com o mesmo nível de dedicação e profissionalismo."
+    },
+    {
+      "p": "Quais documentos preciso para uma consulta?",
+      "r": "Documentos relacionados à questão: contratos, comprovantes, documentos pessoais. Orientamos sobre a documentação antes da consulta."
+    },
+    {
+      "p": "Quanto custa um advogado em ${n}?",
+      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com honorários de sucumbência. Entre em contato para orientação."
+    },
+    {
+      "p": "É possível resolver questões jurídicas sem ir ao tribunal?",
+      "r": "Sim! Muitos conflitos se resolvem via negociação, mediação ou conciliação. Em ${n}, buscamos soluções extrajudiciais sempre que possível."
+    },
+    {
+      "p": "Como a economia de ${n} influencia as questões jurídicas?",
+      "r": "A economia baseada em ${e[0]} gera demandas trabalhistas, previdenciárias e consumeristas específicas que conhecemos profundamente."
+    },
+    {
+      "p": "Vocês atendem pessoas físicas e jurídicas?",
+      "r": "Sim! Atendemos tanto pessoas físicas quanto empresas em ${n}, oferecendo soluções jurídicas completas."
+    },
+    {
+      "p": "Qual a diferença entre consultar um advogado e contratar?",
+      "r": "A consulta é para análise e orientação. A contratação envolve representação formal. Em ${n}, oferecemos ambos os serviços com transparência."
+    }
   ],
-  stats: {
-    experiencia: '15+',
-    clientes: '5000+',
-    taxa: '98%',
-    cidades: '302',
-  },
+  "stats": {
+    "experiencia": "15+",
+    "clientes": "5000+",
+    "taxa": "98%",
+    "cidades": "5571"
+  }
 }

@@ -1,28 +1,65 @@
 export default {
-  heroTitle: 'Advogado em Cerro Negro | Direito Trabalhista, Cível e Previdenciário',
-  heroDescription: 'Will & Pereira Advocacia: advogado em Cerro Negro para pessoas físicas e empresas. Atuação em Direito Trabalhista, Previdenciário, Cível, Consumidor, Família e Imobiliário.',
-  introParagraphs: [
-    'Com até 50 mil habitantes e economia centrada em Turismo, Agricultura, Comércio e Serviços, Cerro Negro é uma cidade que demanda serviços jurídicos de qualidade. A Will & Pereira Advocacia oferece atendimento personalizado para moradores de Cerro Negro em todas as áreas do Direito, com mais de 15 anos de experiência.',
-    'Nossa equipe atua em Cerro Negro com foco em resultados, oferecendo assessoria jurídica preventiva e contenciosa. Trabalhamos com pessoas físicas e empresas, garantindo que cada cliente receba a atenção e o cuidado que merece em Cerro Negro.',
-    'Do atendimento inicial até a resolução do caso, acompanhamos cada etapa com atenção. Em Cerro Negro, nosso compromisso é garantir que o cliente se sinta amparado em cada momento do processo.',
+  "heroTitle": "Cerro Negro/SC — Advogados com Tradição em Resultados",
+  "heroDescription": "Soluções jurídicas personalizadas para moradores de Cerro Negro/SC. Nossa equipe atua em todas as áreas do Direito com foco em resultados comprovados.",
+  "introParagraphs": [
+    "A busca por um advogado de confiança em Cerro Negro/SC é constante. Questões trabalhistas, previdenciárias, familiares e imobiliárias surgem no cotidiano e precisam de orientação especializada. A Will & Pereira Advocacia, com mais de 15 anos de atuação, é referência no atendimento jurídico para moradores de Cerro Negro e região.\n\nCerro Negro é uma cidade com economia dinâmica localizada em Santa Catarina, com economia baseada em indústria, agronegócio e turismo. Essas características geram demandas jurídicas que exigem conhecimento aprofundado da legislação e da jurisprudência.\n\nNossa equipe multidisciplinar oferece assessoria completa em todas as áreas do Direito, com atendimento personalizado e foco nos melhores resultados para cada cliente em Cerro Negro."
   ],
-  areaContent: {
-    previdenciario: 'Em Cerro Negro, a demanda por assessoria previdenciária cresce a cada ano. Trabalhadores que se aposentam precisam garantir que receberão o valor correto, e aqueles que necessitam de auxílio-doença ou BPC/LOAS precisam de orientação para não terem seus pedidos negados. A Will & Pereira Advocacia atende moradores de Cerro Negro com análise detalhada do histórico contributivo do INSS, verificando possibilidades de aposentadoria antecipada, majoração de benefício e revisão de cálculos. Muitos trabalhadores de Cerro Negro, especialmente os que atuam em Turismo, Agricultura, Comércio e Serviços, possuem períodos de contribuição que não foram computados corretamente pelo INSS. Nossa equipe identifica essas falhas e entra com as medidas cabíveis para correção. Atuamos também em planejamento previdenciário para trabalhadores que ainda estão longe da aposentadoria, traçando estratégias para maximizar o benefício futuro. Em Cerro Negro, já ajudamos diversos trabalhadores a conquistarem aposentadoria especial, revisões de benefício e indenizações por mora do INSS. Não espere até ficar impossibilitado de trabalhar — procure orientação jurídica antecipada e proteja seu futuro.',
-    trabalhista: 'Moradores de Cerro Negro que trabalham em condições inadequadas ou tiveram seus direitos violados podem contar com a Will & Pereira Advocacia para buscar reparação na Justiça do Trabalho. Em Cerro Negro, com economia baseada em Turismo, Agricultura, Comércio e Serviços, as relações de trabalho apresentam desafios específicos que exigem conhecimento especializado. Atuamos em reclamações trabalhistas individuais e coletivas, defendendo trabalhadores em casos de jornada excessiva, insalubridade, periculosidade, acidente de trabalho e assédio moral. Em Cerro Negro, trabalhadores que foram demitidos sem justa causa têm direito a diversas verbas rescisórias que muitas vezes não são pagas corretamente. Nossa equipe verifica cada item e garante o recebimento integral devido. Para empresas, oferecemos assessoria trabalhista preventiva, elaboração de contratos, acordos e negociações coletivas. Em Cerro Negro, a Will & Pereira Advocacia é reconhecida pela competência e dedicação em causas trabalhistas. Não aceite ter seus direitos negados — procure nossa equipe e saiba como podemos ajudar.',
-    civel: 'Em Cerro Negro, questões cíveis do cotidiano muitas vezes escalam para litígios judiciais. Contratos de compra e venda, locações, empréstimos e relações de consumo geram conflitos que precisam de solução jurídica. A Will & Pereira Advocacia atende moradores de Cerro Negro em todas as questões de Direito Cível, oferecendo assessoria preventiva e contenciosa. Quando um conflito não pode ser resolvido extrajudicialmente, nossa equipe ingressa com ações de cobrança, indenização ou execução judicial para garantir o direito do cliente. Em Cerro Negro, onde o setor de Turismo, Agricultura, Comércio e Serviços é dinâmico, é comum surgirem questões como contratos comerciais descumpridos, danos materiais e morais, e disputas de propriedade. Nossa experiência em causas cíveis nos permite oferecer soluções eficazes, mesmo em situações complexas. Atuamos também em usucapião, quando trabalhadores ou moradores de Cerro Negro precisam regularizar imóveis que ocupam há anos. Nossa equipe acompanha cada etapa do processo, desde a instrução processual até a sentença definitiva.',
-    consumidor: 'Em Cerro Negro, consumidores que enfrentam problemas com empresas, bancos, planos de saúde ou fornecedores de serviços contam com a Will & Pereira Advocacia para fazer valer seus direitos. Atuamos em negociações e ações judiciais contra práticas abusivas, garantindo reparação por danos morais e materiais. Com economia baseada em Turismo, Agricultura, Comércio e Serviços, o mercado consumidor de Cerro Negro é ativo, o que significa mais oportunidades de conflitos consumeristas. Nossa equipe domina o CDC e a jurisprudência do STJ, utilizando essas ferramentas para benefício dos consumidores de Cerro Negro. Trabalhamos com negativação indevida, cobrança de dívida prescrita, cláusulas abusivas em contratos, seguro de vida e plano de saúde. Em Cerro Negro, já conquistamos diversas indenizações para consumidores que tiveram seus direitos violados. O atendimento é personalizado, com análise detalhada de cada caso para identificar a melhor estratégia de atuação.',
-    familia: 'O Direito de Família em Cerro Negro lida com questões sensíveis que afetam a vida das pessoas. Divórcio, guarda de filhos, pensão alimentícia, inventário e união estável são algumas das áreas em que atuamos com discrição e profissionalismo. Em Cerro Negro, onde a comunidade tem laços familiares fortes, conflitos familiares precisam ser tratados com delicadeza e competência. A Will & Pereira Advocacia oferece assessoria completa em Direito de Família, buscando soluções equilibradas que protejam os interesses de todos os envolvidos, especialmente das crianças. Em Cerro Negro, trabalhamos com divórcio consensual e litigioso, guarda compartilhada, fixação de alimentos, investigação de paternidade e inventário extrajudicial. Nossa equipe entende que questões familiares são delicadas e exigem um atendimento humanizado. Por isso, dedicamos especial atenção a cada caso em Cerro Negro, garantindo que o cliente se sinta amparado em cada etapa do processo.',
-    imobiliario: 'Moradores de Cerro Negro que precisam de orientação em questões imobiliárias contam com a Will & Pereira Advocacia. Atuamos em contratos de compra e venda, locação, usucapião e regularização de imóveis. Em Cerro Negro, com economia centrada em Turismo, Agricultura, Comércio e Serviços, o mercado imobiliário é ativo e apresenta diversas situações que geram conflitos. A segurança jurídica em transações imobiliárias é essencial. Nossa equipe analisa cada situação e oferece a melhor solução, evitando problemas futuros. Em Cerro Negro, trabalhamos com elaboração e revisão de contratos, mediação de conflitos e ações judiciais quando necessário. A usucapião é uma ferramenta importante para moradores de Cerro Negro que ocupam imóveis há anos sem documentação regular — nossa equipe conduz o processo desde a instrução processual até o registro em cartório. Em Cerro Negro e região, a Will & Pereira Advocacia é reconhecida pela competência em Direito Imobiliário.',
+  "areaContent": {
+    "previdenciario": "Aposentadoria, auxílio-doença, pensão por morte e BPC/LOAS são os benefícios mais buscados por moradores de Cerro Negro/SC. A complexidade das regras previdenciárias, especialmente após a EC 103/2019, torna indispensável o acompanhamento de um advogado especializado.\n\nEm Cerro Negro, com economia baseada em indústria, trabalhadores de diversas categorias precisam de orientação previdenciária personalizada. A Will & Pereira Advocacia oferece análise completa do CNIS, simulação de benefícios e representação administrativa e judicial junto ao INSS.",
+    "trabalhista": "A relação de emprego em Cerro Negro/SC é regida pela CLT e pela Constituição Federal, que garantem direitos fundamentais aos trabalhadores. Em uma cidade com economia baseada em indústria, as questões trabalhistas são frequentes e variadas. A Will & Pereira Advocacia atua na defesa desses direitos com competência e dedicação.\n\nAtuamos em Cerro Negro em reclamações trabalhistas, verbas rescisórias, horas extras, FGTS, estabilidade provisória, assédio moral e todas as demais questões que envolvam a relação de emprego.",
+    "civel": "O cotidiano de Cerro Negro/SC gera diversas questões jurídicas de natureza civil. Desde a elaboração de contratos até a resolução de conflitos de vizinhança, a Will & Pereira Advocacia oferece orientação jurídica completa para moradores e empresas da região.\n\nA economia local, focada em indústria e agronegócio, apresenta demandas cíveis que exigem conhecimento técnico e experiência. Atuamos em contratos, indenizações, cobranças, usucapião e todas as áreas do Direito Cível.",
+    "consumidor": "A proteção ao consumidor em Cerro Negro/SC é um direito fundamental. Questões como produtos defeituosos, serviços inadequados e cobranças indevidas são situações que resolvemos regularmente. A Will & Pereira Advocacia oferece assessoria completa em Direito do Consumidor.\n\nA economia local, baseada em indústria, gera demandas consumeristas que conhecemos profundamente. Atuamos em negociações extrajudiciais e ações judiciais, sempre buscando a melhor solução para cada caso.",
+    "familia": "As questões familiares em Cerro Negro/SC são tratadas com a sensibilidade que merecem. Divórcio consensual e litigioso, guarda compartilhada, pensão alimentícia, inventário e planejamento sucessório são áreas em que atuamos com excelência.\n\nEm Cerro Negro, conhecemos as particularidades do Direito de Família local e oferecemos atendimento personalizado para cada caso, sempre priorizando o bem-estar de todos os envolvidos.",
+    "imobiliario": "Questões imobiliárias em Cerro Negro/SC são frequentes e variadas. Desde a elaboração de contratos de locação até ações de usucapião, a Will & Pereira Advocacia oferece soluções jurídicas para todas as necessidades.\n\nA economia local, focada em indústria e agronegócio, gera demandas imobiliárias que atendemos com competência e dedicação. Trabalhamos com due diligence completa e resolução de conflitos."
   },
-  faqs: [
-    { pergunta: 'A Will & Pereira Advocacia atende casos urgentes em Cerro Negro?', resposta: 'Sim! A Will & Pereira Advocacia oferece atendimento urgente para moradores de Cerro Negro que necessitam de solução jurídica imediata.' },
-    { pergunta: 'O que fazer se o INSS negar um benefício em Cerro Negro?', resposta: 'Se o INSS negou um benefício em Cerro Negro, entre em contato com a Will & Pereira Advocacia. Nossa equipe analisa a negativa e entra com recurso administrativo ou ação judicial.' },
-    { pergunta: 'A Will & Pereira Advocacia trabalha com inventário em Cerro Negro?', resposta: 'Sim! A Will & Pereira Advocacia atua em inventários judiciais e extrajudiciais para moradores de Cerro Negro, garantindo a partilha de bens de forma justa.' },
+  "exclusiva": "## Por Que Escolher a Will & Pereira Advocacia em Cerro Negro?\n\n**Experiência Comprovada:** Mais de 15 anos de atuação em todas as áreas do Direito, com resultados expressivos em Cerro Negro e região.\n\n**Conhecimento Local:** Conhecemos as particularidades de Cerro Negro e da região de Santa Catarina, incluindo as especificidades da economia baseada em indústria.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada. Em Cerro Negro, oferecemos explicação clara de cada etapa do processo.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil, incluindo Cerro Negro.\n\n**Transparência Total:** Honorários claros, sem surpresas. O cliente sempre sabe onde está investindo.",
+  "diaADia": "## Como um Advogado Pode Ajudar no Dia a Dia em Cerro Negro\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis, elaboração de testamentos.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial, economizando tempo e recursos. Nossa equipe busca soluções consensuais sempre que possível.\n\n**Atendimento de Emergência:** Imprevistos acontecem. Oferecemos atendimento prioritário para situações urgentes em Cerro Negro.",
+  "faqs": [
+    {
+      "p": "Quais são as principais áreas do direito atendidas em ${n}?",
+      "r": "Em ${n}/${uf}, atuamos em Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário, com foco nas necessidades da economia local baseada em ${e.join(' e ')}."
+    },
+    {
+      "p": "Como funciona o primeiro atendimento jurídico?",
+      "r": "O primeiro atendimento é orientativo, para análise do caso e definição da melhor estratégia. Atendemos presencialmente em Palhoça/SC e por videoconferência para ${n}."
+    },
+    {
+      "p": "Qual o prazo para entrar com uma reclamação trabalhista?",
+      "r": "O trabalhador tem até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Em ${n}, orientamos sobre prazos e procedimentos."
+    },
+    {
+      "p": "A Will & Pereira Advocacia atende ${n}?",
+      "r": "Sim! Atendemos moradores de ${n} e toda a região de ${uf}, com o mesmo nível de dedicação e profissionalismo."
+    },
+    {
+      "p": "Quais documentos preciso para uma consulta?",
+      "r": "Documentos relacionados à questão: contratos, comprovantes, documentos pessoais. Orientamos sobre a documentação antes da consulta."
+    },
+    {
+      "p": "Quanto custa um advogado em ${n}?",
+      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com honorários de sucumbência. Entre em contato para orientação."
+    },
+    {
+      "p": "É possível resolver questões jurídicas sem ir ao tribunal?",
+      "r": "Sim! Muitos conflitos se resolvem via negociação, mediação ou conciliação. Em ${n}, buscamos soluções extrajudiciais sempre que possível."
+    },
+    {
+      "p": "Como a economia de ${n} influencia as questões jurídicas?",
+      "r": "A economia baseada em ${e[0]} gera demandas trabalhistas, previdenciárias e consumeristas específicas que conhecemos profundamente."
+    },
+    {
+      "p": "Vocês atendem pessoas físicas e jurídicas?",
+      "r": "Sim! Atendemos tanto pessoas físicas quanto empresas em ${n}, oferecendo soluções jurídicas completas."
+    },
+    {
+      "p": "Qual a diferença entre consultar um advogado e contratar?",
+      "r": "A consulta é para análise e orientação. A contratação envolve representação formal. Em ${n}, oferecemos ambos os serviços com transparência."
+    }
   ],
-  stats: {
-    experiencia: '15+',
-    clientes: '5000+',
-    taxa: '98%',
-    cidades: '302',
-  },
+  "stats": {
+    "experiencia": "15+",
+    "clientes": "5000+",
+    "taxa": "98%",
+    "cidades": "5571"
+  }
 }

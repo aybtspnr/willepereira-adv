@@ -1,29 +1,65 @@
 export default {
-  heroTitle: 'Advogado em Macieira/SC — Especialistas em Direito',
-  heroDescription: 'Will & Pereira Advocacia atende moradores de Macieira com assessoria jurídica completa em Direito Trabalhista, Previdenciário, Cível, do Consumidor, de Família e Imobiliário. Escritório em Palhoça/SC.',
-  introParagraphs: [
-    'Se você mora em Macieira e precisa de um advogado comprometido com resultados, a Will & Pereira Advocacia está pronta para ajudar. Com escritório em Palhoça/SC e atendimento em todo o Brasil, oferecemos soluções jurídicas completas.',
-    'A proximidade com Palhoça/SC não impede que atendamos Macieira com excelência. Por videoconferência ou presencialmente, nossa equipe está disponível para oferecer a melhor orientação jurídica possível.',
-    'Nossos clientes em Macieira são nosso maior patrimônio. Por isso, dedicamos tempo e atenção especial para entender cada necessidade e oferecer soluções que realmente funcionam.',
-    'Em Macieira, a Will & Pereira Advocacia é sinônimo de confiança e resultados. Não importa a complexidade do caso, estamos prontos para oferecer a melhor solução jurídica disponível.',
+  "heroTitle": "Advogados em Macieira, SC — Soluções Jurídicas Completas",
+  "heroDescription": "Encontre o melhor advogado em Macieira/SC. A Will & Pereira Advocacia oferece assessoria jurídica completa com mais de 15 anos de experiência atendendo moradores de Macieira e região.",
+  "introParagraphs": [
+    "Quando um cidadão de Macieira/SC precisa de orientação jurídica, a primeira preocupação é encontrar um profissional que combine conhecimento técnico com compromisso com resultados. A Will & Pereira Advocacia, com sede em Palhoça/SC e atuação nacional, atende moradores de Macieira há mais de 15 anos, oferecendo soluções jurídicas personalizadas para cada caso.\n\nA cidade de Macieira apresenta características econômicas e sociais que influenciam diretamente as demandas jurídicas da população. Com economia voltada para indústria, agronegócio, turismo, comércio e serviços, os moradores enfrentam questões trabalhistas, previdenciárias e consumeristas que exigem conhecimento especializado. Indústria e turismo são desafios recorrentes na região.\n\nNeste guia, apresentamos de forma detalhada os serviços jurídicos disponíveis para moradores de Macieira, organizados por área do Direito. Cada seção é elaborada considerando a realidade específica de Macieira/SC, oferecendo informações práticas e relevantes para quem busca orientação jurídica na região."
   ],
-  areaContent: {
-    previdenciario: 'Trabalhadores de Macieira que precisam de auxílio-doença, aposentadoria ou pensão por morte contam com a Will & Pereira Advocacia para orientação previdenciária completa. Nossa equipe domina todas as nuances da legislação previdenciária brasileira e está preparada para analisar cada caso com atenção. Em Macieira, onde a força de trabalho está concentrada em Comércio, Agricultura, Indústria e Serviços, é comum encontrar trabalhadores com vínculos informais ou contribuições em atraso. Isso não significa que não exista direito — nossa equipe identifica todas as possibilidades de regularização e conquista de benefícios. Atuamos em aposentadoria especial para trabalhadores expostos a condições insalubres, BPC/LOAS para idosos e deficientes de baixa renda e pensão por morte para dependentes de segurados falecidos. Quando o INSS nega um benefício, entramos com recurso administrativo ou ação judicial para reverter a decisão. Em Macieira, já conquistamos benefícios previdenciários para centenas de trabalhadores que estavam sem renda. O momento de agir é agora — entre em contato e saiba como podemos ajudar a conquistar seus direitos previdenciários em Macieira.',
-    trabalhista: 'Quando os direitos trabalhistas são violados em Macieira, a Will & Pereira Advocacia entra em ação. Atuamos em casos de demissão injusta, horas extras não pagas, FGTS descontado indevidamente, acidente de trabalho e assédio moral e sexual. Em Macieira, onde o setor de Comércio, Agricultura, Indústria e Serviços é expressivo, é comum encontrarmos trabalhadores que não recebem todos os seus direitos previstos na CLT. Nossa equipe realiza o levantamento de todos os valores devidos e ingressa com reclamação trabalhista quando necessário. Trabalhamos também com acordos extrajudiciais, que permitem a resolução rápida e amigável de conflitos trabalhistas. Para empresas de Macieira, oferecemos consultoria preventiva para evitar passivos trabalhistas e adequar práticas de gestão de pessoas. Em Macieira, nossa taxa de sucesso em ações trabalhistas é resultado de preparação técnica, conhecimento da jurisprudência e compromisso com o cliente.',
-    civel: 'O Direito Cível em Macieira abrange uma ampla gama de questões que afetam o cotidiano das pessoas e empresas. Contratos, indenizações, cobranças, usucapião e responsabilidade civil são algumas das áreas em que atuamos. Em Macieira, onde a economia gira em torno de Comércio, Agricultura, Indústria e Serviços, conflitos cíveis surgem frequentemente entre vizinhos, empresas e consumidores. A Will & Pereira Advocacia oferece assessoria completa em Direito Cível, desde a elaboração de contratos preventivos até ações judiciais complexas. Quando um contrato é descumprido, uma dívida não é paga ou um dano é causado, é necessário contar com um advogado experiente para buscar reparação. Em Macieira, nossa equipe conduz processos de indenização, cobrança, execução e usucapião com foco em resultados rápidos e eficazes. Trabalhamos para resolver conflitos de forma célere, priorizando soluções extrajudiciais quando possível, mas sem hesitar em ir a juízo quando necessário. Moradores de Macieira que precisam de orientação cível encontram na Will & Pereira Advocacia o parceiro ideal para proteger seus interesses.',
-    consumidor: 'O Direito do Consumidor em Macieira protege quem compra, contrata ou utiliza serviços. Se você sofreu com um produto defeituoso, um serviço mal prestado ou uma cobrança abusiva, a Will & Pereira Advocacia está pronta para agir. Em Macieira, com economia focada em Comércio, Agricultura, Indústria e Serviços, é essencial que consumidores conheçam seus direitos para não serem vítimas de práticas abusivas. Nossa equipe atua em defesa do consumidor em Macieira, buscando reparação por danos morais e materiais, repetição de valores pagos indevidamente e cessação de práticas abusivas. O CDC é uma lei poderosa que confere ao consumidor vantagens processuais significativas, como a inversão do ônus da prova e a competência da Justiça Federal para causas de valor superior a 40 salários mínimos. Em Macieira, trabalhamos para garantir que cada consumidor tenha acesso à justiça e receba a reparação que merece. Não deixe que empresas abuse do consumidor — entre em contato e saiba como podemos ajudar em Macieira.',
-    familia: 'Famílias de Macieira que precisam de apoio jurídico em momentos delicados contam com a Will & Pereira Advocacia. Atuamos em divórcio, guarda de filhos, pensão alimentícia, inventário, união estável e todas as questões que envolvem relações familiares. Em Macieira, com economia centrada em Comércio, Agricultura, Indústria e Serviços, conflitos familiares frequentemente envolvem questões patrimoniais e de guarda que exigem expertise jurídica. Nossa equipe entende a sensibilidade de cada caso e oferece atendimento com discrição e profissionalismo. Trabalhamos para encontrar soluções que protejam os interesses de todos, especialmente dos menores. Em Macieira, já orientamos diversas famílias em processos de divórcio, fixação de alimentos e inventário, sempre com foco em resultados rápidos e justos. O planejamento sucessório preventivo é uma forma de evitar conflitos futuros — nossa equipe orienta sobre testamentos e doações em Macieira para proteger o patrimônio familiar.',
-    imobiliario: 'Em Macieira, o mercado imobiliário apresenta características próprias que demandam conhecimento especializado. A Will & Pereira Advocacia atua em todas as áreas do Direito Imobiliário, desde a elaboração de contratos até a resolução de conflitos. Em Macieira, onde o setor de Comércio, Agricultura, Indústria e Serviços é dinâmico, transações imobiliárias são frequentes e geram demandas jurídicas específicas. Nossa equipe oferece assessoria em compra e venda de imóveis, locação, usucapião, regularização fundiária e direito condominial. Quando há disputas sobre propriedade,limites de terreno ou inadimplência em contratos de locação, nossa equipe conduz o caso com competência e dedicação. Em Macieira, já resolvemos diversos conflitos imobiliários com sucesso, garantindo a segurança jurídica de nossos clientes. A due diligence imobiliária é especialmente importante em Macieira, onde a verificação de matrícula, certidões negativas e situação fiscal do imóvel pode evitar problemas futuros.',
+  "areaContent": {
+    "previdenciario": "O Direito Previdenciário em Macieira/SC é uma das áreas mais demandadas. Trabalhadores da região, tanto rurais quanto urbanos, frequentemente buscam orientação sobre aposentadoria, auxílio-doença e pensão por morte. A reforma da previdência (EC 103/2019) trouxe mudanças significativas nas regras de aposentadoria, e contar com um advogado especializado é essencial para garantir o melhor benefício possível.\n\nEm Macieira, a economia baseada em indústria e agronegócio gera diversas categorias de trabalhadores com necessidades previdenciárias específicas. A Will & Pereira Advocacia realiza análise completa do histórico contributivo de cada cliente, identificando todas as possibilidades de antecipação ou majoração da aposentadoria. Atendemos aposentadoria por idade, tempo de contribuição e especial, auxílio-doença, pensão por morte, BPC/LOAS e revisões de benefícios.",
+    "trabalhista": "O Direito Trabalhista em Macieira/SC protege os direitos tanto de empregados quanto de empregadores. Em uma cidade com economia baseada em indústria e agronegócio, as relações de trabalho apresentam características próprias que conhecemos profundamente. A Will & Pereira Advocacia atua na defesa dos direitos trabalhistas com foco em resultados.\n\nPrincipais atuações em Macieira: verbas rescisórias, horas extras, FGTS, adicional de insalubridade e periculosidade, equiparação salarial, assédio moral e dano moral trabalhista. Para empresas, oferecemos consultoria preventiva e defesa em reclamações trabalhistas.",
+    "civel": "O Direito Cível em Macieira/SC abrange as relações cotidianas entre pessoas e empresas. Contratos, indenizações, cobranças, usucapião e questões de propriedade são situações que surgem no dia a dia dos moradores. A Will & Pereira Advocacia oferece assessoria completa em todas essas áreas.\n\nA economia de Macieira, baseada em indústria, gera conflitos cíveis que exigem conhecimento aprofundado do Código Civil e da jurisprudência. Trabalhamos com elaboração e revisão de contratos, ações de cobrança, indenização por danos e todas as questões cíveis.",
+    "consumidor": "O Código de Defesa do Consumidor protege os moradores de Macieira/SC contra abusos de empresas e fornecedores. Em uma cidade com economia baseada em indústria, os conflitos consumeristas são frequentes e variados. A Will & Pereira Advocacia atua na defesa dos direitos do consumidor com competência.\n\nAtendemos em Macieira casos de cobrança indevida, negativação injusta, produtos com defeito, negativas de planos de saúde, cláusulas abusivas e todas as demais violações aos direitos do consumidor.",
+    "familia": "O Direito de Família em Macieira/SC lida com questões sensíveis que afetam a vida das pessoas. Divórcios, guarda de filhos, pensão alimentícia, inventários e união estável são situações que demandam sensibilidade e competência. A Will & Pereira Advocacia oferece atendimento humanizado e profissional.\n\nEm Macieira, as relações familiares são valorizadas, e é fundamental contar com um advogado que compreenda a importância de cada decisão. Nossa equipe trabalha com mediação familiar e acordos consensuais sempre que possível.",
+    "imobiliario": "O Direito Imobiliário em Macieira/SC regula todas as questões relacionadas a imóveis. Compra e venda, locação, usucapião, regularização fundiária e condomínio são áreas em que atuamos. A economia de Macieira, baseada em indústria, gera demandas imobiliárias que conhecemos.\n\nA Will & Pereira Advocacia oferece assessoria completa em cada etapa da transação imobiliária, desde a análise de documentação até a resolução de conflitos possessórios."
   },
-  faqs: [
-    { pergunta: 'A Will & Pereira Advocacia atende cidades pequenas?', resposta: 'Sim! A Will & Pereira Advocacia atende moradores de Macieira e todas as empresas da região, independentemente do porte.' },
-    { pergunta: 'Qual a experiência da Will & Pereira Advocacia em Macieira?', resposta: 'A Will & Pereira Advocacia possui mais de 15 anos de experiência em atendimento jurídico, incluindo moradores de Macieira e região.' },
-    { pergunta: 'Como posso agendar uma orientação jurídica em Macieira?', resposta: 'Para agendar uma orientação jurídica em Macieira, entre em contato com a Will & Pereira Advocacia pelo telefone, WhatsApp ou formulário do site.' },
+  "exclusiva": "## Por Que Escolher a Will & Pereira Advocacia em Macieira?\n\n**Experiência Comprovada:** Mais de 15 anos de atuação em todas as áreas do Direito, com resultados expressivos em Macieira e região.\n\n**Conhecimento Local:** Conhecemos as particularidades de Macieira e da região de Santa Catarina, incluindo as especificidades da economia baseada em indústria.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada. Em Macieira, oferecemos explicação clara de cada etapa do processo.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil, incluindo Macieira.\n\n**Transparência Total:** Honorários claros, sem surpresas. O cliente sempre sabe onde está investindo.",
+  "diaADia": "## Como um Advogado Pode Ajudar no Dia a Dia em Macieira\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis, elaboração de testamentos.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial, economizando tempo e recursos. Nossa equipe busca soluções consensuais sempre que possível.\n\n**Atendimento de Emergência:** Imprevistos acontecem. Oferecemos atendimento prioritário para situações urgentes em Macieira.",
+  "faqs": [
+    {
+      "p": "Quais são as principais áreas do direito atendidas em ${n}?",
+      "r": "Em ${n}/${uf}, atuamos em Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário, com foco nas necessidades da economia local baseada em ${e.join(' e ')}."
+    },
+    {
+      "p": "Como funciona o primeiro atendimento jurídico?",
+      "r": "O primeiro atendimento é orientativo, para análise do caso e definição da melhor estratégia. Atendemos presencialmente em Palhoça/SC e por videoconferência para ${n}."
+    },
+    {
+      "p": "Qual o prazo para entrar com uma reclamação trabalhista?",
+      "r": "O trabalhador tem até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Em ${n}, orientamos sobre prazos e procedimentos."
+    },
+    {
+      "p": "A Will & Pereira Advocacia atende ${n}?",
+      "r": "Sim! Atendemos moradores de ${n} e toda a região de ${uf}, com o mesmo nível de dedicação e profissionalismo."
+    },
+    {
+      "p": "Quais documentos preciso para uma consulta?",
+      "r": "Documentos relacionados à questão: contratos, comprovantes, documentos pessoais. Orientamos sobre a documentação antes da consulta."
+    },
+    {
+      "p": "Quanto custa um advogado em ${n}?",
+      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com honorários de sucumbência. Entre em contato para orientação."
+    },
+    {
+      "p": "É possível resolver questões jurídicas sem ir ao tribunal?",
+      "r": "Sim! Muitos conflitos se resolvem via negociação, mediação ou conciliação. Em ${n}, buscamos soluções extrajudiciais sempre que possível."
+    },
+    {
+      "p": "Como a economia de ${n} influencia as questões jurídicas?",
+      "r": "A economia baseada em ${e[0]} gera demandas trabalhistas, previdenciárias e consumeristas específicas que conhecemos profundamente."
+    },
+    {
+      "p": "Vocês atendem pessoas físicas e jurídicas?",
+      "r": "Sim! Atendemos tanto pessoas físicas quanto empresas em ${n}, oferecendo soluções jurídicas completas."
+    },
+    {
+      "p": "Qual a diferença entre consultar um advogado e contratar?",
+      "r": "A consulta é para análise e orientação. A contratação envolve representação formal. Em ${n}, oferecemos ambos os serviços com transparência."
+    }
   ],
-  stats: {
-    experiencia: '15+',
-    clientes: '5000+',
-    taxa: '98%',
-    cidades: '302',
-  },
+  "stats": {
+    "experiencia": "15+",
+    "clientes": "5000+",
+    "taxa": "98%",
+    "cidades": "5571"
+  }
 }

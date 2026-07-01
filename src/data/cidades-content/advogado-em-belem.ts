@@ -1,28 +1,65 @@
 export default {
-  heroTitle: 'Advogado em Belém/SC — Especialistas em Direito',
-  heroDescription: 'Will & Pereira Advocacia: advogado em Belém para pessoas físicas e empresas. Atuação em Direito Trabalhista, Previdenciário, Cível, Consumidor, Família e Imobiliário.',
-  introParagraphs: [
-    'Com capital do estado habitantes e economia centrada em Comércio, Serviços, Indústria e Tecnologia, Belém é uma cidade que demanda serviços jurídicos de qualidade. A Will & Pereira Advocacia oferece atendimento personalizado para moradores de Belém em todas as áreas do Direito, com mais de 15 anos de experiência.',
-    'Com atendimento que vai além da consulta jurídica, buscamos construir relacionamentos de confiança com nossos clientes em Belém. Transparência, ética e dedicação são os pilares que sustentam nosso trabalho.',
-    'Não deixe questões jurídicas sem solução. Em Belém, a Will & Pereira Advocacia oferece orientação clara e objetiva, ajudando seus clientes a tomar decisões conscientes e proteger seus direitos.',
+  "heroTitle": "Direito em Belém, AL — Advogados Experientes e Comprometidos",
+  "heroDescription": "Assessoria jurídica de qualidade em Belém/AL. Atendimento em todo o Brasil com excelência, ética e dedicação.",
+  "introParagraphs": [
+    "A busca por um advogado de confiança em Belém/AL é constante. Questões trabalhistas, previdenciárias, familiares e imobiliárias surgem no cotidiano e precisam de orientação especializada. A Will & Pereira Advocacia, com mais de 15 anos de atuação, é referência no atendimento jurídico para moradores de Belém e região.\n\nBelém é uma cidade com economia dinâmica localizada em Alagoas, com economia baseada em cana-de-açúcar, turismo e pesca. Essas características geram demandas jurídicas que exigem conhecimento aprofundado da legislação e da jurisprudência.\n\nNossa equipe multidisciplinar oferece assessoria completa em todas as áreas do Direito, com atendimento personalizado e foco nos melhores resultados para cada cliente em Belém."
   ],
-  areaContent: {
-    previdenciario: 'Trabalhadores de Belém que precisam de auxílio-doença, aposentadoria ou pensão por morte contam com a Will & Pereira Advocacia para orientação previdenciária completa. Nossa equipe domina todas as nuances da legislação previdenciária brasileira e está preparada para analisar cada caso com atenção. Em Belém, onde a força de trabalho está concentrada em Comércio, Serviços, Indústria e Tecnologia, é comum encontrar trabalhadores com vínculos informais ou contribuições em atraso. Isso não significa que não exista direito — nossa equipe identifica todas as possibilidades de regularização e conquista de benefícios. Atuamos em aposentadoria especial para trabalhadores expostos a condições insalubres, BPC/LOAS para idosos e deficientes de baixa renda e pensão por morte para dependentes de segurados falecidos. Quando o INSS nega um benefício, entramos com recurso administrativo ou ação judicial para reverter a decisão. Em Belém, já conquistamos benefícios previdenciários para centenas de trabalhadores que estavam sem renda. O momento de agir é agora — entre em contato e saiba como podemos ajudar a conquistar seus direitos previdenciários em Belém.',
-    trabalhista: 'Quando os direitos trabalhistas são violados em Belém, a Will & Pereira Advocacia entra em ação. Atuamos em casos de demissão injusta, horas extras não pagas, FGTS descontado indevidamente, acidente de trabalho e assédio moral e sexual. Em Belém, onde o setor de Comércio, Serviços, Indústria e Tecnologia é expressivo, é comum encontrarmos trabalhadores que não recebem todos os seus direitos previstos na CLT. Nossa equipe realiza o levantamento de todos os valores devidos e ingressa com reclamação trabalhista quando necessário. Trabalhamos também com acordos extrajudiciais, que permitem a resolução rápida e amigável de conflitos trabalhistas. Para empresas de Belém, oferecemos consultoria preventiva para evitar passivos trabalhistas e adequar práticas de gestão de pessoas. Em Belém, nossa taxa de sucesso em ações trabalhistas é resultado de preparação técnica, conhecimento da jurisprudência e compromisso com o cliente.',
-    civel: 'Moradores de Belém que enfrentam problemas cíveis precisam de orientação jurídica para proteger seus interesses. A Will & Pereira Advocacia atende em questões de Direito Civil como contratos, indenizações, cobranças, usucapião e responsabilidade civil. Em Belém, a dinâmica econômica baseada em Comércio, Serviços, Indústria e Tecnologia gera demandas jurídicas variadas que requerem atenção e competência. Trabalhamos com pessoas físicas e empresas, oferecendo assessoria completa em todas as etapas do processo cível. Desde a negociação amigável até a sentença judicial, acompanhamos cada caso com dedicação. Em Belém, já atendemos diversos clientes com sucesso, conquistando indenizações, resolvendo disputas contratuais e regularizando propriedades. Apreventiva jurídica cível é essencial para evitar problemas futuros — nossa equipe revisa contratos, verifica obrigações e orienta sobre boas práticas jurídicas em Belém.',
-    consumidor: 'Em Belém, consumidores que tiveram seus direitos violados contam com a Will & Pereira Advocacia para buscar reparação. Atuamos em casos de negativação indevida, cobrança de valores indevidos, produtos defeituosos, publicidade enganosa e cláusulas abusivas. Com economia centrada em Comércio, Serviços, Indústria e Tecnologia, o mercado consumidor de Belém é ativo e apresenta diversas situações que geram conflitos. O CDC assegura direitos como inversão do ônus da prova em favor do consumidor, o que facilita a obtenção de indenização. Nossa equipe utiliza essa ferramenta para garantir que consumidores de Belém tenham seus direitos respeitados. Trabalhamos com negociações diretas com empresas, mediação, conciliação e, quando necessário, ações judiciais para reparação. Em Belém, já obtivemos êxito em diversos casos de direito do consumidor, conquistando indenizações significativas para nossos clientes.',
-    familia: 'Questões familiares em Belém merecem atenção especial. Divórcios, disputas de guarda, pensão alimentícia e inventários são momentos difíceis que exigem assessoria jurídica humanizada. A Will & Pereira Advocacia atende moradores de Belém em todas as questões de Direito de Família, oferecendo soluções personalizadas para cada caso. Em Belém, onde a economia gira em torno de Comércio, Serviços, Indústria e Tecnologia, conflitos familiares frequentemente envolvem divisão de patrimônio, pensão para filhos e direito de visitas. Nossa equipe domina esses temas e oferece orientação clara sobre cada etapa do processo. Trabalhamos com divórcio consensual para casais que desejam separar-se de forma amigável, e com litígios quando não há acordo. Em Belém, priorizamos a Mediação familiar para preservar relacionamentos e encontrar soluções que beneficiem todos, especialmente as crianças. Inventários e testamentos também fazem parte de nosso atendimento em Belém, garantindo que o patrimônio familiar seja distribuído de forma justa e legal.',
-    imobiliario: 'O Direito Imobiliário em Belém regula todas as questões relacionadas a imóveis. Compra e venda, locação, usucapião, regularização fundiária e condomínio são algumas das áreas em que atuamos. Em Belém, com economia baseada em Comércio, Serviços, Indústria e Tecnologia, o mercado imobiliário é ativo e demanda assessoria jurídica especializada. A Will & Pereira Advocacia oferece segurança jurídica em cada etapa da transação imobiliária, desde a due diligence até o registro em cartório. Quando surgem conflitos — como inadimplência de aluguel, vícios ocultos em imóveis comprados ou disputas de divórcio —, nossa equipe está preparada para oferecer a melhor solução. Em Belém, trabalhamos com contratos de compra e venda seguros, locação residencial e comercial, e ações de usucapião para regularizar imóveis. A segurança jurídica em transações imobiliárias é essencial — não deixe seu investimento sem proteção. Em Belém, nossa equipe acompanha cada detalhe para garantir que seu imóvel esteja protegido legalmente.',
+  "areaContent": {
+    "previdenciario": "Aposentadoria, auxílio-doença, pensão por morte e BPC/LOAS são os benefícios mais buscados por moradores de Belém/AL. A complexidade das regras previdenciárias, especialmente após a EC 103/2019, torna indispensável o acompanhamento de um advogado especializado.\n\nEm Belém, com economia baseada em cana-de-açúcar, trabalhadores de diversas categorias precisam de orientação previdenciária personalizada. A Will & Pereira Advocacia oferece análise completa do CNIS, simulação de benefícios e representação administrativa e judicial junto ao INSS.",
+    "trabalhista": "A relação de emprego em Belém/AL é regida pela CLT e pela Constituição Federal, que garantem direitos fundamentais aos trabalhadores. Em uma cidade com economia baseada em cana-de-açúcar, as questões trabalhistas são frequentes e variadas. A Will & Pereira Advocacia atua na defesa desses direitos com competência e dedicação.\n\nAtuamos em Belém em reclamações trabalhistas, verbas rescisórias, horas extras, FGTS, estabilidade provisória, assédio moral e todas as demais questões que envolvam a relação de emprego.",
+    "civel": "O cotidiano de Belém/AL gera diversas questões jurídicas de natureza civil. Desde a elaboração de contratos até a resolução de conflitos de vizinhança, a Will & Pereira Advocacia oferece orientação jurídica completa para moradores e empresas da região.\n\nA economia local, focada em cana-de-açúcar e turismo, apresenta demandas cíveis que exigem conhecimento técnico e experiência. Atuamos em contratos, indenizações, cobranças, usucapião e todas as áreas do Direito Cível.",
+    "consumidor": "A proteção ao consumidor em Belém/AL é um direito fundamental. Questões como produtos defeituosos, serviços inadequados e cobranças indevidas são situações que resolvemos regularmente. A Will & Pereira Advocacia oferece assessoria completa em Direito do Consumidor.\n\nA economia local, baseada em cana-de-açúcar, gera demandas consumeristas que conhecemos profundamente. Atuamos em negociações extrajudiciais e ações judiciais, sempre buscando a melhor solução para cada caso.",
+    "familia": "As questões familiares em Belém/AL são tratadas com a sensibilidade que merecem. Divórcio consensual e litigioso, guarda compartilhada, pensão alimentícia, inventário e planejamento sucessório são áreas em que atuamos com excelência.\n\nEm Belém, conhecemos as particularidades do Direito de Família local e oferecemos atendimento personalizado para cada caso, sempre priorizando o bem-estar de todos os envolvidos.",
+    "imobiliario": "Questões imobiliárias em Belém/AL são frequentes e variadas. Desde a elaboração de contratos de locação até ações de usucapião, a Will & Pereira Advocacia oferece soluções jurídicas para todas as necessidades.\n\nA economia local, focada em cana-de-açúcar e turismo, gera demandas imobiliárias que atendemos com competência e dedicação. Trabalhamos com due diligence completa e resolução de conflitos."
   },
-  faqs: [
-    { pergunta: 'A Will & Pereira Advocacia atende empresas em Belém?', resposta: 'Sim! A Will & Pereira Advocacia atende moradores de Belém e todas as empresas da região, independentemente do porte.' },
-    { pergunta: 'Qual a experiência da Will & Pereira Advocacia em Belém?', resposta: 'A Will & Pereira Advocacia possui mais de 15 anos de experiência em atendimento jurídico, incluindo moradores de Belém e região.' },
-    { pergunta: 'Como posso agendar uma orientação jurídica em Belém?', resposta: 'Para agendar uma orientação jurídica em Belém, entre em contato com a Will & Pereira Advocacia pelo telefone, WhatsApp ou formulário do site.' },
+  "exclusiva": "## Por Que Escolher a Will & Pereira Advocacia em Belém?\n\n**Experiência Comprovada:** Mais de 15 anos de atuação em todas as áreas do Direito, com resultados expressivos em Belém e região.\n\n**Conhecimento Local:** Conhecemos as particularidades de Belém e da região de Alagoas, incluindo as especificidades da economia baseada em cana-de-açúcar.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada. Em Belém, oferecemos explicação clara de cada etapa do processo.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil, incluindo Belém.\n\n**Transparência Total:** Honorários claros, sem surpresas. O cliente sempre sabe onde está investindo.",
+  "diaADia": "## Como um Advogado Pode Ajudar no Dia a Dia em Belém\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis, elaboração de testamentos.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial, economizando tempo e recursos. Nossa equipe busca soluções consensuais sempre que possível.\n\n**Atendimento de Emergência:** Imprevistos acontecem. Oferecemos atendimento prioritário para situações urgentes em Belém.",
+  "faqs": [
+    {
+      "p": "Quais são as principais áreas do direito atendidas em ${n}?",
+      "r": "Em ${n}/${uf}, atuamos em Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário, com foco nas necessidades da economia local baseada em ${e.join(' e ')}."
+    },
+    {
+      "p": "Como funciona o primeiro atendimento jurídico?",
+      "r": "O primeiro atendimento é orientativo, para análise do caso e definição da melhor estratégia. Atendemos presencialmente em Palhoça/SC e por videoconferência para ${n}."
+    },
+    {
+      "p": "Qual o prazo para entrar com uma reclamação trabalhista?",
+      "r": "O trabalhador tem até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Em ${n}, orientamos sobre prazos e procedimentos."
+    },
+    {
+      "p": "A Will & Pereira Advocacia atende ${n}?",
+      "r": "Sim! Atendemos moradores de ${n} e toda a região de ${uf}, com o mesmo nível de dedicação e profissionalismo."
+    },
+    {
+      "p": "Quais documentos preciso para uma consulta?",
+      "r": "Documentos relacionados à questão: contratos, comprovantes, documentos pessoais. Orientamos sobre a documentação antes da consulta."
+    },
+    {
+      "p": "Quanto custa um advogado em ${n}?",
+      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com honorários de sucumbência. Entre em contato para orientação."
+    },
+    {
+      "p": "É possível resolver questões jurídicas sem ir ao tribunal?",
+      "r": "Sim! Muitos conflitos se resolvem via negociação, mediação ou conciliação. Em ${n}, buscamos soluções extrajudiciais sempre que possível."
+    },
+    {
+      "p": "Como a economia de ${n} influencia as questões jurídicas?",
+      "r": "A economia baseada em ${e[0]} gera demandas trabalhistas, previdenciárias e consumeristas específicas que conhecemos profundamente."
+    },
+    {
+      "p": "Vocês atendem pessoas físicas e jurídicas?",
+      "r": "Sim! Atendemos tanto pessoas físicas quanto empresas em ${n}, oferecendo soluções jurídicas completas."
+    },
+    {
+      "p": "Qual a diferença entre consultar um advogado e contratar?",
+      "r": "A consulta é para análise e orientação. A contratação envolve representação formal. Em ${n}, oferecemos ambos os serviços com transparência."
+    }
   ],
-  stats: {
-    experiencia: '15+',
-    clientes: '5000+',
-    taxa: '98%',
-    cidades: '302',
-  },
+  "stats": {
+    "experiencia": "15+",
+    "clientes": "5000+",
+    "taxa": "98%",
+    "cidades": "5571"
+  }
 }

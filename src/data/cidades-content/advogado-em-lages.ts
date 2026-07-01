@@ -1,27 +1,65 @@
 export default {
-  heroTitle: 'Advogado em Lages — Will & Pereira Advocacia',
-  heroDescription: 'Assessoria jurídica de qualidade em Lages. A Will & Pereira Advocacia combina experiência, especialização e compromisso com o cliente para resolver questões jurídicas em Lages.',
-  introParagraphs: [
-    'Você sabia que Lages conta com mais de 156.727 habitantes e uma economia baseada em Turismo, Agricultura, Comércio e Serviços? Com essa dinâmica, a necessidade de assessoria jurídica qualificada é constante. A Will & Pereira Advocacia, com escritório em Palhoça/SC, atende moradores de Lages com excelência e compromisso.',
-    'Lages é uma cidade dinâmica, e suas necessidades jurídicas refletem essa realidade. Estamos preparados para atender desde questões simples até demandas complexas, sempre com foco no resultado do nosso cliente.',
+  "heroTitle": "O Melhor Advogado em Lages para Cada Necessidade Jurídica",
+  "heroDescription": "Assessoria jurídica de qualidade em Lages/SC. Atendimento em todo o Brasil com excelência, ética e dedicação.",
+  "introParagraphs": [
+    "Quando um cidadão de Lages/SC precisa de orientação jurídica, a primeira preocupação é encontrar um profissional que combine conhecimento técnico com compromisso com resultados. A Will & Pereira Advocacia, com sede em Palhoça/SC e atuação nacional, atende moradores de Lages há mais de 15 anos, oferecendo soluções jurídicas personalizadas para cada caso.\n\nA cidade de Lages apresenta características econômicas e sociais que influenciam diretamente as demandas jurídicas da população. Com economia voltada para indústria, agronegócio, turismo, comércio e serviços, os moradores enfrentam questões trabalhistas, previdenciárias e consumeristas que exigem conhecimento especializado. Indústria e turismo são desafios recorrentes na região.\n\nNeste guia, apresentamos de forma detalhada os serviços jurídicos disponíveis para moradores de Lages, organizados por área do Direito. Cada seção é elaborada considerando a realidade específica de Lages/SC, oferecendo informações práticas e relevantes para quem busca orientação jurídica na região."
   ],
-  areaContent: {
-    previdenciario: 'Em Lages, a demanda por assessoria previdenciária cresce a cada ano. Trabalhadores que se aposentam precisam garantir que receberão o valor correto, e aqueles que necessitam de auxílio-doença ou BPC/LOAS precisam de orientação para não terem seus pedidos negados. A Will & Pereira Advocacia atende moradores de Lages com análise detalhada do histórico contributivo do INSS, verificando possibilidades de aposentadoria antecipada, majoração de benefício e revisão de cálculos. Muitos trabalhadores de Lages, especialmente os que atuam em Turismo, Agricultura, Comércio e Serviços, possuem períodos de contribuição que não foram computados corretamente pelo INSS. Nossa equipe identifica essas falhas e entra com as medidas cabíveis para correção. Atuamos também em planejamento previdenciário para trabalhadores que ainda estão longe da aposentadoria, traçando estratégias para maximizar o benefício futuro. Em Lages, já ajudamos diversos trabalhadores a conquistarem aposentadoria especial, revisões de benefício e indenizações por mora do INSS. Não espere até ficar impossibilitado de trabalhar — procure orientação jurídica antecipada e proteja seu futuro.',
-    trabalhista: 'Moradores de Lages que trabalham em condições inadequadas ou tiveram seus direitos violados podem contar com a Will & Pereira Advocacia para buscar reparação na Justiça do Trabalho. Em Lages, com economia baseada em Turismo, Agricultura, Comércio e Serviços, as relações de trabalho apresentam desafios específicos que exigem conhecimento especializado. Atuamos em reclamações trabalhistas individuais e coletivas, defendendo trabalhadores em casos de jornada excessiva, insalubridade, periculosidade, acidente de trabalho e assédio moral. Em Lages, trabalhadores que foram demitidos sem justa causa têm direito a diversas verbas rescisórias que muitas vezes não são pagas corretamente. Nossa equipe verifica cada item e garante o recebimento integral devido. Para empresas, oferecemos assessoria trabalhista preventiva, elaboração de contratos, acordos e negociações coletivas. Em Lages, a Will & Pereira Advocacia é reconhecida pela competência e dedicação em causas trabalhistas. Não aceite ter seus direitos negados — procure nossa equipe e saiba como podemos ajudar.',
-    civel: 'Em Lages, questões cíveis do cotidiano muitas vezes escalam para litígios judiciais. Contratos de compra e venda, locações, empréstimos e relações de consumo geram conflitos que precisam de solução jurídica. A Will & Pereira Advocacia atende moradores de Lages em todas as questões de Direito Cível, oferecendo assessoria preventiva e contenciosa. Quando um conflito não pode ser resolvido extrajudicialmente, nossa equipe ingressa com ações de cobrança, indenização ou execução judicial para garantir o direito do cliente. Em Lages, onde o setor de Turismo, Agricultura, Comércio e Serviços é dinâmico, é comum surgirem questões como contratos comerciais descumpridos, danos materiais e morais, e disputas de propriedade. Nossa experiência em causas cíveis nos permite oferecer soluções eficazes, mesmo em situações complexas. Atuamos também em usucapião, quando trabalhadores ou moradores de Lages precisam regularizar imóveis que ocupam há anos. Nossa equipe acompanha cada etapa do processo, desde a instrução processual até a sentença definitiva.',
-    consumidor: 'Em Lages, consumidores que enfrentam problemas com empresas, bancos, planos de saúde ou fornecedores de serviços contam com a Will & Pereira Advocacia para fazer valer seus direitos. Atuamos em negociações e ações judiciais contra práticas abusivas, garantindo reparação por danos morais e materiais. Com economia baseada em Turismo, Agricultura, Comércio e Serviços, o mercado consumidor de Lages é ativo, o que significa mais oportunidades de conflitos consumeristas. Nossa equipe domina o CDC e a jurisprudência do STJ, utilizando essas ferramentas para benefício dos consumidores de Lages. Trabalhamos com negativação indevida, cobrança de dívida prescrita, cláusulas abusivas em contratos, seguro de vida e plano de saúde. Em Lages, já conquistamos diversas indenizações para consumidores que tiveram seus direitos violados. O atendimento é personalizado, com análise detalhada de cada caso para identificar a melhor estratégia de atuação.',
-    familia: 'O Direito de Família em Lages lida com questões sensíveis que afetam a vida das pessoas. Divórcio, guarda de filhos, pensão alimentícia, inventário e união estável são algumas das áreas em que atuamos com discrição e profissionalismo. Em Lages, onde a comunidade tem laços familiares fortes, conflitos familiares precisam ser tratados com delicadeza e competência. A Will & Pereira Advocacia oferece assessoria completa em Direito de Família, buscando soluções equilibradas que protejam os interesses de todos os envolvidos, especialmente das crianças. Em Lages, trabalhamos com divórcio consensual e litigioso, guarda compartilhada, fixação de alimentos, investigação de paternidade e inventário extrajudicial. Nossa equipe entende que questões familiares são delicadas e exigem um atendimento humanizado. Por isso, dedicamos especial atenção a cada caso em Lages, garantindo que o cliente se sinta amparado em cada etapa do processo.',
-    imobiliario: 'Em Lages, o mercado imobiliário apresenta características próprias que demandam conhecimento especializado. A Will & Pereira Advocacia atua em todas as áreas do Direito Imobiliário, desde a elaboração de contratos até a resolução de conflitos. Em Lages, onde o setor de Turismo, Agricultura, Comércio e Serviços é dinâmico, transações imobiliárias são frequentes e geram demandas jurídicas específicas. Nossa equipe oferece assessoria em compra e venda de imóveis, locação, usucapião, regularização fundiária e direito condominial. Quando há disputas sobre propriedade,limites de terreno ou inadimplência em contratos de locação, nossa equipe conduz o caso com competência e dedicação. Em Lages, já resolvemos diversos conflitos imobiliários com sucesso, garantindo a segurança jurídica de nossos clientes. A due diligence imobiliária é especialmente importante em Lages, onde a verificação de matrícula, certidões negativas e situação fiscal do imóvel pode evitar problemas futuros.',
+  "areaContent": {
+    "previdenciario": "O Direito Previdenciário em Lages/SC é uma das áreas mais demandadas. Trabalhadores da região, tanto rurais quanto urbanos, frequentemente buscam orientação sobre aposentadoria, auxílio-doença e pensão por morte. A reforma da previdência (EC 103/2019) trouxe mudanças significativas nas regras de aposentadoria, e contar com um advogado especializado é essencial para garantir o melhor benefício possível.\n\nEm Lages, a economia baseada em indústria e agronegócio gera diversas categorias de trabalhadores com necessidades previdenciárias específicas. A Will & Pereira Advocacia realiza análise completa do histórico contributivo de cada cliente, identificando todas as possibilidades de antecipação ou majoração da aposentadoria. Atendemos aposentadoria por idade, tempo de contribuição e especial, auxílio-doença, pensão por morte, BPC/LOAS e revisões de benefícios.",
+    "trabalhista": "O Direito Trabalhista em Lages/SC protege os direitos tanto de empregados quanto de empregadores. Em uma cidade com economia baseada em indústria e agronegócio, as relações de trabalho apresentam características próprias que conhecemos profundamente. A Will & Pereira Advocacia atua na defesa dos direitos trabalhistas com foco em resultados.\n\nPrincipais atuações em Lages: verbas rescisórias, horas extras, FGTS, adicional de insalubridade e periculosidade, equiparação salarial, assédio moral e dano moral trabalhista. Para empresas, oferecemos consultoria preventiva e defesa em reclamações trabalhistas.",
+    "civel": "O Direito Cível em Lages/SC abrange as relações cotidianas entre pessoas e empresas. Contratos, indenizações, cobranças, usucapião e questões de propriedade são situações que surgem no dia a dia dos moradores. A Will & Pereira Advocacia oferece assessoria completa em todas essas áreas.\n\nA economia de Lages, baseada em indústria, gera conflitos cíveis que exigem conhecimento aprofundado do Código Civil e da jurisprudência. Trabalhamos com elaboração e revisão de contratos, ações de cobrança, indenização por danos e todas as questões cíveis.",
+    "consumidor": "O Código de Defesa do Consumidor protege os moradores de Lages/SC contra abusos de empresas e fornecedores. Em uma cidade com economia baseada em indústria, os conflitos consumeristas são frequentes e variados. A Will & Pereira Advocacia atua na defesa dos direitos do consumidor com competência.\n\nAtendemos em Lages casos de cobrança indevida, negativação injusta, produtos com defeito, negativas de planos de saúde, cláusulas abusivas e todas as demais violações aos direitos do consumidor.",
+    "familia": "O Direito de Família em Lages/SC lida com questões sensíveis que afetam a vida das pessoas. Divórcios, guarda de filhos, pensão alimentícia, inventários e união estável são situações que demandam sensibilidade e competência. A Will & Pereira Advocacia oferece atendimento humanizado e profissional.\n\nEm Lages, as relações familiares são valorizadas, e é fundamental contar com um advogado que compreenda a importância de cada decisão. Nossa equipe trabalha com mediação familiar e acordos consensuais sempre que possível.",
+    "imobiliario": "O Direito Imobiliário em Lages/SC regula todas as questões relacionadas a imóveis. Compra e venda, locação, usucapião, regularização fundiária e condomínio são áreas em que atuamos. A economia de Lages, baseada em indústria, gera demandas imobiliárias que conhecemos.\n\nA Will & Pereira Advocacia oferece assessoria completa em cada etapa da transação imobiliária, desde a análise de documentação até a resolução de conflitos possessórios."
   },
-  faqs: [
-    { pergunta: 'A Will & Pereira Advocacia trabalha com plano de saúde em Lages?', resposta: 'Sim! A Will & Pereira Advocacia atua em ações contra planos de saúde que negam cobertura ou praticam abusos contra consumidores de Lages.' },
-    { pergunta: 'A Will & Pereira Advocacia faz atendimento por videoconferência para Lages?', resposta: 'Sim! Oferecemos atendimento por videoconferência para moradores de Lages que não podem se deslocar até Palhoça/SC.' },
-    { pergunta: 'Em quais situações devo procurar um advogado trabalhista em Lages?', resposta: 'Em Lages, procure um advogado trabalhista quando tiver problemas com verbas rescisórias, horas extras, FGTS, acidente de trabalho ou assédio moral.' },
+  "exclusiva": "## Por Que Escolher a Will & Pereira Advocacia em Lages?\n\n**Experiência Comprovada:** Mais de 15 anos de atuação em todas as áreas do Direito, com resultados expressivos em Lages e região.\n\n**Conhecimento Local:** Conhecemos as particularidades de Lages e da região de Santa Catarina, incluindo as especificidades da economia baseada em indústria.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada. Em Lages, oferecemos explicação clara de cada etapa do processo.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil, incluindo Lages.\n\n**Transparência Total:** Honorários claros, sem surpresas. O cliente sempre sabe onde está investindo.",
+  "diaADia": "## Como um Advogado Pode Ajudar no Dia a Dia em Lages\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis, elaboração de testamentos.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial, economizando tempo e recursos. Nossa equipe busca soluções consensuais sempre que possível.\n\n**Atendimento de Emergência:** Imprevistos acontecem. Oferecemos atendimento prioritário para situações urgentes em Lages.",
+  "faqs": [
+    {
+      "p": "Quais são as principais áreas do direito atendidas em ${n}?",
+      "r": "Em ${n}/${uf}, atuamos em Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário, com foco nas necessidades da economia local baseada em ${e.join(' e ')}."
+    },
+    {
+      "p": "Como funciona o primeiro atendimento jurídico?",
+      "r": "O primeiro atendimento é orientativo, para análise do caso e definição da melhor estratégia. Atendemos presencialmente em Palhoça/SC e por videoconferência para ${n}."
+    },
+    {
+      "p": "Qual o prazo para entrar com uma reclamação trabalhista?",
+      "r": "O trabalhador tem até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Em ${n}, orientamos sobre prazos e procedimentos."
+    },
+    {
+      "p": "A Will & Pereira Advocacia atende ${n}?",
+      "r": "Sim! Atendemos moradores de ${n} e toda a região de ${uf}, com o mesmo nível de dedicação e profissionalismo."
+    },
+    {
+      "p": "Quais documentos preciso para uma consulta?",
+      "r": "Documentos relacionados à questão: contratos, comprovantes, documentos pessoais. Orientamos sobre a documentação antes da consulta."
+    },
+    {
+      "p": "Quanto custa um advogado em ${n}?",
+      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com honorários de sucumbência. Entre em contato para orientação."
+    },
+    {
+      "p": "É possível resolver questões jurídicas sem ir ao tribunal?",
+      "r": "Sim! Muitos conflitos se resolvem via negociação, mediação ou conciliação. Em ${n}, buscamos soluções extrajudiciais sempre que possível."
+    },
+    {
+      "p": "Como a economia de ${n} influencia as questões jurídicas?",
+      "r": "A economia baseada em ${e[0]} gera demandas trabalhistas, previdenciárias e consumeristas específicas que conhecemos profundamente."
+    },
+    {
+      "p": "Vocês atendem pessoas físicas e jurídicas?",
+      "r": "Sim! Atendemos tanto pessoas físicas quanto empresas em ${n}, oferecendo soluções jurídicas completas."
+    },
+    {
+      "p": "Qual a diferença entre consultar um advogado e contratar?",
+      "r": "A consulta é para análise e orientação. A contratação envolve representação formal. Em ${n}, oferecemos ambos os serviços com transparência."
+    }
   ],
-  stats: {
-    experiencia: '15+',
-    clientes: '5000+',
-    taxa: '98%',
-    cidades: '302',
-  },
+  "stats": {
+    "experiencia": "15+",
+    "clientes": "5000+",
+    "taxa": "98%",
+    "cidades": "5571"
+  }
 }

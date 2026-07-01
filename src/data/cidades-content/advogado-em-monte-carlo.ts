@@ -1,28 +1,65 @@
 export default {
-  heroTitle: 'Advogado em Monte Carlo | Escritório de Advocacia',
-  heroDescription: 'Will & Pereira Advocacia atende moradores de Monte Carlo com assessoria jurídica completa em Direito Trabalhista, Previdenciário, Cível, do Consumidor, de Família e Imobiliário. Escritório em Palhoça/SC.',
-  introParagraphs: [
-    'A economia de Monte Carlo, baseada em Turismo, Agricultura, Comércio e Serviços, gera uma variedade de demandas jurídicas que vão desde questões trabalhistas até litígios imobiliários. A Will & Pereira Advocacia oferece assessoria completa para moradores e empresas da região.',
-    'Com atendimento que vai além da consulta jurídica, buscamos construir relacionamentos de confiança com nossos clientes em Monte Carlo. Transparência, ética e dedicação são os pilares que sustentam nosso trabalho.',
-    'Do atendimento inicial até a resolução do caso, acompanhamos cada etapa com atenção. Em Monte Carlo, nosso compromisso é garantir que o cliente se sinta amparado em cada momento do processo.',
+  "heroTitle": "O Melhor Advogado em Monte Carlo para Cada Necessidade Jurídica",
+  "heroDescription": "Advogados especializados em Monte Carlo/SC para questões trabalhistas, previdenciárias, cíveis e familiares. Atendimento personalizado.",
+  "introParagraphs": [
+    "Quando um cidadão de Monte Carlo/SC precisa de orientação jurídica, a primeira preocupação é encontrar um profissional que combine conhecimento técnico com compromisso com resultados. A Will & Pereira Advocacia, com sede em Palhoça/SC e atuação nacional, atende moradores de Monte Carlo há mais de 15 anos, oferecendo soluções jurídicas personalizadas para cada caso.\n\nA cidade de Monte Carlo apresenta características econômicas e sociais que influenciam diretamente as demandas jurídicas da população. Com economia voltada para indústria, agronegócio, turismo, comércio e serviços, os moradores enfrentam questões trabalhistas, previdenciárias e consumeristas que exigem conhecimento especializado. Indústria e turismo são desafios recorrentes na região.\n\nNeste guia, apresentamos de forma detalhada os serviços jurídicos disponíveis para moradores de Monte Carlo, organizados por área do Direito. Cada seção é elaborada considerando a realidade específica de Monte Carlo/SC, oferecendo informações práticas e relevantes para quem busca orientação jurídica na região."
   ],
-  areaContent: {
-    previdenciario: 'Para moradores de Monte Carlo que buscam aposentadoria ou benefício do INSS, a Will & Pereira Advocacia oferece orientação jurídica de excelência. Nossa equipe compreende que o processo previdenciário pode ser confuso e frustrante, por isso simplificamos cada etapa para o nosso cliente. Em Monte Carlo, com economia fundamentada em Turismo, Agricultura, Comércio e Serviços, há trabalhadores de diversos perfis que necessitam de assessoria previdenciária. Seja para aposentadoria por idade, aposentadoria especial, auxílio-doença, auxílio-acidente ou pensão por morte, nossos advogados conduzem o caso com dedicação e competência. Trabalhamos com revisão de benefícios quando o INSS concede valores menores que os devidos, e com planejamento previdenciário para trabalhadores que ainda não atingiram os requisitos para aposentadoria. Em Monte Carlo, já fizemos centenas de trabalhadores conquistarem benefícios que haviam sido negados ou subvalorizados. O atendimento é personalizado, com atualização constante sobre o andamento do processo. Em Monte Carlo e região, a Will & Pereira Advocacia é referência em Direito Previdenciário.',
-    trabalhista: 'Em Monte Carlo, a dinâmica do mercado de trabalho gera demandas constantes por assessoria trabalhista. Seja um trabalhador que precisa cobrar verbas rescisórias ou uma empresa que deseja adequar seus contratos, a Will & Pereira Advocacia oferece soluções eficazes. Atuamos em reclamações trabalhistas na Justiça do Trabalho, buscando horas extras, adicional noturno, insalubridade, periculosidade e indenizações por dano moral e material. Em Monte Carlo, onde o setor de Turismo, Agricultura, Comércio e Serviços emprega grande parte da população, é comum encontrar questões como jornada excessiva, condições insalubres e assédio moral. Nossa equipe conhece a jurisprudência trabalhista atualizada e está preparada para enfrentar os casos mais complexos. Para empresas, oferecemos consultoria preventiva, elaboração de contratos de trabalho, acordos extrajudiciais e auditorias trabalhistas. Em Monte Carlo, já ajudamos diversas empresas a evitarem passivos trabalhistas significativos e trabalhadores a conquistarem seus direitos na Justiça do Trabalho. O prazo para ingressar com reclamação trabalhista é de 2 anos após a demissão, então não perca tempo.',
-    civel: 'Quando surgem conflitos cíveis em Monte Carlo, a Will & Pereira Advocacia está pronta para atuar. Atendemos em ações de indenização por danos materiais e morais, cobranças judiciais e extrajudiciais, despejo, usucapião, divórcio e inventário. Em Monte Carlo, onde a atividade econômica se concentra em Turismo, Agricultura, Comércio e Serviços, é fundamental ter um advogado que conheça as particularidades locais do Direito Cível. Nossa equipe combina experiência técnica com atendimento personalizado, garantindo que cada cliente tenha seu caso conduzido com dedicação e competência. Em Monte Carlo, trabalhamos para resolver conflitos cíveis de forma eficiente, priorizando acordos extrajudiciais quando benéficos, mas sem medo de levar o caso até o tribunal. A jurisprudência civil evolui constantemente, e nossa equipe acompanha cada mudança para oferecer o melhor serviço possível aos moradores de Monte Carlo.',
-    consumidor: 'O Código de Defesa do Consumidor protege moradores de Monte Carlo contra abusos de empresas e fornecedores. Se você contratou um serviço defeituoso, comprou um produto com vício, sofreu cobrança indevida ou negativação injusta, a Will & Pereira Advocacia pode ajudar. Em Monte Carlo, com economia baseada em Turismo, Agricultura, Comércio e Serviços, o consumo de produtos e serviços é intenso e, consequentemente, os conflitos consumeristas são frequentes. Nossa equipe atua na defesa dos direitos do consumidor, buscando indenização por danos morais e materiais, repetição de indébito e inversão do ônus da prova quando cabível. O CDC garante direitos fundamentais que muitos consumidores de Monte Carlo desconhecem. Por isso, oferecemos orientação jurídica clara e acessível para que cada cidadão saiba como agir quando seus direitos são violados. Em Monte Carlo, já ajudamos centenas de consumidores a conquistarem indenizações e a terem seus direitos reconhecidos.',
-    familia: 'A Will & Pereira Advocacia atua em todas as áreas do Direito de Família em Monte Carlo: divórcio consensual e litigioso, guarda compartilhada, pensão alimentícia, investigação de paternidade, inventário e planejamento sucessório. Em Monte Carlo, com sua comunidade unida e economia baseada em Turismo, Agricultura, Comércio e Serviços, conflitos familiares precisam de solução jurídica adequada. Nossa equipe está preparada para oferecer orientação jurídica em cada situação, com foco na proteção dos direitos de todos os envolvidos, especialmente crianças e idosos. Trabalhamos com Mediação familiar para buscar acordos que beneficiem todas as partes. Em Monte Carlo, já ajudamos diversas famílias a resolverem questões de divórcio, fixação de guarda e pensão alimentícia de forma ágil e justa. O planejamento sucessório é essencial para proteger o patrimônio familiar — nossa equipe orienta sobre testamento, doação e planejamento de herança em Monte Carlo.',
-    imobiliario: 'O mercado imobiliário em Monte Carlo exige atenção jurídica cuidadosa. Compra, venda, locação e usucapião são operações que envolvem valores significativos e riscos legais. A Will & Pereira Advocacia atende moradores de Monte Carlo em todas as questões imobiliárias, oferecendo segurança e tranquilidade em cada transação. Em Monte Carlo, com economia vinculada a Turismo, Agricultura, Comércio e Serviços, é comum encontrarmos conflitos como inadimplência em aluguéis, vícios ocultos em imóveis e disputas de limites de terreno. Nossa equipe domina essas questões e oferece soluções eficazes. Trabalhamos com due diligence imobiliária completa, verificando matrícula, certidões e situação fiscal dos imóveis. Em Monte Carlo, também atuamos em regularização fundiária e usucapião, ajudando moradores a tornarem seus imóveis legalmente. O planejamento imobiliário preventivo é essencial — antes de qualquer transação, conte com orientação jurídica em Monte Carlo para garantir que tudo esteja em ordem.',
+  "areaContent": {
+    "previdenciario": "O Direito Previdenciário em Monte Carlo/SC é uma das áreas mais demandadas. Trabalhadores da região, tanto rurais quanto urbanos, frequentemente buscam orientação sobre aposentadoria, auxílio-doença e pensão por morte. A reforma da previdência (EC 103/2019) trouxe mudanças significativas nas regras de aposentadoria, e contar com um advogado especializado é essencial para garantir o melhor benefício possível.\n\nEm Monte Carlo, a economia baseada em indústria e agronegócio gera diversas categorias de trabalhadores com necessidades previdenciárias específicas. A Will & Pereira Advocacia realiza análise completa do histórico contributivo de cada cliente, identificando todas as possibilidades de antecipação ou majoração da aposentadoria. Atendemos aposentadoria por idade, tempo de contribuição e especial, auxílio-doença, pensão por morte, BPC/LOAS e revisões de benefícios.",
+    "trabalhista": "O Direito Trabalhista em Monte Carlo/SC protege os direitos tanto de empregados quanto de empregadores. Em uma cidade com economia baseada em indústria e agronegócio, as relações de trabalho apresentam características próprias que conhecemos profundamente. A Will & Pereira Advocacia atua na defesa dos direitos trabalhistas com foco em resultados.\n\nPrincipais atuações em Monte Carlo: verbas rescisórias, horas extras, FGTS, adicional de insalubridade e periculosidade, equiparação salarial, assédio moral e dano moral trabalhista. Para empresas, oferecemos consultoria preventiva e defesa em reclamações trabalhistas.",
+    "civel": "O Direito Cível em Monte Carlo/SC abrange as relações cotidianas entre pessoas e empresas. Contratos, indenizações, cobranças, usucapião e questões de propriedade são situações que surgem no dia a dia dos moradores. A Will & Pereira Advocacia oferece assessoria completa em todas essas áreas.\n\nA economia de Monte Carlo, baseada em indústria, gera conflitos cíveis que exigem conhecimento aprofundado do Código Civil e da jurisprudência. Trabalhamos com elaboração e revisão de contratos, ações de cobrança, indenização por danos e todas as questões cíveis.",
+    "consumidor": "O Código de Defesa do Consumidor protege os moradores de Monte Carlo/SC contra abusos de empresas e fornecedores. Em uma cidade com economia baseada em indústria, os conflitos consumeristas são frequentes e variados. A Will & Pereira Advocacia atua na defesa dos direitos do consumidor com competência.\n\nAtendemos em Monte Carlo casos de cobrança indevida, negativação injusta, produtos com defeito, negativas de planos de saúde, cláusulas abusivas e todas as demais violações aos direitos do consumidor.",
+    "familia": "O Direito de Família em Monte Carlo/SC lida com questões sensíveis que afetam a vida das pessoas. Divórcios, guarda de filhos, pensão alimentícia, inventários e união estável são situações que demandam sensibilidade e competência. A Will & Pereira Advocacia oferece atendimento humanizado e profissional.\n\nEm Monte Carlo, as relações familiares são valorizadas, e é fundamental contar com um advogado que compreenda a importância de cada decisão. Nossa equipe trabalha com mediação familiar e acordos consensuais sempre que possível.",
+    "imobiliario": "O Direito Imobiliário em Monte Carlo/SC regula todas as questões relacionadas a imóveis. Compra e venda, locação, usucapião, regularização fundiária e condomínio são áreas em que atuamos. A economia de Monte Carlo, baseada em indústria, gera demandas imobiliárias que conhecemos.\n\nA Will & Pereira Advocacia oferece assessoria completa em cada etapa da transação imobiliária, desde a análise de documentação até a resolução de conflitos possessórios."
   },
-  faqs: [
-    { pergunta: 'Quais áreas do direito são mais comuns em Monte Carlo?', resposta: 'Em Monte Carlo, as áreas mais demandadas são Direito Trabalhista, Direito Previdenciário e Direito do Consumidor. A Will & Pereira Advocacia atua em todas essas áreas com excelência e compromisso.' },
-    { pergunta: 'Como funciona o atendimento da Will & Pereira Advocacia para moradores de Monte Carlo?', resposta: 'A Will & Pereira Advocacia atende moradores de Monte Carlo de forma integral, presencialmente em Palhoça/SC ou por videoconferência. Nossa equipe oferece orientação jurídica de qualidade, independentemente da localização.' },
-    { pergunta: 'Qual o prazo para entrar com uma ação trabalhista em Monte Carlo?', resposta: 'O trabalhador tem até 2 anos após a extinção do contrato para ajuizar reclamação trabalhista. Em Monte Carlo, a Will & Pereira Advocacia orienta trabalhadores sobre seus direitos e prazos.' },
+  "exclusiva": "## Por Que Escolher a Will & Pereira Advocacia em Monte Carlo?\n\n**Experiência Comprovada:** Mais de 15 anos de atuação em todas as áreas do Direito, com resultados expressivos em Monte Carlo e região.\n\n**Conhecimento Local:** Conhecemos as particularidades de Monte Carlo e da região de Santa Catarina, incluindo as especificidades da economia baseada em indústria.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada. Em Monte Carlo, oferecemos explicação clara de cada etapa do processo.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil, incluindo Monte Carlo.\n\n**Transparência Total:** Honorários claros, sem surpresas. O cliente sempre sabe onde está investindo.",
+  "diaADia": "## Como um Advogado Pode Ajudar no Dia a Dia em Monte Carlo\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis, elaboração de testamentos.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial, economizando tempo e recursos. Nossa equipe busca soluções consensuais sempre que possível.\n\n**Atendimento de Emergência:** Imprevistos acontecem. Oferecemos atendimento prioritário para situações urgentes em Monte Carlo.",
+  "faqs": [
+    {
+      "p": "Quais são as principais áreas do direito atendidas em ${n}?",
+      "r": "Em ${n}/${uf}, atuamos em Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário, com foco nas necessidades da economia local baseada em ${e.join(' e ')}."
+    },
+    {
+      "p": "Como funciona o primeiro atendimento jurídico?",
+      "r": "O primeiro atendimento é orientativo, para análise do caso e definição da melhor estratégia. Atendemos presencialmente em Palhoça/SC e por videoconferência para ${n}."
+    },
+    {
+      "p": "Qual o prazo para entrar com uma reclamação trabalhista?",
+      "r": "O trabalhador tem até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Em ${n}, orientamos sobre prazos e procedimentos."
+    },
+    {
+      "p": "A Will & Pereira Advocacia atende ${n}?",
+      "r": "Sim! Atendemos moradores de ${n} e toda a região de ${uf}, com o mesmo nível de dedicação e profissionalismo."
+    },
+    {
+      "p": "Quais documentos preciso para uma consulta?",
+      "r": "Documentos relacionados à questão: contratos, comprovantes, documentos pessoais. Orientamos sobre a documentação antes da consulta."
+    },
+    {
+      "p": "Quanto custa um advogado em ${n}?",
+      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com honorários de sucumbência. Entre em contato para orientação."
+    },
+    {
+      "p": "É possível resolver questões jurídicas sem ir ao tribunal?",
+      "r": "Sim! Muitos conflitos se resolvem via negociação, mediação ou conciliação. Em ${n}, buscamos soluções extrajudiciais sempre que possível."
+    },
+    {
+      "p": "Como a economia de ${n} influencia as questões jurídicas?",
+      "r": "A economia baseada em ${e[0]} gera demandas trabalhistas, previdenciárias e consumeristas específicas que conhecemos profundamente."
+    },
+    {
+      "p": "Vocês atendem pessoas físicas e jurídicas?",
+      "r": "Sim! Atendemos tanto pessoas físicas quanto empresas em ${n}, oferecendo soluções jurídicas completas."
+    },
+    {
+      "p": "Qual a diferença entre consultar um advogado e contratar?",
+      "r": "A consulta é para análise e orientação. A contratação envolve representação formal. Em ${n}, oferecemos ambos os serviços com transparência."
+    }
   ],
-  stats: {
-    experiencia: '15+',
-    clientes: '5000+',
-    taxa: '98%',
-    cidades: '302',
-  },
+  "stats": {
+    "experiencia": "15+",
+    "clientes": "5000+",
+    "taxa": "98%",
+    "cidades": "5571"
+  }
 }

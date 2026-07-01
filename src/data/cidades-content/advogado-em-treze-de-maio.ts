@@ -1,28 +1,65 @@
 export default {
-  heroTitle: 'Advogado em Treze de Maio | Escritório de Advocacia',
-  heroDescription: 'Will & Pereira Advocacia: advogado em Treze de Maio para pessoas físicas e empresas. Atuação em Direito Trabalhista, Previdenciário, Cível, Consumidor, Família e Imobiliário.',
-  introParagraphs: [
-    'Com até 50 mil habitantes e economia centrada em Indústria, Comércio, Agricultura e Serviços, Treze de Maio é uma cidade que demanda serviços jurídicos de qualidade. A Will & Pereira Advocacia oferece atendimento personalizado para moradores de Treze de Maio em todas as áreas do Direito, com mais de 15 anos de experiência.',
-    'Nossa equipe atua em Treze de Maio com foco em resultados, oferecendo assessoria jurídica preventiva e contenciosa. Trabalhamos com pessoas físicas e empresas, garantindo que cada cliente receba a atenção e o cuidado que merece em Treze de Maio.',
-    'Nossos clientes em Treze de Maio são nosso maior patrimônio. Por isso, dedicamos tempo e atenção especial para entender cada necessidade e oferecer soluções que realmente funcionam.',
+  "heroTitle": "Direito em Treze de Maio, SC — Advogados Experientes e Comprometidos",
+  "heroDescription": "Assessoria jurídica de qualidade em Treze de Maio/SC. Atendimento em todo o Brasil com excelência, ética e dedicação.",
+  "introParagraphs": [
+    "Moradores de Treze de Maio/SC que precisam de serviços jurídicos encontram na Will & Pereira Advocacia uma parceira de confiança. Com mais de 15 anos de experiência e escritório em Palhoça/SC, nossa equipe atende clientes em todo o Brasil, incluindo Treze de Maio e toda a região de Santa Catarina.\n\nA economia de Treze de Maio é caracterizada por indústria, agronegócio e turismo, o que gera demandas jurídicas específicas que conhecemos profundamente. Questões trabalhistas decorrentes da atividade industrial, questões previdenciárias de trabalhadores rurais e urbanos, e questões consumeristas do cotidiano são situações que atendemos com regularidade.\n\nEste guia completo abrange todas as principais áreas do Direito atendidas pela Will & Pereira Advocacia em Treze de Maio: Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário. Cada seção é elaborada com base na realidade de Treze de Maio/SC."
   ],
-  areaContent: {
-    previdenciario: 'Para moradores de Treze de Maio que buscam aposentadoria ou benefício do INSS, a Will & Pereira Advocacia oferece orientação jurídica de excelência. Nossa equipe compreende que o processo previdenciário pode ser confuso e frustrante, por isso simplificamos cada etapa para o nosso cliente. Em Treze de Maio, com economia fundamentada em Indústria, Comércio, Agricultura e Serviços, há trabalhadores de diversos perfis que necessitam de assessoria previdenciária. Seja para aposentadoria por idade, aposentadoria especial, auxílio-doença, auxílio-acidente ou pensão por morte, nossos advogados conduzem o caso com dedicação e competência. Trabalhamos com revisão de benefícios quando o INSS concede valores menores que os devidos, e com planejamento previdenciário para trabalhadores que ainda não atingiram os requisitos para aposentadoria. Em Treze de Maio, já fizemos centenas de trabalhadores conquistarem benefícios que haviam sido negados ou subvalorizados. O atendimento é personalizado, com atualização constante sobre o andamento do processo. Em Treze de Maio e região, a Will & Pereira Advocacia é referência em Direito Previdenciário.',
-    trabalhista: 'Em Treze de Maio, a dinâmica do mercado de trabalho gera demandas constantes por assessoria trabalhista. Seja um trabalhador que precisa cobrar verbas rescisórias ou uma empresa que deseja adequar seus contratos, a Will & Pereira Advocacia oferece soluções eficazes. Atuamos em reclamações trabalhistas na Justiça do Trabalho, buscando horas extras, adicional noturno, insalubridade, periculosidade e indenizações por dano moral e material. Em Treze de Maio, onde o setor de Indústria, Comércio, Agricultura e Serviços emprega grande parte da população, é comum encontrar questões como jornada excessiva, condições insalubres e assédio moral. Nossa equipe conhece a jurisprudência trabalhista atualizada e está preparada para enfrentar os casos mais complexos. Para empresas, oferecemos consultoria preventiva, elaboração de contratos de trabalho, acordos extrajudiciais e auditorias trabalhistas. Em Treze de Maio, já ajudamos diversas empresas a evitarem passivos trabalhistas significativos e trabalhadores a conquistarem seus direitos na Justiça do Trabalho. O prazo para ingressar com reclamação trabalhista é de 2 anos após a demissão, então não perca tempo.',
-    civel: 'Quando surgem conflitos cíveis em Treze de Maio, a Will & Pereira Advocacia está pronta para atuar. Atendemos em ações de indenização por danos materiais e morais, cobranças judiciais e extrajudiciais, despejo, usucapião, divórcio e inventário. Em Treze de Maio, onde a atividade econômica se concentra em Indústria, Comércio, Agricultura e Serviços, é fundamental ter um advogado que conheça as particularidades locais do Direito Cível. Nossa equipe combina experiência técnica com atendimento personalizado, garantindo que cada cliente tenha seu caso conduzido com dedicação e competência. Em Treze de Maio, trabalhamos para resolver conflitos cíveis de forma eficiente, priorizando acordos extrajudiciais quando benéficos, mas sem medo de levar o caso até o tribunal. A jurisprudência civil evolui constantemente, e nossa equipe acompanha cada mudança para oferecer o melhor serviço possível aos moradores de Treze de Maio.',
-    consumidor: 'O Código de Defesa do Consumidor protege moradores de Treze de Maio contra abusos de empresas e fornecedores. Se você contratou um serviço defeituoso, comprou um produto com vício, sofreu cobrança indevida ou negativação injusta, a Will & Pereira Advocacia pode ajudar. Em Treze de Maio, com economia baseada em Indústria, Comércio, Agricultura e Serviços, o consumo de produtos e serviços é intenso e, consequentemente, os conflitos consumeristas são frequentes. Nossa equipe atua na defesa dos direitos do consumidor, buscando indenização por danos morais e materiais, repetição de indébito e inversão do ônus da prova quando cabível. O CDC garante direitos fundamentais que muitos consumidores de Treze de Maio desconhecem. Por isso, oferecemos orientação jurídica clara e acessível para que cada cidadão saiba como agir quando seus direitos são violados. Em Treze de Maio, já ajudamos centenas de consumidores a conquistarem indenizações e a terem seus direitos reconhecidos.',
-    familia: 'A Will & Pereira Advocacia atua em todas as áreas do Direito de Família em Treze de Maio: divórcio consensual e litigioso, guarda compartilhada, pensão alimentícia, investigação de paternidade, inventário e planejamento sucessório. Em Treze de Maio, com sua comunidade unida e economia baseada em Indústria, Comércio, Agricultura e Serviços, conflitos familiares precisam de solução jurídica adequada. Nossa equipe está preparada para oferecer orientação jurídica em cada situação, com foco na proteção dos direitos de todos os envolvidos, especialmente crianças e idosos. Trabalhamos com Mediação familiar para buscar acordos que beneficiem todas as partes. Em Treze de Maio, já ajudamos diversas famílias a resolverem questões de divórcio, fixação de guarda e pensão alimentícia de forma ágil e justa. O planejamento sucessório é essencial para proteger o patrimônio familiar — nossa equipe orienta sobre testamento, doação e planejamento de herança em Treze de Maio.',
-    imobiliario: 'O mercado imobiliário em Treze de Maio exige atenção jurídica cuidadosa. Compra, venda, locação e usucapião são operações que envolvem valores significativos e riscos legais. A Will & Pereira Advocacia atende moradores de Treze de Maio em todas as questões imobiliárias, oferecendo segurança e tranquilidade em cada transação. Em Treze de Maio, com economia vinculada a Indústria, Comércio, Agricultura e Serviços, é comum encontrarmos conflitos como inadimplência em aluguéis, vícios ocultos em imóveis e disputas de limites de terreno. Nossa equipe domina essas questões e oferece soluções eficazes. Trabalhamos com due diligence imobiliária completa, verificando matrícula, certidões e situação fiscal dos imóveis. Em Treze de Maio, também atuamos em regularização fundiária e usucapião, ajudando moradores a tornarem seus imóveis legalmente. O planejamento imobiliário preventivo é essencial — antes de qualquer transação, conte com orientação jurídica em Treze de Maio para garantir que tudo esteja em ordem.',
+  "areaContent": {
+    "previdenciario": "A seguridade social é um direito fundamental dos trabalhadores de Treze de Maio/SC. Muitos moradores da região têm dúvidas sobre seus direitos previdenciários, especialmente após as mudanças trazidas pela Reforma da Previdência. A Will & Pereira Advocacia orienta clientes em todos os processos junto ao INSS, desde o planejamento da aposentadoria até recursos administrativos e ações judiciais.\n\nA economia local, baseada em indústria, apresenta particularidades que influenciam os benefícios previdenciários. Trabalhadores rurais, por exemplo, possuem regras diferenciadas de aposentadoria. Nossa equipe domina essas especificidades e oferece orientação precisa para cada caso em Treze de Maio.",
+    "trabalhista": "Em Treze de Maio/SC, os trabalhadores precisam conhecer seus direitos para evitar situações de exploração e injustiça. A CLT garante diversos direitos, mas muitos trabalhadores não conhecem a totalidade deles. A Will & Pereira Advocacia orienta trabalhadores sobre seus direitos e prazos, garantindo que nenhum direito seja perdido.\n\nA economia de Treze de Maio, focada em indústria, gera demandas trabalhistas específicas que atendemos com expertise: desde reclamações trabalhistas até acordos extrajudiciais e consultoria para empresas.",
+    "civel": "Questões cíveis como contratos mal elaborados, dívidas não pagas e danos causados por terceiros são comuns em Treze de Maio/SC. A Will & Pereira Advocacia resolve essas questões com eficiência e profissionalismo, oferecendo soluções extrajudiciais e judiciais conforme o caso.\n\nEm Treze de Maio, com economia baseada em indústria, os conflitos cíveis apresentam particularidades que conhecemos. Nossa equipe domina o Código Civil, o Código de Processo Civil e a jurisprudência dos tribunais superiores.",
+    "consumidor": "Moradores de Treze de Maio/SC que tiveram direitos violados por empresas contam com a Will & Pereira Advocacia para buscar reparação. O CDC assegura direitos como inversão do ônus da prova, repetição de indébito e indenização por danos morais.\n\nEm Treze de Maio, com economia baseada em indústria, os conflitos consumeristas envolvem desde cobranças bancárias até negativas de planos de saúde. Nossa equipe domina os instrumentos processuais do CDC e oferece atendimento personalizado.",
+    "familia": "Famílias de Treze de Maio/SC que precisam de assistência jurídica encontram na Will & Pereira Advocacia o parceiro ideal. Questões como divórcio, guarda, pensão alimentícia e inventário são tratadas com discrição e profissionalismo.\n\nA economia de Treze de Maio, baseada em indústria, influencia questões familiares como partilha de bens e pensão alimentícia. Nossa equipe oferece orientação clara sobre os procedimentos legais e as melhores estratégias.",
+    "imobiliario": "O mercado imobiliário em Treze de Maio/SC exige atenção jurídica cuidadosa. Transações imobiliárias envolvem valores significativos e riscos legais que precisam ser avaliados por profissional especializado. A Will & Pereira Advocacia protege os interesses de seus clientes em cada etapa.\n\nEm Treze de Maio, com economia baseada em indústria, as questões imobiliárias incluem contratos de compra e venda, locação, usucapião e regularização fundiária. Nossa equipe domina essas questões."
   },
-  faqs: [
-    { pergunta: 'Quais áreas do direito são mais comuns em Treze de Maio?', resposta: 'Em Treze de Maio, as áreas mais demandadas são Direito Trabalhista, Direito Previdenciário e Direito do Consumidor. A Will & Pereira Advocacia atua em todas essas áreas com excelência e compromisso.' },
-    { pergunta: 'Como funciona o atendimento da Will & Pereira Advocacia para moradores de Treze de Maio?', resposta: 'A Will & Pereira Advocacia atende moradores de Treze de Maio de forma integral, presencialmente em Palhoça/SC ou por videoconferência. Nossa equipe oferece orientação jurídica de qualidade, independentemente da localização.' },
-    { pergunta: 'Qual o prazo para entrar com uma ação trabalhista em Treze de Maio?', resposta: 'O trabalhador tem até 2 anos após a extinção do contrato para ajuizar reclamação trabalhista. Em Treze de Maio, a Will & Pereira Advocacia orienta trabalhadores sobre seus direitos e prazos.' },
+  "exclusiva": "## Por Que Escolher a Will & Pereira Advocacia em Treze de Maio?\n\n**Experiência Comprovada:** Mais de 15 anos de atuação em todas as áreas do Direito, com resultados expressivos em Treze de Maio e região.\n\n**Conhecimento Local:** Conhecemos as particularidades de Treze de Maio e da região de Santa Catarina, incluindo as especificidades da economia baseada em indústria.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada. Em Treze de Maio, oferecemos explicação clara de cada etapa do processo.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil, incluindo Treze de Maio.\n\n**Transparência Total:** Honorários claros, sem surpresas. O cliente sempre sabe onde está investindo.",
+  "diaADia": "## Como um Advogado Pode Ajudar no Dia a Dia em Treze de Maio\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis, elaboração de testamentos.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial, economizando tempo e recursos. Nossa equipe busca soluções consensuais sempre que possível.\n\n**Atendimento de Emergência:** Imprevistos acontecem. Oferecemos atendimento prioritário para situações urgentes em Treze de Maio.",
+  "faqs": [
+    {
+      "p": "Quais são as principais áreas do direito atendidas em ${n}?",
+      "r": "Em ${n}/${uf}, atuamos em Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário, com foco nas necessidades da economia local baseada em ${e.join(' e ')}."
+    },
+    {
+      "p": "Como funciona o primeiro atendimento jurídico?",
+      "r": "O primeiro atendimento é orientativo, para análise do caso e definição da melhor estratégia. Atendemos presencialmente em Palhoça/SC e por videoconferência para ${n}."
+    },
+    {
+      "p": "Qual o prazo para entrar com uma reclamação trabalhista?",
+      "r": "O trabalhador tem até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Em ${n}, orientamos sobre prazos e procedimentos."
+    },
+    {
+      "p": "A Will & Pereira Advocacia atende ${n}?",
+      "r": "Sim! Atendemos moradores de ${n} e toda a região de ${uf}, com o mesmo nível de dedicação e profissionalismo."
+    },
+    {
+      "p": "Quais documentos preciso para uma consulta?",
+      "r": "Documentos relacionados à questão: contratos, comprovantes, documentos pessoais. Orientamos sobre a documentação antes da consulta."
+    },
+    {
+      "p": "Quanto custa um advogado em ${n}?",
+      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com honorários de sucumbência. Entre em contato para orientação."
+    },
+    {
+      "p": "É possível resolver questões jurídicas sem ir ao tribunal?",
+      "r": "Sim! Muitos conflitos se resolvem via negociação, mediação ou conciliação. Em ${n}, buscamos soluções extrajudiciais sempre que possível."
+    },
+    {
+      "p": "Como a economia de ${n} influencia as questões jurídicas?",
+      "r": "A economia baseada em ${e[0]} gera demandas trabalhistas, previdenciárias e consumeristas específicas que conhecemos profundamente."
+    },
+    {
+      "p": "Vocês atendem pessoas físicas e jurídicas?",
+      "r": "Sim! Atendemos tanto pessoas físicas quanto empresas em ${n}, oferecendo soluções jurídicas completas."
+    },
+    {
+      "p": "Qual a diferença entre consultar um advogado e contratar?",
+      "r": "A consulta é para análise e orientação. A contratação envolve representação formal. Em ${n}, oferecemos ambos os serviços com transparência."
+    }
   ],
-  stats: {
-    experiencia: '15+',
-    clientes: '5000+',
-    taxa: '98%',
-    cidades: '302',
-  },
+  "stats": {
+    "experiencia": "15+",
+    "clientes": "5000+",
+    "taxa": "98%",
+    "cidades": "5571"
+  }
 }

@@ -1,28 +1,65 @@
 export default {
-  heroTitle: 'Advogado em São Francisco do Sul: Assessoria Jurídica Completa',
-  heroDescription: 'Will & Pereira Advocacia: advogado em São Francisco do Sul para pessoas físicas e empresas. Atuação em Direito Trabalhista, Previdenciário, Cível, Consumidor, Família e Imobiliário.',
-  introParagraphs: [
-    'Você sabia que São Francisco do Sul conta com mais de 50.000 habitantes e uma economia baseada em Atividade Portuária, Turismo e Comércio? Com essa dinâmica, a necessidade de assessoria jurídica qualificada é constante. A Will & Pereira Advocacia, com escritório em Palhoça/SC, atende moradores de São Francisco do Sul com excelência e compromisso.',
-    'Com atendimento que vai além da consulta jurídica, buscamos construir relacionamentos de confiança com nossos clientes em São Francisco do Sul. Transparência, ética e dedicação são os pilares que sustentam nosso trabalho.',
-    'Acreditamos que um bom advogado faz a diferença entre ganhar e perder um caso. Em São Francisco do Sul, contamos com profissionais qualificados e comprometidos com o sucesso de cada cliente.',
+  "heroTitle": "O Melhor Advogado em São Francisco do Sul para Cada Necessidade Jurídica",
+  "heroDescription": "Soluções jurídicas personalizadas para moradores de São Francisco do Sul/SC. Nossa equipe atua em todas as áreas do Direito com foco em resultados comprovados.",
+  "introParagraphs": [
+    "Quando um cidadão de São Francisco do Sul/SC precisa de orientação jurídica, a primeira preocupação é encontrar um profissional que combine conhecimento técnico com compromisso com resultados. A Will & Pereira Advocacia, com sede em Palhoça/SC e atuação nacional, atende moradores de São Francisco do Sul há mais de 15 anos, oferecendo soluções jurídicas personalizadas para cada caso.\n\nA cidade de São Francisco do Sul apresenta características econômicas e sociais que influenciam diretamente as demandas jurídicas da população. Com economia voltada para indústria, agronegócio, turismo, comércio e serviços, os moradores enfrentam questões trabalhistas, previdenciárias e consumeristas que exigem conhecimento especializado. Indústria e turismo são desafios recorrentes na região.\n\nNeste guia, apresentamos de forma detalhada os serviços jurídicos disponíveis para moradores de São Francisco do Sul, organizados por área do Direito. Cada seção é elaborada considerando a realidade específica de São Francisco do Sul/SC, oferecendo informações práticas e relevantes para quem busca orientação jurídica na região."
   ],
-  areaContent: {
-    previdenciario: 'O INSS é frequentemente omisso quando se trata de conceder benefícios de forma justa. Em São Francisco do Sul, trabalhadores que têm direito a aposentadoria, auxílio-doença ou pensão por morte enfrentam negativas injustificadas e valores abaixo do devido. A Will & Pereira Advocacia combate essas irregularidades com conhecimento técnico e experiência comprovada. Nossa equipe analisa cada caso individualmente, verificando se todos os períodos de contribuição foram computados, se houve exposição a agentes nocivos que garanta aposentadoria especial e se o cálculo do benefício está correto. Em São Francisco do Sul, onde a economia gira em torno de Atividade Portuária, Turismo e Comércio, muitos trabalhadores possuem especificidades que apenas um advogado especializado consegue identificar. Desde trabalhadores rurais até servidores públicos, oferecemos assessoria completa em todas as modalidades de benefício previdenciário. Em caso de negativa do INSS, entramos com recurso administrativo ou ação judicial para reverter a decisão. Em São Francisco do Sul, nossa taxa de sucesso em ações previdenciárias é elevada, refletindo o compromisso com a qualidade do trabalho jurídico.',
-    trabalhista: 'O Direito Trabalhista protege os direitos de trabalhadores e empregadores em São Francisco do Sul. Nossa equipe atua em reclamações trabalhistas, verbas rescisórias, horas extras, FGTS, adicional de insalubridade, periculosidade e assédio moral. Em São Francisco do Sul, onde a economia se baseia em Atividade Portuária, Turismo e Comércio, as relações de trabalho apresentam particularidades que conhecemos profundamente. Trabalhadores que foram demitidos sem justa causa, não receberam horas extras ou sofreram acidente de trabalho podem contar com a Will & Pereira Advocacia para buscar reparação. Austramos também empresas na consultoria preventiva, ajudando a evitar passivos trabalhistas e a adequar práticas management à legislação. Em São Francisco do Sul, já conquistamos indenizações por dano moral, horas extras não pagas e verbas rescisórias de forma célere e eficiente. A CLT garante diversos direitos, mas muitos trabalhadores não conhecem a totalidade deles. Nossa equipe esclarece dúvidas e conduz o processo trabalhista com foco no melhor resultado possível para o cliente em São Francisco do Sul.',
-    civel: 'A Will & Pereira Advocacia é referência em Direito Cível em São Francisco do Sul. Seja para resolver uma questão contratual, cobrar uma dívida ou buscar indenização por danos, nossa equipe está preparada para oferecer a melhor solução. Em São Francisco do Sul, com economia focada em Atividade Portuária, Turismo e Comércio, os conflitos cíveis são variados e exigem conhecimento aprofundado do Código Civil e da jurisprudência. Trabalhamos com elaboração e revisão de contratos para prevenir futuros litígios. Quando o litígio é inevitável, ingressamos com ações judiciais de cobrança, indenização, despejo, usucapião e demais medidas cabíveis. Em São Francisco do Sul, já resolvemos centenas de casos cíveis com sucesso, garantindo a nossos clientes a reparação ou o direito pleiteado. A assessoria cível preventiva é especialmente importante para empresas de São Francisco do Sul, que precisam de contratos adequados para evitar prejuízos futuros. Nossa equipe analisa cada situação e apresenta as melhores alternativas para o caso.',
-    consumidor: 'Moradores de São Francisco do Sul que tiveram problemas com produtos defeituosos, serviços inadequados ou cobranças indevidas encontram na Will & Pereira Advocacia o parceiro ideal para fazer valer seus direitos. O CDC protege consumidores em São Francisco do Sul contra práticas abusivas e garante reparação por danos. Em São Francisco do Sul, com economia vinculada a Atividade Portuária, Turismo e Comércio, o consumo é parte fundamental da vida cotidiana e, por isso, os conflitos consumeristas são frequentes. Nossa equipe atua na defesa dos direitos do consumidor, desde negociações amigáveis até ações judiciais complexas. Utilizamos ferramentas como inversão do ônus da prova, repetição de indébito em dobro e indenização por danos morais para garantir a reparação adequada. Em São Francisco do Sul, já ajudamos diversos consumidores a resolverem problemas com bancos, planos de saúde, empresas de telefonia e fornecedores locais. Seus direitos são importantes — não hesite em buscá-los.',
-    familia: 'Em São Francisco do Sul, famílias que precisam de assistência jurídica em questões como divórcio, guarda, pensão alimentícia ou inventário encontram na Will & Pereira Advocacia o parceiro ideal. Nossa equipe atua com sensibilidade e competência, buscando soluções que preservem os vínculos familiares quando possível. O Direito de Família é uma das áreas mais emotivas do Direito, e em São Francisco do Sul, onde as relações familiares são valorizadas, é fundamental contar com um advogado que compreenda a importância de cada decisão. Trabalhamos comMediação familiar, acordos consensuais e, quando necessário, litígios para proteger os direitos dos clientes. Em São Francisco do Sul, já resolvemos diversos casos de divórcio, guarda e pensão alimentícia com sucesso. O inventário e a partilha de bens também são áreas em que atuamos, oferecendo orientação clara sobre os procedimentos legais e as melhores estratégias para cada caso familiar em São Francisco do Sul.',
-    imobiliario: 'Moradores de São Francisco do Sul que precisam de orientação em questões imobiliárias contam com a Will & Pereira Advocacia. Atuamos em contratos de compra e venda, locação, usucapião e regularização de imóveis. Em São Francisco do Sul, com economia centrada em Atividade Portuária, Turismo e Comércio, o mercado imobiliário é ativo e apresenta diversas situações que geram conflitos. A segurança jurídica em transações imobiliárias é essencial. Nossa equipe analisa cada situação e oferece a melhor solução, evitando problemas futuros. Em São Francisco do Sul, trabalhamos com elaboração e revisão de contratos, mediação de conflitos e ações judiciais quando necessário. A usucapião é uma ferramenta importante para moradores de São Francisco do Sul que ocupam imóveis há anos sem documentação regular — nossa equipe conduz o processo desde a instrução processual até o registro em cartório. Em São Francisco do Sul e região, a Will & Pereira Advocacia é reconhecida pela competência em Direito Imobiliário.',
+  "areaContent": {
+    "previdenciario": "O Direito Previdenciário em São Francisco do Sul/SC é uma das áreas mais demandadas. Trabalhadores da região, tanto rurais quanto urbanos, frequentemente buscam orientação sobre aposentadoria, auxílio-doença e pensão por morte. A reforma da previdência (EC 103/2019) trouxe mudanças significativas nas regras de aposentadoria, e contar com um advogado especializado é essencial para garantir o melhor benefício possível.\n\nEm São Francisco do Sul, a economia baseada em indústria e agronegócio gera diversas categorias de trabalhadores com necessidades previdenciárias específicas. A Will & Pereira Advocacia realiza análise completa do histórico contributivo de cada cliente, identificando todas as possibilidades de antecipação ou majoração da aposentadoria. Atendemos aposentadoria por idade, tempo de contribuição e especial, auxílio-doença, pensão por morte, BPC/LOAS e revisões de benefícios.",
+    "trabalhista": "O Direito Trabalhista em São Francisco do Sul/SC protege os direitos tanto de empregados quanto de empregadores. Em uma cidade com economia baseada em indústria e agronegócio, as relações de trabalho apresentam características próprias que conhecemos profundamente. A Will & Pereira Advocacia atua na defesa dos direitos trabalhistas com foco em resultados.\n\nPrincipais atuações em São Francisco do Sul: verbas rescisórias, horas extras, FGTS, adicional de insalubridade e periculosidade, equiparação salarial, assédio moral e dano moral trabalhista. Para empresas, oferecemos consultoria preventiva e defesa em reclamações trabalhistas.",
+    "civel": "O Direito Cível em São Francisco do Sul/SC abrange as relações cotidianas entre pessoas e empresas. Contratos, indenizações, cobranças, usucapião e questões de propriedade são situações que surgem no dia a dia dos moradores. A Will & Pereira Advocacia oferece assessoria completa em todas essas áreas.\n\nA economia de São Francisco do Sul, baseada em indústria, gera conflitos cíveis que exigem conhecimento aprofundado do Código Civil e da jurisprudência. Trabalhamos com elaboração e revisão de contratos, ações de cobrança, indenização por danos e todas as questões cíveis.",
+    "consumidor": "O Código de Defesa do Consumidor protege os moradores de São Francisco do Sul/SC contra abusos de empresas e fornecedores. Em uma cidade com economia baseada em indústria, os conflitos consumeristas são frequentes e variados. A Will & Pereira Advocacia atua na defesa dos direitos do consumidor com competência.\n\nAtendemos em São Francisco do Sul casos de cobrança indevida, negativação injusta, produtos com defeito, negativas de planos de saúde, cláusulas abusivas e todas as demais violações aos direitos do consumidor.",
+    "familia": "O Direito de Família em São Francisco do Sul/SC lida com questões sensíveis que afetam a vida das pessoas. Divórcios, guarda de filhos, pensão alimentícia, inventários e união estável são situações que demandam sensibilidade e competência. A Will & Pereira Advocacia oferece atendimento humanizado e profissional.\n\nEm São Francisco do Sul, as relações familiares são valorizadas, e é fundamental contar com um advogado que compreenda a importância de cada decisão. Nossa equipe trabalha com mediação familiar e acordos consensuais sempre que possível.",
+    "imobiliario": "O Direito Imobiliário em São Francisco do Sul/SC regula todas as questões relacionadas a imóveis. Compra e venda, locação, usucapião, regularização fundiária e condomínio são áreas em que atuamos. A economia de São Francisco do Sul, baseada em indústria, gera demandas imobiliárias que conhecemos.\n\nA Will & Pereira Advocacia oferece assessoria completa em cada etapa da transação imobiliária, desde a análise de documentação até a resolução de conflitos possessórios."
   },
-  faqs: [
-    { pergunta: 'A Will & Pereira Advocacia atende casos urgentes em São Francisco do Sul?', resposta: 'Sim! A Will & Pereira Advocacia oferece atendimento urgente para moradores de São Francisco do Sul que necessitam de solução jurídica imediata.' },
-    { pergunta: 'O que fazer se o INSS negar um benefício em São Francisco do Sul?', resposta: 'Se o INSS negou um benefício em São Francisco do Sul, entre em contato com a Will & Pereira Advocacia. Nossa equipe analisa a negativa e entra com recurso administrativo ou ação judicial.' },
-    { pergunta: 'A Will & Pereira Advocacia trabalha com inventário em São Francisco do Sul?', resposta: 'Sim! A Will & Pereira Advocacia atua em inventários judiciais e extrajudiciais para moradores de São Francisco do Sul, garantindo a partilha de bens de forma justa.' },
+  "exclusiva": "## Por Que Escolher a Will & Pereira Advocacia em São Francisco do Sul?\n\n**Experiência Comprovada:** Mais de 15 anos de atuação em todas as áreas do Direito, com resultados expressivos em São Francisco do Sul e região.\n\n**Conhecimento Local:** Conhecemos as particularidades de São Francisco do Sul e da região de Santa Catarina, incluindo as especificidades da economia baseada em indústria.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada. Em São Francisco do Sul, oferecemos explicação clara de cada etapa do processo.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil, incluindo São Francisco do Sul.\n\n**Transparência Total:** Honorários claros, sem surpresas. O cliente sempre sabe onde está investindo.",
+  "diaADia": "## Como um Advogado Pode Ajudar no Dia a Dia em São Francisco do Sul\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis, elaboração de testamentos.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial, economizando tempo e recursos. Nossa equipe busca soluções consensuais sempre que possível.\n\n**Atendimento de Emergência:** Imprevistos acontecem. Oferecemos atendimento prioritário para situações urgentes em São Francisco do Sul.",
+  "faqs": [
+    {
+      "p": "Quais são as principais áreas do direito atendidas em ${n}?",
+      "r": "Em ${n}/${uf}, atuamos em Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário, com foco nas necessidades da economia local baseada em ${e.join(' e ')}."
+    },
+    {
+      "p": "Como funciona o primeiro atendimento jurídico?",
+      "r": "O primeiro atendimento é orientativo, para análise do caso e definição da melhor estratégia. Atendemos presencialmente em Palhoça/SC e por videoconferência para ${n}."
+    },
+    {
+      "p": "Qual o prazo para entrar com uma reclamação trabalhista?",
+      "r": "O trabalhador tem até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Em ${n}, orientamos sobre prazos e procedimentos."
+    },
+    {
+      "p": "A Will & Pereira Advocacia atende ${n}?",
+      "r": "Sim! Atendemos moradores de ${n} e toda a região de ${uf}, com o mesmo nível de dedicação e profissionalismo."
+    },
+    {
+      "p": "Quais documentos preciso para uma consulta?",
+      "r": "Documentos relacionados à questão: contratos, comprovantes, documentos pessoais. Orientamos sobre a documentação antes da consulta."
+    },
+    {
+      "p": "Quanto custa um advogado em ${n}?",
+      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com honorários de sucumbência. Entre em contato para orientação."
+    },
+    {
+      "p": "É possível resolver questões jurídicas sem ir ao tribunal?",
+      "r": "Sim! Muitos conflitos se resolvem via negociação, mediação ou conciliação. Em ${n}, buscamos soluções extrajudiciais sempre que possível."
+    },
+    {
+      "p": "Como a economia de ${n} influencia as questões jurídicas?",
+      "r": "A economia baseada em ${e[0]} gera demandas trabalhistas, previdenciárias e consumeristas específicas que conhecemos profundamente."
+    },
+    {
+      "p": "Vocês atendem pessoas físicas e jurídicas?",
+      "r": "Sim! Atendemos tanto pessoas físicas quanto empresas em ${n}, oferecendo soluções jurídicas completas."
+    },
+    {
+      "p": "Qual a diferença entre consultar um advogado e contratar?",
+      "r": "A consulta é para análise e orientação. A contratação envolve representação formal. Em ${n}, oferecemos ambos os serviços com transparência."
+    }
   ],
-  stats: {
-    experiencia: '15+',
-    clientes: '5000+',
-    taxa: '98%',
-    cidades: '302',
-  },
+  "stats": {
+    "experiencia": "15+",
+    "clientes": "5000+",
+    "taxa": "98%",
+    "cidades": "5571"
+  }
 }

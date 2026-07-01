@@ -1,29 +1,65 @@
 export default {
-  heroTitle: 'Advogado em Palmeira — Will & Pereira Advocacia',
-  heroDescription: 'Assessoria jurídica de qualidade em Palmeira. A Will & Pereira Advocacia combina experiência, especialização e compromisso com o cliente para resolver questões jurídicas em Palmeira.',
-  introParagraphs: [
-    'Você sabia que Palmeira conta com mais de até 50 mil habitantes e uma economia baseada em Turismo, Agricultura, Comércio e Serviços? Com essa dinâmica, a necessidade de assessoria jurídica qualificada é constante. A Will & Pereira Advocacia, com escritório em Palhoça/SC, atende moradores de Palmeira com excelência e compromisso.',
-    'Com conhecimento aprofundado das leis e da jurisprudência, nossa equipe em Palmeira está preparada para enfrentar os desafios jurídicos mais complexos, sempre em busca da melhor solução para cada cliente.',
-    'Proteger seus direitos é um direito fundamental. Em Palmeira, a Will & Pereira Advocacia trabalha para que cada cidadão tenha acesso à justiça com qualidade e preço justo.',
-    'Com escritório em Palhoça/SC, atendemos Palmeira e todo o estado de Santa Catarina, além de clientes em todo o Brasil. Sua localização não é obstáculo para receber assessoria jurídica de excelência.',
+  "heroTitle": "Advogados em Palmeira, SC — Soluções Jurídicas Completas",
+  "heroDescription": "Soluções jurídicas personalizadas para moradores de Palmeira/SC. Nossa equipe atua em todas as áreas do Direito com foco em resultados comprovados.",
+  "introParagraphs": [
+    "Moradores de Palmeira/SC que precisam de serviços jurídicos encontram na Will & Pereira Advocacia uma parceira de confiança. Com mais de 15 anos de experiência e escritório em Palhoça/SC, nossa equipe atende clientes em todo o Brasil, incluindo Palmeira e toda a região de Santa Catarina.\n\nA economia de Palmeira é caracterizada por indústria, agronegócio e turismo, o que gera demandas jurídicas específicas que conhecemos profundamente. Questões trabalhistas decorrentes da atividade industrial, questões previdenciárias de trabalhadores rurais e urbanos, e questões consumeristas do cotidiano são situações que atendemos com regularidade.\n\nEste guia completo abrange todas as principais áreas do Direito atendidas pela Will & Pereira Advocacia em Palmeira: Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário. Cada seção é elaborada com base na realidade de Palmeira/SC."
   ],
-  areaContent: {
-    previdenciario: 'Em Palmeira, a demanda por assessoria previdenciária cresce a cada ano. Trabalhadores que se aposentam precisam garantir que receberão o valor correto, e aqueles que necessitam de auxílio-doença ou BPC/LOAS precisam de orientação para não terem seus pedidos negados. A Will & Pereira Advocacia atende moradores de Palmeira com análise detalhada do histórico contributivo do INSS, verificando possibilidades de aposentadoria antecipada, majoração de benefício e revisão de cálculos. Muitos trabalhadores de Palmeira, especialmente os que atuam em Turismo, Agricultura, Comércio e Serviços, possuem períodos de contribuição que não foram computados corretamente pelo INSS. Nossa equipe identifica essas falhas e entra com as medidas cabíveis para correção. Atuamos também em planejamento previdenciário para trabalhadores que ainda estão longe da aposentadoria, traçando estratégias para maximizar o benefício futuro. Em Palmeira, já ajudamos diversos trabalhadores a conquistarem aposentadoria especial, revisões de benefício e indenizações por mora do INSS. Não espere até ficar impossibilitado de trabalhar — procure orientação jurídica antecipada e proteja seu futuro.',
-    trabalhista: 'Moradores de Palmeira que trabalham em condições inadequadas ou tiveram seus direitos violados podem contar com a Will & Pereira Advocacia para buscar reparação na Justiça do Trabalho. Em Palmeira, com economia baseada em Turismo, Agricultura, Comércio e Serviços, as relações de trabalho apresentam desafios específicos que exigem conhecimento especializado. Atuamos em reclamações trabalhistas individuais e coletivas, defendendo trabalhadores em casos de jornada excessiva, insalubridade, periculosidade, acidente de trabalho e assédio moral. Em Palmeira, trabalhadores que foram demitidos sem justa causa têm direito a diversas verbas rescisórias que muitas vezes não são pagas corretamente. Nossa equipe verifica cada item e garante o recebimento integral devido. Para empresas, oferecemos assessoria trabalhista preventiva, elaboração de contratos, acordos e negociações coletivas. Em Palmeira, a Will & Pereira Advocacia é reconhecida pela competência e dedicação em causas trabalhistas. Não aceite ter seus direitos negados — procure nossa equipe e saiba como podemos ajudar.',
-    civel: 'Em Palmeira, questões cíveis do cotidiano muitas vezes escalam para litígios judiciais. Contratos de compra e venda, locações, empréstimos e relações de consumo geram conflitos que precisam de solução jurídica. A Will & Pereira Advocacia atende moradores de Palmeira em todas as questões de Direito Cível, oferecendo assessoria preventiva e contenciosa. Quando um conflito não pode ser resolvido extrajudicialmente, nossa equipe ingressa com ações de cobrança, indenização ou execução judicial para garantir o direito do cliente. Em Palmeira, onde o setor de Turismo, Agricultura, Comércio e Serviços é dinâmico, é comum surgirem questões como contratos comerciais descumpridos, danos materiais e morais, e disputas de propriedade. Nossa experiência em causas cíveis nos permite oferecer soluções eficazes, mesmo em situações complexas. Atuamos também em usucapião, quando trabalhadores ou moradores de Palmeira precisam regularizar imóveis que ocupam há anos. Nossa equipe acompanha cada etapa do processo, desde a instrução processual até a sentença definitiva.',
-    consumidor: 'Em Palmeira, consumidores que enfrentam problemas com empresas, bancos, planos de saúde ou fornecedores de serviços contam com a Will & Pereira Advocacia para fazer valer seus direitos. Atuamos em negociações e ações judiciais contra práticas abusivas, garantindo reparação por danos morais e materiais. Com economia baseada em Turismo, Agricultura, Comércio e Serviços, o mercado consumidor de Palmeira é ativo, o que significa mais oportunidades de conflitos consumeristas. Nossa equipe domina o CDC e a jurisprudência do STJ, utilizando essas ferramentas para benefício dos consumidores de Palmeira. Trabalhamos com negativação indevida, cobrança de dívida prescrita, cláusulas abusivas em contratos, seguro de vida e plano de saúde. Em Palmeira, já conquistamos diversas indenizações para consumidores que tiveram seus direitos violados. O atendimento é personalizado, com análise detalhada de cada caso para identificar a melhor estratégia de atuação.',
-    familia: 'Famílias de Palmeira que precisam de apoio jurídico em momentos delicados contam com a Will & Pereira Advocacia. Atuamos em divórcio, guarda de filhos, pensão alimentícia, inventário, união estável e todas as questões que envolvem relações familiares. Em Palmeira, com economia centrada em Turismo, Agricultura, Comércio e Serviços, conflitos familiares frequentemente envolvem questões patrimoniais e de guarda que exigem expertise jurídica. Nossa equipe entende a sensibilidade de cada caso e oferece atendimento com discrição e profissionalismo. Trabalhamos para encontrar soluções que protejam os interesses de todos, especialmente dos menores. Em Palmeira, já orientamos diversas famílias em processos de divórcio, fixação de alimentos e inventário, sempre com foco em resultados rápidos e justos. O planejamento sucessório preventivo é uma forma de evitar conflitos futuros — nossa equipe orienta sobre testamentos e doações em Palmeira para proteger o patrimônio familiar.',
-    imobiliario: 'Em Palmeira, o mercado imobiliário apresenta características próprias que demandam conhecimento especializado. A Will & Pereira Advocacia atua em todas as áreas do Direito Imobiliário, desde a elaboração de contratos até a resolução de conflitos. Em Palmeira, onde o setor de Turismo, Agricultura, Comércio e Serviços é dinâmico, transações imobiliárias são frequentes e geram demandas jurídicas específicas. Nossa equipe oferece assessoria em compra e venda de imóveis, locação, usucapião, regularização fundiária e direito condominial. Quando há disputas sobre propriedade,limites de terreno ou inadimplência em contratos de locação, nossa equipe conduz o caso com competência e dedicação. Em Palmeira, já resolvemos diversos conflitos imobiliários com sucesso, garantindo a segurança jurídica de nossos clientes. A due diligence imobiliária é especialmente importante em Palmeira, onde a verificação de matrícula, certidões negativas e situação fiscal do imóvel pode evitar problemas futuros.',
+  "areaContent": {
+    "previdenciario": "A seguridade social é um direito fundamental dos trabalhadores de Palmeira/SC. Muitos moradores da região têm dúvidas sobre seus direitos previdenciários, especialmente após as mudanças trazidas pela Reforma da Previdência. A Will & Pereira Advocacia orienta clientes em todos os processos junto ao INSS, desde o planejamento da aposentadoria até recursos administrativos e ações judiciais.\n\nA economia local, baseada em indústria, apresenta particularidades que influenciam os benefícios previdenciários. Trabalhadores rurais, por exemplo, possuem regras diferenciadas de aposentadoria. Nossa equipe domina essas especificidades e oferece orientação precisa para cada caso em Palmeira.",
+    "trabalhista": "Em Palmeira/SC, os trabalhadores precisam conhecer seus direitos para evitar situações de exploração e injustiça. A CLT garante diversos direitos, mas muitos trabalhadores não conhecem a totalidade deles. A Will & Pereira Advocacia orienta trabalhadores sobre seus direitos e prazos, garantindo que nenhum direito seja perdido.\n\nA economia de Palmeira, focada em indústria, gera demandas trabalhistas específicas que atendemos com expertise: desde reclamações trabalhistas até acordos extrajudiciais e consultoria para empresas.",
+    "civel": "Questões cíveis como contratos mal elaborados, dívidas não pagas e danos causados por terceiros são comuns em Palmeira/SC. A Will & Pereira Advocacia resolve essas questões com eficiência e profissionalismo, oferecendo soluções extrajudiciais e judiciais conforme o caso.\n\nEm Palmeira, com economia baseada em indústria, os conflitos cíveis apresentam particularidades que conhecemos. Nossa equipe domina o Código Civil, o Código de Processo Civil e a jurisprudência dos tribunais superiores.",
+    "consumidor": "Moradores de Palmeira/SC que tiveram direitos violados por empresas contam com a Will & Pereira Advocacia para buscar reparação. O CDC assegura direitos como inversão do ônus da prova, repetição de indébito e indenização por danos morais.\n\nEm Palmeira, com economia baseada em indústria, os conflitos consumeristas envolvem desde cobranças bancárias até negativas de planos de saúde. Nossa equipe domina os instrumentos processuais do CDC e oferece atendimento personalizado.",
+    "familia": "Famílias de Palmeira/SC que precisam de assistência jurídica encontram na Will & Pereira Advocacia o parceiro ideal. Questões como divórcio, guarda, pensão alimentícia e inventário são tratadas com discrição e profissionalismo.\n\nA economia de Palmeira, baseada em indústria, influencia questões familiares como partilha de bens e pensão alimentícia. Nossa equipe oferece orientação clara sobre os procedimentos legais e as melhores estratégias.",
+    "imobiliario": "O mercado imobiliário em Palmeira/SC exige atenção jurídica cuidadosa. Transações imobiliárias envolvem valores significativos e riscos legais que precisam ser avaliados por profissional especializado. A Will & Pereira Advocacia protege os interesses de seus clientes em cada etapa.\n\nEm Palmeira, com economia baseada em indústria, as questões imobiliárias incluem contratos de compra e venda, locação, usucapião e regularização fundiária. Nossa equipe domina essas questões."
   },
-  faqs: [
-    { pergunta: 'A Will & Pereira Advocacia trabalha com plano de saúde em Palmeira?', resposta: 'Sim! A Will & Pereira Advocacia atua em ações contra planos de saúde que negam cobertura ou praticam abusos contra consumidores de Palmeira.' },
-    { pergunta: 'A Will & Pereira Advocacia faz atendimento por videoconferência para Palmeira?', resposta: 'Sim! Oferecemos atendimento por videoconferência para moradores de Palmeira que não podem se deslocar até Palhoça/SC.' },
-    { pergunta: 'Em quais situações devo procurar um advogado trabalhista em Palmeira?', resposta: 'Em Palmeira, procure um advogado trabalhista quando tiver problemas com verbas rescisórias, horas extras, FGTS, acidente de trabalho ou assédio moral.' },
+  "exclusiva": "## Por Que Escolher a Will & Pereira Advocacia em Palmeira?\n\n**Experiência Comprovada:** Mais de 15 anos de atuação em todas as áreas do Direito, com resultados expressivos em Palmeira e região.\n\n**Conhecimento Local:** Conhecemos as particularidades de Palmeira e da região de Santa Catarina, incluindo as especificidades da economia baseada em indústria.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada. Em Palmeira, oferecemos explicação clara de cada etapa do processo.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil, incluindo Palmeira.\n\n**Transparência Total:** Honorários claros, sem surpresas. O cliente sempre sabe onde está investindo.",
+  "diaADia": "## Como um Advogado Pode Ajudar no Dia a Dia em Palmeira\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis, elaboração de testamentos.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial, economizando tempo e recursos. Nossa equipe busca soluções consensuais sempre que possível.\n\n**Atendimento de Emergência:** Imprevistos acontecem. Oferecemos atendimento prioritário para situações urgentes em Palmeira.",
+  "faqs": [
+    {
+      "p": "Quais são as principais áreas do direito atendidas em ${n}?",
+      "r": "Em ${n}/${uf}, atuamos em Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário, com foco nas necessidades da economia local baseada em ${e.join(' e ')}."
+    },
+    {
+      "p": "Como funciona o primeiro atendimento jurídico?",
+      "r": "O primeiro atendimento é orientativo, para análise do caso e definição da melhor estratégia. Atendemos presencialmente em Palhoça/SC e por videoconferência para ${n}."
+    },
+    {
+      "p": "Qual o prazo para entrar com uma reclamação trabalhista?",
+      "r": "O trabalhador tem até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Em ${n}, orientamos sobre prazos e procedimentos."
+    },
+    {
+      "p": "A Will & Pereira Advocacia atende ${n}?",
+      "r": "Sim! Atendemos moradores de ${n} e toda a região de ${uf}, com o mesmo nível de dedicação e profissionalismo."
+    },
+    {
+      "p": "Quais documentos preciso para uma consulta?",
+      "r": "Documentos relacionados à questão: contratos, comprovantes, documentos pessoais. Orientamos sobre a documentação antes da consulta."
+    },
+    {
+      "p": "Quanto custa um advogado em ${n}?",
+      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com honorários de sucumbência. Entre em contato para orientação."
+    },
+    {
+      "p": "É possível resolver questões jurídicas sem ir ao tribunal?",
+      "r": "Sim! Muitos conflitos se resolvem via negociação, mediação ou conciliação. Em ${n}, buscamos soluções extrajudiciais sempre que possível."
+    },
+    {
+      "p": "Como a economia de ${n} influencia as questões jurídicas?",
+      "r": "A economia baseada em ${e[0]} gera demandas trabalhistas, previdenciárias e consumeristas específicas que conhecemos profundamente."
+    },
+    {
+      "p": "Vocês atendem pessoas físicas e jurídicas?",
+      "r": "Sim! Atendemos tanto pessoas físicas quanto empresas em ${n}, oferecendo soluções jurídicas completas."
+    },
+    {
+      "p": "Qual a diferença entre consultar um advogado e contratar?",
+      "r": "A consulta é para análise e orientação. A contratação envolve representação formal. Em ${n}, oferecemos ambos os serviços com transparência."
+    }
   ],
-  stats: {
-    experiencia: '15+',
-    clientes: '5000+',
-    taxa: '98%',
-    cidades: '302',
-  },
+  "stats": {
+    "experiencia": "15+",
+    "clientes": "5000+",
+    "taxa": "98%",
+    "cidades": "5571"
+  }
 }

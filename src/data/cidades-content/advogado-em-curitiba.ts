@@ -1,28 +1,65 @@
 export default {
-  heroTitle: 'Advogado em Curitiba/SC — Especialistas em Direito',
-  heroDescription: 'Advogado em Curitiba | Escritório Will & Pereira Advocacia. Atendimento jurídico completo e humanizado para moradores de Curitiba e toda a região.',
-  introParagraphs: [
-    'Situada na Curitiba é a capital do estado do Paraná, Curitiba possui características econômicas e sociais que geram demandas jurídicas específicas. A Will & Pereira Advocacia conhece profundamente essas particularidades e oferece soluções personalizadas para cada caso.',
-    'Nossa experiência demonstra que o planejamento jurídico preventivo evita muitos problemas futuros. Em Curitiba, oferecemos assessoria contínua para empresas e famílias que desejam proteger seus interesses.',
-    'Nossa reputação em Curitiba é construídia caso a caso, com resultados concretos e clientes satisfeitos. Escolha a Will & Pereira Advocacia para cuidar dos seus interesses jurídicos.',
+  "heroTitle": "Advogados em Curitiba, PR — Soluções Jurídicas Completas",
+  "heroDescription": "Advogados especializados em Curitiba/PR para questões trabalhistas, previdenciárias, cíveis e familiares. Atendimento personalizado.",
+  "introParagraphs": [
+    "Quando um cidadão de Curitiba/PR precisa de orientação jurídica, a primeira preocupação é encontrar um profissional que combine conhecimento técnico com compromisso com resultados. A Will & Pereira Advocacia, com sede em Palhoça/SC e atuação nacional, atende moradores de Curitiba há mais de 15 anos, oferecendo soluções jurídicas personalizadas para cada caso.\n\nA cidade de Curitiba apresenta características econômicas e sociais que influenciam diretamente as demandas jurídicas da população. Com economia voltada para agronegócio, indústria, comércio, serviços e turismo, os moradores enfrentam questões trabalhistas, previdenciárias e consumeristas que exigem conhecimento especializado. Agronegócio e indústria automobilística são desafios recorrentes na região.\n\nNeste guia, apresentamos de forma detalhada os serviços jurídicos disponíveis para moradores de Curitiba, organizados por área do Direito. Cada seção é elaborada considerando a realidade específica de Curitiba/PR, oferecendo informações práticas e relevantes para quem busca orientação jurídica na região."
   ],
-  areaContent: {
-    previdenciario: 'Trabalhadores de Curitiba que precisam de auxílio-doença, aposentadoria ou pensão por morte contam com a Will & Pereira Advocacia para orientação previdenciária completa. Nossa equipe domina todas as nuances da legislação previdenciária brasileira e está preparada para analisar cada caso com atenção. Em Curitiba, onde a força de trabalho está concentrada em Comércio, Serviços, Indústria e Tecnologia, é comum encontrar trabalhadores com vínculos informais ou contribuições em atraso. Isso não significa que não exista direito — nossa equipe identifica todas as possibilidades de regularização e conquista de benefícios. Atuamos em aposentadoria especial para trabalhadores expostos a condições insalubres, BPC/LOAS para idosos e deficientes de baixa renda e pensão por morte para dependentes de segurados falecidos. Quando o INSS nega um benefício, entramos com recurso administrativo ou ação judicial para reverter a decisão. Em Curitiba, já conquistamos benefícios previdenciários para centenas de trabalhadores que estavam sem renda. O momento de agir é agora — entre em contato e saiba como podemos ajudar a conquistar seus direitos previdenciários em Curitiba.',
-    trabalhista: 'Quando os direitos trabalhistas são violados em Curitiba, a Will & Pereira Advocacia entra em ação. Atuamos em casos de demissão injusta, horas extras não pagas, FGTS descontado indevidamente, acidente de trabalho e assédio moral e sexual. Em Curitiba, onde o setor de Comércio, Serviços, Indústria e Tecnologia é expressivo, é comum encontrarmos trabalhadores que não recebem todos os seus direitos previstos na CLT. Nossa equipe realiza o levantamento de todos os valores devidos e ingressa com reclamação trabalhista quando necessário. Trabalhamos também com acordos extrajudiciais, que permitem a resolução rápida e amigável de conflitos trabalhistas. Para empresas de Curitiba, oferecemos consultoria preventiva para evitar passivos trabalhistas e adequar práticas de gestão de pessoas. Em Curitiba, nossa taxa de sucesso em ações trabalhistas é resultado de preparação técnica, conhecimento da jurisprudência e compromisso com o cliente.',
-    civel: 'O Direito Cível em Curitiba abrange uma ampla gama de questões que afetam o cotidiano das pessoas e empresas. Contratos, indenizações, cobranças, usucapião e responsabilidade civil são algumas das áreas em que atuamos. Em Curitiba, onde a economia gira em torno de Comércio, Serviços, Indústria e Tecnologia, conflitos cíveis surgem frequentemente entre vizinhos, empresas e consumidores. A Will & Pereira Advocacia oferece assessoria completa em Direito Cível, desde a elaboração de contratos preventivos até ações judiciais complexas. Quando um contrato é descumprido, uma dívida não é paga ou um dano é causado, é necessário contar com um advogado experiente para buscar reparação. Em Curitiba, nossa equipe conduz processos de indenização, cobrança, execução e usucapião com foco em resultados rápidos e eficazes. Trabalhamos para resolver conflitos de forma célere, priorizando soluções extrajudiciais quando possível, mas sem hesitar em ir a juízo quando necessário. Moradores de Curitiba que precisam de orientação cível encontram na Will & Pereira Advocacia o parceiro ideal para proteger seus interesses.',
-    consumidor: 'O Direito do Consumidor em Curitiba protege quem compra, contrata ou utiliza serviços. Se você sofreu com um produto defeituoso, um serviço mal prestado ou uma cobrança abusiva, a Will & Pereira Advocacia está pronta para agir. Em Curitiba, com economia focada em Comércio, Serviços, Indústria e Tecnologia, é essencial que consumidores conheçam seus direitos para não serem vítimas de práticas abusivas. Nossa equipe atua em defesa do consumidor em Curitiba, buscando reparação por danos morais e materiais, repetição de valores pagos indevidamente e cessação de práticas abusivas. O CDC é uma lei poderosa que confere ao consumidor vantagens processuais significativas, como a inversão do ônus da prova e a competência da Justiça Federal para causas de valor superior a 40 salários mínimos. Em Curitiba, trabalhamos para garantir que cada consumidor tenha acesso à justiça e receba a reparação que merece. Não deixe que empresas abuse do consumidor — entre em contato e saiba como podemos ajudar em Curitiba.',
-    familia: 'Famílias de Curitiba que precisam de apoio jurídico em momentos delicados contam com a Will & Pereira Advocacia. Atuamos em divórcio, guarda de filhos, pensão alimentícia, inventário, união estável e todas as questões que envolvem relações familiares. Em Curitiba, com economia centrada em Comércio, Serviços, Indústria e Tecnologia, conflitos familiares frequentemente envolvem questões patrimoniais e de guarda que exigem expertise jurídica. Nossa equipe entende a sensibilidade de cada caso e oferece atendimento com discrição e profissionalismo. Trabalhamos para encontrar soluções que protejam os interesses de todos, especialmente dos menores. Em Curitiba, já orientamos diversas famílias em processos de divórcio, fixação de alimentos e inventário, sempre com foco em resultados rápidos e justos. O planejamento sucessório preventivo é uma forma de evitar conflitos futuros — nossa equipe orienta sobre testamentos e doações em Curitiba para proteger o patrimônio familiar.',
-    imobiliario: 'O Direito Imobiliário em Curitiba regula todas as questões relacionadas a imóveis. Compra e venda, locação, usucapião, regularização fundiária e condomínio são algumas das áreas em que atuamos. Em Curitiba, com economia baseada em Comércio, Serviços, Indústria e Tecnologia, o mercado imobiliário é ativo e demanda assessoria jurídica especializada. A Will & Pereira Advocacia oferece segurança jurídica em cada etapa da transação imobiliária, desde a due diligence até o registro em cartório. Quando surgem conflitos — como inadimplência de aluguel, vícios ocultos em imóveis comprados ou disputas de divórcio —, nossa equipe está preparada para oferecer a melhor solução. Em Curitiba, trabalhamos com contratos de compra e venda seguros, locação residencial e comercial, e ações de usucapião para regularizar imóveis. A segurança jurídica em transações imobiliárias é essencial — não deixe seu investimento sem proteção. Em Curitiba, nossa equipe acompanha cada detalhe para garantir que seu imóvel esteja protegido legalmente.',
+  "areaContent": {
+    "previdenciario": "O Direito Previdenciário em Curitiba/PR é uma das áreas mais demandadas. Trabalhadores da região, tanto rurais quanto urbanos, frequentemente buscam orientação sobre aposentadoria, auxílio-doença e pensão por morte. A reforma da previdência (EC 103/2019) trouxe mudanças significativas nas regras de aposentadoria, e contar com um advogado especializado é essencial para garantir o melhor benefício possível.\n\nEm Curitiba, a economia baseada em agronegócio e indústria gera diversas categorias de trabalhadores com necessidades previdenciárias específicas. A Will & Pereira Advocacia realiza análise completa do histórico contributivo de cada cliente, identificando todas as possibilidades de antecipação ou majoração da aposentadoria. Atendemos aposentadoria por idade, tempo de contribuição e especial, auxílio-doença, pensão por morte, BPC/LOAS e revisões de benefícios.",
+    "trabalhista": "O Direito Trabalhista em Curitiba/PR protege os direitos tanto de empregados quanto de empregadores. Em uma cidade com economia baseada em agronegócio e indústria, as relações de trabalho apresentam características próprias que conhecemos profundamente. A Will & Pereira Advocacia atua na defesa dos direitos trabalhistas com foco em resultados.\n\nPrincipais atuações em Curitiba: verbas rescisórias, horas extras, FGTS, adicional de insalubridade e periculosidade, equiparação salarial, assédio moral e dano moral trabalhista. Para empresas, oferecemos consultoria preventiva e defesa em reclamações trabalhistas.",
+    "civel": "O Direito Cível em Curitiba/PR abrange as relações cotidianas entre pessoas e empresas. Contratos, indenizações, cobranças, usucapião e questões de propriedade são situações que surgem no dia a dia dos moradores. A Will & Pereira Advocacia oferece assessoria completa em todas essas áreas.\n\nA economia de Curitiba, baseada em agronegócio, gera conflitos cíveis que exigem conhecimento aprofundado do Código Civil e da jurisprudência. Trabalhamos com elaboração e revisão de contratos, ações de cobrança, indenização por danos e todas as questões cíveis.",
+    "consumidor": "O Código de Defesa do Consumidor protege os moradores de Curitiba/PR contra abusos de empresas e fornecedores. Em uma cidade com economia baseada em agronegócio, os conflitos consumeristas são frequentes e variados. A Will & Pereira Advocacia atua na defesa dos direitos do consumidor com competência.\n\nAtendemos em Curitiba casos de cobrança indevida, negativação injusta, produtos com defeito, negativas de planos de saúde, cláusulas abusivas e todas as demais violações aos direitos do consumidor.",
+    "familia": "O Direito de Família em Curitiba/PR lida com questões sensíveis que afetam a vida das pessoas. Divórcios, guarda de filhos, pensão alimentícia, inventários e união estável são situações que demandam sensibilidade e competência. A Will & Pereira Advocacia oferece atendimento humanizado e profissional.\n\nEm Curitiba, as relações familiares são valorizadas, e é fundamental contar com um advogado que compreenda a importância de cada decisão. Nossa equipe trabalha com mediação familiar e acordos consensuais sempre que possível.",
+    "imobiliario": "O Direito Imobiliário em Curitiba/PR regula todas as questões relacionadas a imóveis. Compra e venda, locação, usucapião, regularização fundiária e condomínio são áreas em que atuamos. A economia de Curitiba, baseada em agronegócio, gera demandas imobiliárias que conhecemos.\n\nA Will & Pereira Advocacia oferece assessoria completa em cada etapa da transação imobiliária, desde a análise de documentação até a resolução de conflitos possessórios."
   },
-  faqs: [
-    { pergunta: 'A Will & Pereira Advocacia atende empresas em Curitiba?', resposta: 'Sim! A Will & Pereira Advocacia atende moradores de Curitiba e todas as empresas da região, independentemente do porte.' },
-    { pergunta: 'Qual a experiência da Will & Pereira Advocacia em Curitiba?', resposta: 'A Will & Pereira Advocacia possui mais de 15 anos de experiência em atendimento jurídico, incluindo moradores de Curitiba e região.' },
-    { pergunta: 'Como posso agendar uma orientação jurídica em Curitiba?', resposta: 'Para agendar uma orientação jurídica em Curitiba, entre em contato com a Will & Pereira Advocacia pelo telefone, WhatsApp ou formulário do site.' },
+  "exclusiva": "## Por Que Escolher a Will & Pereira Advocacia em Curitiba?\n\n**Experiência Comprovada:** Mais de 15 anos de atuação em todas as áreas do Direito, com resultados expressivos em Curitiba e região.\n\n**Conhecimento Local:** Conhecemos as particularidades de Curitiba e da região de Paraná, incluindo as especificidades da economia baseada em agronegócio.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada. Em Curitiba, oferecemos explicação clara de cada etapa do processo.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil, incluindo Curitiba.\n\n**Transparência Total:** Honorários claros, sem surpresas. O cliente sempre sabe onde está investindo.",
+  "diaADia": "## Como um Advogado Pode Ajudar no Dia a Dia em Curitiba\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis, elaboração de testamentos.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial, economizando tempo e recursos. Nossa equipe busca soluções consensuais sempre que possível.\n\n**Atendimento de Emergência:** Imprevistos acontecem. Oferecemos atendimento prioritário para situações urgentes em Curitiba.",
+  "faqs": [
+    {
+      "p": "Quais são as principais áreas do direito atendidas em ${n}?",
+      "r": "Em ${n}/${uf}, atuamos em Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário, com foco nas necessidades da economia local baseada em ${e.join(' e ')}."
+    },
+    {
+      "p": "Como funciona o primeiro atendimento jurídico?",
+      "r": "O primeiro atendimento é orientativo, para análise do caso e definição da melhor estratégia. Atendemos presencialmente em Palhoça/SC e por videoconferência para ${n}."
+    },
+    {
+      "p": "Qual o prazo para entrar com uma reclamação trabalhista?",
+      "r": "O trabalhador tem até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Em ${n}, orientamos sobre prazos e procedimentos."
+    },
+    {
+      "p": "A Will & Pereira Advocacia atende ${n}?",
+      "r": "Sim! Atendemos moradores de ${n} e toda a região de ${uf}, com o mesmo nível de dedicação e profissionalismo."
+    },
+    {
+      "p": "Quais documentos preciso para uma consulta?",
+      "r": "Documentos relacionados à questão: contratos, comprovantes, documentos pessoais. Orientamos sobre a documentação antes da consulta."
+    },
+    {
+      "p": "Quanto custa um advogado em ${n}?",
+      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com honorários de sucumbência. Entre em contato para orientação."
+    },
+    {
+      "p": "É possível resolver questões jurídicas sem ir ao tribunal?",
+      "r": "Sim! Muitos conflitos se resolvem via negociação, mediação ou conciliação. Em ${n}, buscamos soluções extrajudiciais sempre que possível."
+    },
+    {
+      "p": "Como a economia de ${n} influencia as questões jurídicas?",
+      "r": "A economia baseada em ${e[0]} gera demandas trabalhistas, previdenciárias e consumeristas específicas que conhecemos profundamente."
+    },
+    {
+      "p": "Vocês atendem pessoas físicas e jurídicas?",
+      "r": "Sim! Atendemos tanto pessoas físicas quanto empresas em ${n}, oferecendo soluções jurídicas completas."
+    },
+    {
+      "p": "Qual a diferença entre consultar um advogado e contratar?",
+      "r": "A consulta é para análise e orientação. A contratação envolve representação formal. Em ${n}, oferecemos ambos os serviços com transparência."
+    }
   ],
-  stats: {
-    experiencia: '15+',
-    clientes: '5000+',
-    taxa: '98%',
-    cidades: '302',
-  },
+  "stats": {
+    "experiencia": "15+",
+    "clientes": "5000+",
+    "taxa": "98%",
+    "cidades": "5571"
+  }
 }

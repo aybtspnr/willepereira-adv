@@ -1,28 +1,65 @@
 export default {
-  heroTitle: 'Advogado em São José | Will & Pereira — Palhoça/SC',
-  heroDescription: 'Precisa de um advogado em São José? A Will & Pereira Advocacia atende em todas as áreas do Direito, com foco em resultados e atendimento humanizado para moradores de São José.',
-  introParagraphs: [
-    'São José, com sua economia baseada em Comércio, Serviços, Tecnologia e Construção Civil e população de 250.769, enfrenta desafios jurídicos que requerem profissionais capacitados. A Will & Pereira Advocacia atende moradores de São José com expertise e compromisso em cada caso.',
-    'Cada cidade tem suas particularidades, e São José não é diferente. Conhecer a realidade local nos permite oferecer um serviço jurídico mais eficiente e alinhado com as necessidades da população.',
-    'Acreditamos que um bom advogado faz a diferença entre ganhar e perder um caso. Em São José, contamos com profissionais qualificados e comprometidos com o sucesso de cada cliente.',
+  "heroTitle": "Assessoria Jurídica em São José | Will & Pereira Advocacia",
+  "heroDescription": "Soluções jurídicas personalizadas para moradores de São José/SC. Nossa equipe atua em todas as áreas do Direito com foco em resultados comprovados.",
+  "introParagraphs": [
+    "A busca por um advogado de confiança em São José/SC é constante. Questões trabalhistas, previdenciárias, familiares e imobiliárias surgem no cotidiano e precisam de orientação especializada. A Will & Pereira Advocacia, com mais de 15 anos de atuação, é referência no atendimento jurídico para moradores de São José e região.\n\nSão José é uma cidade com economia dinâmica localizada em Santa Catarina, com economia baseada em indústria, agronegócio e turismo. Essas características geram demandas jurídicas que exigem conhecimento aprofundado da legislação e da jurisprudência.\n\nNossa equipe multidisciplinar oferece assessoria completa em todas as áreas do Direito, com atendimento personalizado e foco nos melhores resultados para cada cliente em São José."
   ],
-  areaContent: {
-    previdenciario: 'O Direito Previdenciário em São José é uma das áreas mais procuradas, especialmente entre trabalhadores que buscam aposentadoria, auxílio-doença e pensão por morte. Com a reforma da previdência, muitas regras mudaram e é fundamental ter orientação especializada para não perder benefícios. Em São José, muitos trabalhadores da área de Comércio, Serviços, Tecnologia e Construção Civil não conhecem todos os direitos que possuem junto ao INSS. A Will & Pereira Advocacia realiza análise completa do histórico contributivo para identificar a melhor estratégia de aposentadoria, considerando regras de transição e direito adquirido. Atuamos na conquista de aposentadoria por idade, por tempo de contribuição, aposentadoria especial e BPC/LOAS. Quando o INSS nega ou concede valor inferior ao devido, nossa equipe entra com revisões administrativas e ações judiciais para garantir o benefício correto. Em São José, já ajudamos centenas de trabalhadores a conquistarem aposentadorias mais vantajosas e auxílios-doença que haviam sido negados injustamente. O planejamento previdenciário preventivo é essencial para quem deseja se aposentar com o melhor benefício possível. Nossa equipe analisa cada contribuição, cada período especial e cada regra de transição para traçar o melhor caminho. Em São José, onde a economia é baseada em Comércio, Serviços, Tecnologia e Construção Civil, muitos trabalhadores têm contribuições irregulares ou período especial que pode ser computado para antecipar a aposentadoria. Não deixe de buscar orientação jurídica para proteger seu futuro previdenciário.',
-    trabalhista: 'A relação de trabalho em São José envolve milhões de trabalhadores que precisam de proteção jurídica. A Will & Pereira Advocacia atua na defesa dos direitos trabalhistas, desde a negociação coletiva até o ajuizamento de reclamações na Justiça do Trabalho. Em São José, com economia focada em Comércio, Serviços, Tecnologia e Construção Civil, é essencial que trabalhadores e empresas contem com assessoria jurídica especializada. Trabalhadores demitidos sem justa causa têm direito a aviso prévio, 13º salário proporcional, férias proporcionais e multa de 40% sobre o FGTS, entre outros. Nossa equipe calcula todas as verbas devidas e garante o recebimento integral. Para empresas, oferecemos auditorias trabalhistas que identificam riscos e oportunidades de adequação. Em São José, o conhecimento das particularidades locais do mercado de trabalho é essencial para um resultado eficaz. Nossos clientes em São José contam com atendimento personalizado e atualização constante sobre o andamento de seus processos trabalhistas.',
-    civel: 'Quando surgem conflitos cíveis em São José, a Will & Pereira Advocacia está pronta para atuar. Atendemos em ações de indenização por danos materiais e morais, cobranças judiciais e extrajudiciais, despejo, usucapião, divórcio e inventário. Em São José, onde a atividade econômica se concentra em Comércio, Serviços, Tecnologia e Construção Civil, é fundamental ter um advogado que conheça as particularidades locais do Direito Cível. Nossa equipe combina experiência técnica com atendimento personalizado, garantindo que cada cliente tenha seu caso conduzido com dedicação e competência. Em São José, trabalhamos para resolver conflitos cíveis de forma eficiente, priorizando acordos extrajudiciais quando benéficos, mas sem medo de levar o caso até o tribunal. A jurisprudência civil evolui constantemente, e nossa equipe acompanha cada mudança para oferecer o melhor serviço possível aos moradores de São José.',
-    consumidor: 'O Código de Defesa do Consumidor protege moradores de São José contra abusos de empresas e fornecedores. Se você contratou um serviço defeituoso, comprou um produto com vício, sofreu cobrança indevida ou negativação injusta, a Will & Pereira Advocacia pode ajudar. Em São José, com economia baseada em Comércio, Serviços, Tecnologia e Construção Civil, o consumo de produtos e serviços é intenso e, consequentemente, os conflitos consumeristas são frequentes. Nossa equipe atua na defesa dos direitos do consumidor, buscando indenização por danos morais e materiais, repetição de indébito e inversão do ônus da prova quando cabível. O CDC garante direitos fundamentais que muitos consumidores de São José desconhecem. Por isso, oferecemos orientação jurídica clara e acessível para que cada cidadão saiba como agir quando seus direitos são violados. Em São José, já ajudamos centenas de consumidores a conquistarem indenizações e a terem seus direitos reconhecidos.',
-    familia: 'A Will & Pereira Advocacia atua em todas as áreas do Direito de Família em São José: divórcio consensual e litigioso, guarda compartilhada, pensão alimentícia, investigação de paternidade, inventário e planejamento sucessório. Em São José, com sua comunidade unida e economia baseada em Comércio, Serviços, Tecnologia e Construção Civil, conflitos familiares precisam de solução jurídica adequada. Nossa equipe está preparada para oferecer orientação jurídica em cada situação, com foco na proteção dos direitos de todos os envolvidos, especialmente crianças e idosos. Trabalhamos com Mediação familiar para buscar acordos que beneficiem todas as partes. Em São José, já ajudamos diversas famílias a resolverem questões de divórcio, fixação de guarda e pensão alimentícia de forma ágil e justa. O planejamento sucessório é essencial para proteger o patrimônio familiar — nossa equipe orienta sobre testamento, doação e planejamento de herança em São José.',
-    imobiliario: 'Em São José, a assessoria jurídica imobiliária é fundamental para proteger investimentos e evitar conflitos. A Will & Pereira Advocacia atua em contratos de compra e venda, locação, usucapião e regularização fundiária, oferecendo segurança em cada etapa. Com economia baseada em Comércio, Serviços, Tecnologia e Construção Civil, o mercado imobiliário de São José é ativo e gera demandas jurídicas variadas. Nossa equipe oferece assessoria completa em Direito Imobiliário, desde a análise preliminar do imóvel até o registro definitivo em cartório. Quando há disputas, conduzimos ações de reivindicatória, despejo e indenização com foco em resultados. Em São José, já ajudamos diversos clientes a resolverem conflitos imobiliários complexos, incluindo disputas de herança que envolvem imóveis e usucapião de terras urbanas. A prevenção é a melhor estratégia — conte com a Will & Pereira Advocacia em São José para garantir que sua transação imobiliária esteja protegida legalmente.',
+  "areaContent": {
+    "previdenciario": "Aposentadoria, auxílio-doença, pensão por morte e BPC/LOAS são os benefícios mais buscados por moradores de São José/SC. A complexidade das regras previdenciárias, especialmente após a EC 103/2019, torna indispensável o acompanhamento de um advogado especializado.\n\nEm São José, com economia baseada em indústria, trabalhadores de diversas categorias precisam de orientação previdenciária personalizada. A Will & Pereira Advocacia oferece análise completa do CNIS, simulação de benefícios e representação administrativa e judicial junto ao INSS.",
+    "trabalhista": "A relação de emprego em São José/SC é regida pela CLT e pela Constituição Federal, que garantem direitos fundamentais aos trabalhadores. Em uma cidade com economia baseada em indústria, as questões trabalhistas são frequentes e variadas. A Will & Pereira Advocacia atua na defesa desses direitos com competência e dedicação.\n\nAtuamos em São José em reclamações trabalhistas, verbas rescisórias, horas extras, FGTS, estabilidade provisória, assédio moral e todas as demais questões que envolvam a relação de emprego.",
+    "civel": "O cotidiano de São José/SC gera diversas questões jurídicas de natureza civil. Desde a elaboração de contratos até a resolução de conflitos de vizinhança, a Will & Pereira Advocacia oferece orientação jurídica completa para moradores e empresas da região.\n\nA economia local, focada em indústria e agronegócio, apresenta demandas cíveis que exigem conhecimento técnico e experiência. Atuamos em contratos, indenizações, cobranças, usucapião e todas as áreas do Direito Cível.",
+    "consumidor": "A proteção ao consumidor em São José/SC é um direito fundamental. Questões como produtos defeituosos, serviços inadequados e cobranças indevidas são situações que resolvemos regularmente. A Will & Pereira Advocacia oferece assessoria completa em Direito do Consumidor.\n\nA economia local, baseada em indústria, gera demandas consumeristas que conhecemos profundamente. Atuamos em negociações extrajudiciais e ações judiciais, sempre buscando a melhor solução para cada caso.",
+    "familia": "As questões familiares em São José/SC são tratadas com a sensibilidade que merecem. Divórcio consensual e litigioso, guarda compartilhada, pensão alimentícia, inventário e planejamento sucessório são áreas em que atuamos com excelência.\n\nEm São José, conhecemos as particularidades do Direito de Família local e oferecemos atendimento personalizado para cada caso, sempre priorizando o bem-estar de todos os envolvidos.",
+    "imobiliario": "Questões imobiliárias em São José/SC são frequentes e variadas. Desde a elaboração de contratos de locação até ações de usucapião, a Will & Pereira Advocacia oferece soluções jurídicas para todas as necessidades.\n\nA economia local, focada em indústria e agronegócio, gera demandas imobiliárias que atendemos com competência e dedicação. Trabalhamos com due diligence completa e resolução de conflitos."
   },
-  faqs: [
-    { pergunta: 'A Will & Pereira Advocacia atende toda a região de São José?', resposta: 'Sim! A Will & Pereira Advocacia atende moradores de São José e toda a região. Nossa equipe está preparada para oferecer assessoria jurídica de qualidade.' },
-    { pergunta: 'Quais documentos são necessários para uma consulta jurídica em São José?', resposta: 'Para uma orientação jurídica em São José, é recomendável trazer documentos relacionados à questão, como contratos, comprovantes e documentos pessoais.' },
-    { pergunta: 'Quanto custa uma consulta jurídica em São José?', resposta: 'A Will & Pereira Advocacia oferece orientação jurídica com valores acessíveis para moradores de São José. Entre em contato para informações sobre honorários e condições de pagamento.' },
+  "exclusiva": "## Por Que Escolher a Will & Pereira Advocacia em São José?\n\n**Experiência Comprovada:** Mais de 15 anos de atuação em todas as áreas do Direito, com resultados expressivos em São José e região.\n\n**Conhecimento Local:** Conhecemos as particularidades de São José e da região de Santa Catarina, incluindo as especificidades da economia baseada em indústria.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada. Em São José, oferecemos explicação clara de cada etapa do processo.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil, incluindo São José.\n\n**Transparência Total:** Honorários claros, sem surpresas. O cliente sempre sabe onde está investindo.",
+  "diaADia": "## Como um Advogado Pode Ajudar no Dia a Dia em São José\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis, elaboração de testamentos.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial, economizando tempo e recursos. Nossa equipe busca soluções consensuais sempre que possível.\n\n**Atendimento de Emergência:** Imprevistos acontecem. Oferecemos atendimento prioritário para situações urgentes em São José.",
+  "faqs": [
+    {
+      "p": "Quais são as principais áreas do direito atendidas em ${n}?",
+      "r": "Em ${n}/${uf}, atuamos em Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário, com foco nas necessidades da economia local baseada em ${e.join(' e ')}."
+    },
+    {
+      "p": "Como funciona o primeiro atendimento jurídico?",
+      "r": "O primeiro atendimento é orientativo, para análise do caso e definição da melhor estratégia. Atendemos presencialmente em Palhoça/SC e por videoconferência para ${n}."
+    },
+    {
+      "p": "Qual o prazo para entrar com uma reclamação trabalhista?",
+      "r": "O trabalhador tem até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Em ${n}, orientamos sobre prazos e procedimentos."
+    },
+    {
+      "p": "A Will & Pereira Advocacia atende ${n}?",
+      "r": "Sim! Atendemos moradores de ${n} e toda a região de ${uf}, com o mesmo nível de dedicação e profissionalismo."
+    },
+    {
+      "p": "Quais documentos preciso para uma consulta?",
+      "r": "Documentos relacionados à questão: contratos, comprovantes, documentos pessoais. Orientamos sobre a documentação antes da consulta."
+    },
+    {
+      "p": "Quanto custa um advogado em ${n}?",
+      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com honorários de sucumbência. Entre em contato para orientação."
+    },
+    {
+      "p": "É possível resolver questões jurídicas sem ir ao tribunal?",
+      "r": "Sim! Muitos conflitos se resolvem via negociação, mediação ou conciliação. Em ${n}, buscamos soluções extrajudiciais sempre que possível."
+    },
+    {
+      "p": "Como a economia de ${n} influencia as questões jurídicas?",
+      "r": "A economia baseada em ${e[0]} gera demandas trabalhistas, previdenciárias e consumeristas específicas que conhecemos profundamente."
+    },
+    {
+      "p": "Vocês atendem pessoas físicas e jurídicas?",
+      "r": "Sim! Atendemos tanto pessoas físicas quanto empresas em ${n}, oferecendo soluções jurídicas completas."
+    },
+    {
+      "p": "Qual a diferença entre consultar um advogado e contratar?",
+      "r": "A consulta é para análise e orientação. A contratação envolve representação formal. Em ${n}, oferecemos ambos os serviços com transparência."
+    }
   ],
-  stats: {
-    experiencia: '15+',
-    clientes: '5000+',
-    taxa: '98%',
-    cidades: '302',
-  },
+  "stats": {
+    "experiencia": "15+",
+    "clientes": "5000+",
+    "taxa": "98%",
+    "cidades": "5571"
+  }
 }

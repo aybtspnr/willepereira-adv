@@ -1,29 +1,65 @@
 export default {
-  heroTitle: 'Advogado em Agrolândia | Escritório de Advocacia',
-  heroDescription: 'Advogado em Agrolândia com mais de 15 anos de experiência. Will & Pereira Advocacia oferece soluções jurídicas personalizadas para pessoas físicas e empresas em Agrolândia e região.',
-  introParagraphs: [
-    'Quantas vezes você precisou de um advogado e não soube a quem recorrer? Em Agrolândia, a Will & Pereira Advocacia resolve isso com atendimento humanizado e soluções eficazes nas mais diversas áreas do Direito.',
-    'Agrolândia é uma cidade dinâmica, e suas necessidades jurídicas refletem essa realidade. Estamos preparados para atender desde questões simples até demandas complexas, sempre com foco no resultado do nosso cliente.',
-    'Nossos clientes em Agrolândia são nosso maior patrimônio. Por isso, dedicamos tempo e atenção especial para entender cada necessidade e oferecer soluções que realmente funcionam.',
-    'Com escritório em Palhoça/SC, atendemos Agrolândia e todo o estado de Santa Catarina, além de clientes em todo o Brasil. Sua localização não é obstáculo para receber assessoria jurídica de excelência.',
+  "heroTitle": "Advogados em Agrolândia, SC — Soluções Jurídicas Completas",
+  "heroDescription": "Advogados especializados em Agrolândia/SC para questões trabalhistas, previdenciárias, cíveis e familiares. Atendimento personalizado.",
+  "introParagraphs": [
+    "A busca por um advogado de confiança em Agrolândia/SC é constante. Questões trabalhistas, previdenciárias, familiares e imobiliárias surgem no cotidiano e precisam de orientação especializada. A Will & Pereira Advocacia, com mais de 15 anos de atuação, é referência no atendimento jurídico para moradores de Agrolândia e região.\n\nAgrolândia é uma cidade com economia dinâmica localizada em Santa Catarina, com economia baseada em indústria, agronegócio e turismo. Essas características geram demandas jurídicas que exigem conhecimento aprofundado da legislação e da jurisprudência.\n\nNossa equipe multidisciplinar oferece assessoria completa em todas as áreas do Direito, com atendimento personalizado e foco nos melhores resultados para cada cliente em Agrolândia."
   ],
-  areaContent: {
-    previdenciario: 'Para moradores de Agrolândia que buscam aposentadoria ou benefício do INSS, a Will & Pereira Advocacia oferece orientação jurídica de excelência. Nossa equipe compreende que o processo previdenciário pode ser confuso e frustrante, por isso simplificamos cada etapa para o nosso cliente. Em Agrolândia, com economia fundamentada em Indústria Têxtil, Comércio, Tecnologia e Serviços, há trabalhadores de diversos perfis que necessitam de assessoria previdenciária. Seja para aposentadoria por idade, aposentadoria especial, auxílio-doença, auxílio-acidente ou pensão por morte, nossos advogados conduzem o caso com dedicação e competência. Trabalhamos com revisão de benefícios quando o INSS concede valores menores que os devidos, e com planejamento previdenciário para trabalhadores que ainda não atingiram os requisitos para aposentadoria. Em Agrolândia, já fizemos centenas de trabalhadores conquistarem benefícios que haviam sido negados ou subvalorizados. O atendimento é personalizado, com atualização constante sobre o andamento do processo. Em Agrolândia e região, a Will & Pereira Advocacia é referência em Direito Previdenciário.',
-    trabalhista: 'Em Agrolândia, a dinâmica do mercado de trabalho gera demandas constantes por assessoria trabalhista. Seja um trabalhador que precisa cobrar verbas rescisórias ou uma empresa que deseja adequar seus contratos, a Will & Pereira Advocacia oferece soluções eficazes. Atuamos em reclamações trabalhistas na Justiça do Trabalho, buscando horas extras, adicional noturno, insalubridade, periculosidade e indenizações por dano moral e material. Em Agrolândia, onde o setor de Indústria Têxtil, Comércio, Tecnologia e Serviços emprega grande parte da população, é comum encontrar questões como jornada excessiva, condições insalubres e assédio moral. Nossa equipe conhece a jurisprudência trabalhista atualizada e está preparada para enfrentar os casos mais complexos. Para empresas, oferecemos consultoria preventiva, elaboração de contratos de trabalho, acordos extrajudiciais e auditorias trabalhistas. Em Agrolândia, já ajudamos diversas empresas a evitarem passivos trabalhistas significativos e trabalhadores a conquistarem seus direitos na Justiça do Trabalho. O prazo para ingressar com reclamação trabalhista é de 2 anos após a demissão, então não perca tempo.',
-    civel: 'Quando surgem conflitos cíveis em Agrolândia, a Will & Pereira Advocacia está pronta para atuar. Atendemos em ações de indenização por danos materiais e morais, cobranças judiciais e extrajudiciais, despejo, usucapião, divórcio e inventário. Em Agrolândia, onde a atividade econômica se concentra em Indústria Têxtil, Comércio, Tecnologia e Serviços, é fundamental ter um advogado que conheça as particularidades locais do Direito Cível. Nossa equipe combina experiência técnica com atendimento personalizado, garantindo que cada cliente tenha seu caso conduzido com dedicação e competência. Em Agrolândia, trabalhamos para resolver conflitos cíveis de forma eficiente, priorizando acordos extrajudiciais quando benéficos, mas sem medo de levar o caso até o tribunal. A jurisprudência civil evolui constantemente, e nossa equipe acompanha cada mudança para oferecer o melhor serviço possível aos moradores de Agrolândia.',
-    consumidor: 'Moradores de Agrolândia que tiveram problemas com produtos defeituosos, serviços inadequados ou cobranças indevidas encontram na Will & Pereira Advocacia o parceiro ideal para fazer valer seus direitos. O CDC protege consumidores em Agrolândia contra práticas abusivas e garante reparação por danos. Em Agrolândia, com economia vinculada a Indústria Têxtil, Comércio, Tecnologia e Serviços, o consumo é parte fundamental da vida cotidiana e, por isso, os conflitos consumeristas são frequentes. Nossa equipe atua na defesa dos direitos do consumidor, desde negociações amigáveis até ações judiciais complexas. Utilizamos ferramentas como inversão do ônus da prova, repetição de indébito em dobro e indenização por danos morais para garantir a reparação adequada. Em Agrolândia, já ajudamos diversos consumidores a resolverem problemas com bancos, planos de saúde, empresas de telefonia e fornecedores locais. Seus direitos são importantes — não hesite em buscá-los.',
-    familia: 'Em Agrolândia, famílias que precisam de assistência jurídica em questões como divórcio, guarda, pensão alimentícia ou inventário encontram na Will & Pereira Advocacia o parceiro ideal. Nossa equipe atua com sensibilidade e competência, buscando soluções que preservem os vínculos familiares quando possível. O Direito de Família é uma das áreas mais emotivas do Direito, e em Agrolândia, onde as relações familiares são valorizadas, é fundamental contar com um advogado que compreenda a importância de cada decisão. Trabalhamos comMediação familiar, acordos consensuais e, quando necessário, litígios para proteger os direitos dos clientes. Em Agrolândia, já resolvemos diversos casos de divórcio, guarda e pensão alimentícia com sucesso. O inventário e a partilha de bens também são áreas em que atuamos, oferecendo orientação clara sobre os procedimentos legais e as melhores estratégias para cada caso familiar em Agrolândia.',
-    imobiliario: 'O mercado imobiliário em Agrolândia exige atenção jurídica cuidadosa. Compra, venda, locação e usucapião são operações que envolvem valores significativos e riscos legais. A Will & Pereira Advocacia atende moradores de Agrolândia em todas as questões imobiliárias, oferecendo segurança e tranquilidade em cada transação. Em Agrolândia, com economia vinculada a Indústria Têxtil, Comércio, Tecnologia e Serviços, é comum encontrarmos conflitos como inadimplência em aluguéis, vícios ocultos em imóveis e disputas de limites de terreno. Nossa equipe domina essas questões e oferece soluções eficazes. Trabalhamos com due diligence imobiliária completa, verificando matrícula, certidões e situação fiscal dos imóveis. Em Agrolândia, também atuamos em regularização fundiária e usucapião, ajudando moradores a tornarem seus imóveis legalmente. O planejamento imobiliário preventivo é essencial — antes de qualquer transação, conte com orientação jurídica em Agrolândia para garantir que tudo esteja em ordem.',
+  "areaContent": {
+    "previdenciario": "Aposentadoria, auxílio-doença, pensão por morte e BPC/LOAS são os benefícios mais buscados por moradores de Agrolândia/SC. A complexidade das regras previdenciárias, especialmente após a EC 103/2019, torna indispensável o acompanhamento de um advogado especializado.\n\nEm Agrolândia, com economia baseada em indústria, trabalhadores de diversas categorias precisam de orientação previdenciária personalizada. A Will & Pereira Advocacia oferece análise completa do CNIS, simulação de benefícios e representação administrativa e judicial junto ao INSS.",
+    "trabalhista": "A relação de emprego em Agrolândia/SC é regida pela CLT e pela Constituição Federal, que garantem direitos fundamentais aos trabalhadores. Em uma cidade com economia baseada em indústria, as questões trabalhistas são frequentes e variadas. A Will & Pereira Advocacia atua na defesa desses direitos com competência e dedicação.\n\nAtuamos em Agrolândia em reclamações trabalhistas, verbas rescisórias, horas extras, FGTS, estabilidade provisória, assédio moral e todas as demais questões que envolvam a relação de emprego.",
+    "civel": "O cotidiano de Agrolândia/SC gera diversas questões jurídicas de natureza civil. Desde a elaboração de contratos até a resolução de conflitos de vizinhança, a Will & Pereira Advocacia oferece orientação jurídica completa para moradores e empresas da região.\n\nA economia local, focada em indústria e agronegócio, apresenta demandas cíveis que exigem conhecimento técnico e experiência. Atuamos em contratos, indenizações, cobranças, usucapião e todas as áreas do Direito Cível.",
+    "consumidor": "A proteção ao consumidor em Agrolândia/SC é um direito fundamental. Questões como produtos defeituosos, serviços inadequados e cobranças indevidas são situações que resolvemos regularmente. A Will & Pereira Advocacia oferece assessoria completa em Direito do Consumidor.\n\nA economia local, baseada em indústria, gera demandas consumeristas que conhecemos profundamente. Atuamos em negociações extrajudiciais e ações judiciais, sempre buscando a melhor solução para cada caso.",
+    "familia": "As questões familiares em Agrolândia/SC são tratadas com a sensibilidade que merecem. Divórcio consensual e litigioso, guarda compartilhada, pensão alimentícia, inventário e planejamento sucessório são áreas em que atuamos com excelência.\n\nEm Agrolândia, conhecemos as particularidades do Direito de Família local e oferecemos atendimento personalizado para cada caso, sempre priorizando o bem-estar de todos os envolvidos.",
+    "imobiliario": "Questões imobiliárias em Agrolândia/SC são frequentes e variadas. Desde a elaboração de contratos de locação até ações de usucapião, a Will & Pereira Advocacia oferece soluções jurídicas para todas as necessidades.\n\nA economia local, focada em indústria e agronegócio, gera demandas imobiliárias que atendemos com competência e dedicação. Trabalhamos com due diligence completa e resolução de conflitos."
   },
-  faqs: [
-    { pergunta: 'Quais áreas do direito são mais comuns em Agrolândia?', resposta: 'Em Agrolândia, as áreas mais demandadas são Direito Trabalhista, Direito Previdenciário e Direito do Consumidor. A Will & Pereira Advocacia atua em todas essas áreas com excelência e compromisso.' },
-    { pergunta: 'Como funciona o atendimento da Will & Pereira Advocacia para moradores de Agrolândia?', resposta: 'A Will & Pereira Advocacia atende moradores de Agrolândia de forma integral, presencialmente em Palhoça/SC ou por videoconferência. Nossa equipe oferece orientação jurídica de qualidade, independentemente da localização.' },
-    { pergunta: 'Qual o prazo para entrar com uma ação trabalhista em Agrolândia?', resposta: 'O trabalhador tem até 2 anos após a extinção do contrato para ajuizar reclamação trabalhista. Em Agrolândia, a Will & Pereira Advocacia orienta trabalhadores sobre seus direitos e prazos.' },
+  "exclusiva": "## Por Que Escolher a Will & Pereira Advocacia em Agrolândia?\n\n**Experiência Comprovada:** Mais de 15 anos de atuação em todas as áreas do Direito, com resultados expressivos em Agrolândia e região.\n\n**Conhecimento Local:** Conhecemos as particularidades de Agrolândia e da região de Santa Catarina, incluindo as especificidades da economia baseada em indústria.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada. Em Agrolândia, oferecemos explicação clara de cada etapa do processo.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil, incluindo Agrolândia.\n\n**Transparência Total:** Honorários claros, sem surpresas. O cliente sempre sabe onde está investindo.",
+  "diaADia": "## Como um Advogado Pode Ajudar no Dia a Dia em Agrolândia\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis, elaboração de testamentos.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial, economizando tempo e recursos. Nossa equipe busca soluções consensuais sempre que possível.\n\n**Atendimento de Emergência:** Imprevistos acontecem. Oferecemos atendimento prioritário para situações urgentes em Agrolândia.",
+  "faqs": [
+    {
+      "p": "Quais são as principais áreas do direito atendidas em ${n}?",
+      "r": "Em ${n}/${uf}, atuamos em Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário, com foco nas necessidades da economia local baseada em ${e.join(' e ')}."
+    },
+    {
+      "p": "Como funciona o primeiro atendimento jurídico?",
+      "r": "O primeiro atendimento é orientativo, para análise do caso e definição da melhor estratégia. Atendemos presencialmente em Palhoça/SC e por videoconferência para ${n}."
+    },
+    {
+      "p": "Qual o prazo para entrar com uma reclamação trabalhista?",
+      "r": "O trabalhador tem até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Em ${n}, orientamos sobre prazos e procedimentos."
+    },
+    {
+      "p": "A Will & Pereira Advocacia atende ${n}?",
+      "r": "Sim! Atendemos moradores de ${n} e toda a região de ${uf}, com o mesmo nível de dedicação e profissionalismo."
+    },
+    {
+      "p": "Quais documentos preciso para uma consulta?",
+      "r": "Documentos relacionados à questão: contratos, comprovantes, documentos pessoais. Orientamos sobre a documentação antes da consulta."
+    },
+    {
+      "p": "Quanto custa um advogado em ${n}?",
+      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com honorários de sucumbência. Entre em contato para orientação."
+    },
+    {
+      "p": "É possível resolver questões jurídicas sem ir ao tribunal?",
+      "r": "Sim! Muitos conflitos se resolvem via negociação, mediação ou conciliação. Em ${n}, buscamos soluções extrajudiciais sempre que possível."
+    },
+    {
+      "p": "Como a economia de ${n} influencia as questões jurídicas?",
+      "r": "A economia baseada em ${e[0]} gera demandas trabalhistas, previdenciárias e consumeristas específicas que conhecemos profundamente."
+    },
+    {
+      "p": "Vocês atendem pessoas físicas e jurídicas?",
+      "r": "Sim! Atendemos tanto pessoas físicas quanto empresas em ${n}, oferecendo soluções jurídicas completas."
+    },
+    {
+      "p": "Qual a diferença entre consultar um advogado e contratar?",
+      "r": "A consulta é para análise e orientação. A contratação envolve representação formal. Em ${n}, oferecemos ambos os serviços com transparência."
+    }
   ],
-  stats: {
-    experiencia: '15+',
-    clientes: '5000+',
-    taxa: '98%',
-    cidades: '302',
-  },
+  "stats": {
+    "experiencia": "15+",
+    "clientes": "5000+",
+    "taxa": "98%",
+    "cidades": "5571"
+  }
 }
