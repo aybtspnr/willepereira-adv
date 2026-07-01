@@ -114,11 +114,21 @@ const areaLabels: Record<string, { title: string; icon: string; services: string
   },
 }
 
+// Fallback city info from slug
+function getCityFromSlug(slug: string): { nome: string; slug: string; estado: string; regiao: string } | null {
+  if (!slug.startsWith('advogado-em-')) return null
+  const name = slug.replace('advogado-em-', '').replace(/-/g, ' ')
+  // Try to find in content map
+  if (!contentMap[slug]) return null
+  // Extract UF from content or default to SC
+  return { nome: name.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' '), slug, estado: 'SC', regiao: '' }
+}
+
 export default function CidadePage() {
   const { slug } = useParams<{ slug: string }>()
-  const cidade = getCidadeBySlug(slug || '') || getCidadeExtraBySlug(slug || '')
+  const cidade = getCidadeBySlug(slug || '') || getCidadeExtraBySlug(slug || '') || getCityFromSlug(slug || '')
 
-  if (!cidade) {
+  if (!cidade || !contentMap[cidade.slug]) {
     return (
       <div className="min-h-screen flex items-center justify-center">
         <div className="text-center">
