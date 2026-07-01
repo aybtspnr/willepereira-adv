@@ -228,8 +228,8 @@ export default function DireitoFamilia() {
 return (
     <div>
       <SEO
-        title="Direito de Família | Will & Pereira Advocacia"
-        description="Advocacia especializada em Direito de Família: divórcio, guarda, pensão alimentícia e união estável."
+        title="Advocacia Família Will & Pereira Palhoça/SC Brasil"
+        description="Advocacia especializada em Direito de Família: divórcio, guarda, pensão alimentícia, união estável e inventário. Atendimento em Palhoça/SC e online."
         canonical="https://willepereira-adv.vercel.app/familia"
       />
       {/* ═══════════════ HERO ═══════════════ */}

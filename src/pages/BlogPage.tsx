@@ -24,8 +24,8 @@ export default function BlogPage() {
   return (
     <div>
       <SEO
-        title="Blog Jurídico | Will & Pereira Advocacia"
-        description="Artigos e informações sobre Direito Previdenciário, Trabalhista, Cível, Consumidor, Família e Imobiliário. Conteúdo jurídico atualizado pela Will & Pereira Advocacia."
+        title="Blog Jurídico Will & Pereira Advocacia em Palhoça/SC"
+        description="Artigos jurídicos atualizados sobre Direito Previdenciário, Trabalhista, Cível, Consumidor e Família. Will & Pereira Advocacia Palhoça/SC."
         canonical="https://willepereira-adv.vercel.app/blog"
       />
       {/* HERO */}

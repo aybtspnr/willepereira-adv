@@ -150,8 +150,8 @@ export default function DireitoCivel() {
 return (
     <div>
       <SEO
-        title="Direito Cível | Will & Pereira Advocacia"
-        description="Assessoria jurídica em Direito Cível: contratos, indenizações, responsabilidade civil e obrigações."
+        title="Advocacia Cível | Will & Pereira Advocacia Palhoça"
+        description="Assessoria jurídica especializada em Direito Cível: contratos, indenizações, responsabilidade civil, obrigação e usucapião. Will & Pereira Advocacia."
         canonical="https://willepereira-adv.vercel.app/civel"
       />
       {/* ═══════ HERO ═══════ */}

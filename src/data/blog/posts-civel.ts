@@ -3,8 +3,8 @@ import type { BlogPost } from '../blogPosts'
 export const civelPosts: BlogPost[] = [
   {
     slug: 'contrato-compra-venda-imovel-obrigacoes',
-    title: 'Contrato de Compra e Venda de Imóvel: Obrigações e Cuidados | Will & Pereira Advocacia',
-    description: 'Guia completo sobre contratos de compra e venda de imóveis: cláusulas essenciais, obrigações do vendedor e comprador e riscos.',
+    title: 'Contrato de Compra e Venda de Imóvel: Obrigações e Cuidados',
+    description: 'Guia completo sobre contratos de compra e venda de imóveis: cláusulas essenciais, Orientação jurídica especializada pela Will & Pereira Advocacia.',
     category: 'Civel',
     date: '27 Jun 2026',
     author: 'Dr. Will Pereira',
@@ -143,8 +143,8 @@ Agende uma orientação jurídica com nossa equipe. Rua Najla Carone Guedert, 10
   },
   {
     slug: 'indenizacao-dano-moral-requisitos',
-    title: 'Indenização por Dano Moral: Requisitos e Valores no Brasil | Will & Pereira Advocacia',
-    description: 'Saiba como funciona a indenização por dano moral: requisitos, valores referenciais, dano moral puro e dano estético.',
+    title: 'Indenização por Dano Moral: Requisitos e Valores no Brasil',
+    description: 'Saiba como funciona a indenização por dano moral: requisitos, valores referenciais, Fale com um advogado especialista da Will & Pereira Advocacia.',
     category: 'Civel',
     date: '27 Jun 2026',
     author: 'Dr. Will Pereira',
@@ -276,8 +276,8 @@ Agende uma orientação jurídica com nossa equipe. Rua Najla Carone Guedert, 10
   },
   {
     slug: 'contrato-locacao-residencial-lei-inquilinato',
-    title: 'Contrato de Locação Residencial: Direitos do Inquilino e Locador | Will & Pereira Advocacia',
-    description: 'Guia sobre locação residencial conforme a Lei do Inquilinato: prazos, reajuste, garantias, vistoria e extinção do contrato.',
+    title: 'Contrato de Locação Residencial: Direitos do Inquilino e',
+    description: 'Guia sobre locação residencial conforme a Lei do Inquilinato: prazos, reajuste, Saiba mais sobre seus direitos com a Will & Pereira Advocacia.',
     category: 'Civel',
     date: '27 Jun 2026',
     author: 'Dr. Will Pereira',
@@ -396,8 +396,8 @@ Agende uma orientação jurídica com nossa equipe. Rua Najla Carone Guedert, 10
   },
   {
     slug: 'responsabilidade-civil-acidentes',
-    title: 'Responsabilidade Civil em Acidentes: Direitos da Vítima | Will & Pereira Advocacia',
-    description: 'Entenda a responsabilidade civil em acidentes: acidentes de trânsito, responsabilidade objetiva, danos materiais e morais.',
+    title: 'Responsabilidade Civil em Acidentes: Direitos da Vítima |',
+    description: 'Entenda a responsabilidade civil em acidentes: acidentes de trânsito, Consulte um especialista da Will & Pereira Advocacia Palhoça/SC.',
     category: 'Civel',
     date: '27 Jun 2026',
     author: 'Dr. Will Pereira',
@@ -517,8 +517,8 @@ Agende uma orientação jurídica com nossa equipe. Rua Najla Carone Guedert, 10
   },
   {
     slug: 'inventario-partilha-bens',
-    title: 'Inventário e Partilha de Bens: Judicial ou Extrajudicial | Will & Pereira Advocacia',
-    description: 'Guia completo sobre inventário: prazos, documentos, inventário judicial versus cartório, partilha de bens e impostos.',
+    title: 'Inventário e Partilha de Bens: Judicial ou Extrajudicial |',
+    description: 'Guia completo sobre inventário: prazos, documentos, inventário judicial versus Saiba mais sobre seus direitos com a Will & Pereira Advocacia.',
     category: 'Civel',
     date: '27 Jun 2026',
     author: 'Dr. Will Pereira',
@@ -664,8 +664,8 @@ Agende uma orientação jurídica com nossa equipe. Rua Najla Carone Guedert, 10
   },
   {
     slug: 'direito-vizinhanca-conflitos',
-    title: 'Direito de Vizinhança: Como Resolver Conflitos com Vizinhos | Will & Pereira Advocacia',
-    description: 'Saiba seus direitos nas relações de vizinhança: barulho, muros, passagem forçada, águas pluviais e direito de construir.',
+    title: 'Direito de Vizinhança: Como Resolver Conflitos com Vizinhos',
+    description: 'Saiba seus direitos nas relações de vizinhança: barulho, muros, passagem forçada, Consulte um especialista da Will & Pereira Advocacia Palhoça/SC.',
     category: 'Civel',
     date: '27 Jun 2026',
     author: 'Dr. Will Pereira',
@@ -784,8 +784,8 @@ Agende uma orientação jurídica com nossa equipe. Rua Najla Carone Guedert, 10
   },
   {
     slug: 'usucapiao-imovel-direito-propriedade',
-    title: 'Usucapião de Imóvel: Como Adquirir Propriedade Pela Posse | Will & Pereira Advocacia',
-    description: 'Guia completo sobre usucapião: tipos, prazos, requisitos, usucapião extrajudicial e como regularizar imóvel pela posse.',
+    title: 'Usucapião de Imóvel: Como Adquirir Propriedade Pela Posse |',
+    description: 'Guia completo sobre usucapião: tipos, prazos, requisitos, usucapião extrajudicial e Saiba mais sobre seus direitos com a Will & Pereira Advocacia.',
     category: 'Civel',
     date: '27 Jun 2026',
     author: 'Dr. Will Pereira',
@@ -930,8 +930,8 @@ Agende uma orientação jurídica com nossa equipe. Rua Najla Carone Guedert, 10
   },
   {
     slug: 'obrigacao-alimentos-pensao-familia',
-    title: 'Obrigação Alimentar: Direitos e Deveres na Prestação de Alimentos | Will & Pereira Advocacia',
-    description: 'Entenda a obrigação alimentar: quem deve pagar pensão, valor, revisão, exoneração e consequências do não pagamento.',
+    title: 'Obrigação Alimentar: Direitos e Deveres na Prestação de',
+    description: 'Entenda a obrigação alimentar: quem deve pagar pensão, valor, revisão, exoneração e Will & Pereira Advocacia — atendimento jurídico personalizado.',
     category: 'Civel',
     date: '27 Jun 2026',
     author: 'Dr. Will Pereira',
@@ -1076,8 +1076,8 @@ Agende uma orientação jurídica com nossa equipe. Rua Najla Carone Guedert, 10
   },
   {
     slug: 'direito-imagem-privacidade',
-    title: 'Direito de Imagem e Privacidade: Proteção na Era Digital | Will & Pereira Advocacia',
-    description: 'Saiba como proteger seu direito de imagem e privacidade: uso não autorizado, redes sociais, indenização e LGPD.',
+    title: 'Direito de Imagem e Privacidade: Proteção na Era Digital |',
+    description: 'Saiba como proteger seu direito de imagem e privacidade: uso não autorizado, redes sociais, indenização e LGPD. Will & Pereira Advocacia Palhoça/SC.',
     category: 'Civel',
     date: '27 Jun 2026',
     author: 'Dr. Will Pereira',
@@ -1209,8 +1209,8 @@ Agende uma orientação jurídica com nossa equipe. Rua Najla Carone Guedert, 10
   },
   {
     slug: 'contrato-prestacao-servicos-cuidados',
-    title: 'Contrato de Prestação de Serviços: Cláusulas e Direitos Essenciais | Will & Pereira Advocacia',
-    description: 'Guia completo sobre contratos de prestação de serviços: elementos essenciais, direitos das partes, rescisão e indenização.',
+    title: 'Contrato de Prestação de Serviços: Cláusulas e Direitos',
+    description: 'Guia completo sobre contratos de prestação de serviços: elementos essenciais, Orientação jurídica especializada pela Will & Pereira Advocacia.',
     category: 'Civel',
     date: '27 Jun 2026',
     author: 'Dr. Will Pereira',
@@ -1356,8 +1356,8 @@ Agende uma orientação jurídica com nossa equipe. Rua Najla Carone Guedert, 10
   },
   {
     slug: 'direito-real-hereditarias-ocupacao',
-    title: 'Direito Real de Habitação: O Cônjuge Sobrevivente Pode Morar no Imóvel | Will & Pereira Advocacia',
-    description: 'Entenda o direito real de habitação do cônjuge sobrevivente: requisitos, duração e implicações no inventário.',
+    title: 'Direito Real de Habitação: O Cônjuge Sobrevivente Pode',
+    description: 'Entenda o direito real de habitação do cônjuge sobrevivente: requisitos, duração e implicações no inventário. Will & Pereira Advocacia Palhoça/SC.',
     category: 'Civel',
     date: '27 Jun 2026',
     author: 'Dr. Will Pereira',
@@ -1490,8 +1490,8 @@ Agende uma orientação jurídica com nossa equipe. Rua Najla Carone Guedert, 10
   },
   {
     slug: 'prescricao-decadencia-direito-civil',
-    title: 'Prescrição e Decadência no Direito Civil: Prazos que Você Precisa Saber | Will & Pereira Advocacia',
-    description: 'Saiba a diferença entre prescrição e decadência, prazos para cobrança de dívidas, pretensões e prazos legais no Código Civil.',
+    title: 'Prescrição e Decadência no Direito Civil: Prazos que Você',
+    description: 'Saiba a diferença entre prescrição e decadência, prazos para cobrança de dívidas, Consulte um especialista da Will & Pereira Advocacia Palhoça/SC.',
     category: 'Civel',
     date: '27 Jun 2026',
     author: 'Dr. Will Pereira',
@@ -1653,8 +1653,8 @@ Agende uma orientação jurídica com nossa equipe. Rua Najla Carone Guedert, 10
   },
   {
     slug: 'testamento-planejamento-sucessorio',
-    title: 'Testamento e Planejamento Sucessório: Como Organizar a Herança | Will & Pereira Advocacia',
-    description: 'Guia sobre testamentos: tipos, herdeiros necessários, legítima, cláusulas restritivas e planejamento sucessório familiar.',
+    title: 'Testamento e Planejamento Sucessório: Como Organizar a',
+    description: 'Guia sobre testamentos: tipos, herdeiros necessários, legítima, cláusulas restritivas Saiba mais sobre seus direitos com a Will & Pereira Advocacia.',
     category: 'Civel',
     date: '27 Jun 2026',
     author: 'Dr. Will Pereira',
@@ -1817,8 +1817,8 @@ Agende uma orientação jurídica com nossa equipe. Rua Najla Carone Guedert, 10
   },
   {
     slug: 'obrigacao-contratual-inadimplemento',
-    title: 'Inadimplemento Contratual: O que Fazer Quando uma Parte Não Cumpre | Will & Pereira Advocacia',
-    description: 'Saiba como agir em caso de inadimplemento contratual: notificação, juros, multa, perdas e danos e rescisão contratual.',
+    title: 'Inadimplemento Contratual: O que Fazer Quando uma Parte Não',
+    description: 'Saiba como agir em caso de inadimplemento contratual: notificação, juros, multa, Orientação jurídica especializada pela Will & Pereira Advocacia.',
     category: 'Civel',
     date: '27 Jun 2026',
     author: 'Dr. Will Pereira',
@@ -1947,8 +1947,8 @@ Agende uma orientação jurídica com nossa equipe. Rua Najla Carone Guedert, 10
 
   {
     slug: 'direito-civel-manual-pratico',
-    title: 'Direito Cível — Manual Prático | Will & Pereira Advocacia',
-    description: 'guia de direito civil — Tudo que você precisa saber. Will & Pereira Advocacia.',
+    title: 'Direito Cível — Manual Prático',
+    description: 'guia de direito civil — Tudo que você precisa saber. Will & Pereira Advocacia. Will & Will & Pereira Advocacia — atendimento jurídico personalizado.',
     category: 'Civel',
     date: '29 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -2003,8 +2003,8 @@ O Direito Cível é fundamental para a vida em sociedade. Se você tem dúvidas 
 
   {
     slug: 'direito-civel-manual-pratico-44ebbc',
-    title: 'Direito Cível — Manual Prático | Will & Pereira Advocacia',
-    description: 'guia de direito civil — Guia prático. Will & Pereira Advocacia.',
+    title: 'Direito Cível — Manual Prático',
+    description: 'guia de direito civil — Guia prático. Will & Pereira Advocacia. Will & Pereira Fale com um advogado especialista da Will & Pereira Advocacia.',
     category: 'Civel',
     date: '29 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -2059,8 +2059,8 @@ O Direito Cível é fundamental para a vida em sociedade. Se você tem dúvidas 
 
   {
     slug: 'direito-civel-guia-completo',
-    title: 'Direito Cível — Guia Completo | Will & Pereira Advocacia',
-    description: 'guia de direito civil — Informações essenciais. Will & Pereira Advocacia.',
+    title: 'Direito Cível — Guia Completo',
+    description: 'guia de direito civil — Informações essenciais. Will & Pereira Advocacia. Will & Fale com um advogado especialista da Will & Pereira Advocacia.',
     category: 'Civel',
     date: '29 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -2115,8 +2115,8 @@ O Direito Cível é fundamental para a vida em sociedade. Se você tem dúvidas 
 
   {
     slug: 'direito-civel-tudo-que-voce-precisa-saber',
-    title: 'Direito Cível — Tudo que Você Precisa Saber | Will & Pereira Advocacia',
-    description: 'guia de direito civil — Informações essenciais. Will & Pereira Advocacia.',
+    title: 'Direito Cível — Tudo que Você Precisa Saber | Will &',
+    description: 'guia de direito civil — Informações essenciais. Will & Pereira Advocacia. Will & Fale com um advogado especialista da Will & Pereira Advocacia.',
     category: 'Civel',
     date: '29 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -2171,8 +2171,8 @@ O Direito Cível é fundamental para a vida em sociedade. Se você tem dúvidas 
 
   {
     slug: 'direito-civel-guia-completo-512236',
-    title: 'Direito Cível — Guia Completo | Will & Pereira Advocacia',
-    description: 'guia de direito civil — Guia completo atualizado. Will & Pereira Advocacia.',
+    title: 'Direito Cível — Guia Completo',
+    description: 'guia de direito civil — Guia completo atualizado. Will & Pereira Advocacia. Will & Consulte um especialista da Will & Pereira Advocacia Palhoça/SC.',
     category: 'Civel',
     date: '29 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -2227,8 +2227,8 @@ O Direito Cível é fundamental para a vida em sociedade. Se você tem dúvidas 
 
   {
     slug: 'direito-civel-manual-pratico-52a4e2',
-    title: 'Direito Cível — Manual Prático | Will & Pereira Advocacia',
-    description: 'guia de direito civil — Guia prático. Will & Pereira Advocacia.',
+    title: 'Direito Cível — Manual Prático',
+    description: 'guia de direito civil — Guia prático. Will & Pereira Advocacia. Will & Pereira Fale com um advogado especialista da Will & Pereira Advocacia.',
     category: 'Civel',
     date: '30 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -2283,8 +2283,8 @@ O Direito Cível é fundamental para a vida em sociedade. Se você tem dúvidas 
 
   {
     slug: 'direito-civel-passo-a-passo',
-    title: 'Direito Cível — Passo a Passo | Will & Pereira Advocacia',
-    description: 'guia de direito civil — Guia completo atualizado. Will & Pereira Advocacia.',
+    title: 'Direito Cível — Passo a Passo',
+    description: 'guia de direito civil — Guia completo atualizado. Will & Pereira Advocacia. Will & Consulte um especialista da Will & Pereira Advocacia Palhoça/SC.',
     category: 'Civel',
     date: '30 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -2339,8 +2339,8 @@ O Direito Cível é fundamental para a vida em sociedade. Se você tem dúvidas 
 
   {
     slug: 'direito-civel-guia-completo-f5172b',
-    title: 'Direito Cível — Guia Completo | Will & Pereira Advocacia',
-    description: 'guia de direito civil — Tudo que você precisa saber. Will & Pereira Advocacia.',
+    title: 'Direito Cível — Guia Completo',
+    description: 'guia de direito civil — Tudo que você precisa saber. Will & Pereira Advocacia. Will & Will & Pereira Advocacia — atendimento jurídico personalizado.',
     category: 'Civel',
     date: '30 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -2395,8 +2395,8 @@ O Direito Cível é fundamental para a vida em sociedade. Se você tem dúvidas 
 
   {
     slug: 'direito-civel-tudo-que-voce-precisa-saber-080a31',
-    title: 'Direito Cível — Tudo que Você Precisa Saber | Will & Pereira Advocacia',
-    description: 'guia de direito civil — Informações essenciais. Will & Pereira Advocacia.',
+    title: 'Direito Cível — Tudo que Você Precisa Saber | Will &',
+    description: 'guia de direito civil — Informações essenciais. Will & Pereira Advocacia. Will & Fale com um advogado especialista da Will & Pereira Advocacia.',
     category: 'Civel',
     date: '30 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -2451,8 +2451,8 @@ O Direito Cível é fundamental para a vida em sociedade. Se você tem dúvidas 
 
   {
     slug: 'direito-civel-guia-definitivo',
-    title: 'Direito Cível — Guia Definitivo | Will & Pereira Advocacia',
-    description: 'guia de direito civil — Guia completo atualizado. Will & Pereira Advocacia.',
+    title: 'Direito Cível — Guia Definitivo',
+    description: 'guia de direito civil — Guia completo atualizado. Will & Pereira Advocacia. Will & Consulte um especialista da Will & Pereira Advocacia Palhoça/SC.',
     category: 'Civel',
     date: '30 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -2507,8 +2507,8 @@ O Direito Cível é fundamental para a vida em sociedade. Se você tem dúvidas 
 
   {
     slug: 'direito-civel-passo-a-passo-2dd15b',
-    title: 'Direito Cível — Passo a Passo | Will & Pereira Advocacia',
-    description: 'guia de direito civil — Tudo que você precisa saber. Will & Pereira Advocacia.',
+    title: 'Direito Cível — Passo a Passo',
+    description: 'guia de direito civil — Tudo que você precisa saber. Will & Pereira Advocacia. Will & Will & Pereira Advocacia — atendimento jurídico personalizado.',
     category: 'Civel',
     date: '30 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -2563,8 +2563,8 @@ O Direito Cível é fundamental para a vida em sociedade. Se você tem dúvidas 
 
   {
     slug: 'direito-civel-guia-completo-f3d6ff',
-    title: 'Direito Cível — Guia Completo | Will & Pereira Advocacia',
-    description: 'guia de direito civil — Guia completo atualizado. Will & Pereira Advocacia.',
+    title: 'Direito Cível — Guia Completo',
+    description: 'guia de direito civil — Guia completo atualizado. Will & Pereira Advocacia. Will & Consulte um especialista da Will & Pereira Advocacia Palhoça/SC.',
     category: 'Civel',
     date: '30 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -2619,8 +2619,8 @@ O Direito Cível é fundamental para a vida em sociedade. Se você tem dúvidas 
 
   {
     slug: 'direito-civel-tudo-que-voce-precisa-saber-346203',
-    title: 'Direito Cível — Tudo que Você Precisa Saber | Will & Pereira Advocacia',
-    description: 'guia de direito civil — Informações essenciais. Will & Pereira Advocacia.',
+    title: 'Direito Cível — Tudo que Você Precisa Saber | Will &',
+    description: 'guia de direito civil — Informações essenciais. Will & Pereira Advocacia. Will & Fale com um advogado especialista da Will & Pereira Advocacia.',
     category: 'Civel',
     date: '30 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -2675,8 +2675,8 @@ O Direito Cível é fundamental para a vida em sociedade. Se você tem dúvidas 
 
   {
     slug: 'direito-civel-passo-a-passo-a313e7',
-    title: 'Direito Cível — Passo a Passo | Will & Pereira Advocacia',
-    description: 'guia de direito civil — Guia prático. Will & Pereira Advocacia.',
+    title: 'Direito Cível — Passo a Passo',
+    description: 'guia de direito civil — Guia prático. Will & Pereira Advocacia. Will & Pereira Fale com um advogado especialista da Will & Pereira Advocacia.',
     category: 'Civel',
     date: '30 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -2731,8 +2731,8 @@ O Direito Cível é fundamental para a vida em sociedade. Se você tem dúvidas 
 
   {
     slug: 'direito-civel-tudo-que-voce-precisa-saber-e595ef',
-    title: 'Direito Cível — Tudo que Você Precisa Saber | Will & Pereira Advocacia',
-    description: 'guia de direito civil — Tudo que você precisa saber. Will & Pereira Advocacia.',
+    title: 'Direito Cível — Tudo que Você Precisa Saber | Will &',
+    description: 'guia de direito civil — Tudo que você precisa saber. Will & Pereira Advocacia. Will & Will & Pereira Advocacia — atendimento jurídico personalizado.',
     category: 'Civel',
     date: '30 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -2788,6 +2788,7 @@ O Direito Cível é fundamental para a vida em sociedade. Se você tem dúvidas 
     slug: 'usucapiao-tempo-requisitos',
     title: 'Usucapião: Tempo e Requisitos para Conquistar um Imóvel',
     excerpt: 'Conheça as diferentes modalidades de usucapião e seus requisitos.',
+    description: 'Conheça as diferentes modalidades de usucapião e seus requisitos. Consulte um especialista da Will & Pereira Advocacia. Atendimento jurídico em.',
     date: '2025-01-15',
     category: 'civel',
     readTime: '5 min',
@@ -2842,6 +2843,7 @@ Modo de aquisição da propriedade pelo decurso do tempo com posse mansa, pacíf
     slug: 'contrato-locao-direitos-locador-locatario',
     title: 'Contrato de Locação: Direitos do Locador e do Locatário',
     excerpt: 'Guia completo sobre contratos de aluguel — direitos e obrigações de ambas as partes.',
+    description: 'Guia completo sobre contratos de aluguel — direitos e obrigações de ambas as partes. Orientação jurídica especializada pela Will & Pereira Advocacia.',
     date: '2025-01-15',
     category: 'civel',
     readTime: '5 min',
@@ -2894,6 +2896,7 @@ Lei do Inquilinato (Lei 8.245/91)
     slug: 'indenizacao-dano-moral-como-solicitar',
     title: 'Indenização por Dano Moral: Quando e Como Solicitar',
     excerpt: 'Quando você tem direito a indenização por dano moral e como calcular o valor.',
+    description: 'Quando você tem direito a indenização por dano moral e como calcular o valor. Fale com um advogado da Will & Pereira Advocacia Palhoça/SC.',
     date: '2025-01-15',
     category: 'civel',
     readTime: '5 min',
@@ -2947,6 +2950,7 @@ O juiz considera:
     slug: 'cobranca-indevida-repeticao-indobito',
     title: 'Cobrança Indevida: Repetição em Dobro do Valor Pago',
     excerpt: 'Como recuperar valores pagos indevidamente com direito à repetição em dobro.',
+    description: 'Como recuperar valores pagos indevidamente com direito à repetição em dobro. Fale com um advogado da Will & Pereira Advocacia Palhoça/SC.',
     date: '2025-01-15',
     category: 'civel',
     readTime: '5 min',
@@ -2994,6 +2998,7 @@ Direito de receber de volta o valor pago a mais, multiplicado por dois.
     slug: 'direito-vizinhanca-conflitos-comuns',
     title: 'Direito de Vizinhança: Conflitos Comuns e Como Resolver',
     excerpt: 'Problemas com vizinhos — barulho, construções, limites e árvores.',
+    description: 'Problemas com vizinhos — barulho, construções, limites e árvores. Fale com um advogado da Will & Pereira Advocacia Palhoça/SC. Atendimento.',
     date: '2025-01-15',
     category: 'civel',
     readTime: '5 min',
@@ -3049,6 +3054,7 @@ Código Civil, arts. 1.277 a 1.285
     slug: 'responsabilidade-civil-objetiva-subjetiva',
     title: 'Responsabilidade Civil: Objetiva e Subjetiva',
     excerpt: 'Diferenças entre responsabilidade civil objetiva e subjetiva e quando cada uma se aplica.',
+    description: 'Diferenças entre responsabilidade civil objetiva e subjetiva e quando cada uma se aplica. Consulte um especialista da Will & Pereira Advocacia.',
     date: '2025-01-15',
     category: 'civel',
     readTime: '5 min',
@@ -3096,6 +3102,7 @@ Cada caso tem peculiaridades. Um advogado pode avaliar a modalidade aplicável e
     slug: 'inventario- judicial-extrajudicial-diferencas',
     title: 'In Judicial vs Extrajudicial: Qual a Melhor Opção?',
     excerpt: 'Comparativo entre inventário judicial e extrajudicial — vantagens, desvantagens e quando optar por cada um.',
+    description: 'Comparativo entre inventário judicial e extrajudicial — vantagens, desvantagens e Orientação jurídica especializada pela Will & Pereira Advocacia.',
     date: '2025-01-15',
     category: 'civel',
     readTime: '5 min',
@@ -3158,6 +3165,7 @@ Processo de partilha dos bens do falecido entre os herdeiros.
     slug: 'prescricao-credito-prazos',
     title: 'Prescrição de Créditos: Prazos para Cobrar',
     excerpt: 'Conheça os prazos de prescrição para diferentes tipos de créditos.',
+    description: 'Conheça os prazos de prescrição para diferentes tipos de créditos. Orientação jurídica especializada pela Will & Pereira Advocacia.',
     date: '2025-01-15',
     category: 'civel',
     readTime: '5 min',
@@ -3211,6 +3219,7 @@ Perda do direito de ação pelo decurso do prazo legal.
     slug: 'acao-monitoria-titulos-extrajudiciais',
     title: 'Ação Monitoria: Cobrar Títulos sem Processo Longo',
     excerpt: 'Como usar a ação monitoria para cobrar dívidas com títulos extrajudiciais.',
+    description: 'Como usar a ação monitoria para cobrar dívidas com títulos extrajudiciais. Fale com um advogado da Will & Pereira Advocacia Palhoça/SC.',
     date: '2025-01-15',
     category: 'civel',
     readTime: '5 min',
@@ -3260,6 +3269,7 @@ A ação monitoria requer técnica processual específica. Um advogado pode aval
     slug: 'direito-sucessorio-planejamento-testamento',
     title: 'Planejamento Sucessório: Testamento e Doação com Usufruto',
     excerpt: 'Como organizar a transmissão de bens em vida para evitar conflitos e reduzir custos.',
+    description: 'Como organizar a transmissão de bens em vida para evitar conflitos e reduzir custos. Consulte um especialista da Will & Pereira Advocacia.',
     date: '2025-01-15',
     category: 'civel',
     readTime: '5 min',
@@ -3312,6 +3322,7 @@ Estratégia para organizar a transmissão de bens antes do falecimento.
     slug: 'acao-despejo-inadimplencia-condicoes',
     title: 'Ação de Despejo: Quando o Locador Pode Retomar o Imóvel',
     excerpt: 'Conheça as hipóteses legais para retomada do imóvel locado.',
+    description: 'Conheça as hipóteses legais para retomada do imóvel locado. Fale com um advogado da Will & Pereira Advocacia Palhoça/SC. Atendimento jurídico em.',
     date: '2025-01-15',
     category: 'civel',
     readTime: '5 min',
@@ -3364,6 +3375,7 @@ A ação de despejo requer técnica processual. Um advogado pode avaliar a viabi
     slug: 'acao-declaratoria-vinculo-empregaticio',
     title: 'Ação Declaratória de Vínculo Empregatício',
     excerpt: 'Como provar a existência de vínculo empregatício quando não há registro.',
+    description: 'Como provar a existência de vínculo empregatício quando não há registro. Will & Pereira Advocacia — atendimento jurídico personalizado.',
     date: '2025-01-15',
     category: 'civel',
     readTime: '5 min',
@@ -3411,6 +3423,7 @@ A ação declaratória requer prova robusta. Um advogado pode avaliar a viabilid
     slug: 'propriedade-intelectual-marcas-patentes',
     title: 'Propriedade Intelectual: Proteção de Marcas e Patentes',
     excerpt: 'Como proteger suas ideias, marcas e inventos pela propriedade intelectual.',
+    description: 'Como proteger suas ideias, marcas e inventos pela propriedade intelectual. Will & Pereira Advocacia — atendimento jurídico personalizado.',
     date: '2025-01-15',
     category: 'civel',
     readTime: '5 min',
@@ -3462,6 +3475,7 @@ n
     slug: 'acao-indenizacao-dano-moral-recisao',
     title: 'Indenização por Dano Moral na Rescisão Contratual',
     excerpt: 'Quando a rescisão contratual gera direito a indenização por danos morais.',
+    description: 'Quando a rescisão contratual gera direito a indenização por danos morais. Fale com um advogado da Will & Pereira Advocacia Palhoça/SC.',
     date: '2025-01-15',
     category: 'civel',
     readTime: '5 min',
@@ -3505,6 +3519,7 @@ O dano moral na rescisão requer prova da conduta abusiva. Um advogado pode aval
     slug: 'contrato-prestacao-servicos-direitos',
     title: 'Contrato de Prestação de Serviços: Direitos e Obrigações',
     excerpt: 'Guia sobre contratos de prestação de serviços — elaboração, cláusulas e rescisão.',
+    description: 'Guia sobre contratos de prestação de serviços — elaboração, cláusulas e rescisão. Fale com um advogado da Will & Pereira Advocacia Palhoça/SC.',
     date: '2025-01-15',
     category: 'civel',
     readTime: '5 min',
@@ -3550,6 +3565,7 @@ O dano moral na rescisão requer prova da conduta abusiva. Um advogado pode aval
     slug: 'acao-monitoria-como-funciona',
     title: 'Ação Monitoria: Como Cobrar Dívidas com Títulos',
     excerpt: 'Guia sobre ação monitoria — para que serve e como funciona.',
+    description: 'Guia sobre ação monitoria — para que serve e como funciona. Saiba mais com a Will & Pereira Advocacia Palhoça/SC. Atendimento jurídico em todo o.',
     date: '2025-01-15',
     category: 'civel',
     readTime: '5 min',
@@ -3592,6 +3608,7 @@ A ação monitoria requer técnica processual específica. Um advogado pode aval
     slug: 'usucapiao-especial-urbana-5-anos',
     title: 'Usucapião Especial Urbana: 5 Anos de Posse',
     excerpt: 'Como adquirir imóvel urbano de até 250m² com 5 anos de posse.',
+    description: 'Como adquirir imóvel urbano de até 250m² com 5 anos de posse. Will & Pereira Advocacia — atendimento jurídico personalizado. Atendimento jurídico.',
     date: '2025-01-15',
     category: 'civel',
     readTime: '5 min',
@@ -3636,6 +3653,7 @@ A usucapião extrajudicial requer documentação específica. Um advogado pode o
     slug: 'acao-declaratoria-inexistencia-divida',
     title: 'Ação Declaratória de Inexistência de Dívida',
     excerpt: 'Como provar que não deve nada e limpar seu nome.',
+    description: 'Como provar que não deve nada e limpar seu nome. Will & Pereira Advocacia — atendimento jurídico personalizado. Atendimento jurídico em todo o Brasil.',
     date: '2025-01-15',
     category: 'civel',
     readTime: '5 min',

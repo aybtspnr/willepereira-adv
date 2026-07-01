@@ -156,8 +156,8 @@ export default function ServicosPage() {
   return (
     <div>
       <SEO
-        title="Serviços Jurídicos | Will & Pereira Advocacia"
-        description="Conheça nossos serviços jurídicos especializados em todas as áreas do Direito. Atendimento em todo o Brasil."
+        title="Serviços Jurídicos Will & Pereira Advocacia Palhoça"
+        description="Conheça nossos serviços jurídicos especializados em Previdenciário, Trabalhista, Cível, Consumidor, Família e Imobiliário. Will & Pereira Advocacia."
         canonical="https://willepereira-adv.vercel.app/servicos"
       />
       <section className="relative pt-32 pb-20 bg-navy overflow-hidden">

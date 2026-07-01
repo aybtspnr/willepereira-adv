@@ -230,8 +230,8 @@ export default function DireitoTrabalhistaPage() {
 return (
     <div>
       <SEO
-        title="Direito Trabalhista | Will & Pereira Advocacia"
-        description="Advocacia Trabalhista especializada em verbas rescisórias, horas extras, FGTS e direitos do trabalhador."
+        title="Advocacia Trabalhista Will & Pereira em Palhoça/SC"
+        description="Advocacia trabalhista especializada em verbas rescisórias, horas extras, FGTS, assédio moral e direitos do trabalhador. Atendimento em Palhoça/SC."
         canonical="https://willepereira-adv.vercel.app/trabalhista"
       />
       {/* ═══════════════ HERO ═══════════════ */}

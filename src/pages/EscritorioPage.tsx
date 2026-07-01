@@ -67,8 +67,8 @@ export default function EscritorioPage() {
   return (
     <div>
       <SEO
-        title="Nosso Escritório | Will & Pereira Advocacia"
-        description="Conheça o escritório Will & Pereira Advocacia. Mais de 15 anos de experiência em Palhoça/SC. Atendimento em todo o Brasil."
+        title="Escritório Advocacia Will & Pereira Palhoça/SC Brasil"
+        description="Conheça o escritório Will & Pereira Advocacia. Mais de 15 anos de experiência em Palhoça/SC com atendimento jurídico personalizado em todo o Brasil."
         canonical="https://willepereira-adv.vercel.app/escritorio"
       />
 

@@ -261,7 +261,14 @@ export default function BlogPostPage() {
   return (
     <>
       <SEO
-        title={post.title}
+        title={((): string => {
+          const suffix = ' | Will & Pereira'
+          const maxTitleLen = 60 - suffix.length
+          const base = post.title.length > maxTitleLen
+            ? post.title.substring(0, maxTitleLen).trimEnd()
+            : post.title
+          return base + suffix
+        })()}
         description={post.description}
         canonical={`https://willepereira-adv.vercel.app/blog/${post.slug}`}
       />

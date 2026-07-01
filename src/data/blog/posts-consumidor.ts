@@ -3,8 +3,8 @@ import type { BlogPost } from '../blogPosts'
 export const consumidorPosts: BlogPost[] = [
   {
     slug: 'direito-consumidor-produto-servico',
-    title: 'Código de Defesa do Consumidor: Seus Direitos na Compra de Produtos | Will & Pereira Advocacia',
-    description: 'Guia completo sobre direitos do consumidor: vício do produto, prazo para reclamação, garantia legal e troca de mercadorias.',
+    title: 'Código de Defesa do Consumidor: Seus Direitos na Compra de',
+    description: 'Guia completo sobre direitos do consumidor: vício do produto, prazo para reclamação, Consulte um especialista da Will & Pereira Advocacia Palhoça/SC.',
     category: 'Consumidor',
     date: '27 Jun 2026',
     author: 'Dr. Will Pereira',
@@ -193,8 +193,8 @@ Agende sua orientação jurídica e garanta que seus direitos como consumidor se
   },
   {
     slug: 'plano-saude-direitos-consumidor',
-    title: 'Planos de Saúde: Direitos do Consumidor e O que Fazer em Caso de Negativa | Will & Pereira Advocacia',
-    description: 'Saiba seus direitos com planos de saúde: negativa de cobertura, reajuste abusivo, carência, rol da ANS e ação judicial.',
+    title: 'Planos de Saúde: Direitos do Consumidor e O que Fazer em',
+    description: 'Saiba seus direitos com planos de saúde: negativa de cobertura, reajuste abusivo, Saiba mais sobre seus direitos com a Will & Pereira Advocacia.',
     category: 'Consumidor',
     date: '27 Jun 2026',
     author: 'Dr. Will Pereira',
@@ -354,8 +354,8 @@ Agende sua orientação jurídica e garanta que seus direitos como beneficiário
   },
   {
     slug: 'golpe-phishing-fraude-online-consumidor',
-    title: 'Golpes Online: Como se Proteger e Seus Direitos Como Consumidor | Will & Pereira Advocacia',
-    description: 'Guia sobre fraudes online: phishing, clonagem de cartão, compras fraudulentas, responsabilidade do banco e direito ao estorno.',
+    title: 'Golpes Online: Como se Proteger e Seus Direitos Como',
+    description: 'Guia sobre fraudes online: phishing, clonagem de cartão, compras fraudulentas, Fale com um advogado especialista da Will & Pereira Advocacia.',
     category: 'Consumidor',
     date: '27 Jun 2026',
     author: 'Dr. Will Pereira',
@@ -545,8 +545,8 @@ Agende sua orientação jurídica e garanta que seus direitos como consumidor se
   },
   {
     slug: 'cobranca-indevida-direitos-consumidor',
-    title: 'Cobrança Indevida: Direitos do Consumidor e Repetição em Dobro | Will & Pereira Advocacia',
-    description: 'Saiba seus direitos em caso de cobrança indevida: repetição do indébito em dobro, danos morais e como se defender.',
+    title: 'Cobrança Indevida: Direitos do Consumidor e Repetição em',
+    description: 'Saiba seus direitos em caso de cobrança indevida: repetição do indébito em dobro, Orientação jurídica especializada pela Will & Pereira Advocacia.',
     category: 'Consumidor',
     date: '27 Jun 2026',
     author: 'Dr. Will Pereira',
@@ -702,8 +702,8 @@ Agende sua orientação jurídica e garanta que seus direitos como consumidor se
   },
   {
     slug: 'servicos-bancarios-taxas-abusivas',
-    title: 'Taxas e Tarifas Bancárias Abusivas: Direitos do Consumidor | Will & Pereira Advocacia',
-    description: 'Entenda tarifas bancárias abusivas: quais são legais, contestação, devolução em dobro e ação contra bancos.',
+    title: 'Taxas e Tarifas Bancárias Abusivas: Direitos do Consumidor',
+    description: 'Entenda tarifas bancárias abusivas: quais são legais, contestação, devolução em dobro e ação contra bancos. Will & Pereira Advocacia Palhoça/SC.',
     category: 'Consumidor',
     date: '27 Jun 2026',
     author: 'Dr. Will Pereira',
@@ -851,8 +851,8 @@ Agende sua orientação jurídica e garanta que seus direitos como consumidor se
   },
   {
     slug: 'direito-arrependimento-compra-online',
-    title: 'Direito de Arrependimento em Compras Online: Prazo de 7 Dias | Will & Pereira Advocacia',
-    description: 'Guia sobre o direito de arrependimento em compras online: prazo, como exercer, devolução de valores e exceções.',
+    title: 'Direito de Arrependimento em Compras Online: Prazo de 7',
+    description: 'Guia sobre o direito de arrependimento em compras online: prazo, como exercer, devolução de valores e exceções. Will & Pereira Advocacia Palhoça/SC.',
     category: 'Consumidor',
     date: '27 Jun 2026',
     author: 'Dr. Will Pereira',
@@ -995,8 +995,8 @@ Agende sua orientação jurídica e garanta que seus direitos como consumidor se
   },
   {
     slug: 'propaganda-enganosa-direitos-consumidor',
-    title: 'Propaganda Enganosa: Direitos do Consumidor e Como Denunciar | Will & Pereira Advocacia',
-    description: 'Saiba como identificar propaganda enganosa, direitos do consumidor, multas, indenizações e canais de denúncia.',
+    title: 'Propaganda Enganosa: Direitos do Consumidor e Como',
+    description: 'Saiba como identificar propaganda enganosa, direitos do consumidor, multas, indenizações e canais de denúncia. Will & Pereira Advocacia Palhoça/SC.',
     category: 'Consumidor',
     date: '27 Jun 2026',
     author: 'Dr. Will Pereira',
@@ -1148,8 +1148,8 @@ Agende sua orientação jurídica e garanta que seus direitos como consumidor se
   },
   {
     slug: 'produto-defeituoso-acidente-consumo',
-    title: 'Produto Defeituoso e Acidente de Consumo: Seus Direitos | Will & Pereira Advocacia',
-    description: 'Guia sobre acidentes de consumo: produto defeituoso, responsabilidade do fornecedor, indenização por danos e prazos.',
+    title: 'Produto Defeituoso e Acidente de Consumo: Seus Direitos |',
+    description: 'Guia sobre acidentes de consumo: produto defeituoso, responsabilidade do fornecedor, Saiba mais sobre seus direitos com a Will & Pereira Advocacia.',
     category: 'Consumidor',
     date: '27 Jun 2026',
     author: 'Dr. Will Pereira',
@@ -1297,8 +1297,8 @@ Agende sua orientação jurídica e garanta que seus direitos como consumidor se
   },
   {
     slug: 'credito-consignado-direitos-consumidor',
-    title: 'Crédito Consignado: Direitos do Consumidor e Cuidados | Will & Pereira Advocacia',
-    description: 'Entenda o crédito consignado: taxas, margem consignável, portabilidade, refinanciamento e direitos do consumidor.',
+    title: 'Crédito Consignado: Direitos do Consumidor e Cuidados |',
+    description: 'Entenda o crédito consignado: taxas, margem consignável, portabilidade, refinanciamento e direitos do consumidor. Will & Pereira Advocacia Palhoça/SC.',
     category: 'Consumidor',
     date: '27 Jun 2026',
     author: 'Dr. Will Pereira',
@@ -1471,8 +1471,8 @@ Agende sua orientação jurídica e garanta que seus direitos como consumidor se
   },
   {
     slug: 'consumidor-fornecedor-relacao-consumo',
-    title: 'Relação de Consumo: Quem é Consumidor e Quem é Fornecedor? | Will & Pereira Advocacia',
-    description: 'Saiba quem se enquadra como consumidor e fornecedor: conceitos do CDC, equiparação, fornecedor aparente e cadeia de consumo.',
+    title: 'Relação de Consumo: Quem é Consumidor e Quem é Fornecedor?',
+    description: 'Saiba quem se enquadra como consumidor e fornecedor: conceitos do CDC, equiparação, Saiba mais sobre seus direitos com a Will & Pereira Advocacia.',
     category: 'Consumidor',
     date: '27 Jun 2026',
     author: 'Dr. Will Pereira',
@@ -1614,8 +1614,8 @@ Agende sua orientação jurídica e garanta que seus direitos como consumidor se
   },
   {
     slug: 'superendividamento-consumidor-lei',
-    title: 'Superendividamento do Consumidor: Direitos e Repactuação | Will & Pereira Advocacia',
-    description: 'Guia sobre superendividamento: Lei 14.181, repactuação de dívidas, conciliação judicial e plano de pagamento.',
+    title: 'Superendividamento do Consumidor: Direitos e Repactuação |',
+    description: 'Guia sobre superendividamento: Lei 14.181, repactuação de dívidas, conciliação judicial e plano de pagamento. Will & Pereira Advocacia Palhoça/SC.',
     category: 'Consumidor',
     date: '27 Jun 2026',
     author: 'Dr. Will Pereira',
@@ -1776,8 +1776,8 @@ Agende sua orientação jurídica e garanta que seus direitos como consumidor se
   },
   {
     slug: 'garantia-estendida-produto-vale-pena',
-    title: 'Garantia Estendida: Vale a Pena? Direitos do Consumidor Explicados | Will & Pereira Advocacia',
-    description: 'Saiba se a garantia estendida vale a pena: diferença da garantia legal, coberturas, prazos e direitos do consumidor.',
+    title: 'Garantia Estendida: Vale a Pena? Direitos do Consumidor',
+    description: 'Saiba se a garantia estendida vale a pena: diferença da garantia legal, coberturas, Consulte um especialista da Will & Pereira Advocacia Palhoça/SC.',
     category: 'Consumidor',
     date: '27 Jun 2026',
     author: 'Dr. Will Pereira',
@@ -1941,8 +1941,8 @@ Agende sua orientação jurídica e garanta que seus direitos como consumidor se
   },
   {
     slug: 'milhas-aereas-pontos-direitos-consumidor',
-    title: 'Milhas Aéreas e Programas de Pontos: Direitos do Consumidor | Will & Pereira Advocacia',
-    description: 'Guia sobre milhas aéreas e programas de fidelidade: expiração de pontos, resgate, cancelamento de voo e direitos.',
+    title: 'Milhas Aéreas e Programas de Pontos: Direitos do Consumidor',
+    description: 'Guia sobre milhas aéreas e programas de fidelidade: expiração de pontos, resgate, cancelamento de voo e direitos. Will & Pereira Advocacia Palhoça/SC.',
     category: 'Consumidor',
     date: '27 Jun 2026',
     author: 'Dr. Will Pereira',
@@ -2122,8 +2122,8 @@ Agende sua orientação jurídica e garanta que seus direitos como consumidor se
   },
   {
     slug: 'educacao-contrato-mensalidade-direitos',
-    title: 'Contrato Escolar e Mensalidade: Direitos do Consumidor Estudante | Will & Pereira Advocacia',
-    description: 'Saiba seus direitos em contratos educacionais: reajuste de mensalidade, material didático, rescisão e rematrícula.',
+    title: 'Contrato Escolar e Mensalidade: Direitos do Consumidor',
+    description: 'Saiba seus direitos em contratos educacionais: reajuste de mensalidade, material Orientação jurídica especializada pela Will & Pereira Advocacia.',
     category: 'Consumidor',
     date: '27 Jun 2026',
     author: 'Dr. Will Pereira',
@@ -2312,8 +2312,8 @@ Agende sua orientação jurídica e garanta que seus direitos como consumidor se
 
   {
     slug: 'direitos-do-consumidor-tudo-que-voce-precisa-saber',
-    title: 'Direitos do Consumidor — Tudo que Você Precisa Saber | Will & Pereira Advocacia',
-    description: 'guia do Código de Defesa do Consumidor — Guia completo atualizado. Will & Pereira Advocacia.',
+    title: 'Direitos do Consumidor — Tudo que Você Precisa Saber | Will',
+    description: 'guia do Código de Defesa do Consumidor — Guia completo atualizado. Will & Pereira Consulte um especialista da Will & Pereira Advocacia Palhoça/SC.',
     category: 'Consumidor',
     date: '29 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -2372,8 +2372,8 @@ Conhecer seus direitos como consumidor é essencial para não ser lesado nas rel
 
   {
     slug: 'direitos-do-consumidor-passo-a-passo',
-    title: 'Direitos do Consumidor — Passo a Passo | Will & Pereira Advocacia',
-    description: 'guia do Código de Defesa do Consumidor — Guia prático. Will & Pereira Advocacia.',
+    title: 'Direitos do Consumidor — Passo a Passo | Will & Pereira',
+    description: 'guia do Código de Defesa do Consumidor — Guia prático. Will & Pereira Advocacia. Will Will & Pereira Advocacia — atendimento jurídico personalizado.',
     category: 'Consumidor',
     date: '29 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -2432,8 +2432,8 @@ Conhecer seus direitos como consumidor é essencial para não ser lesado nas rel
 
   {
     slug: 'direitos-do-consumidor-passo-a-passo-f9dcaa',
-    title: 'Direitos do Consumidor — Passo a Passo | Will & Pereira Advocacia',
-    description: 'guia do Código de Defesa do Consumidor — Guia completo atualizado. Will & Pereira Advocacia.',
+    title: 'Direitos do Consumidor — Passo a Passo | Will & Pereira',
+    description: 'guia do Código de Defesa do Consumidor — Guia completo atualizado. Will & Pereira Consulte um especialista da Will & Pereira Advocacia Palhoça/SC.',
     category: 'Consumidor',
     date: '29 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -2492,8 +2492,8 @@ Conhecer seus direitos como consumidor é essencial para não ser lesado nas rel
 
   {
     slug: 'direitos-do-consumidor-tudo-que-voce-precisa-saber-b311d1',
-    title: 'Direitos do Consumidor — Tudo que Você Precisa Saber | Will & Pereira Advocacia',
-    description: 'guia do Código de Defesa do Consumidor — Guia completo atualizado. Will & Pereira Advocacia.',
+    title: 'Direitos do Consumidor — Tudo que Você Precisa Saber | Will',
+    description: 'guia do Código de Defesa do Consumidor — Guia completo atualizado. Will & Pereira Consulte um especialista da Will & Pereira Advocacia Palhoça/SC.',
     category: 'Consumidor',
     date: '29 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -2552,8 +2552,8 @@ Conhecer seus direitos como consumidor é essencial para não ser lesado nas rel
 
   {
     slug: 'direitos-do-consumidor-manual-pratico',
-    title: 'Direitos do Consumidor — Manual Prático | Will & Pereira Advocacia',
-    description: 'guia do Código de Defesa do Consumidor — Informações essenciais. Will & Pereira Advocacia.',
+    title: 'Direitos do Consumidor — Manual Prático | Will & Pereira',
+    description: 'guia do Código de Defesa do Consumidor — Informações essenciais. Will & Pereira Saiba mais sobre seus direitos com a Will & Pereira Advocacia.',
     category: 'Consumidor',
     date: '29 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -2612,8 +2612,8 @@ Conhecer seus direitos como consumidor é essencial para não ser lesado nas rel
 
   {
     slug: 'direitos-do-consumidor-tudo-que-voce-precisa-saber-9d2b01',
-    title: 'Direitos do Consumidor — Tudo que Você Precisa Saber | Will & Pereira Advocacia',
-    description: 'guia do Código de Defesa do Consumidor — Guia completo atualizado. Will & Pereira Advocacia.',
+    title: 'Direitos do Consumidor — Tudo que Você Precisa Saber | Will',
+    description: 'guia do Código de Defesa do Consumidor — Guia completo atualizado. Will & Pereira Consulte um especialista da Will & Pereira Advocacia Palhoça/SC.',
     category: 'Consumidor',
     date: '30 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -2672,8 +2672,8 @@ Conhecer seus direitos como consumidor é essencial para não ser lesado nas rel
 
   {
     slug: 'direitos-do-consumidor-guia-definitivo',
-    title: 'Direitos do Consumidor — Guia Definitivo | Will & Pereira Advocacia',
-    description: 'guia do Código de Defesa do Consumidor — Guia prático. Will & Pereira Advocacia.',
+    title: 'Direitos do Consumidor — Guia Definitivo | Will & Pereira',
+    description: 'guia do Código de Defesa do Consumidor — Guia prático. Will & Pereira Advocacia. Will Will & Pereira Advocacia — atendimento jurídico personalizado.',
     category: 'Consumidor',
     date: '30 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -2732,8 +2732,8 @@ Conhecer seus direitos como consumidor é essencial para não ser lesado nas rel
 
   {
     slug: 'direitos-do-consumidor-passo-a-passo-04bcef',
-    title: 'Direitos do Consumidor — Passo a Passo | Will & Pereira Advocacia',
-    description: 'guia do Código de Defesa do Consumidor — Informações essenciais. Will & Pereira Advocacia.',
+    title: 'Direitos do Consumidor — Passo a Passo | Will & Pereira',
+    description: 'guia do Código de Defesa do Consumidor — Informações essenciais. Will & Pereira Saiba mais sobre seus direitos com a Will & Pereira Advocacia.',
     category: 'Consumidor',
     date: '30 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -2792,8 +2792,8 @@ Conhecer seus direitos como consumidor é essencial para não ser lesado nas rel
 
   {
     slug: 'direitos-do-consumidor-tudo-que-voce-precisa-saber-1c1705',
-    title: 'Direitos do Consumidor — Tudo que Você Precisa Saber | Will & Pereira Advocacia',
-    description: 'guia do Código de Defesa do Consumidor — Tudo que você precisa saber. Will & Pereira Advocacia.',
+    title: 'Direitos do Consumidor — Tudo que Você Precisa Saber | Will',
+    description: 'guia do Código de Defesa do Consumidor — Tudo que você precisa saber. Will & Pereira Advocacia. Will & Pereira Advocacia Palhoça/SC.',
     category: 'Consumidor',
     date: '30 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -2852,8 +2852,8 @@ Conhecer seus direitos como consumidor é essencial para não ser lesado nas rel
 
   {
     slug: 'direitos-do-consumidor-guia-definitivo-d57a77',
-    title: 'Direitos do Consumidor — Guia Definitivo | Will & Pereira Advocacia',
-    description: 'guia do Código de Defesa do Consumidor — Tudo que você precisa saber. Will & Pereira Advocacia.',
+    title: 'Direitos do Consumidor — Guia Definitivo | Will & Pereira',
+    description: 'guia do Código de Defesa do Consumidor — Tudo que você precisa saber. Will & Pereira Advocacia. Will & Pereira Advocacia Palhoça/SC.',
     category: 'Consumidor',
     date: '30 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -2912,8 +2912,8 @@ Conhecer seus direitos como consumidor é essencial para não ser lesado nas rel
 
   {
     slug: 'direitos-do-consumidor-manual-pratico-9e2d63',
-    title: 'Direitos do Consumidor — Manual Prático | Will & Pereira Advocacia',
-    description: 'guia do Código de Defesa do Consumidor — Informações essenciais. Will & Pereira Advocacia.',
+    title: 'Direitos do Consumidor — Manual Prático | Will & Pereira',
+    description: 'guia do Código de Defesa do Consumidor — Informações essenciais. Will & Pereira Saiba mais sobre seus direitos com a Will & Pereira Advocacia.',
     category: 'Consumidor',
     date: '30 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -2972,8 +2972,8 @@ Conhecer seus direitos como consumidor é essencial para não ser lesado nas rel
 
   {
     slug: 'direitos-do-consumidor-guia-completo',
-    title: 'Direitos do Consumidor — Guia Completo | Will & Pereira Advocacia',
-    description: 'guia do Código de Defesa do Consumidor — Tudo que você precisa saber. Will & Pereira Advocacia.',
+    title: 'Direitos do Consumidor — Guia Completo | Will & Pereira',
+    description: 'guia do Código de Defesa do Consumidor — Tudo que você precisa saber. Will & Pereira Advocacia. Will & Pereira Advocacia Palhoça/SC.',
     category: 'Consumidor',
     date: '30 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -3032,8 +3032,8 @@ Conhecer seus direitos como consumidor é essencial para não ser lesado nas rel
 
   {
     slug: 'direitos-do-consumidor-tudo-que-voce-precisa-saber-d27399',
-    title: 'Direitos do Consumidor — Tudo que Você Precisa Saber | Will & Pereira Advocacia',
-    description: 'guia do Código de Defesa do Consumidor — Guia completo atualizado. Will & Pereira Advocacia.',
+    title: 'Direitos do Consumidor — Tudo que Você Precisa Saber | Will',
+    description: 'guia do Código de Defesa do Consumidor — Guia completo atualizado. Will & Pereira Consulte um especialista da Will & Pereira Advocacia Palhoça/SC.',
     category: 'Consumidor',
     date: '30 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -3092,8 +3092,8 @@ Conhecer seus direitos como consumidor é essencial para não ser lesado nas rel
 
   {
     slug: 'direitos-do-consumidor-manual-pratico-7287fb',
-    title: 'Direitos do Consumidor — Manual Prático | Will & Pereira Advocacia',
-    description: 'guia do Código de Defesa do Consumidor — Informações essenciais. Will & Pereira Advocacia.',
+    title: 'Direitos do Consumidor — Manual Prático | Will & Pereira',
+    description: 'guia do Código de Defesa do Consumidor — Informações essenciais. Will & Pereira Saiba mais sobre seus direitos com a Will & Pereira Advocacia.',
     category: 'Consumidor',
     date: '30 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -3152,8 +3152,8 @@ Conhecer seus direitos como consumidor é essencial para não ser lesado nas rel
 
   {
     slug: 'direitos-do-consumidor-passo-a-passo-b7cf4f',
-    title: 'Direitos do Consumidor — Passo a Passo | Will & Pereira Advocacia',
-    description: 'guia do Código de Defesa do Consumidor — Informações essenciais. Will & Pereira Advocacia.',
+    title: 'Direitos do Consumidor — Passo a Passo | Will & Pereira',
+    description: 'guia do Código de Defesa do Consumidor — Informações essenciais. Will & Pereira Saiba mais sobre seus direitos com a Will & Pereira Advocacia.',
     category: 'Consumidor',
     date: '30 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -3213,6 +3213,7 @@ Conhecer seus direitos como consumidor é essencial para não ser lesado nas rel
     slug: 'plano-saude-negativa-cobertura-como-recorrer',
     title: 'Plano de Saúde Negou Cobertura? Como Recorrer',
     excerpt: 'Guia completo para recorrer de negativa de cobertura de plano de saúde.',
+    description: 'Guia completo para recorrer de negativa de cobertura de plano de saúde. Consulte um especialista da Will & Pereira Advocacia. Atendimento jurídico.',
     date: '2025-01-15',
     category: 'consumidor',
     readTime: '5 min',
@@ -3262,6 +3263,7 @@ Conhecer seus direitos como consumidor é essencial para não ser lesado nas rel
     slug: 'negativacao-injusta-spc-serasa-como-regularizar',
     title: 'Negativação Injusta no SPC/Serasa: Como Regularizar',
     excerpt: 'Passo a passo para remover seu nome dos cadastros de proteção ao crédito.',
+    description: 'Passo a passo para remover seu nome dos cadastros de proteção ao crédito. Saiba mais com a Will & Pereira Advocacia Palhoça/SC. Atendimento.',
     date: '2025-01-15',
     category: 'consumidor',
     readTime: '5 min',
@@ -3311,6 +3313,7 @@ Conhecer seus direitos como consumidor é essencial para não ser lesado nas rel
     slug: 'produto-defeito-troca-devolucao-indenizacao',
     title: 'Produto com Defeito: Direito à Troca, Devolução ou Indenização',
     excerpt: 'Conheça seus direitos quando compra um produto defeituoso.',
+    description: 'Conheça seus direitos quando compra um produto defeituoso. Consulte um especialista da Will & Pereira Advocacia. Atendimento jurídico em todo o.',
     date: '2025-01-15',
     category: 'consumidor',
     readTime: '5 min',
@@ -3356,6 +3359,7 @@ Conhecer seus direitos como consumidor é essencial para não ser lesado nas rel
     slug: 'revisao-contrato-bancario-juros-abusivos',
     title: 'Revisão de Contrato Bancário: Juros Abusivos e Anatocismo',
     excerpt: 'Como questionar juros abusivos e capitalização indevida em contratos bancários.',
+    description: 'Como questionar juros abusivos e capitalização indevida em contratos bancários. Orientação jurídica especializada pela Will & Pereira Advocacia.',
     date: '2025-01-15',
     category: 'consumidor',
     readTime: '5 min',
@@ -3403,6 +3407,7 @@ Conhecer seus direitos como consumidor é essencial para não ser lesado nas rel
     slug: 'publicidade-enganosa-direitos-consumidor',
     title: 'Publicidade Enganosa: Seus Direitos como Consumidor',
     excerpt: 'Como identificar e combater publicidade enganosa ou abusiva.',
+    description: 'Como identificar e combater publicidade enganosa ou abusiva. Orientação jurídica especializada pela Will & Pereira Advocacia. Atendimento jurídico.',
     date: '2025-01-15',
     category: 'consumidor',
     readTime: '5 min',
@@ -3455,6 +3460,7 @@ Toda informação que induz o consumidor a erro sobre:
     slug: 'venda-casada-proibicao-cdc',
     title: 'Venda Casada: Proibição pelo CDC e Como Reagir',
     excerpt: 'O que é venda casada e como o CDC proíbe essa prática abusiva.',
+    description: 'O que é venda casada e como o CDC proíbe essa prática abusiva. Consulte um especialista da Will & Pereira Advocacia. Atendimento jurídico em todo.',
     date: '2025-01-15',
     category: 'consumidor',
     readTime: '5 min',
@@ -3504,6 +3510,7 @@ Art. 39, I, do CDC
     slug: 'superendividamento-lei-14181-como-funciona',
     title: 'Superendividamento: Como a Lei 14.181/2021 Protege o Consumidor',
     excerpt: 'Conheça os mecanismos de prevenção e tratamento do superendividamento.',
+    description: 'Conheça os mecanismos de prevenção e tratamento do superendividamento. Saiba mais com a Will & Pereira Advocacia Palhoça/SC. Atendimento jurídico.',
     date: '2025-01-15',
     category: 'consumidor',
     readTime: '5 min',
@@ -3547,6 +3554,7 @@ Impossibilidade de pagar todas as dívidas sem comprometer o mínimo existencial
     slug: 'servico-defeituoso-direitos-consumidor',
     title: 'Serviço com Defeito: Seus Direitos e Como Reagir',
     excerpt: 'O fazer quando um serviço é prestado de forma inadequada ou com defeito.',
+    description: 'O fazer quando um serviço é prestado de forma inadequada ou com defeito. Will & Pereira Advocacia — atendimento jurídico personalizado.',
     date: '2025-01-15',
     category: 'consumidor',
     readTime: '5 min',
@@ -3595,6 +3603,7 @@ Art. 6º, VIII, do CDC — presunção de vulnerabilidade
     slug: 'cartao-credito-cobranca-indevida',
     title: 'Cartão de Crédito: Cobrança Indevida e Como Contestar',
     excerpt: 'O que fazer quando o cartão de crédito cobra valores indevidos.',
+    description: 'O que fazer quando o cartão de crédito cobra valores indevidos. Consulte um especialista da Will & Pereira Advocacia. Atendimento jurídico em todo.',
     date: '2025-01-15',
     category: 'consumidor',
     readTime: '5 min',
@@ -3642,6 +3651,7 @@ Art. 6º, VIII, do CDC — presunção de vulnerabilidade
     slug: 'transporte-aereo-direitos-passageiro',
     title: 'Direitos do Passageiro Aéreo: Atrasos, Cancelamentos e Extravios',
     excerpt: 'Conheça seus direitos quando voa — atrasos, cancelamentos e bagagem extraviada.',
+    description: 'Conheça seus direitos quando voa — atrasos, cancelamentos e bagagem extraviada. Consulte um especialista da Will & Pereira Advocacia.',
     date: '2025-01-15',
     category: 'consumidor',
     readTime: '5 min',
@@ -3691,6 +3701,7 @@ Art. 6º, VIII, do CDC — presunção de vulnerabilidade
     slug: 'guia-consumidor-compra-veiculo',
     title: 'Compra de Veículo: Direitos do Consumidor',
     excerpt: 'Conheça seus direitos ao comprar um carro — garantias, vícios e defeitos.',
+    description: 'Conheça seus direitos ao comprar um carro — garantias, vícios e defeitos. Orientação jurídica especializada pela Will & Pereira Advocacia.',
     date: '2025-01-15',
     category: 'consumidor',
     readTime: '5 min',
@@ -3734,6 +3745,7 @@ Art. 6º, VIII, do CDC — presunção de vulnerabilidade
     slug: 'plano-saude-reajuste-abusivo-como-questinar',
     title: 'Plano de Saúde: Reajuste Abusivo e Como Questionar',
     excerpt: 'Como contestar reajustes abusivos em planos de saúde coletivos.',
+    description: 'Como contestar reajustes abusivos em planos de saúde coletivos. Fale com um advogado da Will & Pereira Advocacia Palhoça/SC. Atendimento jurídico.',
     date: '2025-01-15',
     category: 'consumidor',
     readTime: '5 min',
@@ -3782,6 +3794,7 @@ Reajustes abusivos de planos de saúde coletivos podem ser questionados judicial
     slug: 'servico-tecnico-celular-computador-defeito',
     title: 'Serviço Técnico com Defeito: Direitos do Consumidor',
     excerpt: 'O que fazer quando o conserto do celular ou computador não resolve o problema.',
+    description: 'O que fazer quando o conserto do celular ou computador não resolve o problema. Will & Pereira Advocacia — atendimento jurídico personalizado.',
     date: '2025-01-15',
     category: 'consumidor',
     readTime: '5 min',
@@ -3823,6 +3836,7 @@ Reajustes abusivos de planos de saúde coletivos podem ser questionados judicial
     slug: 'compra-pela-internet-7-dias-arrependimento',
     title: 'Compra Online: Direito de Arrependimento em 7 Dias',
     excerpt: 'Conheça seu direito de devolver produtos comprados pela internet em até 7 dias.',
+    description: 'Conheça seu direito de devolver produtos comprados pela internet em até 7 dias. Fale com um advogado da Will & Pereira Advocacia Palhoça/SC.',
     date: '2025-01-15',
     category: 'consumidor',
     readTime: '5 min',
@@ -3865,6 +3879,7 @@ Art. 49 do CDC
     slug: 'guia-reclamacao-procon-como-funciona',
     title: 'Reclamação no PROCON: Como Funciona e Quando Usar',
     excerpt: 'Guia completo para reclamar no PROCON — quando, como e o que esperar.',
+    description: 'Guia completo para reclamar no PROCON — quando, como e o que esperar. Fale com um advogado da Will & Pereira Advocacia Palhoça/SC.',
     date: '2025-01-15',
     category: 'consumidor',
     readTime: '5 min',

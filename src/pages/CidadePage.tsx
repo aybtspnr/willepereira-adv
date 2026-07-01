@@ -158,8 +158,19 @@ export default function CidadePage() {
   return (
     <div>
       <SEO
-        title={`Advogado em ${cidade.nome}${cidade.estado === 'SC' ? ' - SC' : ` - ${cidade.estado}`} | Will & Pereira Advocacia`}
-        description={`${content.heroDescription} Atendimento jurídico em ${cidade.nome} com mais de 15 anos de experiência.`}
+        title={((): string => {
+          const uf = cidade.estado
+          const suffix = ` | Will & Pereira Advocacia`
+          const suffixLen = suffix.length
+          const ufPart = ` - ${uf}`
+          const prefix = `Advogado em `
+          const maxNameLen = 60 - prefix.length - ufPart.length - suffixLen
+          const name = cidade.nome.length > maxNameLen
+            ? cidade.nome.substring(0, maxNameLen).trimEnd()
+            : cidade.nome
+          return `${prefix}${name}${ufPart}${suffix}`
+        })()}
+        description={`${content.heroDescription.substring(0, 120)} em ${cidade.nome}/${cidade.estado} com atendimento jurídico personalizado.`}
         canonical={`https://willepereira-adv.vercel.app/cidade/${cidade.slug}`}
       />
 

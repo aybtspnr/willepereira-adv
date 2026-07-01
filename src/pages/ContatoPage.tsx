@@ -82,8 +82,8 @@ export default function ContatoPage() {
   return (
     <div>
       <SEO
-        title="Contato | Will & Pereira Advocacia"
-        description="Entre em contato com a Will & Pereira Advocacia. Atendimento presencial em Palhoça/SC e online para todo o Brasil."
+        title="Contato Advocacia Will & Pereira Palhoça/SC Brasil"
+        description="Entre em contato com a Will & Pereira Advocacia. Atendimento jurídico presencial em Palhoça/SC e online para todo o Brasil. Telefone e WhatsApp."
         canonical="https://willepereira-adv.vercel.app/contato"
       />
 

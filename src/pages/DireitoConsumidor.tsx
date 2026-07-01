@@ -220,8 +220,8 @@ export default function DireitoConsumidor() {
 return (
     <div>
       <SEO
-        title="Direito do Consumidor | Will & Pereira Advocacia"
-        description="Proteção dos direitos do consumidor: CDC, produtos defeituosos, cobrança indevida e planos de saúde."
+        title="Direito Consumidor Will & Pereira Advocacia Palhoça/SC"
+        description="Advocacia especializada em Direito do Consumidor: CDC, produtos defeituosos, cobrança indevida, negativação e planos de saúde. Will & Pereira."
         canonical="https://willepereira-adv.vercel.app/consumidor"
       />
       {/* ═══════════════ HERO ═══════════════ */}

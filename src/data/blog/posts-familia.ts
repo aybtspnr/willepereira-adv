@@ -3,8 +3,8 @@ import type { BlogPost } from '../blogPosts'
 export const familiaPosts: BlogPost[] = [
   {
     slug: 'divorcio-consensual-extrajudicial',
-    title: 'Divórcio Consensual: Como Fazer no Cartório Sem Judicialização | Will & Pereira Advocacia',
-    description: 'Guia completo sobre divórcio consensual extrajudicial: requisitos, documentos, partilha de bens e prazos em cartório.',
+    title: 'Divórcio Consensual: Como Fazer no Cartório Sem',
+    description: 'Guia completo sobre divórcio consensual extrajudicial: requisitos, documentos, Orientação jurídica especializada pela Will & Pereira Advocacia.',
     category: 'Familia',
     date: '27 Jun 2026',
     author: 'Dr. Will Pereira',
@@ -130,8 +130,8 @@ Agende uma orientação jurídica com nossa equipe. Rua Najla Carone Guedert, 10
   },
   {
     slug: 'guarda-compartilhada-filhos',
-    title: 'Guarda Compartilhada: Direitos e Deveres dos Pais | Will & Pereira Advocacia',
-    description: 'Entenda a guarda compartilhada de filhos: como funciona, pensão alimentícia, convivência, residência e decisões conjuntas.',
+    title: 'Guarda Compartilhada: Direitos e Deveres dos Pais | Will &',
+    description: 'Entenda a guarda compartilhada de filhos: como funciona, pensão alimentícia, Fale com um advogado especialista da Will & Pereira Advocacia.',
     category: 'Familia',
     date: '27 Jun 2026',
     author: 'Dr. Will Pereira',
@@ -276,8 +276,8 @@ Agende uma orientação jurídica com nossa equipe. Rua Najla Carone Guedert, 10
   },
   {
     slug: 'pensao-alimenticia-como-calcular',
-    title: 'Pensão Alimentícia: Como é Calculado o Valor e Quem Deve Pagar | Will & Pereira Advocacia',
-    description: 'Saiba como calcular pensão alimentícia: percentual, binômio necessidade-possibilidade, despesas incluídas e revisão.',
+    title: 'Pensão Alimentícia: Como é Calculado o Valor e Quem Deve',
+    description: 'Saiba como calcular pensão alimentícia: percentual, binômio',
     category: 'Familia',
     date: '27 Jun 2026',
     author: 'Dr. Will Pereira',
@@ -422,8 +422,8 @@ Agende uma orientação jurídica com nossa equipe. Rua Najla Carone Guedert, 10
 
   {
     slug: 'direito-de-familia-guia-definitivo',
-    title: 'Direito de Família — Guia Definitivo | Will & Pereira Advocacia',
-    description: 'guia de direito de família — Guia prático. Will & Pereira Advocacia.',
+    title: 'Direito de Família — Guia Definitivo | Will & Pereira',
+    description: 'guia de direito de família — Guia prático. Will & Pereira Advocacia. Will & Pereira Orientação jurídica especializada pela Will & Pereira Advocacia.',
     category: 'Familia',
     date: '29 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -478,8 +478,8 @@ Questões de Direito de Família exigem não apenas conhecimento jurídico, mas 
 
   {
     slug: 'direito-de-familia-passo-a-passo',
-    title: 'Direito de Família — Passo a Passo | Will & Pereira Advocacia',
-    description: 'guia de direito de família — Informações essenciais. Will & Pereira Advocacia.',
+    title: 'Direito de Família — Passo a Passo | Will & Pereira',
+    description: 'guia de direito de família — Informações essenciais. Will & Pereira Advocacia. Will & Saiba mais sobre seus direitos com a Will & Pereira Advocacia.',
     category: 'Familia',
     date: '29 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -534,8 +534,8 @@ Questões de Direito de Família exigem não apenas conhecimento jurídico, mas 
 
   {
     slug: 'direito-de-familia-tudo-que-voce-precisa-saber',
-    title: 'Direito de Família — Tudo que Você Precisa Saber | Will & Pereira Advocacia',
-    description: 'guia de direito de família — Guia prático. Will & Pereira Advocacia.',
+    title: 'Direito de Família — Tudo que Você Precisa Saber | Will &',
+    description: 'guia de direito de família — Guia prático. Will & Pereira Advocacia. Will & Pereira Orientação jurídica especializada pela Will & Pereira Advocacia.',
     category: 'Familia',
     date: '29 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -590,8 +590,8 @@ Questões de Direito de Família exigem não apenas conhecimento jurídico, mas 
 
   {
     slug: 'direito-de-familia-guia-definitivo-9a4eb8',
-    title: 'Direito de Família — Guia Definitivo | Will & Pereira Advocacia',
-    description: 'guia de direito de família — Guia completo atualizado. Will & Pereira Advocacia.',
+    title: 'Direito de Família — Guia Definitivo | Will & Pereira',
+    description: 'guia de direito de família — Guia completo atualizado. Will & Pereira Advocacia. Orientação jurídica especializada pela Will & Pereira Advocacia.',
     category: 'Familia',
     date: '29 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -646,8 +646,8 @@ Questões de Direito de Família exigem não apenas conhecimento jurídico, mas 
 
   {
     slug: 'direito-de-familia-manual-pratico',
-    title: 'Direito de Família — Manual Prático | Will & Pereira Advocacia',
-    description: 'guia de direito de família — Guia completo atualizado. Will & Pereira Advocacia.',
+    title: 'Direito de Família — Manual Prático | Will & Pereira',
+    description: 'guia de direito de família — Guia completo atualizado. Will & Pereira Advocacia. Orientação jurídica especializada pela Will & Pereira Advocacia.',
     category: 'Familia',
     date: '29 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -702,8 +702,8 @@ Questões de Direito de Família exigem não apenas conhecimento jurídico, mas 
 
   {
     slug: 'direito-de-familia-tudo-que-voce-precisa-saber-53dbd3',
-    title: 'Direito de Família — Tudo que Você Precisa Saber | Will & Pereira Advocacia',
-    description: 'guia de direito de família — Informações essenciais. Will & Pereira Advocacia.',
+    title: 'Direito de Família — Tudo que Você Precisa Saber | Will &',
+    description: 'guia de direito de família — Informações essenciais. Will & Pereira Advocacia. Will & Saiba mais sobre seus direitos com a Will & Pereira Advocacia.',
     category: 'Familia',
     date: '30 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -758,8 +758,8 @@ Questões de Direito de Família exigem não apenas conhecimento jurídico, mas 
 
   {
     slug: 'direito-de-familia-passo-a-passo-57a00d',
-    title: 'Direito de Família — Passo a Passo | Will & Pereira Advocacia',
-    description: 'guia de direito de família — Guia completo atualizado. Will & Pereira Advocacia.',
+    title: 'Direito de Família — Passo a Passo | Will & Pereira',
+    description: 'guia de direito de família — Guia completo atualizado. Will & Pereira Advocacia. Orientação jurídica especializada pela Will & Pereira Advocacia.',
     category: 'Familia',
     date: '30 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -814,8 +814,8 @@ Questões de Direito de Família exigem não apenas conhecimento jurídico, mas 
 
   {
     slug: 'direito-de-familia-tudo-que-voce-precisa-saber-0a9330',
-    title: 'Direito de Família — Tudo que Você Precisa Saber | Will & Pereira Advocacia',
-    description: 'guia de direito de família — Guia prático. Will & Pereira Advocacia.',
+    title: 'Direito de Família — Tudo que Você Precisa Saber | Will &',
+    description: 'guia de direito de família — Guia prático. Will & Pereira Advocacia. Will & Pereira Orientação jurídica especializada pela Will & Pereira Advocacia.',
     category: 'Familia',
     date: '30 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -870,8 +870,8 @@ Questões de Direito de Família exigem não apenas conhecimento jurídico, mas 
 
   {
     slug: 'direito-de-familia-passo-a-passo-a987b1',
-    title: 'Direito de Família — Passo a Passo | Will & Pereira Advocacia',
-    description: 'guia de direito de família — Guia prático. Will & Pereira Advocacia.',
+    title: 'Direito de Família — Passo a Passo | Will & Pereira',
+    description: 'guia de direito de família — Guia prático. Will & Pereira Advocacia. Will & Pereira Orientação jurídica especializada pela Will & Pereira Advocacia.',
     category: 'Familia',
     date: '30 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -926,8 +926,8 @@ Questões de Direito de Família exigem não apenas conhecimento jurídico, mas 
 
   {
     slug: 'direito-de-familia-manual-pratico-ebfd8e',
-    title: 'Direito de Família — Manual Prático | Will & Pereira Advocacia',
-    description: 'guia de direito de família — Informações essenciais. Will & Pereira Advocacia.',
+    title: 'Direito de Família — Manual Prático | Will & Pereira',
+    description: 'guia de direito de família — Informações essenciais. Will & Pereira Advocacia. Will & Saiba mais sobre seus direitos com a Will & Pereira Advocacia.',
     category: 'Familia',
     date: '30 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -982,8 +982,8 @@ Questões de Direito de Família exigem não apenas conhecimento jurídico, mas 
 
   {
     slug: 'direito-de-familia-passo-a-passo-879d81',
-    title: 'Direito de Família — Passo a Passo | Will & Pereira Advocacia',
-    description: 'guia de direito de família — Informações essenciais. Will & Pereira Advocacia.',
+    title: 'Direito de Família — Passo a Passo | Will & Pereira',
+    description: 'guia de direito de família — Informações essenciais. Will & Pereira Advocacia. Will & Saiba mais sobre seus direitos com a Will & Pereira Advocacia.',
     category: 'Familia',
     date: '30 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -1038,8 +1038,8 @@ Questões de Direito de Família exigem não apenas conhecimento jurídico, mas 
 
   {
     slug: 'direito-de-familia-guia-completo',
-    title: 'Direito de Família — Guia Completo | Will & Pereira Advocacia',
-    description: 'guia de direito de família — Guia completo atualizado. Will & Pereira Advocacia.',
+    title: 'Direito de Família — Guia Completo | Will & Pereira',
+    description: 'guia de direito de família — Guia completo atualizado. Will & Pereira Advocacia. Orientação jurídica especializada pela Will & Pereira Advocacia.',
     category: 'Familia',
     date: '30 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -1094,8 +1094,8 @@ Questões de Direito de Família exigem não apenas conhecimento jurídico, mas 
 
   {
     slug: 'direito-de-familia-manual-pratico-a11846',
-    title: 'Direito de Família — Manual Prático | Will & Pereira Advocacia',
-    description: 'guia de direito de família — Guia prático. Will & Pereira Advocacia.',
+    title: 'Direito de Família — Manual Prático | Will & Pereira',
+    description: 'guia de direito de família — Guia prático. Will & Pereira Advocacia. Will & Pereira Orientação jurídica especializada pela Will & Pereira Advocacia.',
     category: 'Familia',
     date: '30 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -1150,8 +1150,8 @@ Questões de Direito de Família exigem não apenas conhecimento jurídico, mas 
 
   {
     slug: 'direito-de-familia-tudo-que-voce-precisa-saber-ba1dcb',
-    title: 'Direito de Família — Tudo que Você Precisa Saber | Will & Pereira Advocacia',
-    description: 'guia de direito de família — Guia prático. Will & Pereira Advocacia.',
+    title: 'Direito de Família — Tudo que Você Precisa Saber | Will &',
+    description: 'guia de direito de família — Guia prático. Will & Pereira Advocacia. Will & Pereira Orientação jurídica especializada pela Will & Pereira Advocacia.',
     category: 'Familia',
     date: '30 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -1206,8 +1206,8 @@ Questões de Direito de Família exigem não apenas conhecimento jurídico, mas 
 
   {
     slug: 'direito-de-familia-guia-definitivo-0da095',
-    title: 'Direito de Família — Guia Definitivo | Will & Pereira Advocacia',
-    description: 'guia de direito de família — Informações essenciais. Will & Pereira Advocacia.',
+    title: 'Direito de Família — Guia Definitivo | Will & Pereira',
+    description: 'guia de direito de família — Informações essenciais. Will & Pereira Advocacia. Will & Saiba mais sobre seus direitos com a Will & Pereira Advocacia.',
     category: 'Familia',
     date: '30 Jun 2026',
     author: 'Will & Pereira Advocacia',
@@ -1263,6 +1263,7 @@ Questões de Direito de Família exigem não apenas conhecimento jurídico, mas 
     slug: 'divorcio-consensual-litigioso-diferencas',
     title: 'Divórcio Consensual e Litigioso: Diferenças e Procedimentos',
     excerpt: 'Quando optar por divórcio consensual e quando litigioso é necessário.',
+    description: 'Quando optar por divórcio consensual e quando litigioso é necessário. Will & Pereira Advocacia — atendimento jurídico personalizado.',
     date: '2025-01-15',
     category: 'familia',
     readTime: '5 min',
@@ -1326,6 +1327,7 @@ Questões de Direito de Família exigem não apenas conhecimento jurídico, mas 
     slug: 'pensao-alimenticia-calculo-revisao',
     title: 'Pensão Alimentícia: Como Calcular e Revisar',
     excerpt: 'Guia completo sobre pensão alimentícia — cálculo, pagamento e revisão.',
+    description: 'Guia completo sobre pensão alimentícia — cálculo, pagamento e revisão. Fale com um advogado da Will & Pereira Advocacia Palhoça/SC.',
     date: '2025-01-15',
     category: 'familia',
     readTime: '5 min',
@@ -1383,6 +1385,7 @@ Obrigação de prover o sustento de filho, cônjuge ou ascendente.
     slug: 'uniao-estavel-como-comprovar',
     title: 'União Estável: Como Comprovar e seus Efeitos Jurídicos',
     excerpt: 'Diferenças entre união estável e casamento, e como comprovar a união.',
+    description: 'Diferenças entre união estável e casamento, e como comprovar a união. Will & Pereira Advocacia — atendimento jurídico personalizado.',
     date: '2025-01-15',
     category: 'familia',
     readTime: '5 min',
@@ -1439,6 +1442,7 @@ Relação familiar entre homem e mulher, com convivência pública, contínua e 
     slug: 'alienacao-parental-como-provar',
     title: 'Alienação Parental: Como Identificar e Provar',
     excerpt: 'O que é alienação parental e como proteger seu filho da manipulação do outro genitor.',
+    description: 'O que é alienação parental e como proteger seu filho da manipulação do outro genitor. Will & Pereira Advocacia — atendimento jurídico personalizado.',
     date: '2025-01-15',
     category: 'familia',
     readTime: '5 min',
@@ -1487,6 +1491,7 @@ Conduta que dificulta ou impede o contato do filho com o outro genitor.
     slug: 'guarda-compartilhada-vantagens',
     title: 'Guarda Compartilhada: Vantagens e Como Funciona',
     excerpt: 'Por que a guarda compartilhada é preferida pela legislação e jurisprudência.',
+    description: 'Por que a guarda compartilhada é preferida pela legislação e jurisprudência. Will & Pereira Advocacia — atendimento jurídico personalizado.',
     date: '2025-01-15',
     category: 'familia',
     readTime: '5 min',
@@ -1542,6 +1547,7 @@ Art. 1.584, §1º, do Código Civil
     slug: 'pensao-alimenticia-adulto-estudante',
     title: 'Pensão Alimentícia para Filho Maior de 18 Anos Estudante',
     excerpt: 'Quando o filho maior de 18 anos tem direito a continuar recebendo pensão.',
+    description: 'Quando o filho maior de 18 anos tem direito a continuar recebendo pensão. Fale com um advogado da Will & Pereira Advocacia Palhoça/SC.',
     date: '2025-01-15',
     category: 'familia',
     readTime: '5 min',
@@ -1590,6 +1596,7 @@ Filho maior de 18 anos tem direito a pensão enquanto:
     slug: 'investigacao-paternidade-dna',
     title: 'Investigação de Paternidade: Como Funciona o Teste de DNA',
     excerpt: 'Guia completo sobre investigação de paternidade e teste de DNA.',
+    description: 'Guia completo sobre investigação de paternidade e teste de DNA. Will & Pereira Advocacia — atendimento jurídico personalizado. Atendimento.',
     date: '2025-01-15',
     category: 'familia',
     readTime: '5 min',
@@ -1649,6 +1656,7 @@ A investigação de paternidade é direito indisponível. Um advogado pode orien
     slug: 'violencia-domestica-mulher-medidas-protecao',
     title: 'Violência Doméstica: Medidas Protetivas para a Mulher',
     excerpt: 'Como obter medidas protetivas de urgência em caso de violência doméstica.',
+    description: 'Como obter medidas protetivas de urgência em caso de violência doméstica. Consulte um especialista da Will & Pereira Advocacia. Atendimento.',
     date: '2025-01-15',
     category: 'familia',
     readTime: '5 min',
@@ -1703,6 +1711,7 @@ Lei 11.340/2006 — proteção integral à mulher em situação de violência do
     slug: 'inventario-partilha-bens-como-funciona',
     title: 'Inventário e Partilha de Bens: Passo a Passo',
     excerpt: 'Guia completo sobre inventário — do início ao fim do processo.',
+    description: 'Guia completo sobre inventário — do início ao fim do processo. Orientação jurídica especializada pela Will & Pereira Advocacia. Atendimento.',
     date: '2025-01-15',
     category: 'familia',
     readTime: '5 min',
@@ -1760,6 +1769,7 @@ Processo de identificar, avaliar e partilhar os bens do falecido.
     slug: 'pensao-vitalicia-ex-conjuge',
     title: 'Pensão Alimentícia Vitalícia para Ex-Cônjuge',
     excerpt: 'Quando a pensão alimentícia para ex-cônjuge pode ser vitalícia.',
+    description: 'Quando a pensão alimentícia para ex-cônjuge pode ser vitalícia. Fale com um advogado da Will & Pereira Advocacia Palhoça/SC. Atendimento jurídico.',
     date: '2025-01-15',
     category: 'familia',
     readTime: '5 min',
@@ -1807,6 +1817,7 @@ Processo de identificar, avaliar e partilhar os bens do falecido.
     slug: 'alimentos-provisorios-como-solicitar',
     title: 'Pensão Alimentícia Provisória: Como Solicitar com Urgência',
     excerpt: 'Como obter pensão alimentícia provisória antes da sentença definitiva.',
+    description: 'Como obter pensão alimentícia provisória antes da sentença definitiva. Orientação jurídica especializada pela Will & Pereira Advocacia.',
     date: '2025-01-15',
     category: 'familia',
     readTime: '5 min',
@@ -1855,6 +1866,7 @@ Pensão paga provisoriamente enquanto o processo de alimentos está em andamento
     slug: 'pensao-alimenticia-ancestral-idoso',
     title: 'Pensão Alimentícia para Pais Idosos',
     excerpt: 'Quando filhos devem pagar pensão alimentícia para pais idosos.',
+    description: 'Quando filhos devem pagar pensão alimentícia para pais idosos. Will & Pereira Advocacia — atendimento jurídico personalizado. Atendimento jurídico.',
     date: '2025-01-15',
     category: 'familia',
     readTime: '5 min',
@@ -1902,6 +1914,7 @@ A pensão para pais idosos requer análise da dependência econômica. Um advoga
     slug: 'guarda-unilateral-quando-se-aplica',
     title: 'Guarda Unilateral: Quando é Aplicada e Quais os Direitos',
     excerpt: 'Circunstâncias que levam à guarda unilateral e direitos do genitor não-guardião.',
+    description: 'Circunstâncias que levam à guarda unilateral e direitos do genitor não-guardião. Consulte um especialista da Will & Pereira Advocacia.',
     date: '2025-01-15',
     category: 'familia',
     readTime: '5 min',
@@ -1948,6 +1961,7 @@ A guarda unilateral é exceção. Um advogado pode avaliar se há justificativa 
     slug: 'pensao-alimenticia-desconto-folha',
     title: 'Pensão Alimentícia com Desconto em Folha',
     excerpt: 'Como funciona o desconto de pensão alimentícia em folha de pagamento.',
+    description: 'Como funciona o desconto de pensão alimentícia em folha de pagamento. Orientação jurídica especializada pela Will & Pereira Advocacia.',
     date: '2025-01-15',
     category: 'familia',
     readTime: '5 min',
@@ -1991,6 +2005,7 @@ A guarda unilateral é exceção. Um advogado pode avaliar se há justificativa 
     slug: 'inventario-extrajudicial-como-funciona',
     title: 'Inventário Extrajudicial: Como Funciona em Cartório',
     excerpt: 'Guia para inventário rápido e econômico em cartório.',
+    description: 'Guia para inventário rápido e econômico em cartório. Orientação jurídica especializada pela Will & Pereira Advocacia. Atendimento jurídico em todo.',
     date: '2025-01-15',
     category: 'familia',
     readTime: '5 min',
@@ -2042,6 +2057,7 @@ O inventário extrajudicial exige orientação jurídica. Um advogado pode orien
     slug: 'pensao-alimenticia-revisao-rendimento',
     title: 'Revisão de Pensão Alimentícia por Mudança de Rendimento',
     excerpt: 'Como solicitar revisão quando a renda do alimentante muda.',
+    description: 'Como solicitar revisão quando a renda do alimentante muda. Saiba mais com a Will & Pereira Advocacia Palhoça/SC. Atendimento jurídico em todo o.',
     date: '2025-01-15',
     category: 'familia',
     readTime: '5 min',

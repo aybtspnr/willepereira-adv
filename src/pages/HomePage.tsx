@@ -117,8 +117,8 @@ export default function HomePage() {
   return (
     <div>
       <SEO
-        title="Will & Pereira Advocacia | Escritório Jurídico Premium em Palhoça/SC"
-        description="Escritório de advocacia premium com mais de 15 anos de experiência. Especializado em Direito Previdenciário, Trabalhista, Cível, Consumidor, Família e Imobiliário."
+        title="Advogados em Palhoça/SC | Will & Pereira Advocacia"
+        description="Escritório de advocacia com mais de 15 anos em Palhoça/SC. Especialistas em Direito Previdenciário, Trabalhista, Cível, Consumidor e Família."
         canonical="https://willepereira-adv.vercel.app/"
       />
 

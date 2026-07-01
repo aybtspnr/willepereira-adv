@@ -19,7 +19,7 @@ export default function PrivacidadePage() {
     <div>
       <SEO
         title="Política de Privacidade | Will & Pereira Advocacia"
-        description="Política de privacidade e proteção de dados da Will & Pereira Advocacia. LGPD."
+        description="Política de privacidade e proteção de dados pessoais da Will & Pereira Advocacia. Conformidade com a LGPD e sigilo profissional garantido."
         canonical="https://willepereira-adv.vercel.app/privacidade"
       />
 

@@ -18,8 +18,8 @@ export default function TermosPage() {
   return (
     <div>
       <SEO
-        title="Termos de Uso | Will & Pereira Advocacia"
-        description="Termos e condições de uso do site da Will & Pereira Advocacia."
+        title="Termos de Uso Will & Pereira Advocacia em Palhoça/SC"
+        description="Termos e condições de uso do site da Will & Pereira Advocacia. Leia antes de utilizar nossos serviços jurídicos online em Palhoça/SC."
         canonical="https://willepereira-adv.vercel.app/termos"
       />
 
