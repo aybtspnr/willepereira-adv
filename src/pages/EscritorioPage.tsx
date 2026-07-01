@@ -307,7 +307,7 @@ export default function EscritorioPage() {
                       }}
                     >
                       <div style={{ fontSize: '1.2rem', fontWeight: 700 }}>{evento.date.split(' ')[0]}</div>
-                      <div style={{ fontSize: '0.65rem', fontWeight: 600, textTransform: 'uppercase' }}>{evento.date.split(' ')[1]}</div>
+                      <div style={{ fontSize: '0.75rem', fontWeight: 600, textTransform: 'uppercase' }}>{evento.date.split(' ')[1]}</div>
                     </div>
                     <div>
                       <div style={{ fontSize: '0.75rem', color: 'var(--gold)', fontWeight: 600 }}>{evento.date}</div>

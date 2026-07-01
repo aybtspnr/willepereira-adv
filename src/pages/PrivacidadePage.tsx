@@ -2,7 +2,6 @@ import { motion } from 'framer-motion'
 import { Link } from 'react-router-dom'
 import { ArrowLeft, Shield, Lock, Eye, UserCheck, FileText, Database, AlertCircle } from 'lucide-react'
 import SEO from '../components/SEO'
-import Breadcrumb from '../components/Breadcrumb'
 
 function SectionTitle({ num, title, icon: Icon }: { num: string; title: string; icon: any }) {
   return (
@@ -18,8 +17,7 @@ function SectionTitle({ num, title, icon: Icon }: { num: string; title: string; 
 export default function PrivacidadePage() {
   return (
     <div>
-      <Breadcrumb />
-        <SEO
+      <SEO
         title="Política de Privacidade | Will & Pereira Advocacia"
         description="Política de privacidade e proteção de dados pessoais da Will & Pereira Advocacia. Conformidade com a LGPD e sigilo profissional garantido."
         canonical="https://willepereira-adv.vercel.app/privacidade"

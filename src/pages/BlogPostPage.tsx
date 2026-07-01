@@ -213,7 +213,7 @@ export default function BlogPostPage() {
       // H4
       if (line.startsWith('#### ')) {
         elements.push(
-          <h4 key={i} style={{ fontFamily: 'var(--font-serif)', fontSize: '1.1rem', color: 'var(--navy)', marginTop: 24, marginBottom: 8 }}>{line.slice(5)}</h4>
+          <h4 key={i} style={{ fontFamily: 'var(--font-serif)', fontSize: '1.125rem', color: 'var(--navy)', marginTop: 24, marginBottom: 8 }}>{line.slice(5)}</h4>
         )
         continue
       }

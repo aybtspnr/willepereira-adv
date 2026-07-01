@@ -115,6 +115,20 @@ input, textarea, select { font: inherit; color: inherit; }
 .rounded-lg { border-radius: 12px; } .rounded-xl { border-radius: 16px; } .rounded-full { border-radius: 9999px; }
 .border-b { border-bottom: 1px solid; }
 
+
+/* ═══ Section Spacing ═══ */
+.section-sm { padding: 48px 0; }
+.section-md { padding: 64px 0; }
+.section-lg { padding: 96px 0; }
+.section-xl { padding: 120px 0; }
+
+@media (min-width: 768px) {
+  .section-sm { padding: 64px 0; }
+  .section-md { padding: 96px 0; }
+  .section-lg { padding: 120px 0; }
+  .section-xl { padding: 160px 0; }
+}
+
 @media (min-width: 768px) {
   .md\\:flex { display: flex; }
   .md\\:hidden { display: none !important; }

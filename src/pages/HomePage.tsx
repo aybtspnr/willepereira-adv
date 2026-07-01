@@ -177,7 +177,7 @@ export default function HomePage() {
               animate={{ opacity: 1 }}
               transition={{ duration: 1, delay: 1.2 }}
               className="flex flex-wrap items-center gap-6"
-              style={{ marginTop: '48px', fontSize: '11px', textTransform: 'uppercase', letterSpacing: '0.15em', color: 'rgba(255,255,255,0.3)' }}
+              style={{ marginTop: '48px', fontSize: '0.75rem', textTransform: 'uppercase', letterSpacing: '0.15em', color: 'rgba(255,255,255,0.3)' }}
             >
               <span>Atendimento Nacional</span>
               <span className="w-px h-3" style={{ background: 'rgba(255,255,255,0.1)' }} />
@@ -474,7 +474,7 @@ export default function HomePage() {
               Pronto para Defender<br />
               <span className="gold-text">Seus Direitos?</span>
             </h2>
-            <p style={{ color: 'rgba(255,255,255,0.5)', fontSize: '1.1rem', maxWidth: '500px', margin: '0 auto 40px', fontWeight: 300 }}>
+            <p style={{ color: 'rgba(255,255,255,0.5)', fontSize: '1.125rem', maxWidth: '500px', margin: '0 auto 40px', fontWeight: 300 }}>
               Entre em contato com nossa equipe especializada. Analisamos seu caso com a excelência que você merece.
             </p>
             <div className="flex flex-wrap justify-center gap-4">
