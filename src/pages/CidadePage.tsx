@@ -2,7 +2,7 @@ import { useParams, Link } from 'react-router-dom'
 import { motion } from 'framer-motion'
 import { ArrowRight, CheckCircle, MapPin, Phone } from 'lucide-react'
 import SEO from '../components/SEO'
-import { getCidadeBySlug, type CidadeInfo } from '../data/cidades'
+import { getCidadeBySlug, type CidadeInfo, getCidadeExtraBySlug, type CidadeExtra } from '../data/cidades'
 
 // Import all pre-generated content files
 const contentModules = import.meta.glob('../data/cidades-content/*.ts', { eager: true })
@@ -116,7 +116,7 @@ const areaLabels: Record<string, { title: string; icon: string; services: string
 
 export default function CidadePage() {
   const { slug } = useParams<{ slug: string }>()
-  const cidade = getCidadeBySlug(slug || '')
+  const cidade = getCidadeBySlug(slug || '') || getCidadeExtraBySlug(slug || '')
 
   if (!cidade) {
     return (
@@ -148,7 +148,7 @@ export default function CidadePage() {
   return (
     <div>
       <SEO
-        title={`Advogado em ${cidade.nome}${cidade.isCapital ? ` - ${cidade.regiao}` : ' - SC'} | Will & Pereira Advocacia`}
+        title={`Advogado em ${cidade.nome}${cidade.estado === 'SC' ? ' - SC' : ` - ${cidade.estado}`} | Will & Pereira Advocacia`}
         description={`${content.heroDescription} Atendimento jurídico em ${cidade.nome} com mais de 15 anos de experiência.`}
         canonical={`https://willepereira-adv.vercel.app/cidade/${cidade.slug}`}
       />
@@ -161,7 +161,7 @@ export default function CidadePage() {
             initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}
             className="inline-block px-4 py-1.5 bg-gold-15 text-gold text-xs font-semibold uppercase tracking-widest rounded-full mb-4"
           >
-            Advocacia em {cidade.nome} • {cidade.isCapital ? 'Capital' : cidade.regiao}
+            Advocacia em {cidade.nome} • {cidade.regiao}
           </motion.span>
           <motion.h1
             initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.2 }}
