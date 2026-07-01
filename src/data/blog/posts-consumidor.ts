@@ -2609,4 +2609,304 @@ Conhecer seus direitos como consumidor é essencial para não ser lesado nas rel
 📞 (48) 98842-0867
 🌐 willepereira-adv.vercel.app`,
   },
+
+  {
+    slug: 'direitos-do-consumidor-tudo-que-voce-precisa-saber-9d2b01',
+    title: 'Direitos do Consumidor — Tudo que Você Precisa Saber | Will & Pereira Advocacia',
+    description: 'guia do Código de Defesa do Consumidor — Guia completo atualizado. Will & Pereira Advocacia.',
+    category: 'Consumidor',
+    date: '30 Jun 2026',
+    author: 'Will & Pereira Advocacia',
+    content: `## Seus Direitos como Consumidor
+
+O Código de Defesa do Consumidor (Lei 8.078/90) completa mais de 30 anos como um dos marcos legais mais importantes do Brasil. Considerado um dos mais avançados do mundo, o CDC protege os consumidores em suas relações com fornecedores de produtos e serviços.
+
+## Seus Principais Direitos
+
+### Produtos com Defeito
+Se um produto apresenta defeito, o consumidor tem direito a:
+• Troca do produto por outro igual
+• Devolução do valor pago (com correção)
+• Abatimento proporcional no preço
+• Produto equivalente (se o modelo original não estiver disponível)
+
+### Cobrança Indevida
+Cobranças indevidas são mais comuns do que se imagina. Se você recebeu uma cobrança por um serviço não contratado ou um valor incorreto, saiba que:
+
+• A empresa pode ser obrigada a pagar indenização por danos morais
+• A cobrança deve ser cancelada e o nome retirado dos órgãos de proteção ao crédito
+• Você tem direito à devolução em dobro do valor pago indevidamente
+
+### Planos de Saúde
+Os planos de saúde são uma das maiores fontes de reclamação nos órgãos de defesa do consumidor. Os principais problemas incluem:
+
+• Negativa de cobertura para procedimentos previstos no rol da ANS
+• Reajustes abusivos por faixa etária
+• Rescisão unilateral do contrato
+• Carência excessiva
+• Exclusão de doenças pré-existentes
+
+### Serviços Bancários
+Bancos e instituições financeiras também estão sujeitos ao CDC:
+
+• Tarifas abusivas e não autorizadas
+• Juros excessivos e capitalização
+• Descontos indevidos em conta corrente
+• Produtos bancários vendidos sem informação adequada
+
+## Como Reclamar
+
+Se seus direitos foram violados, siga estes passos:
+
+**1. Tente resolver diretamente:** Entre em contato com o SAC da empresa
+**2. Registre reclamação:** Procon, Reclame Aqui ou Consumidor.gov.br
+**3. Busque orientação jurídica:** Um advogado especializado pode avaliar seu caso
+
+## Conclusão
+
+Conhecer seus direitos como consumidor é essencial para não ser lesado nas relações de consumo. A Will & Pereira Advocacia oferece assessoria completa em Direito do Consumidor.
+
+📞 (48) 98842-0867
+🌐 willepereira-adv.vercel.app`,
+  },
+
+  {
+    slug: 'direitos-do-consumidor-guia-definitivo',
+    title: 'Direitos do Consumidor — Guia Definitivo | Will & Pereira Advocacia',
+    description: 'guia do Código de Defesa do Consumidor — Guia prático. Will & Pereira Advocacia.',
+    category: 'Consumidor',
+    date: '30 Jun 2026',
+    author: 'Will & Pereira Advocacia',
+    content: `## Proteção ao Consumidor
+
+O Código de Defesa do Consumidor (Lei 8.078/90) completa mais de 30 anos como um dos marcos legais mais importantes do Brasil. Considerado um dos mais avançados do mundo, o CDC protege os consumidores em suas relações com fornecedores de produtos e serviços.
+
+## Seus Principais Direitos
+
+### Produtos com Defeito
+Se um produto apresenta defeito, o consumidor tem direito a:
+• Troca do produto por outro igual
+• Devolução do valor pago (com correção)
+• Abatimento proporcional no preço
+• Produto equivalente (se o modelo original não estiver disponível)
+
+### Cobrança Indevida
+Cobranças indevidas são mais comuns do que se imagina. Se você recebeu uma cobrança por um serviço não contratado ou um valor incorreto, saiba que:
+
+• A empresa pode ser obrigada a pagar indenização por danos morais
+• A cobrança deve ser cancelada e o nome retirado dos órgãos de proteção ao crédito
+• Você tem direito à devolução em dobro do valor pago indevidamente
+
+### Planos de Saúde
+Os planos de saúde são uma das maiores fontes de reclamação nos órgãos de defesa do consumidor. Os principais problemas incluem:
+
+• Negativa de cobertura para procedimentos previstos no rol da ANS
+• Reajustes abusivos por faixa etária
+• Rescisão unilateral do contrato
+• Carência excessiva
+• Exclusão de doenças pré-existentes
+
+### Serviços Bancários
+Bancos e instituições financeiras também estão sujeitos ao CDC:
+
+• Tarifas abusivas e não autorizadas
+• Juros excessivos e capitalização
+• Descontos indevidos em conta corrente
+• Produtos bancários vendidos sem informação adequada
+
+## Como Reclamar
+
+Se seus direitos foram violados, siga estes passos:
+
+**1. Tente resolver diretamente:** Entre em contato com o SAC da empresa
+**2. Registre reclamação:** Procon, Reclame Aqui ou Consumidor.gov.br
+**3. Busque orientação jurídica:** Um advogado especializado pode avaliar seu caso
+
+## Conclusão
+
+Conhecer seus direitos como consumidor é essencial para não ser lesado nas relações de consumo. A Will & Pereira Advocacia oferece assessoria completa em Direito do Consumidor.
+
+📞 (48) 98842-0867
+🌐 willepereira-adv.vercel.app`,
+  },
+
+  {
+    slug: 'direitos-do-consumidor-passo-a-passo-04bcef',
+    title: 'Direitos do Consumidor — Passo a Passo | Will & Pereira Advocacia',
+    description: 'guia do Código de Defesa do Consumidor — Informações essenciais. Will & Pereira Advocacia.',
+    category: 'Consumidor',
+    date: '30 Jun 2026',
+    author: 'Will & Pereira Advocacia',
+    content: `## Guia do Consumidor
+
+O Código de Defesa do Consumidor (Lei 8.078/90) completa mais de 30 anos como um dos marcos legais mais importantes do Brasil. Considerado um dos mais avançados do mundo, o CDC protege os consumidores em suas relações com fornecedores de produtos e serviços.
+
+## Seus Principais Direitos
+
+### Produtos com Defeito
+Se um produto apresenta defeito, o consumidor tem direito a:
+• Troca do produto por outro igual
+• Devolução do valor pago (com correção)
+• Abatimento proporcional no preço
+• Produto equivalente (se o modelo original não estiver disponível)
+
+### Cobrança Indevida
+Cobranças indevidas são mais comuns do que se imagina. Se você recebeu uma cobrança por um serviço não contratado ou um valor incorreto, saiba que:
+
+• A empresa pode ser obrigada a pagar indenização por danos morais
+• A cobrança deve ser cancelada e o nome retirado dos órgãos de proteção ao crédito
+• Você tem direito à devolução em dobro do valor pago indevidamente
+
+### Planos de Saúde
+Os planos de saúde são uma das maiores fontes de reclamação nos órgãos de defesa do consumidor. Os principais problemas incluem:
+
+• Negativa de cobertura para procedimentos previstos no rol da ANS
+• Reajustes abusivos por faixa etária
+• Rescisão unilateral do contrato
+• Carência excessiva
+• Exclusão de doenças pré-existentes
+
+### Serviços Bancários
+Bancos e instituições financeiras também estão sujeitos ao CDC:
+
+• Tarifas abusivas e não autorizadas
+• Juros excessivos e capitalização
+• Descontos indevidos em conta corrente
+• Produtos bancários vendidos sem informação adequada
+
+## Como Reclamar
+
+Se seus direitos foram violados, siga estes passos:
+
+**1. Tente resolver diretamente:** Entre em contato com o SAC da empresa
+**2. Registre reclamação:** Procon, Reclame Aqui ou Consumidor.gov.br
+**3. Busque orientação jurídica:** Um advogado especializado pode avaliar seu caso
+
+## Conclusão
+
+Conhecer seus direitos como consumidor é essencial para não ser lesado nas relações de consumo. A Will & Pereira Advocacia oferece assessoria completa em Direito do Consumidor.
+
+📞 (48) 98842-0867
+🌐 willepereira-adv.vercel.app`,
+  },
+
+  {
+    slug: 'direitos-do-consumidor-tudo-que-voce-precisa-saber-1c1705',
+    title: 'Direitos do Consumidor — Tudo que Você Precisa Saber | Will & Pereira Advocacia',
+    description: 'guia do Código de Defesa do Consumidor — Tudo que você precisa saber. Will & Pereira Advocacia.',
+    category: 'Consumidor',
+    date: '30 Jun 2026',
+    author: 'Will & Pereira Advocacia',
+    content: `## Proteção ao Consumidor
+
+O Código de Defesa do Consumidor (Lei 8.078/90) completa mais de 30 anos como um dos marcos legais mais importantes do Brasil. Considerado um dos mais avançados do mundo, o CDC protege os consumidores em suas relações com fornecedores de produtos e serviços.
+
+## Seus Principais Direitos
+
+### Produtos com Defeito
+Se um produto apresenta defeito, o consumidor tem direito a:
+• Troca do produto por outro igual
+• Devolução do valor pago (com correção)
+• Abatimento proporcional no preço
+• Produto equivalente (se o modelo original não estiver disponível)
+
+### Cobrança Indevida
+Cobranças indevidas são mais comuns do que se imagina. Se você recebeu uma cobrança por um serviço não contratado ou um valor incorreto, saiba que:
+
+• A empresa pode ser obrigada a pagar indenização por danos morais
+• A cobrança deve ser cancelada e o nome retirado dos órgãos de proteção ao crédito
+• Você tem direito à devolução em dobro do valor pago indevidamente
+
+### Planos de Saúde
+Os planos de saúde são uma das maiores fontes de reclamação nos órgãos de defesa do consumidor. Os principais problemas incluem:
+
+• Negativa de cobertura para procedimentos previstos no rol da ANS
+• Reajustes abusivos por faixa etária
+• Rescisão unilateral do contrato
+• Carência excessiva
+• Exclusão de doenças pré-existentes
+
+### Serviços Bancários
+Bancos e instituições financeiras também estão sujeitos ao CDC:
+
+• Tarifas abusivas e não autorizadas
+• Juros excessivos e capitalização
+• Descontos indevidos em conta corrente
+• Produtos bancários vendidos sem informação adequada
+
+## Como Reclamar
+
+Se seus direitos foram violados, siga estes passos:
+
+**1. Tente resolver diretamente:** Entre em contato com o SAC da empresa
+**2. Registre reclamação:** Procon, Reclame Aqui ou Consumidor.gov.br
+**3. Busque orientação jurídica:** Um advogado especializado pode avaliar seu caso
+
+## Conclusão
+
+Conhecer seus direitos como consumidor é essencial para não ser lesado nas relações de consumo. A Will & Pereira Advocacia oferece assessoria completa em Direito do Consumidor.
+
+📞 (48) 98842-0867
+🌐 willepereira-adv.vercel.app`,
+  },
+
+  {
+    slug: 'direitos-do-consumidor-guia-definitivo-d57a77',
+    title: 'Direitos do Consumidor — Guia Definitivo | Will & Pereira Advocacia',
+    description: 'guia do Código de Defesa do Consumidor — Tudo que você precisa saber. Will & Pereira Advocacia.',
+    category: 'Consumidor',
+    date: '30 Jun 2026',
+    author: 'Will & Pereira Advocacia',
+    content: `## Código de Defesa do Consumidor
+
+O Código de Defesa do Consumidor (Lei 8.078/90) completa mais de 30 anos como um dos marcos legais mais importantes do Brasil. Considerado um dos mais avançados do mundo, o CDC protege os consumidores em suas relações com fornecedores de produtos e serviços.
+
+## Seus Principais Direitos
+
+### Produtos com Defeito
+Se um produto apresenta defeito, o consumidor tem direito a:
+• Troca do produto por outro igual
+• Devolução do valor pago (com correção)
+• Abatimento proporcional no preço
+• Produto equivalente (se o modelo original não estiver disponível)
+
+### Cobrança Indevida
+Cobranças indevidas são mais comuns do que se imagina. Se você recebeu uma cobrança por um serviço não contratado ou um valor incorreto, saiba que:
+
+• A empresa pode ser obrigada a pagar indenização por danos morais
+• A cobrança deve ser cancelada e o nome retirado dos órgãos de proteção ao crédito
+• Você tem direito à devolução em dobro do valor pago indevidamente
+
+### Planos de Saúde
+Os planos de saúde são uma das maiores fontes de reclamação nos órgãos de defesa do consumidor. Os principais problemas incluem:
+
+• Negativa de cobertura para procedimentos previstos no rol da ANS
+• Reajustes abusivos por faixa etária
+• Rescisão unilateral do contrato
+• Carência excessiva
+• Exclusão de doenças pré-existentes
+
+### Serviços Bancários
+Bancos e instituições financeiras também estão sujeitos ao CDC:
+
+• Tarifas abusivas e não autorizadas
+• Juros excessivos e capitalização
+• Descontos indevidos em conta corrente
+• Produtos bancários vendidos sem informação adequada
+
+## Como Reclamar
+
+Se seus direitos foram violados, siga estes passos:
+
+**1. Tente resolver diretamente:** Entre em contato com o SAC da empresa
+**2. Registre reclamação:** Procon, Reclame Aqui ou Consumidor.gov.br
+**3. Busque orientação jurídica:** Um advogado especializado pode avaliar seu caso
+
+## Conclusão
+
+Conhecer seus direitos como consumidor é essencial para não ser lesado nas relações de consumo. A Will & Pereira Advocacia oferece assessoria completa em Direito do Consumidor.
+
+📞 (48) 98842-0867
+🌐 willepereira-adv.vercel.app`,
+  },
 ]

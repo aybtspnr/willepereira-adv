@@ -2224,4 +2224,284 @@ O Direito Cível é fundamental para a vida em sociedade. Se você tem dúvidas 
 📞 (48) 98842-0867
 🌐 willepereira-adv.vercel.app`,
   },
+
+  {
+    slug: 'direito-civel-manual-pratico-52a4e2',
+    title: 'Direito Cível — Manual Prático | Will & Pereira Advocacia',
+    description: 'guia de direito civil — Guia prático. Will & Pereira Advocacia.',
+    category: 'Civel',
+    date: '30 Jun 2026',
+    author: 'Will & Pereira Advocacia',
+    content: `## Direito Cível para Leigos
+
+O Direito Cível é o ramo do Direito que regula as relações entre pessoas físicas e jurídicas no cotidiano. Desde contratos até indenizações, passando por questões de propriedade e família, o Direito Cível está presente em praticamente todos os aspectos da vida.
+
+A Will & Pereira Advocacia preparou este guia completo para explicar os principais conceitos do Direito Cível e como eles afetam sua vida.
+
+## Contratos
+
+Os contratos são acordos de vontades que criam, modificam ou extinguem direitos e obrigações. No Direito Cível, os contratos são regidos por princípios como:
+
+**Princípios contratuais:**
+• Autonomia da vontade: as partes são livres para contratar
+• Boa-fé objetiva: as partes devem agir com honestidade e lealdade
+• Função social do contrato: o contrato não pode prejudicar terceiros
+• Obrigatoriedade: o contrato faz lei entre as partes
+
+## Responsabilidade Civil
+
+A responsabilidade civil é a obrigação de reparar danos causados a terceiros. Pode ser:
+
+**Contratual:** quando decorre do descumprimento de um contrato
+**Extracontratual:** quando decorre de ato ilícito ou abuso de direito
+
+## Usucapião
+
+A usucapião é a forma de aquisição de propriedade pela posse prolongada e contínua. Existem várias modalidades:
+
+**Usucapião extraordinária:** 15 anos de posse (10 anos se houver moradia)
+**Usucapião ordinária:** 10 anos de posse com justo título e boa-fé
+**Usucapião especial urbana:** 5 anos de posse de imóvel urbano até 250m²
+**Usucapião especial rural:** 5 anos de posse de imóvel rural até 50 hectares
+
+## Direito de Vizinhança
+
+O Direito de Vizinhança regula as relações entre proprietários de imóveis vizinhos. Os principais temas incluem:
+
+• Uso anormal da propriedade (ruídos, fumaça, odores)
+• Árvores e plantas limítrofes
+• Passagem forçada
+• Águas e construções
+
+## Conclusão
+
+O Direito Cível é fundamental para a vida em sociedade. Se você tem dúvidas sobre contratos, indenizações, propriedade ou qualquer outra questão cível, a Will & Pereira Advocacia está pronta para ajudar.
+
+📞 (48) 98842-0867
+🌐 willepereira-adv.vercel.app`,
+  },
+
+  {
+    slug: 'direito-civel-passo-a-passo',
+    title: 'Direito Cível — Passo a Passo | Will & Pereira Advocacia',
+    description: 'guia de direito civil — Guia completo atualizado. Will & Pereira Advocacia.',
+    category: 'Civel',
+    date: '30 Jun 2026',
+    author: 'Will & Pereira Advocacia',
+    content: `## Direito Cível para Leigos
+
+O Direito Cível é o ramo do Direito que regula as relações entre pessoas físicas e jurídicas no cotidiano. Desde contratos até indenizações, passando por questões de propriedade e família, o Direito Cível está presente em praticamente todos os aspectos da vida.
+
+A Will & Pereira Advocacia preparou este guia completo para explicar os principais conceitos do Direito Cível e como eles afetam sua vida.
+
+## Contratos
+
+Os contratos são acordos de vontades que criam, modificam ou extinguem direitos e obrigações. No Direito Cível, os contratos são regidos por princípios como:
+
+**Princípios contratuais:**
+• Autonomia da vontade: as partes são livres para contratar
+• Boa-fé objetiva: as partes devem agir com honestidade e lealdade
+• Função social do contrato: o contrato não pode prejudicar terceiros
+• Obrigatoriedade: o contrato faz lei entre as partes
+
+## Responsabilidade Civil
+
+A responsabilidade civil é a obrigação de reparar danos causados a terceiros. Pode ser:
+
+**Contratual:** quando decorre do descumprimento de um contrato
+**Extracontratual:** quando decorre de ato ilícito ou abuso de direito
+
+## Usucapião
+
+A usucapião é a forma de aquisição de propriedade pela posse prolongada e contínua. Existem várias modalidades:
+
+**Usucapião extraordinária:** 15 anos de posse (10 anos se houver moradia)
+**Usucapião ordinária:** 10 anos de posse com justo título e boa-fé
+**Usucapião especial urbana:** 5 anos de posse de imóvel urbano até 250m²
+**Usucapião especial rural:** 5 anos de posse de imóvel rural até 50 hectares
+
+## Direito de Vizinhança
+
+O Direito de Vizinhança regula as relações entre proprietários de imóveis vizinhos. Os principais temas incluem:
+
+• Uso anormal da propriedade (ruídos, fumaça, odores)
+• Árvores e plantas limítrofes
+• Passagem forçada
+• Águas e construções
+
+## Conclusão
+
+O Direito Cível é fundamental para a vida em sociedade. Se você tem dúvidas sobre contratos, indenizações, propriedade ou qualquer outra questão cível, a Will & Pereira Advocacia está pronta para ajudar.
+
+📞 (48) 98842-0867
+🌐 willepereira-adv.vercel.app`,
+  },
+
+  {
+    slug: 'direito-civel-guia-completo-f5172b',
+    title: 'Direito Cível — Guia Completo | Will & Pereira Advocacia',
+    description: 'guia de direito civil — Tudo que você precisa saber. Will & Pereira Advocacia.',
+    category: 'Civel',
+    date: '30 Jun 2026',
+    author: 'Will & Pereira Advocacia',
+    content: `## Guia Completo de Direito Cível
+
+O Direito Cível é o ramo do Direito que regula as relações entre pessoas físicas e jurídicas no cotidiano. Desde contratos até indenizações, passando por questões de propriedade e família, o Direito Cível está presente em praticamente todos os aspectos da vida.
+
+A Will & Pereira Advocacia preparou este guia completo para explicar os principais conceitos do Direito Cível e como eles afetam sua vida.
+
+## Contratos
+
+Os contratos são acordos de vontades que criam, modificam ou extinguem direitos e obrigações. No Direito Cível, os contratos são regidos por princípios como:
+
+**Princípios contratuais:**
+• Autonomia da vontade: as partes são livres para contratar
+• Boa-fé objetiva: as partes devem agir com honestidade e lealdade
+• Função social do contrato: o contrato não pode prejudicar terceiros
+• Obrigatoriedade: o contrato faz lei entre as partes
+
+## Responsabilidade Civil
+
+A responsabilidade civil é a obrigação de reparar danos causados a terceiros. Pode ser:
+
+**Contratual:** quando decorre do descumprimento de um contrato
+**Extracontratual:** quando decorre de ato ilícito ou abuso de direito
+
+## Usucapião
+
+A usucapião é a forma de aquisição de propriedade pela posse prolongada e contínua. Existem várias modalidades:
+
+**Usucapião extraordinária:** 15 anos de posse (10 anos se houver moradia)
+**Usucapião ordinária:** 10 anos de posse com justo título e boa-fé
+**Usucapião especial urbana:** 5 anos de posse de imóvel urbano até 250m²
+**Usucapião especial rural:** 5 anos de posse de imóvel rural até 50 hectares
+
+## Direito de Vizinhança
+
+O Direito de Vizinhança regula as relações entre proprietários de imóveis vizinhos. Os principais temas incluem:
+
+• Uso anormal da propriedade (ruídos, fumaça, odores)
+• Árvores e plantas limítrofes
+• Passagem forçada
+• Águas e construções
+
+## Conclusão
+
+O Direito Cível é fundamental para a vida em sociedade. Se você tem dúvidas sobre contratos, indenizações, propriedade ou qualquer outra questão cível, a Will & Pereira Advocacia está pronta para ajudar.
+
+📞 (48) 98842-0867
+🌐 willepereira-adv.vercel.app`,
+  },
+
+  {
+    slug: 'direito-civel-tudo-que-voce-precisa-saber-080a31',
+    title: 'Direito Cível — Tudo que Você Precisa Saber | Will & Pereira Advocacia',
+    description: 'guia de direito civil — Informações essenciais. Will & Pereira Advocacia.',
+    category: 'Civel',
+    date: '30 Jun 2026',
+    author: 'Will & Pereira Advocacia',
+    content: `## Tudo sobre Direito Cível
+
+O Direito Cível é o ramo do Direito que regula as relações entre pessoas físicas e jurídicas no cotidiano. Desde contratos até indenizações, passando por questões de propriedade e família, o Direito Cível está presente em praticamente todos os aspectos da vida.
+
+A Will & Pereira Advocacia preparou este guia completo para explicar os principais conceitos do Direito Cível e como eles afetam sua vida.
+
+## Contratos
+
+Os contratos são acordos de vontades que criam, modificam ou extinguem direitos e obrigações. No Direito Cível, os contratos são regidos por princípios como:
+
+**Princípios contratuais:**
+• Autonomia da vontade: as partes são livres para contratar
+• Boa-fé objetiva: as partes devem agir com honestidade e lealdade
+• Função social do contrato: o contrato não pode prejudicar terceiros
+• Obrigatoriedade: o contrato faz lei entre as partes
+
+## Responsabilidade Civil
+
+A responsabilidade civil é a obrigação de reparar danos causados a terceiros. Pode ser:
+
+**Contratual:** quando decorre do descumprimento de um contrato
+**Extracontratual:** quando decorre de ato ilícito ou abuso de direito
+
+## Usucapião
+
+A usucapião é a forma de aquisição de propriedade pela posse prolongada e contínua. Existem várias modalidades:
+
+**Usucapião extraordinária:** 15 anos de posse (10 anos se houver moradia)
+**Usucapião ordinária:** 10 anos de posse com justo título e boa-fé
+**Usucapião especial urbana:** 5 anos de posse de imóvel urbano até 250m²
+**Usucapião especial rural:** 5 anos de posse de imóvel rural até 50 hectares
+
+## Direito de Vizinhança
+
+O Direito de Vizinhança regula as relações entre proprietários de imóveis vizinhos. Os principais temas incluem:
+
+• Uso anormal da propriedade (ruídos, fumaça, odores)
+• Árvores e plantas limítrofes
+• Passagem forçada
+• Águas e construções
+
+## Conclusão
+
+O Direito Cível é fundamental para a vida em sociedade. Se você tem dúvidas sobre contratos, indenizações, propriedade ou qualquer outra questão cível, a Will & Pereira Advocacia está pronta para ajudar.
+
+📞 (48) 98842-0867
+🌐 willepereira-adv.vercel.app`,
+  },
+
+  {
+    slug: 'direito-civel-guia-definitivo',
+    title: 'Direito Cível — Guia Definitivo | Will & Pereira Advocacia',
+    description: 'guia de direito civil — Guia completo atualizado. Will & Pereira Advocacia.',
+    category: 'Civel',
+    date: '30 Jun 2026',
+    author: 'Will & Pereira Advocacia',
+    content: `## Direito Cível para Leigos
+
+O Direito Cível é o ramo do Direito que regula as relações entre pessoas físicas e jurídicas no cotidiano. Desde contratos até indenizações, passando por questões de propriedade e família, o Direito Cível está presente em praticamente todos os aspectos da vida.
+
+A Will & Pereira Advocacia preparou este guia completo para explicar os principais conceitos do Direito Cível e como eles afetam sua vida.
+
+## Contratos
+
+Os contratos são acordos de vontades que criam, modificam ou extinguem direitos e obrigações. No Direito Cível, os contratos são regidos por princípios como:
+
+**Princípios contratuais:**
+• Autonomia da vontade: as partes são livres para contratar
+• Boa-fé objetiva: as partes devem agir com honestidade e lealdade
+• Função social do contrato: o contrato não pode prejudicar terceiros
+• Obrigatoriedade: o contrato faz lei entre as partes
+
+## Responsabilidade Civil
+
+A responsabilidade civil é a obrigação de reparar danos causados a terceiros. Pode ser:
+
+**Contratual:** quando decorre do descumprimento de um contrato
+**Extracontratual:** quando decorre de ato ilícito ou abuso de direito
+
+## Usucapião
+
+A usucapião é a forma de aquisição de propriedade pela posse prolongada e contínua. Existem várias modalidades:
+
+**Usucapião extraordinária:** 15 anos de posse (10 anos se houver moradia)
+**Usucapião ordinária:** 10 anos de posse com justo título e boa-fé
+**Usucapião especial urbana:** 5 anos de posse de imóvel urbano até 250m²
+**Usucapião especial rural:** 5 anos de posse de imóvel rural até 50 hectares
+
+## Direito de Vizinhança
+
+O Direito de Vizinhança regula as relações entre proprietários de imóveis vizinhos. Os principais temas incluem:
+
+• Uso anormal da propriedade (ruídos, fumaça, odores)
+• Árvores e plantas limítrofes
+• Passagem forçada
+• Águas e construções
+
+## Conclusão
+
+O Direito Cível é fundamental para a vida em sociedade. Se você tem dúvidas sobre contratos, indenizações, propriedade ou qualquer outra questão cível, a Will & Pereira Advocacia está pronta para ajudar.
+
+📞 (48) 98842-0867
+🌐 willepereira-adv.vercel.app`,
+  },
 ]
