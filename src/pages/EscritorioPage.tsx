@@ -243,55 +243,6 @@ export default function EscritorioPage() {
         </div>
       </section>
 
-      {/* VIDEO INSTITUCIONAL */}
-      <section className="py-20 md:py-24" style={{ background: 'var(--cream)' }}>
-        <div style={{ maxWidth: 1280, margin: '0 auto', padding: '0 clamp(24px, 5vw, 48px)' }}>
-          <ScrollReveal>
-            <div className="text-center mb-12">
-              <span className="section-tag">Conheça o Escritório</span>
-              <h2 className="font-serif text-3xl md:text-4xl mt-4 mb-4" style={{ color: 'var(--navy)' }}>
-                Apresentação Will & Pereira
-              </h2>
-              <p style={{ color: 'var(--gray-500)' }} className="max-w-2xl mx-auto">
-                Veja como trabalhamos e por que somos referência em Palhoça/SC.
-              </p>
-            </div>
-          </ScrollReveal>
-
-          <ScrollReveal>
-            <div
-              style={{
-                position: 'relative',
-                paddingBottom: '56.25%',
-                height: 0,
-                overflow: 'hidden',
-                borderRadius: 16,
-                boxShadow: '0 20px 60px rgba(26,38,52,0.15)',
-                border: '1px solid rgba(201,168,76,0.15)',
-              }}
-            >
-              <iframe
-                src="https://www.youtube.com/embed/dQw4w9WgXcQ"
-                title="Will & Pereira Advocacia - Apresentação"
-                style={{
-                  position: 'absolute',
-                  top: 0,
-                  left: 0,
-                  width: '100%',
-                  height: '100%',
-                  border: 0,
-                }}
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-              />
-            </div>
-            <p className="text-center mt-4" style={{ fontSize: '0.8rem', color: 'var(--gray-400)' }}>
-              Apresentação institucional — Will & Pereira Advocacia Palhoça/SC
-            </p>
-          </ScrollReveal>
-        </div>
-      </section>
-
       {/* EVENTOS E WORKSHOPS */}
       <section className="py-20 md:py-24" style={{ background: 'white' }}>
         <div style={{ maxWidth: 1280, margin: '0 auto', padding: '0 clamp(24px, 5vw, 48px)' }}>
