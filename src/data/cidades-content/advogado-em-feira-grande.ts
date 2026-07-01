@@ -1,59 +1,59 @@
 export default {
   "heroTitle": "Advogado em Feira Grande: Assessoria Jurídica Especializada em Alagoas",
-  "heroDescription": "Assessoria jurídica de qualidade em Feira Grande/AL. Atendimento em todo o Brasil com excelência, ética e dedicação.",
+  "heroDescription": "Encontre o melhor advogado em Feira Grande/AL. A Will & Pereira Advocacia oferece assessoria jurídica completa com mais de 15 anos de experiência atendendo moradores de Feira Grande e região.",
   "introParagraphs": [
-    "A busca por um advogado de confiança em Feira Grande/AL é constante. Questões trabalhistas, previdenciárias, familiares e imobiliárias surgem no cotidiano e precisam de orientação especializada. A Will & Pereira Advocacia, com mais de 15 anos de atuação, é referência no atendimento jurídico para moradores de Feira Grande e região.\n\nFeira Grande é uma cidade com economia dinâmica localizada em Alagoas, com economia baseada em cana-de-açúcar, turismo e pesca. Essas características geram demandas jurídicas que exigem conhecimento aprofundado da legislação e da jurisprudência.\n\nNossa equipe multidisciplinar oferece assessoria completa em todas as áreas do Direito, com atendimento personalizado e foco nos melhores resultados para cada cliente em Feira Grande."
+    "Quando um cidadão de Feira Grande/AL precisa de orientação jurídica, a primeira preocupação é encontrar um profissional que combine conhecimento técnico com compromisso com resultados. A advocacia em Feira Grande, com sede em Palhoça/SC e atuação nacional, atende moradores de Feira Grande há mais de 15 anos, oferecendo soluções jurídicas personalizadas para cada caso. Seja qual for a sua necessidade jurídica em Feira Grande, nossa equipe está pronta para ajudar.\n\nA cidade de Feira Grande apresenta características econômicas e sociais que influenciam diretamente as demandas jurídicas da população. Com economia voltada para cana-de-açúcar, turismo, pesca, os moradores enfrentam questões trabalhistas, previdenciárias e consumeristas que exigem conhecimento especializado. Um advogado em Feira Grande experiente é fundamental para navegar por essas questões com segurança.\n\nNeste guia completo sobre advogado em Feira Grande, apresentamos de forma detalhada os serviços jurídicos disponíveis para moradores de Feira Grande, organizados por área do Direito. Cada seção é elaborada considerando a realidade específica de Feira Grande/AL, oferecendo informações práticas e relevantes para quem busca um advogado em Feira Grande de confiança na região."
   ],
   "areaContent": {
-    "previdenciario": "Aposentadoria, auxílio-doença, pensão por morte e BPC/LOAS são os benefícios mais buscados por moradores de Feira Grande/AL. A complexidade das regras previdenciárias, especialmente após a EC 103/2019, torna indispensável o acompanhamento de um advogado especializado.\n\nEm Feira Grande, com economia baseada em cana-de-açúcar, trabalhadores de diversas categorias precisam de orientação previdenciária personalizada. A Will & Pereira Advocacia oferece análise completa do CNIS, simulação de benefícios e representação administrativa e judicial junto ao INSS.",
-    "trabalhista": "A relação de emprego em Feira Grande/AL é regida pela CLT e pela Constituição Federal, que garantem direitos fundamentais aos trabalhadores. Em uma cidade com economia baseada em cana-de-açúcar, as questões trabalhistas são frequentes e variadas. A Will & Pereira Advocacia atua na defesa desses direitos com competência e dedicação.\n\nAtuamos em Feira Grande em reclamações trabalhistas, verbas rescisórias, horas extras, FGTS, estabilidade provisória, assédio moral e todas as demais questões que envolvam a relação de emprego.",
-    "civel": "O cotidiano de Feira Grande/AL gera diversas questões jurídicas de natureza civil. Desde a elaboração de contratos até a resolução de conflitos de vizinhança, a Will & Pereira Advocacia oferece orientação jurídica completa para moradores e empresas da região.\n\nA economia local, focada em cana-de-açúcar e turismo, apresenta demandas cíveis que exigem conhecimento técnico e experiência. Atuamos em contratos, indenizações, cobranças, usucapião e todas as áreas do Direito Cível.",
-    "consumidor": "A proteção ao consumidor em Feira Grande/AL é um direito fundamental. Questões como produtos defeituosos, serviços inadequados e cobranças indevidas são situações que resolvemos regularmente. A Will & Pereira Advocacia oferece assessoria completa em Direito do Consumidor.\n\nA economia local, baseada em cana-de-açúcar, gera demandas consumeristas que conhecemos profundamente. Atuamos em negociações extrajudiciais e ações judiciais, sempre buscando a melhor solução para cada caso.",
-    "familia": "As questões familiares em Feira Grande/AL são tratadas com a sensibilidade que merecem. Divórcio consensual e litigioso, guarda compartilhada, pensão alimentícia, inventário e planejamento sucessório são áreas em que atuamos com excelência.\n\nEm Feira Grande, conhecemos as particularidades do Direito de Família local e oferecemos atendimento personalizado para cada caso, sempre priorizando o bem-estar de todos os envolvidos.",
-    "imobiliario": "Questões imobiliárias em Feira Grande/AL são frequentes e variadas. Desde a elaboração de contratos de locação até ações de usucapião, a Will & Pereira Advocacia oferece soluções jurídicas para todas as necessidades.\n\nA economia local, focada em cana-de-açúcar e turismo, gera demandas imobiliárias que atendemos com competência e dedicação. Trabalhamos com due diligence completa e resolução de conflitos."
+    "previdenciario": "O Direito Previdenciário é uma das áreas mais demandadas por quem busca um advogado em Feira Grande. Trabalhadores de Feira Grande/AL, tanto rurais quanto urbanos, frequentemente buscam orientação sobre aposentadoria, auxílio-doença e pensão por morte. A reforma da previdência (EC 103/2019) trouxe mudanças significativas, e contar com um advogado em Feira Grande especializado é essencial para garantir o melhor benefício.\n\nEm Feira Grande, a economia baseada em cana-de-açúcar e turismo gera diversas categorias de trabalhadores com necessidades previdenciárias específicas. A advocacia em Feira Grande realiza análise completa do histórico contributivo, identificando possibilidades de antecipação ou majoração da aposentadoria. Se você precisa de um advogado em Feira Grande para questões previdenciárias, entre em contato conosco.",
+    "trabalhista": "O Direito Trabalhista protege os direitos de trabalhadores e empregadores em Feira Grande/AL. Em uma cidade com economia baseada em cana-de-açúcar e turismo, as relações de trabalho apresentam características próprias. Um advogado em Feira Grande especializado é fundamental para garantir que seus direitos sejam respeitados.\n\nA advocacia em Feira Grande atua em Feira Grande em verbas rescisórias, horas extras, FGTS, insalubridade, periculosidade, equiparação salarial, assédio moral e dano moral trabalhista. Se você procura um advogado em Feira Grande para questões trabalhistas, nossa equipe está preparada para oferecer a melhor orientação.",
+    "civel": "O Direito Cível abrange as relações cotidianas em Feira Grande/AL. Contratos, indenizações, cobranças, usucapião e questões de propriedade são situações que surgem no dia a dia. Um advogado em Feira Grande competente é essencial para resolver essas questões com eficiência.\n\nA advocacia em Feira Grande oferece assessoria completa em Feira Grande em todas as áreas do Direito Cível. Trabalhamos com elaboração e revisão de contratos, ações de cobrança, indenização por danos e todas as questões que envolvam o Código Civil.",
+    "consumidor": "O Código de Defesa do Consumidor protege os moradores de Feira Grande/AL contra abusos. Em uma cidade com economia baseada em cana-de-açúcar e turismo, os conflitos consumeristas são frequentes. Um advogado em Feira Grande especializado em Direito do Consumidor é fundamental para fazer valer seus direitos.\n\nA advocacia em Feira Grande atua em Feira Grande em casos de cobrança indevida, negativação injusta, produtos com defeito, negativas de planos de saúde e cláusulas abusivas. Se você precisa de um advogado em Feira Grande para questões consumeristas, entre em contato.",
+    "familia": "O Direito de Família em Feira Grande/AL lida com questões sensíveis que afetam a vida das pessoas. Divórcios, guarda de filhos, pensão alimentícia, inventários e união estável demandam sensibilidade e competência. Um advogado em Feira Grande humanizado faz toda a diferença.\n\nA advocacia em Feira Grande oferece atendimento personalizado em Feira Grande para todas as questões de Direito de Família. Nossa equipe trabalha com mediação familiar e acordos consensuais, sempre priorizando o bem-estar de todos os envolvidos.",
+    "imobiliario": "O Direito Imobiliário regula questões de imóveis em Feira Grande/AL. Compra e venda, locação, usucapião e regularização fundiária são áreas que exigem conhecimento jurídico específico. Um advogado em Feira Grande especializado em Direito Imobiliário protege seus interesses em cada etapa.\n\nA advocacia em Feira Grande oferece assessoria completa em Feira Grande para todas as questões imobiliárias, desde a análise de documentação até a resolução de conflitos possessórios e condominiais."
   },
-  "exclusiva": "## Por Que Escolher a Will & Pereira Advocacia em Feira Grande?\n\n**Experiência Comprovada:** Mais de 15 anos de atuação em todas as áreas do Direito, com resultados expressivos em Feira Grande e região.\n\n**Conhecimento Local:** Conhecemos as particularidades de Feira Grande e da região de Alagoas, incluindo as especificidades da economia baseada em cana-de-açúcar.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada. Em Feira Grande, oferecemos explicação clara de cada etapa do processo.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil, incluindo Feira Grande.\n\n**Transparência Total:** Honorários claros, sem surpresas. O cliente sempre sabe onde está investindo.",
-  "diaADia": "## Como um Advogado Pode Ajudar no Dia a Dia em Feira Grande\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis, elaboração de testamentos.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial, economizando tempo e recursos. Nossa equipe busca soluções consensuais sempre que possível.\n\n**Atendimento de Emergência:** Imprevistos acontecem. Oferecemos atendimento prioritário para situações urgentes em Feira Grande.",
+  "exclusiva": "## Por Que Escolher a advocacia em Feira Grande?\n\n**Experiência:** Mais de 15 anos de atuação como advogado em Feira Grande em todas as áreas do Direito.\n\n**Conhecimento Local:** Conhecemos as particularidades de Feira Grande e da região de Alagoas.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil.\n\n**Transparência:** Honorários claros, sem surpresas.",
+  "diaADia": "## Como um advogado em Feira Grande Pode Ajudar no Dia a Dia\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial.\n\n**Emergência:** Atendimento prioritário para situações urgentes em Feira Grande.",
   "faqs": [
     {
-      "p": "Quais são as principais áreas do direito atendidas em ${n}?",
-      "r": "Em ${n}/${uf}, atuamos em Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário, com foco nas necessidades da economia local baseada em ${e.join(' e ')}."
+      "p": "Quem é o melhor advogado em Feira Grande?",
+      "r": "A advocacia em Feira Grande é referência em Feira Grande/AL, com mais de 15 anos de experiência e atuação em todas as áreas do Direito. Entre em contato para orientação jurídica."
     },
     {
-      "p": "Como funciona o primeiro atendimento jurídico?",
-      "r": "O primeiro atendimento é orientativo, para análise do caso e definição da melhor estratégia. Atendemos presencialmente em Palhoça/SC e por videoconferência para ${n}."
+      "p": "Como funciona o atendimento de um advogado em Feira Grande?",
+      "r": "O primeiro atendimento é orientativo. Atendemos presencialmente em Palhoça/SC e por videoconferência para Feira Grande. Analisamos seu caso e definimos a melhor estratégia."
     },
     {
-      "p": "Qual o prazo para entrar com uma reclamação trabalhista?",
-      "r": "O trabalhador tem até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Em ${n}, orientamos sobre prazos e procedimentos."
+      "p": "Qual o prazo para ação trabalhista com um advogado em Feira Grande?",
+      "r": "Até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Um advogado em Feira Grande em Feira Grande orienta sobre prazos e procedimentos."
     },
     {
-      "p": "A Will & Pereira Advocacia atende ${n}?",
-      "r": "Sim! Atendemos moradores de ${n} e toda a região de ${uf}, com o mesmo nível de dedicação e profissionalismo."
+      "p": "A advocacia em Feira Grande atende Feira Grande?",
+      "r": "Sim! Atendemos moradores de Feira Grande e toda a região de AL, com o mesmo nível de dedicação e profissionalismo."
     },
     {
-      "p": "Quais documentos preciso para uma consulta?",
-      "r": "Documentos relacionados à questão: contratos, comprovantes, documentos pessoais. Orientamos sobre a documentação antes da consulta."
+      "p": "Quais áreas um advogado em Feira Grande atende em Feira Grande?",
+      "r": "Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário. A advocacia em Feira Grande cobre todas essas áreas com excelência."
     },
     {
-      "p": "Quanto custa um advogado em ${n}?",
-      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com honorários de sucumbência. Entre em contato para orientação."
+      "p": "Quanto custa um advogado em Feira Grande em Feira Grande?",
+      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com sucumbência. Entre em contato para orientação."
     },
     {
-      "p": "É possível resolver questões jurídicas sem ir ao tribunal?",
-      "r": "Sim! Muitos conflitos se resolvem via negociação, mediação ou conciliação. Em ${n}, buscamos soluções extrajudiciais sempre que possível."
+      "p": "É possível resolver sem tribunal com um advogado em Feira Grande?",
+      "r": "Sim! Muitos conflitos se resolvem via negociação ou mediação. Um advogado em Feira Grande em Feira Grande busca soluções extrajudiciais quando possível."
     },
     {
-      "p": "Como a economia de ${n} influencia as questões jurídicas?",
-      "r": "A economia baseada em ${e[0]} gera demandas trabalhistas, previdenciárias e consumeristas específicas que conhecemos profundamente."
+      "p": "Um advogado em Feira Grande pode ajudar com INSS em Feira Grande?",
+      "r": "Sim! A advocacia em Feira Grande atua em aposentadorias, auxílios, pensões e revisões de benefícios do INSS para moradores de Feira Grande."
     },
     {
-      "p": "Vocês atendem pessoas físicas e jurídicas?",
-      "r": "Sim! Atendemos tanto pessoas físicas quanto empresas em ${n}, oferecendo soluções jurídicas completas."
+      "p": "Preciso ir ao escritório do advogado em Feira Grande?",
+      "r": "Não necessariamente. Atendemos por videoconferência para todo o Brasil, incluindo Feira Grande. Mas também recebemos presencialmente em Palhoça/SC."
     },
     {
-      "p": "Qual a diferença entre consultar um advogado e contratar?",
-      "r": "A consulta é para análise e orientação. A contratação envolve representação formal. Em ${n}, oferecemos ambos os serviços com transparência."
+      "p": "Como um advogado em Feira Grande pode ajudar minha empresa em Feira Grande?",
+      "r": "Consultoria trabalhista, contratos, questões societárias e tributárias. A advocacia em Feira Grande oferece assessoria completa para empresas em Feira Grande."
     }
   ],
   "stats": {

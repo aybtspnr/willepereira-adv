@@ -1,59 +1,59 @@
 export default {
-  "heroTitle": "Assessoria Jurídica em Santo Antônio | Will & Pereira Advocacia",
+  "heroTitle": "Advogado em Santo Antônio: Assessoria Jurídica Especializada em Rio Grande do Norte",
   "heroDescription": "Encontre o melhor advogado em Santo Antônio/RN. A Will & Pereira Advocacia oferece assessoria jurídica completa com mais de 15 anos de experiência atendendo moradores de Santo Antônio e região.",
   "introParagraphs": [
-    "Quando um cidadão de Santo Antônio/RN precisa de orientação jurídica, a primeira preocupação é encontrar um profissional que combine conhecimento técnico com compromisso com resultados. A Will & Pereira Advocacia, com sede em Palhoça/SC e atuação nacional, atende moradores de Santo Antônio há mais de 15 anos, oferecendo soluções jurídicas personalizadas para cada caso.\n\nA cidade de Santo Antônio apresenta características econômicas e sociais que influenciam diretamente as demandas jurídicas da população. Com economia voltada para petróleo, turismo, agricultura, comércio e pesca, os moradores enfrentam questões trabalhistas, previdenciárias e consumeristas que exigem conhecimento especializado. Petróleo e seca são desafios recorrentes na região.\n\nNeste guia, apresentamos de forma detalhada os serviços jurídicos disponíveis para moradores de Santo Antônio, organizados por área do Direito. Cada seção é elaborada considerando a realidade específica de Santo Antônio/RN, oferecendo informações práticas e relevantes para quem busca orientação jurídica na região."
+    "Quando um cidadão de Santo Antônio/RN precisa de orientação jurídica, a primeira preocupação é encontrar um profissional que combine conhecimento técnico com compromisso com resultados. A advocacia em Santo Antônio, com sede em Palhoça/SC e atuação nacional, atende moradores de Santo Antônio há mais de 15 anos, oferecendo soluções jurídicas personalizadas para cada caso. Seja qual for a sua necessidade jurídica em Santo Antônio, nossa equipe está pronta para ajudar.\n\nA cidade de Santo Antônio apresenta características econômicas e sociais que influenciam diretamente as demandas jurídicas da população. Com economia voltada para petróleo, turismo, agricultura, os moradores enfrentam questões trabalhistas, previdenciárias e consumeristas que exigem conhecimento especializado. Um advogado em Santo Antônio experiente é fundamental para navegar por essas questões com segurança.\n\nNeste guia completo sobre advogado em Santo Antônio, apresentamos de forma detalhada os serviços jurídicos disponíveis para moradores de Santo Antônio, organizados por área do Direito. Cada seção é elaborada considerando a realidade específica de Santo Antônio/RN, oferecendo informações práticas e relevantes para quem busca um advogado em Santo Antônio de confiança na região."
   ],
   "areaContent": {
-    "previdenciario": "O Direito Previdenciário em Santo Antônio/RN é uma das áreas mais demandadas. Trabalhadores da região, tanto rurais quanto urbanos, frequentemente buscam orientação sobre aposentadoria, auxílio-doença e pensão por morte. A reforma da previdência (EC 103/2019) trouxe mudanças significativas nas regras de aposentadoria, e contar com um advogado especializado é essencial para garantir o melhor benefício possível.\n\nEm Santo Antônio, a economia baseada em petróleo e turismo gera diversas categorias de trabalhadores com necessidades previdenciárias específicas. A Will & Pereira Advocacia realiza análise completa do histórico contributivo de cada cliente, identificando todas as possibilidades de antecipação ou majoração da aposentadoria. Atendemos aposentadoria por idade, tempo de contribuição e especial, auxílio-doença, pensão por morte, BPC/LOAS e revisões de benefícios.",
-    "trabalhista": "O Direito Trabalhista em Santo Antônio/RN protege os direitos tanto de empregados quanto de empregadores. Em uma cidade com economia baseada em petróleo e turismo, as relações de trabalho apresentam características próprias que conhecemos profundamente. A Will & Pereira Advocacia atua na defesa dos direitos trabalhistas com foco em resultados.\n\nPrincipais atuações em Santo Antônio: verbas rescisórias, horas extras, FGTS, adicional de insalubridade e periculosidade, equiparação salarial, assédio moral e dano moral trabalhista. Para empresas, oferecemos consultoria preventiva e defesa em reclamações trabalhistas.",
-    "civel": "O Direito Cível em Santo Antônio/RN abrange as relações cotidianas entre pessoas e empresas. Contratos, indenizações, cobranças, usucapião e questões de propriedade são situações que surgem no dia a dia dos moradores. A Will & Pereira Advocacia oferece assessoria completa em todas essas áreas.\n\nA economia de Santo Antônio, baseada em petróleo, gera conflitos cíveis que exigem conhecimento aprofundado do Código Civil e da jurisprudência. Trabalhamos com elaboração e revisão de contratos, ações de cobrança, indenização por danos e todas as questões cíveis.",
-    "consumidor": "O Código de Defesa do Consumidor protege os moradores de Santo Antônio/RN contra abusos de empresas e fornecedores. Em uma cidade com economia baseada em petróleo, os conflitos consumeristas são frequentes e variados. A Will & Pereira Advocacia atua na defesa dos direitos do consumidor com competência.\n\nAtendemos em Santo Antônio casos de cobrança indevida, negativação injusta, produtos com defeito, negativas de planos de saúde, cláusulas abusivas e todas as demais violações aos direitos do consumidor.",
-    "familia": "O Direito de Família em Santo Antônio/RN lida com questões sensíveis que afetam a vida das pessoas. Divórcios, guarda de filhos, pensão alimentícia, inventários e união estável são situações que demandam sensibilidade e competência. A Will & Pereira Advocacia oferece atendimento humanizado e profissional.\n\nEm Santo Antônio, as relações familiares são valorizadas, e é fundamental contar com um advogado que compreenda a importância de cada decisão. Nossa equipe trabalha com mediação familiar e acordos consensuais sempre que possível.",
-    "imobiliario": "O Direito Imobiliário em Santo Antônio/RN regula todas as questões relacionadas a imóveis. Compra e venda, locação, usucapião, regularização fundiária e condomínio são áreas em que atuamos. A economia de Santo Antônio, baseada em petróleo, gera demandas imobiliárias que conhecemos.\n\nA Will & Pereira Advocacia oferece assessoria completa em cada etapa da transação imobiliária, desde a análise de documentação até a resolução de conflitos possessórios."
+    "previdenciario": "O Direito Previdenciário é uma das áreas mais demandadas por quem busca um advogado em Santo Antônio. Trabalhadores de Santo Antônio/RN, tanto rurais quanto urbanos, frequentemente buscam orientação sobre aposentadoria, auxílio-doença e pensão por morte. A reforma da previdência (EC 103/2019) trouxe mudanças significativas, e contar com um advogado em Santo Antônio especializado é essencial para garantir o melhor benefício.\n\nEm Santo Antônio, a economia baseada em petróleo e turismo gera diversas categorias de trabalhadores com necessidades previdenciárias específicas. A advocacia em Santo Antônio realiza análise completa do histórico contributivo, identificando possibilidades de antecipação ou majoração da aposentadoria. Se você precisa de um advogado em Santo Antônio para questões previdenciárias, entre em contato conosco.",
+    "trabalhista": "O Direito Trabalhista protege os direitos de trabalhadores e empregadores em Santo Antônio/RN. Em uma cidade com economia baseada em petróleo e turismo, as relações de trabalho apresentam características próprias. Um advogado em Santo Antônio especializado é fundamental para garantir que seus direitos sejam respeitados.\n\nA advocacia em Santo Antônio atua em Santo Antônio em verbas rescisórias, horas extras, FGTS, insalubridade, periculosidade, equiparação salarial, assédio moral e dano moral trabalhista. Se você procura um advogado em Santo Antônio para questões trabalhistas, nossa equipe está preparada para oferecer a melhor orientação.",
+    "civel": "O Direito Cível abrange as relações cotidianas em Santo Antônio/RN. Contratos, indenizações, cobranças, usucapião e questões de propriedade são situações que surgem no dia a dia. Um advogado em Santo Antônio competente é essencial para resolver essas questões com eficiência.\n\nA advocacia em Santo Antônio oferece assessoria completa em Santo Antônio em todas as áreas do Direito Cível. Trabalhamos com elaboração e revisão de contratos, ações de cobrança, indenização por danos e todas as questões que envolvam o Código Civil.",
+    "consumidor": "O Código de Defesa do Consumidor protege os moradores de Santo Antônio/RN contra abusos. Em uma cidade com economia baseada em petróleo e turismo, os conflitos consumeristas são frequentes. Um advogado em Santo Antônio especializado em Direito do Consumidor é fundamental para fazer valer seus direitos.\n\nA advocacia em Santo Antônio atua em Santo Antônio em casos de cobrança indevida, negativação injusta, produtos com defeito, negativas de planos de saúde e cláusulas abusivas. Se você precisa de um advogado em Santo Antônio para questões consumeristas, entre em contato.",
+    "familia": "O Direito de Família em Santo Antônio/RN lida com questões sensíveis que afetam a vida das pessoas. Divórcios, guarda de filhos, pensão alimentícia, inventários e união estável demandam sensibilidade e competência. Um advogado em Santo Antônio humanizado faz toda a diferença.\n\nA advocacia em Santo Antônio oferece atendimento personalizado em Santo Antônio para todas as questões de Direito de Família. Nossa equipe trabalha com mediação familiar e acordos consensuais, sempre priorizando o bem-estar de todos os envolvidos.",
+    "imobiliario": "O Direito Imobiliário regula questões de imóveis em Santo Antônio/RN. Compra e venda, locação, usucapião e regularização fundiária são áreas que exigem conhecimento jurídico específico. Um advogado em Santo Antônio especializado em Direito Imobiliário protege seus interesses em cada etapa.\n\nA advocacia em Santo Antônio oferece assessoria completa em Santo Antônio para todas as questões imobiliárias, desde a análise de documentação até a resolução de conflitos possessórios e condominiais."
   },
-  "exclusiva": "## Por Que Escolher a Will & Pereira Advocacia em Santo Antônio?\n\n**Experiência Comprovada:** Mais de 15 anos de atuação em todas as áreas do Direito, com resultados expressivos em Santo Antônio e região.\n\n**Conhecimento Local:** Conhecemos as particularidades de Santo Antônio e da região de Rio Grande do Norte, incluindo as especificidades da economia baseada em petróleo.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada. Em Santo Antônio, oferecemos explicação clara de cada etapa do processo.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil, incluindo Santo Antônio.\n\n**Transparência Total:** Honorários claros, sem surpresas. O cliente sempre sabe onde está investindo.",
-  "diaADia": "## Como um Advogado Pode Ajudar no Dia a Dia em Santo Antônio\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis, elaboração de testamentos.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial, economizando tempo e recursos. Nossa equipe busca soluções consensuais sempre que possível.\n\n**Atendimento de Emergência:** Imprevistos acontecem. Oferecemos atendimento prioritário para situações urgentes em Santo Antônio.",
+  "exclusiva": "## Por Que Escolher a advocacia em Santo Antônio?\n\n**Experiência:** Mais de 15 anos de atuação como advogado em Santo Antônio em todas as áreas do Direito.\n\n**Conhecimento Local:** Conhecemos as particularidades de Santo Antônio e da região de Rio Grande do Norte.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil.\n\n**Transparência:** Honorários claros, sem surpresas.",
+  "diaADia": "## Como um advogado em Santo Antônio Pode Ajudar no Dia a Dia\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial.\n\n**Emergência:** Atendimento prioritário para situações urgentes em Santo Antônio.",
   "faqs": [
     {
-      "p": "Quais são as principais áreas do direito atendidas em ${n}?",
-      "r": "Em ${n}/${uf}, atuamos em Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário, com foco nas necessidades da economia local baseada em ${e.join(' e ')}."
+      "p": "Quem é o melhor advogado em Santo Antônio?",
+      "r": "A advocacia em Santo Antônio é referência em Santo Antônio/RN, com mais de 15 anos de experiência e atuação em todas as áreas do Direito. Entre em contato para orientação jurídica."
     },
     {
-      "p": "Como funciona o primeiro atendimento jurídico?",
-      "r": "O primeiro atendimento é orientativo, para análise do caso e definição da melhor estratégia. Atendemos presencialmente em Palhoça/SC e por videoconferência para ${n}."
+      "p": "Como funciona o atendimento de um advogado em Santo Antônio?",
+      "r": "O primeiro atendimento é orientativo. Atendemos presencialmente em Palhoça/SC e por videoconferência para Santo Antônio. Analisamos seu caso e definimos a melhor estratégia."
     },
     {
-      "p": "Qual o prazo para entrar com uma reclamação trabalhista?",
-      "r": "O trabalhador tem até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Em ${n}, orientamos sobre prazos e procedimentos."
+      "p": "Qual o prazo para ação trabalhista com um advogado em Santo Antônio?",
+      "r": "Até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Um advogado em Santo Antônio em Santo Antônio orienta sobre prazos e procedimentos."
     },
     {
-      "p": "A Will & Pereira Advocacia atende ${n}?",
-      "r": "Sim! Atendemos moradores de ${n} e toda a região de ${uf}, com o mesmo nível de dedicação e profissionalismo."
+      "p": "A advocacia em Santo Antônio atende Santo Antônio?",
+      "r": "Sim! Atendemos moradores de Santo Antônio e toda a região de RN, com o mesmo nível de dedicação e profissionalismo."
     },
     {
-      "p": "Quais documentos preciso para uma consulta?",
-      "r": "Documentos relacionados à questão: contratos, comprovantes, documentos pessoais. Orientamos sobre a documentação antes da consulta."
+      "p": "Quais áreas um advogado em Santo Antônio atende em Santo Antônio?",
+      "r": "Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário. A advocacia em Santo Antônio cobre todas essas áreas com excelência."
     },
     {
-      "p": "Quanto custa um advogado em ${n}?",
-      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com honorários de sucumbência. Entre em contato para orientação."
+      "p": "Quanto custa um advogado em Santo Antônio em Santo Antônio?",
+      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com sucumbência. Entre em contato para orientação."
     },
     {
-      "p": "É possível resolver questões jurídicas sem ir ao tribunal?",
-      "r": "Sim! Muitos conflitos se resolvem via negociação, mediação ou conciliação. Em ${n}, buscamos soluções extrajudiciais sempre que possível."
+      "p": "É possível resolver sem tribunal com um advogado em Santo Antônio?",
+      "r": "Sim! Muitos conflitos se resolvem via negociação ou mediação. Um advogado em Santo Antônio em Santo Antônio busca soluções extrajudiciais quando possível."
     },
     {
-      "p": "Como a economia de ${n} influencia as questões jurídicas?",
-      "r": "A economia baseada em ${e[0]} gera demandas trabalhistas, previdenciárias e consumeristas específicas que conhecemos profundamente."
+      "p": "Um advogado em Santo Antônio pode ajudar com INSS em Santo Antônio?",
+      "r": "Sim! A advocacia em Santo Antônio atua em aposentadorias, auxílios, pensões e revisões de benefícios do INSS para moradores de Santo Antônio."
     },
     {
-      "p": "Vocês atendem pessoas físicas e jurídicas?",
-      "r": "Sim! Atendemos tanto pessoas físicas quanto empresas em ${n}, oferecendo soluções jurídicas completas."
+      "p": "Preciso ir ao escritório do advogado em Santo Antônio?",
+      "r": "Não necessariamente. Atendemos por videoconferência para todo o Brasil, incluindo Santo Antônio. Mas também recebemos presencialmente em Palhoça/SC."
     },
     {
-      "p": "Qual a diferença entre consultar um advogado e contratar?",
-      "r": "A consulta é para análise e orientação. A contratação envolve representação formal. Em ${n}, oferecemos ambos os serviços com transparência."
+      "p": "Como um advogado em Santo Antônio pode ajudar minha empresa em Santo Antônio?",
+      "r": "Consultoria trabalhista, contratos, questões societárias e tributárias. A advocacia em Santo Antônio oferece assessoria completa para empresas em Santo Antônio."
     }
   ],
   "stats": {

@@ -1,59 +1,59 @@
 export default {
-  "heroTitle": "Assessoria Jurídica em Capela Nova | Will & Pereira Advocacia",
-  "heroDescription": "Precisa de um advogado em Capela Nova/MG? Nossa equipe está pronta para oferecer a melhor estratégia jurídica para o seu caso.",
+  "heroTitle": "Advogado em Capela Nova: Assessoria Jurídica Especializada em Minas Gerais",
+  "heroDescription": "Encontre o melhor advogado em Capela Nova/MG. A Will & Pereira Advocacia oferece assessoria jurídica completa com mais de 15 anos de experiência atendendo moradores de Capela Nova e região.",
   "introParagraphs": [
-    "Moradores de Capela Nova/MG que precisam de serviços jurídicos encontram na Will & Pereira Advocacia uma parceira de confiança. Com mais de 15 anos de experiência e escritório em Palhoça/SC, nossa equipe atende clientes em todo o Brasil, incluindo Capela Nova e toda a região de Minas Gerais.\n\nA economia de Capela Nova é caracterizada por mineração, indústria e agronegócio, o que gera demandas jurídicas específicas que conhecemos profundamente. Questões trabalhistas decorrentes da atividade comercial, questões previdenciárias de trabalhadores rurais e urbanos, e questões consumeristas do cotidiano são situações que atendemos com regularidade.\n\nEste guia completo abrange todas as principais áreas do Direito atendidas pela Will & Pereira Advocacia em Capela Nova: Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário. Cada seção é elaborada com base na realidade de Capela Nova/MG."
+    "Quando um cidadão de Capela Nova/MG precisa de orientação jurídica, a primeira preocupação é encontrar um profissional que combine conhecimento técnico com compromisso com resultados. A advocacia em Capela Nova, com sede em Palhoça/SC e atuação nacional, atende moradores de Capela Nova há mais de 15 anos, oferecendo soluções jurídicas personalizadas para cada caso. Seja qual for a sua necessidade jurídica em Capela Nova, nossa equipe está pronta para ajudar.\n\nA cidade de Capela Nova apresenta características econômicas e sociais que influenciam diretamente as demandas jurídicas da população. Com economia voltada para mineração, indústria, agronegócio, os moradores enfrentam questões trabalhistas, previdenciárias e consumeristas que exigem conhecimento especializado. Um advogado em Capela Nova experiente é fundamental para navegar por essas questões com segurança.\n\nNeste guia completo sobre advogado em Capela Nova, apresentamos de forma detalhada os serviços jurídicos disponíveis para moradores de Capela Nova, organizados por área do Direito. Cada seção é elaborada considerando a realidade específica de Capela Nova/MG, oferecendo informações práticas e relevantes para quem busca um advogado em Capela Nova de confiança na região."
   ],
   "areaContent": {
-    "previdenciario": "A seguridade social é um direito fundamental dos trabalhadores de Capela Nova/MG. Muitos moradores da região têm dúvidas sobre seus direitos previdenciários, especialmente após as mudanças trazidas pela Reforma da Previdência. A Will & Pereira Advocacia orienta clientes em todos os processos junto ao INSS, desde o planejamento da aposentadoria até recursos administrativos e ações judiciais.\n\nA economia local, baseada em mineração, apresenta particularidades que influenciam os benefícios previdenciários. Trabalhadores rurais, por exemplo, possuem regras diferenciadas de aposentadoria. Nossa equipe domina essas especificidades e oferece orientação precisa para cada caso em Capela Nova.",
-    "trabalhista": "Em Capela Nova/MG, os trabalhadores precisam conhecer seus direitos para evitar situações de exploração e injustiça. A CLT garante diversos direitos, mas muitos trabalhadores não conhecem a totalidade deles. A Will & Pereira Advocacia orienta trabalhadores sobre seus direitos e prazos, garantindo que nenhum direito seja perdido.\n\nA economia de Capela Nova, focada em mineração, gera demandas trabalhistas específicas que atendemos com expertise: desde reclamações trabalhistas até acordos extrajudiciais e consultoria para empresas.",
-    "civel": "Questões cíveis como contratos mal elaborados, dívidas não pagas e danos causados por terceiros são comuns em Capela Nova/MG. A Will & Pereira Advocacia resolve essas questões com eficiência e profissionalismo, oferecendo soluções extrajudiciais e judiciais conforme o caso.\n\nEm Capela Nova, com economia baseada em mineração, os conflitos cíveis apresentam particularidades que conhecemos. Nossa equipe domina o Código Civil, o Código de Processo Civil e a jurisprudência dos tribunais superiores.",
-    "consumidor": "Moradores de Capela Nova/MG que tiveram direitos violados por empresas contam com a Will & Pereira Advocacia para buscar reparação. O CDC assegura direitos como inversão do ônus da prova, repetição de indébito e indenização por danos morais.\n\nEm Capela Nova, com economia baseada em mineração, os conflitos consumeristas envolvem desde cobranças bancárias até negativas de planos de saúde. Nossa equipe domina os instrumentos processuais do CDC e oferece atendimento personalizado.",
-    "familia": "Famílias de Capela Nova/MG que precisam de assistência jurídica encontram na Will & Pereira Advocacia o parceiro ideal. Questões como divórcio, guarda, pensão alimentícia e inventário são tratadas com discrição e profissionalismo.\n\nA economia de Capela Nova, baseada em mineração, influencia questões familiares como partilha de bens e pensão alimentícia. Nossa equipe oferece orientação clara sobre os procedimentos legais e as melhores estratégias.",
-    "imobiliario": "O mercado imobiliário em Capela Nova/MG exige atenção jurídica cuidadosa. Transações imobiliárias envolvem valores significativos e riscos legais que precisam ser avaliados por profissional especializado. A Will & Pereira Advocacia protege os interesses de seus clientes em cada etapa.\n\nEm Capela Nova, com economia baseada em mineração, as questões imobiliárias incluem contratos de compra e venda, locação, usucapião e regularização fundiária. Nossa equipe domina essas questões."
+    "previdenciario": "O Direito Previdenciário é uma das áreas mais demandadas por quem busca um advogado em Capela Nova. Trabalhadores de Capela Nova/MG, tanto rurais quanto urbanos, frequentemente buscam orientação sobre aposentadoria, auxílio-doença e pensão por morte. A reforma da previdência (EC 103/2019) trouxe mudanças significativas, e contar com um advogado em Capela Nova especializado é essencial para garantir o melhor benefício.\n\nEm Capela Nova, a economia baseada em mineração e indústria gera diversas categorias de trabalhadores com necessidades previdenciárias específicas. A advocacia em Capela Nova realiza análise completa do histórico contributivo, identificando possibilidades de antecipação ou majoração da aposentadoria. Se você precisa de um advogado em Capela Nova para questões previdenciárias, entre em contato conosco.",
+    "trabalhista": "O Direito Trabalhista protege os direitos de trabalhadores e empregadores em Capela Nova/MG. Em uma cidade com economia baseada em mineração e indústria, as relações de trabalho apresentam características próprias. Um advogado em Capela Nova especializado é fundamental para garantir que seus direitos sejam respeitados.\n\nA advocacia em Capela Nova atua em Capela Nova em verbas rescisórias, horas extras, FGTS, insalubridade, periculosidade, equiparação salarial, assédio moral e dano moral trabalhista. Se você procura um advogado em Capela Nova para questões trabalhistas, nossa equipe está preparada para oferecer a melhor orientação.",
+    "civel": "O Direito Cível abrange as relações cotidianas em Capela Nova/MG. Contratos, indenizações, cobranças, usucapião e questões de propriedade são situações que surgem no dia a dia. Um advogado em Capela Nova competente é essencial para resolver essas questões com eficiência.\n\nA advocacia em Capela Nova oferece assessoria completa em Capela Nova em todas as áreas do Direito Cível. Trabalhamos com elaboração e revisão de contratos, ações de cobrança, indenização por danos e todas as questões que envolvam o Código Civil.",
+    "consumidor": "O Código de Defesa do Consumidor protege os moradores de Capela Nova/MG contra abusos. Em uma cidade com economia baseada em mineração e indústria, os conflitos consumeristas são frequentes. Um advogado em Capela Nova especializado em Direito do Consumidor é fundamental para fazer valer seus direitos.\n\nA advocacia em Capela Nova atua em Capela Nova em casos de cobrança indevida, negativação injusta, produtos com defeito, negativas de planos de saúde e cláusulas abusivas. Se você precisa de um advogado em Capela Nova para questões consumeristas, entre em contato.",
+    "familia": "O Direito de Família em Capela Nova/MG lida com questões sensíveis que afetam a vida das pessoas. Divórcios, guarda de filhos, pensão alimentícia, inventários e união estável demandam sensibilidade e competência. Um advogado em Capela Nova humanizado faz toda a diferença.\n\nA advocacia em Capela Nova oferece atendimento personalizado em Capela Nova para todas as questões de Direito de Família. Nossa equipe trabalha com mediação familiar e acordos consensuais, sempre priorizando o bem-estar de todos os envolvidos.",
+    "imobiliario": "O Direito Imobiliário regula questões de imóveis em Capela Nova/MG. Compra e venda, locação, usucapião e regularização fundiária são áreas que exigem conhecimento jurídico específico. Um advogado em Capela Nova especializado em Direito Imobiliário protege seus interesses em cada etapa.\n\nA advocacia em Capela Nova oferece assessoria completa em Capela Nova para todas as questões imobiliárias, desde a análise de documentação até a resolução de conflitos possessórios e condominiais."
   },
-  "exclusiva": "## Por Que Escolher a Will & Pereira Advocacia em Capela Nova?\n\n**Experiência Comprovada:** Mais de 15 anos de atuação em todas as áreas do Direito, com resultados expressivos em Capela Nova e região.\n\n**Conhecimento Local:** Conhecemos as particularidades de Capela Nova e da região de Minas Gerais, incluindo as especificidades da economia baseada em mineração.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada. Em Capela Nova, oferecemos explicação clara de cada etapa do processo.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil, incluindo Capela Nova.\n\n**Transparência Total:** Honorários claros, sem surpresas. O cliente sempre sabe onde está investindo.",
-  "diaADia": "## Como um Advogado Pode Ajudar no Dia a Dia em Capela Nova\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis, elaboração de testamentos.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial, economizando tempo e recursos. Nossa equipe busca soluções consensuais sempre que possível.\n\n**Atendimento de Emergência:** Imprevistos acontecem. Oferecemos atendimento prioritário para situações urgentes em Capela Nova.",
+  "exclusiva": "## Por Que Escolher a advocacia em Capela Nova?\n\n**Experiência:** Mais de 15 anos de atuação como advogado em Capela Nova em todas as áreas do Direito.\n\n**Conhecimento Local:** Conhecemos as particularidades de Capela Nova e da região de Minas Gerais.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil.\n\n**Transparência:** Honorários claros, sem surpresas.",
+  "diaADia": "## Como um advogado em Capela Nova Pode Ajudar no Dia a Dia\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial.\n\n**Emergência:** Atendimento prioritário para situações urgentes em Capela Nova.",
   "faqs": [
     {
-      "p": "Quais são as principais áreas do direito atendidas em ${n}?",
-      "r": "Em ${n}/${uf}, atuamos em Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário, com foco nas necessidades da economia local baseada em ${e.join(' e ')}."
+      "p": "Quem é o melhor advogado em Capela Nova?",
+      "r": "A advocacia em Capela Nova é referência em Capela Nova/MG, com mais de 15 anos de experiência e atuação em todas as áreas do Direito. Entre em contato para orientação jurídica."
     },
     {
-      "p": "Como funciona o primeiro atendimento jurídico?",
-      "r": "O primeiro atendimento é orientativo, para análise do caso e definição da melhor estratégia. Atendemos presencialmente em Palhoça/SC e por videoconferência para ${n}."
+      "p": "Como funciona o atendimento de um advogado em Capela Nova?",
+      "r": "O primeiro atendimento é orientativo. Atendemos presencialmente em Palhoça/SC e por videoconferência para Capela Nova. Analisamos seu caso e definimos a melhor estratégia."
     },
     {
-      "p": "Qual o prazo para entrar com uma reclamação trabalhista?",
-      "r": "O trabalhador tem até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Em ${n}, orientamos sobre prazos e procedimentos."
+      "p": "Qual o prazo para ação trabalhista com um advogado em Capela Nova?",
+      "r": "Até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Um advogado em Capela Nova em Capela Nova orienta sobre prazos e procedimentos."
     },
     {
-      "p": "A Will & Pereira Advocacia atende ${n}?",
-      "r": "Sim! Atendemos moradores de ${n} e toda a região de ${uf}, com o mesmo nível de dedicação e profissionalismo."
+      "p": "A advocacia em Capela Nova atende Capela Nova?",
+      "r": "Sim! Atendemos moradores de Capela Nova e toda a região de MG, com o mesmo nível de dedicação e profissionalismo."
     },
     {
-      "p": "Quais documentos preciso para uma consulta?",
-      "r": "Documentos relacionados à questão: contratos, comprovantes, documentos pessoais. Orientamos sobre a documentação antes da consulta."
+      "p": "Quais áreas um advogado em Capela Nova atende em Capela Nova?",
+      "r": "Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário. A advocacia em Capela Nova cobre todas essas áreas com excelência."
     },
     {
-      "p": "Quanto custa um advogado em ${n}?",
-      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com honorários de sucumbência. Entre em contato para orientação."
+      "p": "Quanto custa um advogado em Capela Nova em Capela Nova?",
+      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com sucumbência. Entre em contato para orientação."
     },
     {
-      "p": "É possível resolver questões jurídicas sem ir ao tribunal?",
-      "r": "Sim! Muitos conflitos se resolvem via negociação, mediação ou conciliação. Em ${n}, buscamos soluções extrajudiciais sempre que possível."
+      "p": "É possível resolver sem tribunal com um advogado em Capela Nova?",
+      "r": "Sim! Muitos conflitos se resolvem via negociação ou mediação. Um advogado em Capela Nova em Capela Nova busca soluções extrajudiciais quando possível."
     },
     {
-      "p": "Como a economia de ${n} influencia as questões jurídicas?",
-      "r": "A economia baseada em ${e[0]} gera demandas trabalhistas, previdenciárias e consumeristas específicas que conhecemos profundamente."
+      "p": "Um advogado em Capela Nova pode ajudar com INSS em Capela Nova?",
+      "r": "Sim! A advocacia em Capela Nova atua em aposentadorias, auxílios, pensões e revisões de benefícios do INSS para moradores de Capela Nova."
     },
     {
-      "p": "Vocês atendem pessoas físicas e jurídicas?",
-      "r": "Sim! Atendemos tanto pessoas físicas quanto empresas em ${n}, oferecendo soluções jurídicas completas."
+      "p": "Preciso ir ao escritório do advogado em Capela Nova?",
+      "r": "Não necessariamente. Atendemos por videoconferência para todo o Brasil, incluindo Capela Nova. Mas também recebemos presencialmente em Palhoça/SC."
     },
     {
-      "p": "Qual a diferença entre consultar um advogado e contratar?",
-      "r": "A consulta é para análise e orientação. A contratação envolve representação formal. Em ${n}, oferecemos ambos os serviços com transparência."
+      "p": "Como um advogado em Capela Nova pode ajudar minha empresa em Capela Nova?",
+      "r": "Consultoria trabalhista, contratos, questões societárias e tributárias. A advocacia em Capela Nova oferece assessoria completa para empresas em Capela Nova."
     }
   ],
   "stats": {

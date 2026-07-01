@@ -1,59 +1,59 @@
 export default {
-  "heroTitle": "Direito em Triunfo: Atendimento Humanizado e Eficiente",
-  "heroDescription": "Precisa de um advogado em Triunfo/RS? Nossa equipe está pronta para oferecer a melhor estratégia jurídica para o seu caso.",
+  "heroTitle": "Advocacia em Triunfo: Assessoria Jurídica Especializada em Rio Grande do Sul",
+  "heroDescription": "Encontre o melhor advogado em Triunfo/RS. A Will & Pereira Advocacia oferece assessoria jurídica completa com mais de 15 anos de experiência atendendo moradores de Triunfo e região.",
   "introParagraphs": [
-    "A busca por um advogado de confiança em Triunfo/RS é constante. Questões trabalhistas, previdenciárias, familiares e imobiliárias surgem no cotidiano e precisam de orientação especializada. A Will & Pereira Advocacia, com mais de 15 anos de atuação, é referência no atendimento jurídico para moradores de Triunfo e região.\n\nTriunfo é uma cidade com economia dinâmica localizada em Rio Grande do Sul, com economia baseada em indústria, agronegócio e vinicultura. Essas características geram demandas jurídicas que exigem conhecimento aprofundado da legislação e da jurisprudência.\n\nNossa equipe multidisciplinar oferece assessoria completa em todas as áreas do Direito, com atendimento personalizado e foco nos melhores resultados para cada cliente em Triunfo."
+    "Quando um cidadão de Triunfo/RS precisa de orientação jurídica, a primeira preocupação é encontrar um profissional que combine conhecimento técnico com compromisso com resultados. A advocacia em Triunfo, com sede em Palhoça/SC e atuação nacional, atende moradores de Triunfo há mais de 15 anos, oferecendo soluções jurídicas personalizadas para cada caso. Seja qual for a sua necessidade jurídica em Triunfo, nossa equipe está pronta para ajudar.\n\nA cidade de Triunfo apresenta características econômicas e sociais que influenciam diretamente as demandas jurídicas da população. Com economia voltada para indústria, agronegócio, vinicultura, os moradores enfrentam questões trabalhistas, previdenciárias e consumeristas que exigem conhecimento especializado. Um advogado em Triunfo experiente é fundamental para navegar por essas questões com segurança.\n\nNeste guia completo sobre advogado em Triunfo, apresentamos de forma detalhada os serviços jurídicos disponíveis para moradores de Triunfo, organizados por área do Direito. Cada seção é elaborada considerando a realidade específica de Triunfo/RS, oferecendo informações práticas e relevantes para quem busca um advogado em Triunfo de confiança na região."
   ],
   "areaContent": {
-    "previdenciario": "Aposentadoria, auxílio-doença, pensão por morte e BPC/LOAS são os benefícios mais buscados por moradores de Triunfo/RS. A complexidade das regras previdenciárias, especialmente após a EC 103/2019, torna indispensável o acompanhamento de um advogado especializado.\n\nEm Triunfo, com economia baseada em indústria, trabalhadores de diversas categorias precisam de orientação previdenciária personalizada. A Will & Pereira Advocacia oferece análise completa do CNIS, simulação de benefícios e representação administrativa e judicial junto ao INSS.",
-    "trabalhista": "A relação de emprego em Triunfo/RS é regida pela CLT e pela Constituição Federal, que garantem direitos fundamentais aos trabalhadores. Em uma cidade com economia baseada em indústria, as questões trabalhistas são frequentes e variadas. A Will & Pereira Advocacia atua na defesa desses direitos com competência e dedicação.\n\nAtuamos em Triunfo em reclamações trabalhistas, verbas rescisórias, horas extras, FGTS, estabilidade provisória, assédio moral e todas as demais questões que envolvam a relação de emprego.",
-    "civel": "O cotidiano de Triunfo/RS gera diversas questões jurídicas de natureza civil. Desde a elaboração de contratos até a resolução de conflitos de vizinhança, a Will & Pereira Advocacia oferece orientação jurídica completa para moradores e empresas da região.\n\nA economia local, focada em indústria e agronegócio, apresenta demandas cíveis que exigem conhecimento técnico e experiência. Atuamos em contratos, indenizações, cobranças, usucapião e todas as áreas do Direito Cível.",
-    "consumidor": "A proteção ao consumidor em Triunfo/RS é um direito fundamental. Questões como produtos defeituosos, serviços inadequados e cobranças indevidas são situações que resolvemos regularmente. A Will & Pereira Advocacia oferece assessoria completa em Direito do Consumidor.\n\nA economia local, baseada em indústria, gera demandas consumeristas que conhecemos profundamente. Atuamos em negociações extrajudiciais e ações judiciais, sempre buscando a melhor solução para cada caso.",
-    "familia": "As questões familiares em Triunfo/RS são tratadas com a sensibilidade que merecem. Divórcio consensual e litigioso, guarda compartilhada, pensão alimentícia, inventário e planejamento sucessório são áreas em que atuamos com excelência.\n\nEm Triunfo, conhecemos as particularidades do Direito de Família local e oferecemos atendimento personalizado para cada caso, sempre priorizando o bem-estar de todos os envolvidos.",
-    "imobiliario": "Questões imobiliárias em Triunfo/RS são frequentes e variadas. Desde a elaboração de contratos de locação até ações de usucapião, a Will & Pereira Advocacia oferece soluções jurídicas para todas as necessidades.\n\nA economia local, focada em indústria e agronegócio, gera demandas imobiliárias que atendemos com competência e dedicação. Trabalhamos com due diligence completa e resolução de conflitos."
+    "previdenciario": "O Direito Previdenciário é uma das áreas mais demandadas por quem busca um advogado em Triunfo. Trabalhadores de Triunfo/RS, tanto rurais quanto urbanos, frequentemente buscam orientação sobre aposentadoria, auxílio-doença e pensão por morte. A reforma da previdência (EC 103/2019) trouxe mudanças significativas, e contar com um advogado em Triunfo especializado é essencial para garantir o melhor benefício.\n\nEm Triunfo, a economia baseada em indústria e agronegócio gera diversas categorias de trabalhadores com necessidades previdenciárias específicas. A advocacia em Triunfo realiza análise completa do histórico contributivo, identificando possibilidades de antecipação ou majoração da aposentadoria. Se você precisa de um advogado em Triunfo para questões previdenciárias, entre em contato conosco.",
+    "trabalhista": "O Direito Trabalhista protege os direitos de trabalhadores e empregadores em Triunfo/RS. Em uma cidade com economia baseada em indústria e agronegócio, as relações de trabalho apresentam características próprias. Um advogado em Triunfo especializado é fundamental para garantir que seus direitos sejam respeitados.\n\nA advocacia em Triunfo atua em Triunfo em verbas rescisórias, horas extras, FGTS, insalubridade, periculosidade, equiparação salarial, assédio moral e dano moral trabalhista. Se você procura um advogado em Triunfo para questões trabalhistas, nossa equipe está preparada para oferecer a melhor orientação.",
+    "civel": "O Direito Cível abrange as relações cotidianas em Triunfo/RS. Contratos, indenizações, cobranças, usucapião e questões de propriedade são situações que surgem no dia a dia. Um advogado em Triunfo competente é essencial para resolver essas questões com eficiência.\n\nA advocacia em Triunfo oferece assessoria completa em Triunfo em todas as áreas do Direito Cível. Trabalhamos com elaboração e revisão de contratos, ações de cobrança, indenização por danos e todas as questões que envolvam o Código Civil.",
+    "consumidor": "O Código de Defesa do Consumidor protege os moradores de Triunfo/RS contra abusos. Em uma cidade com economia baseada em indústria e agronegócio, os conflitos consumeristas são frequentes. Um advogado em Triunfo especializado em Direito do Consumidor é fundamental para fazer valer seus direitos.\n\nA advocacia em Triunfo atua em Triunfo em casos de cobrança indevida, negativação injusta, produtos com defeito, negativas de planos de saúde e cláusulas abusivas. Se você precisa de um advogado em Triunfo para questões consumeristas, entre em contato.",
+    "familia": "O Direito de Família em Triunfo/RS lida com questões sensíveis que afetam a vida das pessoas. Divórcios, guarda de filhos, pensão alimentícia, inventários e união estável demandam sensibilidade e competência. Um advogado em Triunfo humanizado faz toda a diferença.\n\nA advocacia em Triunfo oferece atendimento personalizado em Triunfo para todas as questões de Direito de Família. Nossa equipe trabalha com mediação familiar e acordos consensuais, sempre priorizando o bem-estar de todos os envolvidos.",
+    "imobiliario": "O Direito Imobiliário regula questões de imóveis em Triunfo/RS. Compra e venda, locação, usucapião e regularização fundiária são áreas que exigem conhecimento jurídico específico. Um advogado em Triunfo especializado em Direito Imobiliário protege seus interesses em cada etapa.\n\nA advocacia em Triunfo oferece assessoria completa em Triunfo para todas as questões imobiliárias, desde a análise de documentação até a resolução de conflitos possessórios e condominiais."
   },
-  "exclusiva": "## Por Que Escolher a Will & Pereira Advocacia em Triunfo?\n\n**Experiência Comprovada:** Mais de 15 anos de atuação em todas as áreas do Direito, com resultados expressivos em Triunfo e região.\n\n**Conhecimento Local:** Conhecemos as particularidades de Triunfo e da região de Rio Grande do Sul, incluindo as especificidades da economia baseada em indústria.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada. Em Triunfo, oferecemos explicação clara de cada etapa do processo.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil, incluindo Triunfo.\n\n**Transparência Total:** Honorários claros, sem surpresas. O cliente sempre sabe onde está investindo.",
-  "diaADia": "## Como um Advogado Pode Ajudar no Dia a Dia em Triunfo\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis, elaboração de testamentos.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial, economizando tempo e recursos. Nossa equipe busca soluções consensuais sempre que possível.\n\n**Atendimento de Emergência:** Imprevistos acontecem. Oferecemos atendimento prioritário para situações urgentes em Triunfo.",
+  "exclusiva": "## Por Que Escolher a advocacia em Triunfo?\n\n**Experiência:** Mais de 15 anos de atuação como advogado em Triunfo em todas as áreas do Direito.\n\n**Conhecimento Local:** Conhecemos as particularidades de Triunfo e da região de Rio Grande do Sul.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil.\n\n**Transparência:** Honorários claros, sem surpresas.",
+  "diaADia": "## Como um advogado em Triunfo Pode Ajudar no Dia a Dia\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial.\n\n**Emergência:** Atendimento prioritário para situações urgentes em Triunfo.",
   "faqs": [
     {
-      "p": "Quais são as principais áreas do direito atendidas em ${n}?",
-      "r": "Em ${n}/${uf}, atuamos em Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário, com foco nas necessidades da economia local baseada em ${e.join(' e ')}."
+      "p": "Quem é o melhor advogado em Triunfo?",
+      "r": "A advocacia em Triunfo é referência em Triunfo/RS, com mais de 15 anos de experiência e atuação em todas as áreas do Direito. Entre em contato para orientação jurídica."
     },
     {
-      "p": "Como funciona o primeiro atendimento jurídico?",
-      "r": "O primeiro atendimento é orientativo, para análise do caso e definição da melhor estratégia. Atendemos presencialmente em Palhoça/SC e por videoconferência para ${n}."
+      "p": "Como funciona o atendimento de um advogado em Triunfo?",
+      "r": "O primeiro atendimento é orientativo. Atendemos presencialmente em Palhoça/SC e por videoconferência para Triunfo. Analisamos seu caso e definimos a melhor estratégia."
     },
     {
-      "p": "Qual o prazo para entrar com uma reclamação trabalhista?",
-      "r": "O trabalhador tem até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Em ${n}, orientamos sobre prazos e procedimentos."
+      "p": "Qual o prazo para ação trabalhista com um advogado em Triunfo?",
+      "r": "Até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Um advogado em Triunfo em Triunfo orienta sobre prazos e procedimentos."
     },
     {
-      "p": "A Will & Pereira Advocacia atende ${n}?",
-      "r": "Sim! Atendemos moradores de ${n} e toda a região de ${uf}, com o mesmo nível de dedicação e profissionalismo."
+      "p": "A advocacia em Triunfo atende Triunfo?",
+      "r": "Sim! Atendemos moradores de Triunfo e toda a região de RS, com o mesmo nível de dedicação e profissionalismo."
     },
     {
-      "p": "Quais documentos preciso para uma consulta?",
-      "r": "Documentos relacionados à questão: contratos, comprovantes, documentos pessoais. Orientamos sobre a documentação antes da consulta."
+      "p": "Quais áreas um advogado em Triunfo atende em Triunfo?",
+      "r": "Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário. A advocacia em Triunfo cobre todas essas áreas com excelência."
     },
     {
-      "p": "Quanto custa um advogado em ${n}?",
-      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com honorários de sucumbência. Entre em contato para orientação."
+      "p": "Quanto custa um advogado em Triunfo em Triunfo?",
+      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com sucumbência. Entre em contato para orientação."
     },
     {
-      "p": "É possível resolver questões jurídicas sem ir ao tribunal?",
-      "r": "Sim! Muitos conflitos se resolvem via negociação, mediação ou conciliação. Em ${n}, buscamos soluções extrajudiciais sempre que possível."
+      "p": "É possível resolver sem tribunal com um advogado em Triunfo?",
+      "r": "Sim! Muitos conflitos se resolvem via negociação ou mediação. Um advogado em Triunfo em Triunfo busca soluções extrajudiciais quando possível."
     },
     {
-      "p": "Como a economia de ${n} influencia as questões jurídicas?",
-      "r": "A economia baseada em ${e[0]} gera demandas trabalhistas, previdenciárias e consumeristas específicas que conhecemos profundamente."
+      "p": "Um advogado em Triunfo pode ajudar com INSS em Triunfo?",
+      "r": "Sim! A advocacia em Triunfo atua em aposentadorias, auxílios, pensões e revisões de benefícios do INSS para moradores de Triunfo."
     },
     {
-      "p": "Vocês atendem pessoas físicas e jurídicas?",
-      "r": "Sim! Atendemos tanto pessoas físicas quanto empresas em ${n}, oferecendo soluções jurídicas completas."
+      "p": "Preciso ir ao escritório do advogado em Triunfo?",
+      "r": "Não necessariamente. Atendemos por videoconferência para todo o Brasil, incluindo Triunfo. Mas também recebemos presencialmente em Palhoça/SC."
     },
     {
-      "p": "Qual a diferença entre consultar um advogado e contratar?",
-      "r": "A consulta é para análise e orientação. A contratação envolve representação formal. Em ${n}, oferecemos ambos os serviços com transparência."
+      "p": "Como um advogado em Triunfo pode ajudar minha empresa em Triunfo?",
+      "r": "Consultoria trabalhista, contratos, questões societárias e tributárias. A advocacia em Triunfo oferece assessoria completa para empresas em Triunfo."
     }
   ],
   "stats": {

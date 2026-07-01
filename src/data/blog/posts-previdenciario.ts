@@ -7509,4 +7509,414 @@ Planejar a aposentadoria com antecedência é fundamental para garantir um benef
 📞 Entre em contato: (48) 98842-0867
 📧 Email: contato@willepereira.adv.br`,
   },
+
+  {
+    slug: 'aposentadoria-manual-pratico-314442',
+    title: 'Aposentadoria — Manual Prático | Will & Pereira Advocacia',
+    description: 'guia completo de aposentadoria — Guia prático. Will & Pereira Advocacia.',
+    category: 'Previdenciario',
+    date: '30 Jun 2026',
+    author: 'Will & Pereira Advocacia',
+    content: `## Guia Completo Reforma da Previdência
+
+A previdência social brasileira passou por diversas mudanças nos últimos anos. A Reforma da Previdência (EC 103/2019) alterou significativamente as regras para concessão de benefícios. Neste guia completo, a Will & Pereira Advocacia explica tudo o que você precisa saber.
+
+## Quem Tem Direito
+
+Para ter direito aos benefícios previdenciários, é necessário ser segurado do INSS. São considerados segurados:
+
+• Trabalhadores com carteira assinada (empregados)
+• Trabalhadores avulsos
+• Contribuintes individuais (autônomos e empresários)
+• Trabalhadores rurais
+• Segurados especiais (pescadores artesanais, indígenas)
+• Facultativos (donas de casa, estudantes)
+
+## Tipos de Aposentadoria
+
+### Aposentadoria por Idade
+A aposentadoria por idade é um dos benefícios mais comuns do INSS. Para ter direito, é necessário cumprir os seguintes requisitos:
+
+**Homens:** 65 anos de idade + 20 anos de contribuição (após a reforma)
+**Mulheres:** 62 anos de idade + 15 anos de contribuição (após a reforma)
+
+### Aposentadoria por Tempo de Contribuição
+Com a Reforma da Previdência, a aposentadoria por tempo de contribuição deixou de existir para novos segurados. No entanto, quem já estava no mercado de trabalho antes da reforma pode ter direito adquirido ou se enquadrar nas regras de transição.
+
+**Regras de transição principais:**
+• Sistema de pontos (idade + tempo de contribuição)
+• Pedágio 50% (para quem faltava até 2 anos para se aposentar)
+• Pedágio 100% (para quem faltava mais de 2 anos)
+• Idade mínima progressiva
+
+### Aposentadoria Especial
+A aposentadoria especial é destinada a trabalhadores que exercem atividades com exposição a agentes nocivos à saúde (ruído, calor, agentes químicos, etc.).
+
+**Requisitos:**
+• 25 anos de atividade especial (para a maioria dos casos)
+• 20 anos (para atividades de alto risco, como mineração subterrânea)
+• 15 anos (para atividades de risco extremo)
+
+### Aposentadoria da Pessoa com Deficiência
+Pessoas com deficiência têm direito a regras especiais de aposentadoria, com requisitos reduzidos:
+
+**Por idade:** 60 anos (homens) ou 55 anos (mulheres), com 15 anos de contribuição
+**Por tempo:** 25 anos (homens) ou 20 anos (mulheres) para deficiência grave
+
+## Documentos Necessários
+
+Para solicitar qualquer benefício previdenciário, é necessário apresentar:
+
+• Documento de identificação com foto (RG, CNH)
+• CPF
+• Carteira de Trabalho
+• Comprovante de residência
+• Extrato CNIS (Cadastro Nacional de Informações Sociais)
+• PPP (Perfil Profissiográfico Previdenciário) para aposentadoria especial
+• Laudos médicos, se houver
+• Certidão de nascimento/casamento
+
+## Como Solicitar
+
+O pedido de aposentadoria pode ser feito:
+• Pelo site Meu INSS (meu.inss.gov.br)
+• Pelo aplicativo Meu INSS
+• Pela central 135
+• Presencialmente em uma agência do INSS (mediante agendamento)
+
+## Conclusão
+
+Planejar a aposentadoria com antecedência é fundamental para garantir um benefício justo e adequado. A Will & Pereira Advocacia oferece assessoria completa em planejamento previdenciário e concessão de benefícios.
+
+📞 Entre em contato: (48) 98842-0867
+📧 Email: contato@willepereira.adv.br`,
+  },
+
+  {
+    slug: 'aposentadoria-tudo-que-voce-precisa-saber-db4667',
+    title: 'Aposentadoria — Tudo que Você Precisa Saber | Will & Pereira Advocacia',
+    description: 'guia completo de aposentadoria — Guia completo atualizado. Will & Pereira Advocacia.',
+    category: 'Previdenciario',
+    date: '30 Jun 2026',
+    author: 'Will & Pereira Advocacia',
+    content: `## Entenda a Reforma da Previdência
+
+A previdência social brasileira passou por diversas mudanças nos últimos anos. A Reforma da Previdência (EC 103/2019) alterou significativamente as regras para concessão de benefícios. Neste guia completo, a Will & Pereira Advocacia explica tudo o que você precisa saber.
+
+## Quem Tem Direito
+
+Para ter direito aos benefícios previdenciários, é necessário ser segurado do INSS. São considerados segurados:
+
+• Trabalhadores com carteira assinada (empregados)
+• Trabalhadores avulsos
+• Contribuintes individuais (autônomos e empresários)
+• Trabalhadores rurais
+• Segurados especiais (pescadores artesanais, indígenas)
+• Facultativos (donas de casa, estudantes)
+
+## Tipos de Aposentadoria
+
+### Aposentadoria por Idade
+A aposentadoria por idade é um dos benefícios mais comuns do INSS. Para ter direito, é necessário cumprir os seguintes requisitos:
+
+**Homens:** 65 anos de idade + 20 anos de contribuição (após a reforma)
+**Mulheres:** 62 anos de idade + 15 anos de contribuição (após a reforma)
+
+### Aposentadoria por Tempo de Contribuição
+Com a Reforma da Previdência, a aposentadoria por tempo de contribuição deixou de existir para novos segurados. No entanto, quem já estava no mercado de trabalho antes da reforma pode ter direito adquirido ou se enquadrar nas regras de transição.
+
+**Regras de transição principais:**
+• Sistema de pontos (idade + tempo de contribuição)
+• Pedágio 50% (para quem faltava até 2 anos para se aposentar)
+• Pedágio 100% (para quem faltava mais de 2 anos)
+• Idade mínima progressiva
+
+### Aposentadoria Especial
+A aposentadoria especial é destinada a trabalhadores que exercem atividades com exposição a agentes nocivos à saúde (ruído, calor, agentes químicos, etc.).
+
+**Requisitos:**
+• 25 anos de atividade especial (para a maioria dos casos)
+• 20 anos (para atividades de alto risco, como mineração subterrânea)
+• 15 anos (para atividades de risco extremo)
+
+### Aposentadoria da Pessoa com Deficiência
+Pessoas com deficiência têm direito a regras especiais de aposentadoria, com requisitos reduzidos:
+
+**Por idade:** 60 anos (homens) ou 55 anos (mulheres), com 15 anos de contribuição
+**Por tempo:** 25 anos (homens) ou 20 anos (mulheres) para deficiência grave
+
+## Documentos Necessários
+
+Para solicitar qualquer benefício previdenciário, é necessário apresentar:
+
+• Documento de identificação com foto (RG, CNH)
+• CPF
+• Carteira de Trabalho
+• Comprovante de residência
+• Extrato CNIS (Cadastro Nacional de Informações Sociais)
+• PPP (Perfil Profissiográfico Previdenciário) para aposentadoria especial
+• Laudos médicos, se houver
+• Certidão de nascimento/casamento
+
+## Como Solicitar
+
+O pedido de aposentadoria pode ser feito:
+• Pelo site Meu INSS (meu.inss.gov.br)
+• Pelo aplicativo Meu INSS
+• Pela central 135
+• Presencialmente em uma agência do INSS (mediante agendamento)
+
+## Conclusão
+
+Planejar a aposentadoria com antecedência é fundamental para garantir um benefício justo e adequado. A Will & Pereira Advocacia oferece assessoria completa em planejamento previdenciário e concessão de benefícios.
+
+📞 Entre em contato: (48) 98842-0867
+📧 Email: contato@willepereira.adv.br`,
+  },
+
+  {
+    slug: 'aposentadoria-guia-completo',
+    title: 'Aposentadoria — Guia Completo | Will & Pereira Advocacia',
+    description: 'guia completo de aposentadoria — Guia completo atualizado. Will & Pereira Advocacia.',
+    category: 'Previdenciario',
+    date: '30 Jun 2026',
+    author: 'Will & Pereira Advocacia',
+    content: `## Guia Completo Aposentadoria por Tempo de Contribuição
+
+A previdência social brasileira passou por diversas mudanças nos últimos anos. A Reforma da Previdência (EC 103/2019) alterou significativamente as regras para concessão de benefícios. Neste guia completo, a Will & Pereira Advocacia explica tudo o que você precisa saber.
+
+## Quem Tem Direito
+
+Para ter direito aos benefícios previdenciários, é necessário ser segurado do INSS. São considerados segurados:
+
+• Trabalhadores com carteira assinada (empregados)
+• Trabalhadores avulsos
+• Contribuintes individuais (autônomos e empresários)
+• Trabalhadores rurais
+• Segurados especiais (pescadores artesanais, indígenas)
+• Facultativos (donas de casa, estudantes)
+
+## Tipos de Aposentadoria
+
+### Aposentadoria por Idade
+A aposentadoria por idade é um dos benefícios mais comuns do INSS. Para ter direito, é necessário cumprir os seguintes requisitos:
+
+**Homens:** 65 anos de idade + 20 anos de contribuição (após a reforma)
+**Mulheres:** 62 anos de idade + 15 anos de contribuição (após a reforma)
+
+### Aposentadoria por Tempo de Contribuição
+Com a Reforma da Previdência, a aposentadoria por tempo de contribuição deixou de existir para novos segurados. No entanto, quem já estava no mercado de trabalho antes da reforma pode ter direito adquirido ou se enquadrar nas regras de transição.
+
+**Regras de transição principais:**
+• Sistema de pontos (idade + tempo de contribuição)
+• Pedágio 50% (para quem faltava até 2 anos para se aposentar)
+• Pedágio 100% (para quem faltava mais de 2 anos)
+• Idade mínima progressiva
+
+### Aposentadoria Especial
+A aposentadoria especial é destinada a trabalhadores que exercem atividades com exposição a agentes nocivos à saúde (ruído, calor, agentes químicos, etc.).
+
+**Requisitos:**
+• 25 anos de atividade especial (para a maioria dos casos)
+• 20 anos (para atividades de alto risco, como mineração subterrânea)
+• 15 anos (para atividades de risco extremo)
+
+### Aposentadoria da Pessoa com Deficiência
+Pessoas com deficiência têm direito a regras especiais de aposentadoria, com requisitos reduzidos:
+
+**Por idade:** 60 anos (homens) ou 55 anos (mulheres), com 15 anos de contribuição
+**Por tempo:** 25 anos (homens) ou 20 anos (mulheres) para deficiência grave
+
+## Documentos Necessários
+
+Para solicitar qualquer benefício previdenciário, é necessário apresentar:
+
+• Documento de identificação com foto (RG, CNH)
+• CPF
+• Carteira de Trabalho
+• Comprovante de residência
+• Extrato CNIS (Cadastro Nacional de Informações Sociais)
+• PPP (Perfil Profissiográfico Previdenciário) para aposentadoria especial
+• Laudos médicos, se houver
+• Certidão de nascimento/casamento
+
+## Como Solicitar
+
+O pedido de aposentadoria pode ser feito:
+• Pelo site Meu INSS (meu.inss.gov.br)
+• Pelo aplicativo Meu INSS
+• Pela central 135
+• Presencialmente em uma agência do INSS (mediante agendamento)
+
+## Conclusão
+
+Planejar a aposentadoria com antecedência é fundamental para garantir um benefício justo e adequado. A Will & Pereira Advocacia oferece assessoria completa em planejamento previdenciário e concessão de benefícios.
+
+📞 Entre em contato: (48) 98842-0867
+📧 Email: contato@willepereira.adv.br`,
+  },
+
+  {
+    slug: 'aposentadoria-guia-completo-b51d00',
+    title: 'Aposentadoria — Guia Completo | Will & Pereira Advocacia',
+    description: 'guia completo de aposentadoria — Informações essenciais. Will & Pereira Advocacia.',
+    category: 'Previdenciario',
+    date: '30 Jun 2026',
+    author: 'Will & Pereira Advocacia',
+    content: `## Tudo sobre Aposentadoria por Idade
+
+A previdência social brasileira passou por diversas mudanças nos últimos anos. A Reforma da Previdência (EC 103/2019) alterou significativamente as regras para concessão de benefícios. Neste guia completo, a Will & Pereira Advocacia explica tudo o que você precisa saber.
+
+## Quem Tem Direito
+
+Para ter direito aos benefícios previdenciários, é necessário ser segurado do INSS. São considerados segurados:
+
+• Trabalhadores com carteira assinada (empregados)
+• Trabalhadores avulsos
+• Contribuintes individuais (autônomos e empresários)
+• Trabalhadores rurais
+• Segurados especiais (pescadores artesanais, indígenas)
+• Facultativos (donas de casa, estudantes)
+
+## Tipos de Aposentadoria
+
+### Aposentadoria por Idade
+A aposentadoria por idade é um dos benefícios mais comuns do INSS. Para ter direito, é necessário cumprir os seguintes requisitos:
+
+**Homens:** 65 anos de idade + 20 anos de contribuição (após a reforma)
+**Mulheres:** 62 anos de idade + 15 anos de contribuição (após a reforma)
+
+### Aposentadoria por Tempo de Contribuição
+Com a Reforma da Previdência, a aposentadoria por tempo de contribuição deixou de existir para novos segurados. No entanto, quem já estava no mercado de trabalho antes da reforma pode ter direito adquirido ou se enquadrar nas regras de transição.
+
+**Regras de transição principais:**
+• Sistema de pontos (idade + tempo de contribuição)
+• Pedágio 50% (para quem faltava até 2 anos para se aposentar)
+• Pedágio 100% (para quem faltava mais de 2 anos)
+• Idade mínima progressiva
+
+### Aposentadoria Especial
+A aposentadoria especial é destinada a trabalhadores que exercem atividades com exposição a agentes nocivos à saúde (ruído, calor, agentes químicos, etc.).
+
+**Requisitos:**
+• 25 anos de atividade especial (para a maioria dos casos)
+• 20 anos (para atividades de alto risco, como mineração subterrânea)
+• 15 anos (para atividades de risco extremo)
+
+### Aposentadoria da Pessoa com Deficiência
+Pessoas com deficiência têm direito a regras especiais de aposentadoria, com requisitos reduzidos:
+
+**Por idade:** 60 anos (homens) ou 55 anos (mulheres), com 15 anos de contribuição
+**Por tempo:** 25 anos (homens) ou 20 anos (mulheres) para deficiência grave
+
+## Documentos Necessários
+
+Para solicitar qualquer benefício previdenciário, é necessário apresentar:
+
+• Documento de identificação com foto (RG, CNH)
+• CPF
+• Carteira de Trabalho
+• Comprovante de residência
+• Extrato CNIS (Cadastro Nacional de Informações Sociais)
+• PPP (Perfil Profissiográfico Previdenciário) para aposentadoria especial
+• Laudos médicos, se houver
+• Certidão de nascimento/casamento
+
+## Como Solicitar
+
+O pedido de aposentadoria pode ser feito:
+• Pelo site Meu INSS (meu.inss.gov.br)
+• Pelo aplicativo Meu INSS
+• Pela central 135
+• Presencialmente em uma agência do INSS (mediante agendamento)
+
+## Conclusão
+
+Planejar a aposentadoria com antecedência é fundamental para garantir um benefício justo e adequado. A Will & Pereira Advocacia oferece assessoria completa em planejamento previdenciário e concessão de benefícios.
+
+📞 Entre em contato: (48) 98842-0867
+📧 Email: contato@willepereira.adv.br`,
+  },
+
+  {
+    slug: 'aposentadoria-guia-definitivo-0808ba',
+    title: 'Aposentadoria — Guia Definitivo | Will & Pereira Advocacia',
+    description: 'guia completo de aposentadoria — Informações essenciais. Will & Pereira Advocacia.',
+    category: 'Previdenciario',
+    date: '30 Jun 2026',
+    author: 'Will & Pereira Advocacia',
+    content: `## Guia Completo Aposentadoria por Idade
+
+A previdência social brasileira passou por diversas mudanças nos últimos anos. A Reforma da Previdência (EC 103/2019) alterou significativamente as regras para concessão de benefícios. Neste guia completo, a Will & Pereira Advocacia explica tudo o que você precisa saber.
+
+## Quem Tem Direito
+
+Para ter direito aos benefícios previdenciários, é necessário ser segurado do INSS. São considerados segurados:
+
+• Trabalhadores com carteira assinada (empregados)
+• Trabalhadores avulsos
+• Contribuintes individuais (autônomos e empresários)
+• Trabalhadores rurais
+• Segurados especiais (pescadores artesanais, indígenas)
+• Facultativos (donas de casa, estudantes)
+
+## Tipos de Aposentadoria
+
+### Aposentadoria por Idade
+A aposentadoria por idade é um dos benefícios mais comuns do INSS. Para ter direito, é necessário cumprir os seguintes requisitos:
+
+**Homens:** 65 anos de idade + 20 anos de contribuição (após a reforma)
+**Mulheres:** 62 anos de idade + 15 anos de contribuição (após a reforma)
+
+### Aposentadoria por Tempo de Contribuição
+Com a Reforma da Previdência, a aposentadoria por tempo de contribuição deixou de existir para novos segurados. No entanto, quem já estava no mercado de trabalho antes da reforma pode ter direito adquirido ou se enquadrar nas regras de transição.
+
+**Regras de transição principais:**
+• Sistema de pontos (idade + tempo de contribuição)
+• Pedágio 50% (para quem faltava até 2 anos para se aposentar)
+• Pedágio 100% (para quem faltava mais de 2 anos)
+• Idade mínima progressiva
+
+### Aposentadoria Especial
+A aposentadoria especial é destinada a trabalhadores que exercem atividades com exposição a agentes nocivos à saúde (ruído, calor, agentes químicos, etc.).
+
+**Requisitos:**
+• 25 anos de atividade especial (para a maioria dos casos)
+• 20 anos (para atividades de alto risco, como mineração subterrânea)
+• 15 anos (para atividades de risco extremo)
+
+### Aposentadoria da Pessoa com Deficiência
+Pessoas com deficiência têm direito a regras especiais de aposentadoria, com requisitos reduzidos:
+
+**Por idade:** 60 anos (homens) ou 55 anos (mulheres), com 15 anos de contribuição
+**Por tempo:** 25 anos (homens) ou 20 anos (mulheres) para deficiência grave
+
+## Documentos Necessários
+
+Para solicitar qualquer benefício previdenciário, é necessário apresentar:
+
+• Documento de identificação com foto (RG, CNH)
+• CPF
+• Carteira de Trabalho
+• Comprovante de residência
+• Extrato CNIS (Cadastro Nacional de Informações Sociais)
+• PPP (Perfil Profissiográfico Previdenciário) para aposentadoria especial
+• Laudos médicos, se houver
+• Certidão de nascimento/casamento
+
+## Como Solicitar
+
+O pedido de aposentadoria pode ser feito:
+• Pelo site Meu INSS (meu.inss.gov.br)
+• Pelo aplicativo Meu INSS
+• Pela central 135
+• Presencialmente em uma agência do INSS (mediante agendamento)
+
+## Conclusão
+
+Planejar a aposentadoria com antecedência é fundamental para garantir um benefício justo e adequado. A Will & Pereira Advocacia oferece assessoria completa em planejamento previdenciário e concessão de benefícios.
+
+📞 Entre em contato: (48) 98842-0867
+📧 Email: contato@willepereira.adv.br`,
+  },
 ]

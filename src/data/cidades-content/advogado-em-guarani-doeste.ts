@@ -1,59 +1,59 @@
 export default {
-  "heroTitle": "Assessoria Jurídica em Guarani d'Oeste | Will & Pereira Advocacia",
-  "heroDescription": "Advogados especializados em Guarani d'Oeste/SP para questões trabalhistas, previdenciárias, cíveis e familiares. Atendimento personalizado.",
+  "heroTitle": "Advogado em Guarani d'Oeste: Assessoria Jurídica Especializada em São Paulo",
+  "heroDescription": "Encontre o melhor advogado em Guarani d'Oeste/SP. A Will & Pereira Advocacia oferece assessoria jurídica completa com mais de 15 anos de experiência atendendo moradores de Guarani d'Oeste e região.",
   "introParagraphs": [
-    "A busca por um advogado de confiança em Guarani d'Oeste/SP é constante. Questões trabalhistas, previdenciárias, familiares e imobiliárias surgem no cotidiano e precisam de orientação especializada. A Will & Pereira Advocacia, com mais de 15 anos de atuação, é referência no atendimento jurídico para moradores de Guarani d'Oeste e região.\n\nGuarani d'Oeste é uma cidade de grande porte localizada em São Paulo, com economia baseada em indústria, serviços e tecnologia. Essas características geram demandas jurídicas que exigem conhecimento aprofundado da legislação e da jurisprudência.\n\nNossa equipe multidisciplinar oferece assessoria completa em todas as áreas do Direito, com atendimento personalizado e foco nos melhores resultados para cada cliente em Guarani d'Oeste."
+    "Quando um cidadão de Guarani d'Oeste/SP precisa de orientação jurídica, a primeira preocupação é encontrar um profissional que combine conhecimento técnico com compromisso com resultados. A advocacia em Guarani d'Oeste, com sede em Palhoça/SC e atuação nacional, atende moradores de Guarani d'Oeste há mais de 15 anos, oferecendo soluções jurídicas personalizadas para cada caso. Seja qual for a sua necessidade jurídica em Guarani d'Oeste, nossa equipe está pronta para ajudar.\n\nA cidade de Guarani d'Oeste apresenta características econômicas e sociais que influenciam diretamente as demandas jurídicas da população. Com economia voltada para indústria, serviços, tecnologia, os moradores enfrentam questões trabalhistas, previdenciárias e consumeristas que exigem conhecimento especializado. Um advogado em Guarani d'Oeste experiente é fundamental para navegar por essas questões com segurança.\n\nNeste guia completo sobre advogado em Guarani d'Oeste, apresentamos de forma detalhada os serviços jurídicos disponíveis para moradores de Guarani d'Oeste, organizados por área do Direito. Cada seção é elaborada considerando a realidade específica de Guarani d'Oeste/SP, oferecendo informações práticas e relevantes para quem busca um advogado em Guarani d'Oeste de confiança na região."
   ],
   "areaContent": {
-    "previdenciario": "Aposentadoria, auxílio-doença, pensão por morte e BPC/LOAS são os benefícios mais buscados por moradores de Guarani d'Oeste/SP. A complexidade das regras previdenciárias, especialmente após a EC 103/2019, torna indispensável o acompanhamento de um advogado especializado.\n\nEm Guarani d'Oeste, com economia baseada em indústria, trabalhadores de diversas categorias precisam de orientação previdenciária personalizada. A Will & Pereira Advocacia oferece análise completa do CNIS, simulação de benefícios e representação administrativa e judicial junto ao INSS.",
-    "trabalhista": "A relação de emprego em Guarani d'Oeste/SP é regida pela CLT e pela Constituição Federal, que garantem direitos fundamentais aos trabalhadores. Em uma cidade com economia baseada em indústria, as questões trabalhistas são frequentes e variadas. A Will & Pereira Advocacia atua na defesa desses direitos com competência e dedicação.\n\nAtuamos em Guarani d'Oeste em reclamações trabalhistas, verbas rescisórias, horas extras, FGTS, estabilidade provisória, assédio moral e todas as demais questões que envolvam a relação de emprego.",
-    "civel": "O cotidiano de Guarani d'Oeste/SP gera diversas questões jurídicas de natureza civil. Desde a elaboração de contratos até a resolução de conflitos de vizinhança, a Will & Pereira Advocacia oferece orientação jurídica completa para moradores e empresas da região.\n\nA economia local, focada em indústria e serviços, apresenta demandas cíveis que exigem conhecimento técnico e experiência. Atuamos em contratos, indenizações, cobranças, usucapião e todas as áreas do Direito Cível.",
-    "consumidor": "A proteção ao consumidor em Guarani d'Oeste/SP é um direito fundamental. Questões como produtos defeituosos, serviços inadequados e cobranças indevidas são situações que resolvemos regularmente. A Will & Pereira Advocacia oferece assessoria completa em Direito do Consumidor.\n\nA economia local, baseada em indústria, gera demandas consumeristas que conhecemos profundamente. Atuamos em negociações extrajudiciais e ações judiciais, sempre buscando a melhor solução para cada caso.",
-    "familia": "As questões familiares em Guarani d'Oeste/SP são tratadas com a sensibilidade que merecem. Divórcio consensual e litigioso, guarda compartilhada, pensão alimentícia, inventário e planejamento sucessório são áreas em que atuamos com excelência.\n\nEm Guarani d'Oeste, conhecemos as particularidades do Direito de Família local e oferecemos atendimento personalizado para cada caso, sempre priorizando o bem-estar de todos os envolvidos.",
-    "imobiliario": "Questões imobiliárias em Guarani d'Oeste/SP são frequentes e variadas. Desde a elaboração de contratos de locação até ações de usucapião, a Will & Pereira Advocacia oferece soluções jurídicas para todas as necessidades.\n\nA economia local, focada em indústria e serviços, gera demandas imobiliárias que atendemos com competência e dedicação. Trabalhamos com due diligence completa e resolução de conflitos."
+    "previdenciario": "O Direito Previdenciário é uma das áreas mais demandadas por quem busca um advogado em Guarani d'Oeste. Trabalhadores de Guarani d'Oeste/SP, tanto rurais quanto urbanos, frequentemente buscam orientação sobre aposentadoria, auxílio-doença e pensão por morte. A reforma da previdência (EC 103/2019) trouxe mudanças significativas, e contar com um advogado em Guarani d'Oeste especializado é essencial para garantir o melhor benefício.\n\nEm Guarani d'Oeste, a economia baseada em indústria e serviços gera diversas categorias de trabalhadores com necessidades previdenciárias específicas. A advocacia em Guarani d'Oeste realiza análise completa do histórico contributivo, identificando possibilidades de antecipação ou majoração da aposentadoria. Se você precisa de um advogado em Guarani d'Oeste para questões previdenciárias, entre em contato conosco.",
+    "trabalhista": "O Direito Trabalhista protege os direitos de trabalhadores e empregadores em Guarani d'Oeste/SP. Em uma cidade com economia baseada em indústria e serviços, as relações de trabalho apresentam características próprias. Um advogado em Guarani d'Oeste especializado é fundamental para garantir que seus direitos sejam respeitados.\n\nA advocacia em Guarani d'Oeste atua em Guarani d'Oeste em verbas rescisórias, horas extras, FGTS, insalubridade, periculosidade, equiparação salarial, assédio moral e dano moral trabalhista. Se você procura um advogado em Guarani d'Oeste para questões trabalhistas, nossa equipe está preparada para oferecer a melhor orientação.",
+    "civel": "O Direito Cível abrange as relações cotidianas em Guarani d'Oeste/SP. Contratos, indenizações, cobranças, usucapião e questões de propriedade são situações que surgem no dia a dia. Um advogado em Guarani d'Oeste competente é essencial para resolver essas questões com eficiência.\n\nA advocacia em Guarani d'Oeste oferece assessoria completa em Guarani d'Oeste em todas as áreas do Direito Cível. Trabalhamos com elaboração e revisão de contratos, ações de cobrança, indenização por danos e todas as questões que envolvam o Código Civil.",
+    "consumidor": "O Código de Defesa do Consumidor protege os moradores de Guarani d'Oeste/SP contra abusos. Em uma cidade com economia baseada em indústria e serviços, os conflitos consumeristas são frequentes. Um advogado em Guarani d'Oeste especializado em Direito do Consumidor é fundamental para fazer valer seus direitos.\n\nA advocacia em Guarani d'Oeste atua em Guarani d'Oeste em casos de cobrança indevida, negativação injusta, produtos com defeito, negativas de planos de saúde e cláusulas abusivas. Se você precisa de um advogado em Guarani d'Oeste para questões consumeristas, entre em contato.",
+    "familia": "O Direito de Família em Guarani d'Oeste/SP lida com questões sensíveis que afetam a vida das pessoas. Divórcios, guarda de filhos, pensão alimentícia, inventários e união estável demandam sensibilidade e competência. Um advogado em Guarani d'Oeste humanizado faz toda a diferença.\n\nA advocacia em Guarani d'Oeste oferece atendimento personalizado em Guarani d'Oeste para todas as questões de Direito de Família. Nossa equipe trabalha com mediação familiar e acordos consensuais, sempre priorizando o bem-estar de todos os envolvidos.",
+    "imobiliario": "O Direito Imobiliário regula questões de imóveis em Guarani d'Oeste/SP. Compra e venda, locação, usucapião e regularização fundiária são áreas que exigem conhecimento jurídico específico. Um advogado em Guarani d'Oeste especializado em Direito Imobiliário protege seus interesses em cada etapa.\n\nA advocacia em Guarani d'Oeste oferece assessoria completa em Guarani d'Oeste para todas as questões imobiliárias, desde a análise de documentação até a resolução de conflitos possessórios e condominiais."
   },
-  "exclusiva": "## Por Que Escolher a Will & Pereira Advocacia em Guarani d'Oeste?\n\n**Experiência Comprovada:** Mais de 15 anos de atuação em todas as áreas do Direito, com resultados expressivos em Guarani d'Oeste e região.\n\n**Conhecimento Local:** Conhecemos as particularidades de Guarani d'Oeste e da região de São Paulo, incluindo as especificidades da economia baseada em indústria.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada. Em Guarani d'Oeste, oferecemos explicação clara de cada etapa do processo.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil, incluindo Guarani d'Oeste.\n\n**Transparência Total:** Honorários claros, sem surpresas. O cliente sempre sabe onde está investindo.",
-  "diaADia": "## Como um Advogado Pode Ajudar no Dia a Dia em Guarani d'Oeste\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis, elaboração de testamentos.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial, economizando tempo e recursos. Nossa equipe busca soluções consensuais sempre que possível.\n\n**Atendimento de Emergência:** Imprevistos acontecem. Oferecemos atendimento prioritário para situações urgentes em Guarani d'Oeste.",
+  "exclusiva": "## Por Que Escolher a advocacia em Guarani d'Oeste?\n\n**Experiência:** Mais de 15 anos de atuação como advogado em Guarani d'Oeste em todas as áreas do Direito.\n\n**Conhecimento Local:** Conhecemos as particularidades de Guarani d'Oeste e da região de São Paulo.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil.\n\n**Transparência:** Honorários claros, sem surpresas.",
+  "diaADia": "## Como um advogado em Guarani d'Oeste Pode Ajudar no Dia a Dia\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial.\n\n**Emergência:** Atendimento prioritário para situações urgentes em Guarani d'Oeste.",
   "faqs": [
     {
-      "p": "Quais são as principais áreas do direito atendidas em ${n}?",
-      "r": "Em ${n}/${uf}, atuamos em Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário, com foco nas necessidades da economia local baseada em ${e.join(' e ')}."
+      "p": "Quem é o melhor advogado em Guarani d'Oeste?",
+      "r": "A advocacia em Guarani d'Oeste é referência em Guarani d'Oeste/SP, com mais de 15 anos de experiência e atuação em todas as áreas do Direito. Entre em contato para orientação jurídica."
     },
     {
-      "p": "Como funciona o primeiro atendimento jurídico?",
-      "r": "O primeiro atendimento é orientativo, para análise do caso e definição da melhor estratégia. Atendemos presencialmente em Palhoça/SC e por videoconferência para ${n}."
+      "p": "Como funciona o atendimento de um advogado em Guarani d'Oeste?",
+      "r": "O primeiro atendimento é orientativo. Atendemos presencialmente em Palhoça/SC e por videoconferência para Guarani d'Oeste. Analisamos seu caso e definimos a melhor estratégia."
     },
     {
-      "p": "Qual o prazo para entrar com uma reclamação trabalhista?",
-      "r": "O trabalhador tem até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Em ${n}, orientamos sobre prazos e procedimentos."
+      "p": "Qual o prazo para ação trabalhista com um advogado em Guarani d'Oeste?",
+      "r": "Até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Um advogado em Guarani d'Oeste em Guarani d'Oeste orienta sobre prazos e procedimentos."
     },
     {
-      "p": "A Will & Pereira Advocacia atende ${n}?",
-      "r": "Sim! Atendemos moradores de ${n} e toda a região de ${uf}, com o mesmo nível de dedicação e profissionalismo."
+      "p": "A advocacia em Guarani d'Oeste atende Guarani d'Oeste?",
+      "r": "Sim! Atendemos moradores de Guarani d'Oeste e toda a região de SP, com o mesmo nível de dedicação e profissionalismo."
     },
     {
-      "p": "Quais documentos preciso para uma consulta?",
-      "r": "Documentos relacionados à questão: contratos, comprovantes, documentos pessoais. Orientamos sobre a documentação antes da consulta."
+      "p": "Quais áreas um advogado em Guarani d'Oeste atende em Guarani d'Oeste?",
+      "r": "Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário. A advocacia em Guarani d'Oeste cobre todas essas áreas com excelência."
     },
     {
-      "p": "Quanto custa um advogado em ${n}?",
-      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com honorários de sucumbência. Entre em contato para orientação."
+      "p": "Quanto custa um advogado em Guarani d'Oeste em Guarani d'Oeste?",
+      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com sucumbência. Entre em contato para orientação."
     },
     {
-      "p": "É possível resolver questões jurídicas sem ir ao tribunal?",
-      "r": "Sim! Muitos conflitos se resolvem via negociação, mediação ou conciliação. Em ${n}, buscamos soluções extrajudiciais sempre que possível."
+      "p": "É possível resolver sem tribunal com um advogado em Guarani d'Oeste?",
+      "r": "Sim! Muitos conflitos se resolvem via negociação ou mediação. Um advogado em Guarani d'Oeste em Guarani d'Oeste busca soluções extrajudiciais quando possível."
     },
     {
-      "p": "Como a economia de ${n} influencia as questões jurídicas?",
-      "r": "A economia baseada em ${e[0]} gera demandas trabalhistas, previdenciárias e consumeristas específicas que conhecemos profundamente."
+      "p": "Um advogado em Guarani d'Oeste pode ajudar com INSS em Guarani d'Oeste?",
+      "r": "Sim! A advocacia em Guarani d'Oeste atua em aposentadorias, auxílios, pensões e revisões de benefícios do INSS para moradores de Guarani d'Oeste."
     },
     {
-      "p": "Vocês atendem pessoas físicas e jurídicas?",
-      "r": "Sim! Atendemos tanto pessoas físicas quanto empresas em ${n}, oferecendo soluções jurídicas completas."
+      "p": "Preciso ir ao escritório do advogado em Guarani d'Oeste?",
+      "r": "Não necessariamente. Atendemos por videoconferência para todo o Brasil, incluindo Guarani d'Oeste. Mas também recebemos presencialmente em Palhoça/SC."
     },
     {
-      "p": "Qual a diferença entre consultar um advogado e contratar?",
-      "r": "A consulta é para análise e orientação. A contratação envolve representação formal. Em ${n}, oferecemos ambos os serviços com transparência."
+      "p": "Como um advogado em Guarani d'Oeste pode ajudar minha empresa em Guarani d'Oeste?",
+      "r": "Consultoria trabalhista, contratos, questões societárias e tributárias. A advocacia em Guarani d'Oeste oferece assessoria completa para empresas em Guarani d'Oeste."
     }
   ],
   "stats": {

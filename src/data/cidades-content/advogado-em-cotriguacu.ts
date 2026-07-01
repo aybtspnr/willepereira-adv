@@ -1,59 +1,59 @@
 export default {
-  "heroTitle": "Assessoria Jurídica em Cotriguaçu | Will & Pereira Advocacia",
-  "heroDescription": "Precisa de um advogado em Cotriguaçu/MT? Nossa equipe está pronta para oferecer a melhor estratégia jurídica para o seu caso.",
+  "heroTitle": "Advogado em Cotriguaçu: Assessoria Jurídica Especializada em Mato Grosso",
+  "heroDescription": "Encontre o melhor advogado em Cotriguaçu/MT. A Will & Pereira Advocacia oferece assessoria jurídica completa com mais de 15 anos de experiência atendendo moradores de Cotriguaçu e região.",
   "introParagraphs": [
-    "A busca por um advogado de confiança em Cotriguaçu/MT é constante. Questões trabalhistas, previdenciárias, familiares e imobiliárias surgem no cotidiano e precisam de orientação especializada. A Will & Pereira Advocacia, com mais de 15 anos de atuação, é referência no atendimento jurídico para moradores de Cotriguaçu e região.\n\nCotriguaçu é uma cidade com economia dinâmica localizada em Mato Grosso, com economia baseada em agronegócio, mineração e pecuária. Essas características geram demandas jurídicas que exigem conhecimento aprofundado da legislação e da jurisprudência.\n\nNossa equipe multidisciplinar oferece assessoria completa em todas as áreas do Direito, com atendimento personalizado e foco nos melhores resultados para cada cliente em Cotriguaçu."
+    "Quando um cidadão de Cotriguaçu/MT precisa de orientação jurídica, a primeira preocupação é encontrar um profissional que combine conhecimento técnico com compromisso com resultados. A advocacia em Cotriguaçu, com sede em Palhoça/SC e atuação nacional, atende moradores de Cotriguaçu há mais de 15 anos, oferecendo soluções jurídicas personalizadas para cada caso. Seja qual for a sua necessidade jurídica em Cotriguaçu, nossa equipe está pronta para ajudar.\n\nA cidade de Cotriguaçu apresenta características econômicas e sociais que influenciam diretamente as demandas jurídicas da população. Com economia voltada para agronegócio, mineração, pecuária, os moradores enfrentam questões trabalhistas, previdenciárias e consumeristas que exigem conhecimento especializado. Um advogado em Cotriguaçu experiente é fundamental para navegar por essas questões com segurança.\n\nNeste guia completo sobre advogado em Cotriguaçu, apresentamos de forma detalhada os serviços jurídicos disponíveis para moradores de Cotriguaçu, organizados por área do Direito. Cada seção é elaborada considerando a realidade específica de Cotriguaçu/MT, oferecendo informações práticas e relevantes para quem busca um advogado em Cotriguaçu de confiança na região."
   ],
   "areaContent": {
-    "previdenciario": "Aposentadoria, auxílio-doença, pensão por morte e BPC/LOAS são os benefícios mais buscados por moradores de Cotriguaçu/MT. A complexidade das regras previdenciárias, especialmente após a EC 103/2019, torna indispensável o acompanhamento de um advogado especializado.\n\nEm Cotriguaçu, com economia baseada em agronegócio, trabalhadores de diversas categorias precisam de orientação previdenciária personalizada. A Will & Pereira Advocacia oferece análise completa do CNIS, simulação de benefícios e representação administrativa e judicial junto ao INSS.",
-    "trabalhista": "A relação de emprego em Cotriguaçu/MT é regida pela CLT e pela Constituição Federal, que garantem direitos fundamentais aos trabalhadores. Em uma cidade com economia baseada em agronegócio, as questões trabalhistas são frequentes e variadas. A Will & Pereira Advocacia atua na defesa desses direitos com competência e dedicação.\n\nAtuamos em Cotriguaçu em reclamações trabalhistas, verbas rescisórias, horas extras, FGTS, estabilidade provisória, assédio moral e todas as demais questões que envolvam a relação de emprego.",
-    "civel": "O cotidiano de Cotriguaçu/MT gera diversas questões jurídicas de natureza civil. Desde a elaboração de contratos até a resolução de conflitos de vizinhança, a Will & Pereira Advocacia oferece orientação jurídica completa para moradores e empresas da região.\n\nA economia local, focada em agronegócio e mineração, apresenta demandas cíveis que exigem conhecimento técnico e experiência. Atuamos em contratos, indenizações, cobranças, usucapião e todas as áreas do Direito Cível.",
-    "consumidor": "A proteção ao consumidor em Cotriguaçu/MT é um direito fundamental. Questões como produtos defeituosos, serviços inadequados e cobranças indevidas são situações que resolvemos regularmente. A Will & Pereira Advocacia oferece assessoria completa em Direito do Consumidor.\n\nA economia local, baseada em agronegócio, gera demandas consumeristas que conhecemos profundamente. Atuamos em negociações extrajudiciais e ações judiciais, sempre buscando a melhor solução para cada caso.",
-    "familia": "As questões familiares em Cotriguaçu/MT são tratadas com a sensibilidade que merecem. Divórcio consensual e litigioso, guarda compartilhada, pensão alimentícia, inventário e planejamento sucessório são áreas em que atuamos com excelência.\n\nEm Cotriguaçu, conhecemos as particularidades do Direito de Família local e oferecemos atendimento personalizado para cada caso, sempre priorizando o bem-estar de todos os envolvidos.",
-    "imobiliario": "Questões imobiliárias em Cotriguaçu/MT são frequentes e variadas. Desde a elaboração de contratos de locação até ações de usucapião, a Will & Pereira Advocacia oferece soluções jurídicas para todas as necessidades.\n\nA economia local, focada em agronegócio e mineração, gera demandas imobiliárias que atendemos com competência e dedicação. Trabalhamos com due diligence completa e resolução de conflitos."
+    "previdenciario": "O Direito Previdenciário é uma das áreas mais demandadas por quem busca um advogado em Cotriguaçu. Trabalhadores de Cotriguaçu/MT, tanto rurais quanto urbanos, frequentemente buscam orientação sobre aposentadoria, auxílio-doença e pensão por morte. A reforma da previdência (EC 103/2019) trouxe mudanças significativas, e contar com um advogado em Cotriguaçu especializado é essencial para garantir o melhor benefício.\n\nEm Cotriguaçu, a economia baseada em agronegócio e mineração gera diversas categorias de trabalhadores com necessidades previdenciárias específicas. A advocacia em Cotriguaçu realiza análise completa do histórico contributivo, identificando possibilidades de antecipação ou majoração da aposentadoria. Se você precisa de um advogado em Cotriguaçu para questões previdenciárias, entre em contato conosco.",
+    "trabalhista": "O Direito Trabalhista protege os direitos de trabalhadores e empregadores em Cotriguaçu/MT. Em uma cidade com economia baseada em agronegócio e mineração, as relações de trabalho apresentam características próprias. Um advogado em Cotriguaçu especializado é fundamental para garantir que seus direitos sejam respeitados.\n\nA advocacia em Cotriguaçu atua em Cotriguaçu em verbas rescisórias, horas extras, FGTS, insalubridade, periculosidade, equiparação salarial, assédio moral e dano moral trabalhista. Se você procura um advogado em Cotriguaçu para questões trabalhistas, nossa equipe está preparada para oferecer a melhor orientação.",
+    "civel": "O Direito Cível abrange as relações cotidianas em Cotriguaçu/MT. Contratos, indenizações, cobranças, usucapião e questões de propriedade são situações que surgem no dia a dia. Um advogado em Cotriguaçu competente é essencial para resolver essas questões com eficiência.\n\nA advocacia em Cotriguaçu oferece assessoria completa em Cotriguaçu em todas as áreas do Direito Cível. Trabalhamos com elaboração e revisão de contratos, ações de cobrança, indenização por danos e todas as questões que envolvam o Código Civil.",
+    "consumidor": "O Código de Defesa do Consumidor protege os moradores de Cotriguaçu/MT contra abusos. Em uma cidade com economia baseada em agronegócio e mineração, os conflitos consumeristas são frequentes. Um advogado em Cotriguaçu especializado em Direito do Consumidor é fundamental para fazer valer seus direitos.\n\nA advocacia em Cotriguaçu atua em Cotriguaçu em casos de cobrança indevida, negativação injusta, produtos com defeito, negativas de planos de saúde e cláusulas abusivas. Se você precisa de um advogado em Cotriguaçu para questões consumeristas, entre em contato.",
+    "familia": "O Direito de Família em Cotriguaçu/MT lida com questões sensíveis que afetam a vida das pessoas. Divórcios, guarda de filhos, pensão alimentícia, inventários e união estável demandam sensibilidade e competência. Um advogado em Cotriguaçu humanizado faz toda a diferença.\n\nA advocacia em Cotriguaçu oferece atendimento personalizado em Cotriguaçu para todas as questões de Direito de Família. Nossa equipe trabalha com mediação familiar e acordos consensuais, sempre priorizando o bem-estar de todos os envolvidos.",
+    "imobiliario": "O Direito Imobiliário regula questões de imóveis em Cotriguaçu/MT. Compra e venda, locação, usucapião e regularização fundiária são áreas que exigem conhecimento jurídico específico. Um advogado em Cotriguaçu especializado em Direito Imobiliário protege seus interesses em cada etapa.\n\nA advocacia em Cotriguaçu oferece assessoria completa em Cotriguaçu para todas as questões imobiliárias, desde a análise de documentação até a resolução de conflitos possessórios e condominiais."
   },
-  "exclusiva": "## Por Que Escolher a Will & Pereira Advocacia em Cotriguaçu?\n\n**Experiência Comprovada:** Mais de 15 anos de atuação em todas as áreas do Direito, com resultados expressivos em Cotriguaçu e região.\n\n**Conhecimento Local:** Conhecemos as particularidades de Cotriguaçu e da região de Mato Grosso, incluindo as especificidades da economia baseada em agronegócio.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada. Em Cotriguaçu, oferecemos explicação clara de cada etapa do processo.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil, incluindo Cotriguaçu.\n\n**Transparência Total:** Honorários claros, sem surpresas. O cliente sempre sabe onde está investindo.",
-  "diaADia": "## Como um Advogado Pode Ajudar no Dia a Dia em Cotriguaçu\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis, elaboração de testamentos.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial, economizando tempo e recursos. Nossa equipe busca soluções consensuais sempre que possível.\n\n**Atendimento de Emergência:** Imprevistos acontecem. Oferecemos atendimento prioritário para situações urgentes em Cotriguaçu.",
+  "exclusiva": "## Por Que Escolher a advocacia em Cotriguaçu?\n\n**Experiência:** Mais de 15 anos de atuação como advogado em Cotriguaçu em todas as áreas do Direito.\n\n**Conhecimento Local:** Conhecemos as particularidades de Cotriguaçu e da região de Mato Grosso.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil.\n\n**Transparência:** Honorários claros, sem surpresas.",
+  "diaADia": "## Como um advogado em Cotriguaçu Pode Ajudar no Dia a Dia\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial.\n\n**Emergência:** Atendimento prioritário para situações urgentes em Cotriguaçu.",
   "faqs": [
     {
-      "p": "Quais são as principais áreas do direito atendidas em ${n}?",
-      "r": "Em ${n}/${uf}, atuamos em Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário, com foco nas necessidades da economia local baseada em ${e.join(' e ')}."
+      "p": "Quem é o melhor advogado em Cotriguaçu?",
+      "r": "A advocacia em Cotriguaçu é referência em Cotriguaçu/MT, com mais de 15 anos de experiência e atuação em todas as áreas do Direito. Entre em contato para orientação jurídica."
     },
     {
-      "p": "Como funciona o primeiro atendimento jurídico?",
-      "r": "O primeiro atendimento é orientativo, para análise do caso e definição da melhor estratégia. Atendemos presencialmente em Palhoça/SC e por videoconferência para ${n}."
+      "p": "Como funciona o atendimento de um advogado em Cotriguaçu?",
+      "r": "O primeiro atendimento é orientativo. Atendemos presencialmente em Palhoça/SC e por videoconferência para Cotriguaçu. Analisamos seu caso e definimos a melhor estratégia."
     },
     {
-      "p": "Qual o prazo para entrar com uma reclamação trabalhista?",
-      "r": "O trabalhador tem até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Em ${n}, orientamos sobre prazos e procedimentos."
+      "p": "Qual o prazo para ação trabalhista com um advogado em Cotriguaçu?",
+      "r": "Até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Um advogado em Cotriguaçu em Cotriguaçu orienta sobre prazos e procedimentos."
     },
     {
-      "p": "A Will & Pereira Advocacia atende ${n}?",
-      "r": "Sim! Atendemos moradores de ${n} e toda a região de ${uf}, com o mesmo nível de dedicação e profissionalismo."
+      "p": "A advocacia em Cotriguaçu atende Cotriguaçu?",
+      "r": "Sim! Atendemos moradores de Cotriguaçu e toda a região de MT, com o mesmo nível de dedicação e profissionalismo."
     },
     {
-      "p": "Quais documentos preciso para uma consulta?",
-      "r": "Documentos relacionados à questão: contratos, comprovantes, documentos pessoais. Orientamos sobre a documentação antes da consulta."
+      "p": "Quais áreas um advogado em Cotriguaçu atende em Cotriguaçu?",
+      "r": "Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário. A advocacia em Cotriguaçu cobre todas essas áreas com excelência."
     },
     {
-      "p": "Quanto custa um advogado em ${n}?",
-      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com honorários de sucumbência. Entre em contato para orientação."
+      "p": "Quanto custa um advogado em Cotriguaçu em Cotriguaçu?",
+      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com sucumbência. Entre em contato para orientação."
     },
     {
-      "p": "É possível resolver questões jurídicas sem ir ao tribunal?",
-      "r": "Sim! Muitos conflitos se resolvem via negociação, mediação ou conciliação. Em ${n}, buscamos soluções extrajudiciais sempre que possível."
+      "p": "É possível resolver sem tribunal com um advogado em Cotriguaçu?",
+      "r": "Sim! Muitos conflitos se resolvem via negociação ou mediação. Um advogado em Cotriguaçu em Cotriguaçu busca soluções extrajudiciais quando possível."
     },
     {
-      "p": "Como a economia de ${n} influencia as questões jurídicas?",
-      "r": "A economia baseada em ${e[0]} gera demandas trabalhistas, previdenciárias e consumeristas específicas que conhecemos profundamente."
+      "p": "Um advogado em Cotriguaçu pode ajudar com INSS em Cotriguaçu?",
+      "r": "Sim! A advocacia em Cotriguaçu atua em aposentadorias, auxílios, pensões e revisões de benefícios do INSS para moradores de Cotriguaçu."
     },
     {
-      "p": "Vocês atendem pessoas físicas e jurídicas?",
-      "r": "Sim! Atendemos tanto pessoas físicas quanto empresas em ${n}, oferecendo soluções jurídicas completas."
+      "p": "Preciso ir ao escritório do advogado em Cotriguaçu?",
+      "r": "Não necessariamente. Atendemos por videoconferência para todo o Brasil, incluindo Cotriguaçu. Mas também recebemos presencialmente em Palhoça/SC."
     },
     {
-      "p": "Qual a diferença entre consultar um advogado e contratar?",
-      "r": "A consulta é para análise e orientação. A contratação envolve representação formal. Em ${n}, oferecemos ambos os serviços com transparência."
+      "p": "Como um advogado em Cotriguaçu pode ajudar minha empresa em Cotriguaçu?",
+      "r": "Consultoria trabalhista, contratos, questões societárias e tributárias. A advocacia em Cotriguaçu oferece assessoria completa para empresas em Cotriguaçu."
     }
   ],
   "stats": {

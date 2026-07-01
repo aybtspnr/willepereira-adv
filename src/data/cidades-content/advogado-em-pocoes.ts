@@ -1,59 +1,59 @@
 export default {
-  "heroTitle": "Advogados em Poções, BA — Soluções Jurídicas Completas",
-  "heroDescription": "Precisa de um advogado em Poções/BA? Nossa equipe está pronta para oferecer a melhor estratégia jurídica para o seu caso.",
+  "heroTitle": "Advocacia em Poções: Assessoria Jurídica Especializada em Bahia",
+  "heroDescription": "Encontre o melhor advogado em Poções/BA. A Will & Pereira Advocacia oferece assessoria jurídica completa com mais de 15 anos de experiência atendendo moradores de Poções e região.",
   "introParagraphs": [
-    "Moradores de Poções/BA que precisam de serviços jurídicos encontram na Will & Pereira Advocacia uma parceira de confiança. Com mais de 15 anos de experiência e escritório em Palhoça/SC, nossa equipe atende clientes em todo o Brasil, incluindo Poções e toda a região de Bahia.\n\nA economia de Poções é caracterizada por petróleo, turismo e indústria, o que gera demandas jurídicas específicas que conhecemos profundamente. Questões trabalhistas decorrentes da atividade comercial, questões previdenciárias de trabalhadores rurais e urbanos, e questões consumeristas do cotidiano são situações que atendemos com regularidade.\n\nEste guia completo abrange todas as principais áreas do Direito atendidas pela Will & Pereira Advocacia em Poções: Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário. Cada seção é elaborada com base na realidade de Poções/BA."
+    "Quando um cidadão de Poções/BA precisa de orientação jurídica, a primeira preocupação é encontrar um profissional que combine conhecimento técnico com compromisso com resultados. A advocacia em Poções, com sede em Palhoça/SC e atuação nacional, atende moradores de Poções há mais de 15 anos, oferecendo soluções jurídicas personalizadas para cada caso. Seja qual for a sua necessidade jurídica em Poções, nossa equipe está pronta para ajudar.\n\nA cidade de Poções apresenta características econômicas e sociais que influenciam diretamente as demandas jurídicas da população. Com economia voltada para petróleo, turismo, indústria, os moradores enfrentam questões trabalhistas, previdenciárias e consumeristas que exigem conhecimento especializado. Um advogado em Poções experiente é fundamental para navegar por essas questões com segurança.\n\nNeste guia completo sobre advogado em Poções, apresentamos de forma detalhada os serviços jurídicos disponíveis para moradores de Poções, organizados por área do Direito. Cada seção é elaborada considerando a realidade específica de Poções/BA, oferecendo informações práticas e relevantes para quem busca um advogado em Poções de confiança na região."
   ],
   "areaContent": {
-    "previdenciario": "A seguridade social é um direito fundamental dos trabalhadores de Poções/BA. Muitos moradores da região têm dúvidas sobre seus direitos previdenciários, especialmente após as mudanças trazidas pela Reforma da Previdência. A Will & Pereira Advocacia orienta clientes em todos os processos junto ao INSS, desde o planejamento da aposentadoria até recursos administrativos e ações judiciais.\n\nA economia local, baseada em petróleo, apresenta particularidades que influenciam os benefícios previdenciários. Trabalhadores rurais, por exemplo, possuem regras diferenciadas de aposentadoria. Nossa equipe domina essas especificidades e oferece orientação precisa para cada caso em Poções.",
-    "trabalhista": "Em Poções/BA, os trabalhadores precisam conhecer seus direitos para evitar situações de exploração e injustiça. A CLT garante diversos direitos, mas muitos trabalhadores não conhecem a totalidade deles. A Will & Pereira Advocacia orienta trabalhadores sobre seus direitos e prazos, garantindo que nenhum direito seja perdido.\n\nA economia de Poções, focada em petróleo, gera demandas trabalhistas específicas que atendemos com expertise: desde reclamações trabalhistas até acordos extrajudiciais e consultoria para empresas.",
-    "civel": "Questões cíveis como contratos mal elaborados, dívidas não pagas e danos causados por terceiros são comuns em Poções/BA. A Will & Pereira Advocacia resolve essas questões com eficiência e profissionalismo, oferecendo soluções extrajudiciais e judiciais conforme o caso.\n\nEm Poções, com economia baseada em petróleo, os conflitos cíveis apresentam particularidades que conhecemos. Nossa equipe domina o Código Civil, o Código de Processo Civil e a jurisprudência dos tribunais superiores.",
-    "consumidor": "Moradores de Poções/BA que tiveram direitos violados por empresas contam com a Will & Pereira Advocacia para buscar reparação. O CDC assegura direitos como inversão do ônus da prova, repetição de indébito e indenização por danos morais.\n\nEm Poções, com economia baseada em petróleo, os conflitos consumeristas envolvem desde cobranças bancárias até negativas de planos de saúde. Nossa equipe domina os instrumentos processuais do CDC e oferece atendimento personalizado.",
-    "familia": "Famílias de Poções/BA que precisam de assistência jurídica encontram na Will & Pereira Advocacia o parceiro ideal. Questões como divórcio, guarda, pensão alimentícia e inventário são tratadas com discrição e profissionalismo.\n\nA economia de Poções, baseada em petróleo, influencia questões familiares como partilha de bens e pensão alimentícia. Nossa equipe oferece orientação clara sobre os procedimentos legais e as melhores estratégias.",
-    "imobiliario": "O mercado imobiliário em Poções/BA exige atenção jurídica cuidadosa. Transações imobiliárias envolvem valores significativos e riscos legais que precisam ser avaliados por profissional especializado. A Will & Pereira Advocacia protege os interesses de seus clientes em cada etapa.\n\nEm Poções, com economia baseada em petróleo, as questões imobiliárias incluem contratos de compra e venda, locação, usucapião e regularização fundiária. Nossa equipe domina essas questões."
+    "previdenciario": "O Direito Previdenciário é uma das áreas mais demandadas por quem busca um advogado em Poções. Trabalhadores de Poções/BA, tanto rurais quanto urbanos, frequentemente buscam orientação sobre aposentadoria, auxílio-doença e pensão por morte. A reforma da previdência (EC 103/2019) trouxe mudanças significativas, e contar com um advogado em Poções especializado é essencial para garantir o melhor benefício.\n\nEm Poções, a economia baseada em petróleo e turismo gera diversas categorias de trabalhadores com necessidades previdenciárias específicas. A advocacia em Poções realiza análise completa do histórico contributivo, identificando possibilidades de antecipação ou majoração da aposentadoria. Se você precisa de um advogado em Poções para questões previdenciárias, entre em contato conosco.",
+    "trabalhista": "O Direito Trabalhista protege os direitos de trabalhadores e empregadores em Poções/BA. Em uma cidade com economia baseada em petróleo e turismo, as relações de trabalho apresentam características próprias. Um advogado em Poções especializado é fundamental para garantir que seus direitos sejam respeitados.\n\nA advocacia em Poções atua em Poções em verbas rescisórias, horas extras, FGTS, insalubridade, periculosidade, equiparação salarial, assédio moral e dano moral trabalhista. Se você procura um advogado em Poções para questões trabalhistas, nossa equipe está preparada para oferecer a melhor orientação.",
+    "civel": "O Direito Cível abrange as relações cotidianas em Poções/BA. Contratos, indenizações, cobranças, usucapião e questões de propriedade são situações que surgem no dia a dia. Um advogado em Poções competente é essencial para resolver essas questões com eficiência.\n\nA advocacia em Poções oferece assessoria completa em Poções em todas as áreas do Direito Cível. Trabalhamos com elaboração e revisão de contratos, ações de cobrança, indenização por danos e todas as questões que envolvam o Código Civil.",
+    "consumidor": "O Código de Defesa do Consumidor protege os moradores de Poções/BA contra abusos. Em uma cidade com economia baseada em petróleo e turismo, os conflitos consumeristas são frequentes. Um advogado em Poções especializado em Direito do Consumidor é fundamental para fazer valer seus direitos.\n\nA advocacia em Poções atua em Poções em casos de cobrança indevida, negativação injusta, produtos com defeito, negativas de planos de saúde e cláusulas abusivas. Se você precisa de um advogado em Poções para questões consumeristas, entre em contato.",
+    "familia": "O Direito de Família em Poções/BA lida com questões sensíveis que afetam a vida das pessoas. Divórcios, guarda de filhos, pensão alimentícia, inventários e união estável demandam sensibilidade e competência. Um advogado em Poções humanizado faz toda a diferença.\n\nA advocacia em Poções oferece atendimento personalizado em Poções para todas as questões de Direito de Família. Nossa equipe trabalha com mediação familiar e acordos consensuais, sempre priorizando o bem-estar de todos os envolvidos.",
+    "imobiliario": "O Direito Imobiliário regula questões de imóveis em Poções/BA. Compra e venda, locação, usucapião e regularização fundiária são áreas que exigem conhecimento jurídico específico. Um advogado em Poções especializado em Direito Imobiliário protege seus interesses em cada etapa.\n\nA advocacia em Poções oferece assessoria completa em Poções para todas as questões imobiliárias, desde a análise de documentação até a resolução de conflitos possessórios e condominiais."
   },
-  "exclusiva": "## Por Que Escolher a Will & Pereira Advocacia em Poções?\n\n**Experiência Comprovada:** Mais de 15 anos de atuação em todas as áreas do Direito, com resultados expressivos em Poções e região.\n\n**Conhecimento Local:** Conhecemos as particularidades de Poções e da região de Bahia, incluindo as especificidades da economia baseada em petróleo.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada. Em Poções, oferecemos explicação clara de cada etapa do processo.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil, incluindo Poções.\n\n**Transparência Total:** Honorários claros, sem surpresas. O cliente sempre sabe onde está investindo.",
-  "diaADia": "## Como um Advogado Pode Ajudar no Dia a Dia em Poções\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis, elaboração de testamentos.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial, economizando tempo e recursos. Nossa equipe busca soluções consensuais sempre que possível.\n\n**Atendimento de Emergência:** Imprevistos acontecem. Oferecemos atendimento prioritário para situações urgentes em Poções.",
+  "exclusiva": "## Por Que Escolher a advocacia em Poções?\n\n**Experiência:** Mais de 15 anos de atuação como advogado em Poções em todas as áreas do Direito.\n\n**Conhecimento Local:** Conhecemos as particularidades de Poções e da região de Bahia.\n\n**Atendimento Personalizado:** Cada caso é único e merece atenção individualizada.\n\n**Atuação Nacional:** Atendemos presencialmente em Palhoça/SC e por videoconferência em todo o Brasil.\n\n**Transparência:** Honorários claros, sem surpresas.",
+  "diaADia": "## Como um advogado em Poções Pode Ajudar no Dia a Dia\n\n**Prevenção:** Análise de contratos, planejamento previdenciário, regularização de imóveis.\n\n**Resolução Extrajudicial:** Muitos conflitos se resolvem sem ação judicial.\n\n**Emergência:** Atendimento prioritário para situações urgentes em Poções.",
   "faqs": [
     {
-      "p": "Quais são as principais áreas do direito atendidas em ${n}?",
-      "r": "Em ${n}/${uf}, atuamos em Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário, com foco nas necessidades da economia local baseada em ${e.join(' e ')}."
+      "p": "Quem é o melhor advogado em Poções?",
+      "r": "A advocacia em Poções é referência em Poções/BA, com mais de 15 anos de experiência e atuação em todas as áreas do Direito. Entre em contato para orientação jurídica."
     },
     {
-      "p": "Como funciona o primeiro atendimento jurídico?",
-      "r": "O primeiro atendimento é orientativo, para análise do caso e definição da melhor estratégia. Atendemos presencialmente em Palhoça/SC e por videoconferência para ${n}."
+      "p": "Como funciona o atendimento de um advogado em Poções?",
+      "r": "O primeiro atendimento é orientativo. Atendemos presencialmente em Palhoça/SC e por videoconferência para Poções. Analisamos seu caso e definimos a melhor estratégia."
     },
     {
-      "p": "Qual o prazo para entrar com uma reclamação trabalhista?",
-      "r": "O trabalhador tem até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Em ${n}, orientamos sobre prazos e procedimentos."
+      "p": "Qual o prazo para ação trabalhista com um advogado em Poções?",
+      "r": "Até 2 anos após a extinção do contrato, mas pode cobrar verbas dos últimos 5 anos. Um advogado em Poções em Poções orienta sobre prazos e procedimentos."
     },
     {
-      "p": "A Will & Pereira Advocacia atende ${n}?",
-      "r": "Sim! Atendemos moradores de ${n} e toda a região de ${uf}, com o mesmo nível de dedicação e profissionalismo."
+      "p": "A advocacia em Poções atende Poções?",
+      "r": "Sim! Atendemos moradores de Poções e toda a região de BA, com o mesmo nível de dedicação e profissionalismo."
     },
     {
-      "p": "Quais documentos preciso para uma consulta?",
-      "r": "Documentos relacionados à questão: contratos, comprovantes, documentos pessoais. Orientamos sobre a documentação antes da consulta."
+      "p": "Quais áreas um advogado em Poções atende em Poções?",
+      "r": "Previdenciário, Trabalhista, Cível, do Consumidor, de Família e Imobiliário. A advocacia em Poções cobre todas essas áreas com excelência."
     },
     {
-      "p": "Quanto custa um advogado em ${n}?",
-      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com honorários de sucumbência. Entre em contato para orientação."
+      "p": "Quanto custa um advogado em Poções em Poções?",
+      "r": "Os honorários variam conforme o caso. Em muitos casos trabalhistas e previdenciários, trabalhamos com sucumbência. Entre em contato para orientação."
     },
     {
-      "p": "É possível resolver questões jurídicas sem ir ao tribunal?",
-      "r": "Sim! Muitos conflitos se resolvem via negociação, mediação ou conciliação. Em ${n}, buscamos soluções extrajudiciais sempre que possível."
+      "p": "É possível resolver sem tribunal com um advogado em Poções?",
+      "r": "Sim! Muitos conflitos se resolvem via negociação ou mediação. Um advogado em Poções em Poções busca soluções extrajudiciais quando possível."
     },
     {
-      "p": "Como a economia de ${n} influencia as questões jurídicas?",
-      "r": "A economia baseada em ${e[0]} gera demandas trabalhistas, previdenciárias e consumeristas específicas que conhecemos profundamente."
+      "p": "Um advogado em Poções pode ajudar com INSS em Poções?",
+      "r": "Sim! A advocacia em Poções atua em aposentadorias, auxílios, pensões e revisões de benefícios do INSS para moradores de Poções."
     },
     {
-      "p": "Vocês atendem pessoas físicas e jurídicas?",
-      "r": "Sim! Atendemos tanto pessoas físicas quanto empresas em ${n}, oferecendo soluções jurídicas completas."
+      "p": "Preciso ir ao escritório do advogado em Poções?",
+      "r": "Não necessariamente. Atendemos por videoconferência para todo o Brasil, incluindo Poções. Mas também recebemos presencialmente em Palhoça/SC."
     },
     {
-      "p": "Qual a diferença entre consultar um advogado e contratar?",
-      "r": "A consulta é para análise e orientação. A contratação envolve representação formal. Em ${n}, oferecemos ambos os serviços com transparência."
+      "p": "Como um advogado em Poções pode ajudar minha empresa em Poções?",
+      "r": "Consultoria trabalhista, contratos, questões societárias e tributárias. A advocacia em Poções oferece assessoria completa para empresas em Poções."
     }
   ],
   "stats": {

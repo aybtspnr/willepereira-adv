@@ -3751,4 +3751,324 @@ A Will & Pereira Advocacia atua tanto na defesa de trabalhadores quanto na consu
 📞 Entre em contato: (48) 98842-0867
 🌐 willepereira-adv.vercel.app`,
   },
+
+  {
+    slug: 'direitos-trabalhistas-guia-completo-90ee43',
+    title: 'Direitos Trabalhistas — Guia Completo | Will & Pereira Advocacia',
+    description: 'direitos dos trabalhadores — Informações essenciais. Will & Pereira Advocacia.',
+    category: 'Trabalhista',
+    date: '30 Jun 2026',
+    author: 'Will & Pereira Advocacia',
+    content: `## Direitos Trabalhistas: Passo a Passo
+
+A Consolidação das Leis do Trabalho (CLT) completa mais de 80 anos de existência e continua sendo a principal norma que rege as relações trabalhistas no Brasil. Com a Reforma Trabalhista de 2017, muitas mudanças significativas ocorreram.
+
+A Will & Pereira Advocacia preparou este guia completo para ajudar trabalhadores e empregadores a entenderem seus direitos e deveres nas relações de trabalho.
+
+## Principais Direitos dos Trabalhadores
+
+### Jornada de Trabalho
+A jornada de trabalho padrão no Brasil é de 8 horas diárias e 44 horas semanais. Horas extras devem ser pagas com adicional mínimo de 50% sobre o valor da hora normal (dias úteis) e 100% (domingos e feriados).
+
+**Controle de jornada:** Empresas com mais de 20 funcionários são obrigadas a manter controle de ponto, seja manual, mecânico ou eletrônico.
+
+### Férias
+Todo trabalhador tem direito a 30 dias de férias a cada 12 meses de trabalho (período aquisitivo). O pagamento das férias deve ser feito em dobro caso o empregador não conceda as férias dentro do período concessivo (12 meses após o período aquisitivo).
+
+**Abono de férias:** O trabalhador pode converter até 1/3 do período de férias em abono pecuniário (vender 10 dias de férias).
+
+### 13º Salário
+O décimo terceiro salário é pago em duas parcelas:
+• Primeira parcela: até 30 de novembro (metade do salário)
+• Segunda parcela: até 20 de dezembro (metade do salário, com descontos)
+
+### FGTS
+O Fundo de Garantia do Tempo de Serviço (FGTS) corresponde a 8% do salário do trabalhador, depositado mensalmente pelo empregador em conta vinculada na Caixa Econômica Federal.
+
+### Verbas Rescisórias
+Ao ser demitido, o trabalhador tem direito a:
+• Saldo de salário
+• Aviso prévio (trabalhado ou indenizado)
+• Férias vencidas e proporcionais (com 1/3)
+• 13º salário proporcional
+• FGTS do mês da rescisão
+• Multa de 40% sobre o FGTS (dispensa sem justa causa)
+• Seguro-desemprego
+
+## Reforma Trabalhista
+
+A Reforma Trabalhista (Lei 13.467/2017) trouxe mudanças significativas:
+
+**O que mudou:**
+• Negociado sobre o legislado em diversos temas
+• Contribuição sindical deixou de ser obrigatória
+• Criação do contrato de trabalho intermitente
+• Possibilidade de acordo extrajudicial trabalhista
+• Fim da obrigatoriedade do imposto sindical
+
+## Conclusão
+
+A legislação trabalhista brasileira é complexa e está em constante evolução. Ter o apoio de um advogado especializado é fundamental para garantir seus direitos.
+
+A Will & Pereira Advocacia atua tanto na defesa de trabalhadores quanto na consultoria preventiva para empresas.
+
+📞 Entre em contato: (48) 98842-0867
+🌐 willepereira-adv.vercel.app`,
+  },
+
+  {
+    slug: 'direitos-trabalhistas-tudo-que-voce-precisa-saber-3bfc3e',
+    title: 'Direitos Trabalhistas — Tudo que Você Precisa Saber | Will & Pereira Advocacia',
+    description: 'direitos dos trabalhadores — Guia prático. Will & Pereira Advocacia.',
+    category: 'Trabalhista',
+    date: '30 Jun 2026',
+    author: 'Will & Pereira Advocacia',
+    content: `## Verbas Rescisórias: Tudo que Você Precisa Saber
+
+A Consolidação das Leis do Trabalho (CLT) completa mais de 80 anos de existência e continua sendo a principal norma que rege as relações trabalhistas no Brasil. Com a Reforma Trabalhista de 2017, muitas mudanças significativas ocorreram.
+
+A Will & Pereira Advocacia preparou este guia completo para ajudar trabalhadores e empregadores a entenderem seus direitos e deveres nas relações de trabalho.
+
+## Principais Direitos dos Trabalhadores
+
+### Jornada de Trabalho
+A jornada de trabalho padrão no Brasil é de 8 horas diárias e 44 horas semanais. Horas extras devem ser pagas com adicional mínimo de 50% sobre o valor da hora normal (dias úteis) e 100% (domingos e feriados).
+
+**Controle de jornada:** Empresas com mais de 20 funcionários são obrigadas a manter controle de ponto, seja manual, mecânico ou eletrônico.
+
+### Férias
+Todo trabalhador tem direito a 30 dias de férias a cada 12 meses de trabalho (período aquisitivo). O pagamento das férias deve ser feito em dobro caso o empregador não conceda as férias dentro do período concessivo (12 meses após o período aquisitivo).
+
+**Abono de férias:** O trabalhador pode converter até 1/3 do período de férias em abono pecuniário (vender 10 dias de férias).
+
+### 13º Salário
+O décimo terceiro salário é pago em duas parcelas:
+• Primeira parcela: até 30 de novembro (metade do salário)
+• Segunda parcela: até 20 de dezembro (metade do salário, com descontos)
+
+### FGTS
+O Fundo de Garantia do Tempo de Serviço (FGTS) corresponde a 8% do salário do trabalhador, depositado mensalmente pelo empregador em conta vinculada na Caixa Econômica Federal.
+
+### Verbas Rescisórias
+Ao ser demitido, o trabalhador tem direito a:
+• Saldo de salário
+• Aviso prévio (trabalhado ou indenizado)
+• Férias vencidas e proporcionais (com 1/3)
+• 13º salário proporcional
+• FGTS do mês da rescisão
+• Multa de 40% sobre o FGTS (dispensa sem justa causa)
+• Seguro-desemprego
+
+## Reforma Trabalhista
+
+A Reforma Trabalhista (Lei 13.467/2017) trouxe mudanças significativas:
+
+**O que mudou:**
+• Negociado sobre o legislado em diversos temas
+• Contribuição sindical deixou de ser obrigatória
+• Criação do contrato de trabalho intermitente
+• Possibilidade de acordo extrajudicial trabalhista
+• Fim da obrigatoriedade do imposto sindical
+
+## Conclusão
+
+A legislação trabalhista brasileira é complexa e está em constante evolução. Ter o apoio de um advogado especializado é fundamental para garantir seus direitos.
+
+A Will & Pereira Advocacia atua tanto na defesa de trabalhadores quanto na consultoria preventiva para empresas.
+
+📞 Entre em contato: (48) 98842-0867
+🌐 willepereira-adv.vercel.app`,
+  },
+
+  {
+    slug: 'direitos-trabalhistas-manual-pratico-cc5ce3',
+    title: 'Direitos Trabalhistas — Manual Prático | Will & Pereira Advocacia',
+    description: 'direitos dos trabalhadores — Informações essenciais. Will & Pereira Advocacia.',
+    category: 'Trabalhista',
+    date: '30 Jun 2026',
+    author: 'Will & Pereira Advocacia',
+    content: `## Direitos Trabalhistas: Guia Completo
+
+A Consolidação das Leis do Trabalho (CLT) completa mais de 80 anos de existência e continua sendo a principal norma que rege as relações trabalhistas no Brasil. Com a Reforma Trabalhista de 2017, muitas mudanças significativas ocorreram.
+
+A Will & Pereira Advocacia preparou este guia completo para ajudar trabalhadores e empregadores a entenderem seus direitos e deveres nas relações de trabalho.
+
+## Principais Direitos dos Trabalhadores
+
+### Jornada de Trabalho
+A jornada de trabalho padrão no Brasil é de 8 horas diárias e 44 horas semanais. Horas extras devem ser pagas com adicional mínimo de 50% sobre o valor da hora normal (dias úteis) e 100% (domingos e feriados).
+
+**Controle de jornada:** Empresas com mais de 20 funcionários são obrigadas a manter controle de ponto, seja manual, mecânico ou eletrônico.
+
+### Férias
+Todo trabalhador tem direito a 30 dias de férias a cada 12 meses de trabalho (período aquisitivo). O pagamento das férias deve ser feito em dobro caso o empregador não conceda as férias dentro do período concessivo (12 meses após o período aquisitivo).
+
+**Abono de férias:** O trabalhador pode converter até 1/3 do período de férias em abono pecuniário (vender 10 dias de férias).
+
+### 13º Salário
+O décimo terceiro salário é pago em duas parcelas:
+• Primeira parcela: até 30 de novembro (metade do salário)
+• Segunda parcela: até 20 de dezembro (metade do salário, com descontos)
+
+### FGTS
+O Fundo de Garantia do Tempo de Serviço (FGTS) corresponde a 8% do salário do trabalhador, depositado mensalmente pelo empregador em conta vinculada na Caixa Econômica Federal.
+
+### Verbas Rescisórias
+Ao ser demitido, o trabalhador tem direito a:
+• Saldo de salário
+• Aviso prévio (trabalhado ou indenizado)
+• Férias vencidas e proporcionais (com 1/3)
+• 13º salário proporcional
+• FGTS do mês da rescisão
+• Multa de 40% sobre o FGTS (dispensa sem justa causa)
+• Seguro-desemprego
+
+## Reforma Trabalhista
+
+A Reforma Trabalhista (Lei 13.467/2017) trouxe mudanças significativas:
+
+**O que mudou:**
+• Negociado sobre o legislado em diversos temas
+• Contribuição sindical deixou de ser obrigatória
+• Criação do contrato de trabalho intermitente
+• Possibilidade de acordo extrajudicial trabalhista
+• Fim da obrigatoriedade do imposto sindical
+
+## Conclusão
+
+A legislação trabalhista brasileira é complexa e está em constante evolução. Ter o apoio de um advogado especializado é fundamental para garantir seus direitos.
+
+A Will & Pereira Advocacia atua tanto na defesa de trabalhadores quanto na consultoria preventiva para empresas.
+
+📞 Entre em contato: (48) 98842-0867
+🌐 willepereira-adv.vercel.app`,
+  },
+
+  {
+    slug: 'direitos-trabalhistas-guia-completo-9eeeed',
+    title: 'Direitos Trabalhistas — Guia Completo | Will & Pereira Advocacia',
+    description: 'direitos dos trabalhadores — Tudo que você precisa saber. Will & Pereira Advocacia.',
+    category: 'Trabalhista',
+    date: '30 Jun 2026',
+    author: 'Will & Pereira Advocacia',
+    content: `## Verbas Rescisórias: Tudo que Você Precisa Saber
+
+A Consolidação das Leis do Trabalho (CLT) completa mais de 80 anos de existência e continua sendo a principal norma que rege as relações trabalhistas no Brasil. Com a Reforma Trabalhista de 2017, muitas mudanças significativas ocorreram.
+
+A Will & Pereira Advocacia preparou este guia completo para ajudar trabalhadores e empregadores a entenderem seus direitos e deveres nas relações de trabalho.
+
+## Principais Direitos dos Trabalhadores
+
+### Jornada de Trabalho
+A jornada de trabalho padrão no Brasil é de 8 horas diárias e 44 horas semanais. Horas extras devem ser pagas com adicional mínimo de 50% sobre o valor da hora normal (dias úteis) e 100% (domingos e feriados).
+
+**Controle de jornada:** Empresas com mais de 20 funcionários são obrigadas a manter controle de ponto, seja manual, mecânico ou eletrônico.
+
+### Férias
+Todo trabalhador tem direito a 30 dias de férias a cada 12 meses de trabalho (período aquisitivo). O pagamento das férias deve ser feito em dobro caso o empregador não conceda as férias dentro do período concessivo (12 meses após o período aquisitivo).
+
+**Abono de férias:** O trabalhador pode converter até 1/3 do período de férias em abono pecuniário (vender 10 dias de férias).
+
+### 13º Salário
+O décimo terceiro salário é pago em duas parcelas:
+• Primeira parcela: até 30 de novembro (metade do salário)
+• Segunda parcela: até 20 de dezembro (metade do salário, com descontos)
+
+### FGTS
+O Fundo de Garantia do Tempo de Serviço (FGTS) corresponde a 8% do salário do trabalhador, depositado mensalmente pelo empregador em conta vinculada na Caixa Econômica Federal.
+
+### Verbas Rescisórias
+Ao ser demitido, o trabalhador tem direito a:
+• Saldo de salário
+• Aviso prévio (trabalhado ou indenizado)
+• Férias vencidas e proporcionais (com 1/3)
+• 13º salário proporcional
+• FGTS do mês da rescisão
+• Multa de 40% sobre o FGTS (dispensa sem justa causa)
+• Seguro-desemprego
+
+## Reforma Trabalhista
+
+A Reforma Trabalhista (Lei 13.467/2017) trouxe mudanças significativas:
+
+**O que mudou:**
+• Negociado sobre o legislado em diversos temas
+• Contribuição sindical deixou de ser obrigatória
+• Criação do contrato de trabalho intermitente
+• Possibilidade de acordo extrajudicial trabalhista
+• Fim da obrigatoriedade do imposto sindical
+
+## Conclusão
+
+A legislação trabalhista brasileira é complexa e está em constante evolução. Ter o apoio de um advogado especializado é fundamental para garantir seus direitos.
+
+A Will & Pereira Advocacia atua tanto na defesa de trabalhadores quanto na consultoria preventiva para empresas.
+
+📞 Entre em contato: (48) 98842-0867
+🌐 willepereira-adv.vercel.app`,
+  },
+
+  {
+    slug: 'direitos-trabalhistas-manual-pratico-b507a0',
+    title: 'Direitos Trabalhistas — Manual Prático | Will & Pereira Advocacia',
+    description: 'direitos dos trabalhadores — Tudo que você precisa saber. Will & Pereira Advocacia.',
+    category: 'Trabalhista',
+    date: '30 Jun 2026',
+    author: 'Will & Pereira Advocacia',
+    content: `## Verbas Rescisórias: Entenda Seus Direitos
+
+A Consolidação das Leis do Trabalho (CLT) completa mais de 80 anos de existência e continua sendo a principal norma que rege as relações trabalhistas no Brasil. Com a Reforma Trabalhista de 2017, muitas mudanças significativas ocorreram.
+
+A Will & Pereira Advocacia preparou este guia completo para ajudar trabalhadores e empregadores a entenderem seus direitos e deveres nas relações de trabalho.
+
+## Principais Direitos dos Trabalhadores
+
+### Jornada de Trabalho
+A jornada de trabalho padrão no Brasil é de 8 horas diárias e 44 horas semanais. Horas extras devem ser pagas com adicional mínimo de 50% sobre o valor da hora normal (dias úteis) e 100% (domingos e feriados).
+
+**Controle de jornada:** Empresas com mais de 20 funcionários são obrigadas a manter controle de ponto, seja manual, mecânico ou eletrônico.
+
+### Férias
+Todo trabalhador tem direito a 30 dias de férias a cada 12 meses de trabalho (período aquisitivo). O pagamento das férias deve ser feito em dobro caso o empregador não conceda as férias dentro do período concessivo (12 meses após o período aquisitivo).
+
+**Abono de férias:** O trabalhador pode converter até 1/3 do período de férias em abono pecuniário (vender 10 dias de férias).
+
+### 13º Salário
+O décimo terceiro salário é pago em duas parcelas:
+• Primeira parcela: até 30 de novembro (metade do salário)
+• Segunda parcela: até 20 de dezembro (metade do salário, com descontos)
+
+### FGTS
+O Fundo de Garantia do Tempo de Serviço (FGTS) corresponde a 8% do salário do trabalhador, depositado mensalmente pelo empregador em conta vinculada na Caixa Econômica Federal.
+
+### Verbas Rescisórias
+Ao ser demitido, o trabalhador tem direito a:
+• Saldo de salário
+• Aviso prévio (trabalhado ou indenizado)
+• Férias vencidas e proporcionais (com 1/3)
+• 13º salário proporcional
+• FGTS do mês da rescisão
+• Multa de 40% sobre o FGTS (dispensa sem justa causa)
+• Seguro-desemprego
+
+## Reforma Trabalhista
+
+A Reforma Trabalhista (Lei 13.467/2017) trouxe mudanças significativas:
+
+**O que mudou:**
+• Negociado sobre o legislado em diversos temas
+• Contribuição sindical deixou de ser obrigatória
+• Criação do contrato de trabalho intermitente
+• Possibilidade de acordo extrajudicial trabalhista
+• Fim da obrigatoriedade do imposto sindical
+
+## Conclusão
+
+A legislação trabalhista brasileira é complexa e está em constante evolução. Ter o apoio de um advogado especializado é fundamental para garantir seus direitos.
+
+A Will & Pereira Advocacia atua tanto na defesa de trabalhadores quanto na consultoria preventiva para empresas.
+
+📞 Entre em contato: (48) 98842-0867
+🌐 willepereira-adv.vercel.app`,
+  },
 ]
