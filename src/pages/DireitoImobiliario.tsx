@@ -312,6 +312,7 @@ const faqData: FAQItem[] = [
 
 /* ===== PAGE ===== */
 import SEO from '../components/SEO'
+import Breadcrumb from '../components/Breadcrumb'
 
 export default function DireitoImobiliario() {
 const heroRef = useRef<HTMLDivElement>(null)
@@ -357,7 +358,8 @@ const heroRef = useRef<HTMLDivElement>(null)
 
   return (
     <div>
-      <SEO
+      <Breadcrumb />
+        <SEO
         title="Advocacia Direito Imobiliário Will & Pereira Palhoça"
         description="Assessoria jurídica em Direito Imobiliário: compra e venda, locação, financiamento, usucapião e regularização de imóveis. Will & Pereira Advocacia."
         canonical="https://willepereira-adv.vercel.app/imobiliario"

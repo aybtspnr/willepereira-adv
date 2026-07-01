@@ -223,11 +223,13 @@ const faqItems = [
 ]
 
 import SEO from '../components/SEO'
+import Breadcrumb from '../components/Breadcrumb'
 
 export default function DireitoFamilia() {
 return (
     <div>
-      <SEO
+      <Breadcrumb />
+        <SEO
         title="Advocacia Família Will & Pereira Palhoça/SC Brasil"
         description="Advocacia especializada em Direito de Família: divórcio, guarda, pensão alimentícia, união estável e inventário. Atendimento em Palhoça/SC e online."
         canonical="https://willepereira-adv.vercel.app/familia"

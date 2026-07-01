@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom'
 import { motion, useScroll, useTransform, useInView } from 'framer-motion'
 import { ArrowRight, Phone, Heart, Briefcase, Building2, Shield, Users, Landmark, Award, Globe, MessageSquare, Clock, Target, BookOpen, ChevronRight } from 'lucide-react'
 import SEO from '../components/SEO'
+import Breadcrumb from '../components/Breadcrumb'
 
 /* ═══ Reusable scroll reveal ═══ */
 function Reveal({ children, delay = 0, className = '', style }: { children: React.ReactNode; delay?: number; className?: string; style?: React.CSSProperties }) {
@@ -116,7 +117,8 @@ export default function HomePage() {
 
   return (
     <div>
-      <SEO
+      <Breadcrumb />
+        <SEO
         title="Advogados em Palhoça/SC | Will & Pereira Advocacia"
         description="Escritório de advocacia com mais de 15 anos em Palhoça/SC. Especialistas em Direito Previdenciário, Trabalhista, Cível, Consumidor e Família."
         canonical="https://willepereira-adv.vercel.app/"

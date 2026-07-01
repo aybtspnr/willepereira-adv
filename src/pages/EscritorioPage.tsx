@@ -3,6 +3,7 @@ import { motion, useInView } from 'framer-motion'
 import { Users, Scale, Heart, Shield, Clock, MapPin, Phone, ArrowRight, Briefcase, Target, Globe, Star, Quote } from 'lucide-react'
 import { Link } from 'react-router-dom'
 import SEO from '../components/SEO'
+import Breadcrumb from '../components/Breadcrumb'
 
 function ScrollReveal({ children, className = '', delay = 0 }: { children: React.ReactNode; className?: string; delay?: number }) {
   const ref = useRef(null)
@@ -66,7 +67,8 @@ const testimonials = [
 export default function EscritorioPage() {
   return (
     <div>
-      <SEO
+      <Breadcrumb />
+        <SEO
         title="Escritório Advocacia Will & Pereira Palhoça/SC Brasil"
         description="Conheça o escritório Will & Pereira Advocacia. Mais de 15 anos de experiência em Palhoça/SC com atendimento jurídico personalizado em todo o Brasil."
         canonical="https://willepereira-adv.vercel.app/escritorio"
@@ -237,6 +239,152 @@ export default function EscritorioPage() {
                 </ScrollReveal>
               )
             })}
+          </div>
+        </div>
+      </section>
+
+      {/* VIDEO INSTITUCIONAL */}
+      <section className="py-20 md:py-24" style={{ background: 'var(--cream)' }}>
+        <div style={{ maxWidth: 1280, margin: '0 auto', padding: '0 clamp(24px, 5vw, 48px)' }}>
+          <ScrollReveal>
+            <div className="text-center mb-12">
+              <span className="section-tag">Conheça o Escritório</span>
+              <h2 className="font-serif text-3xl md:text-4xl mt-4 mb-4" style={{ color: 'var(--navy)' }}>
+                Apresentação Will & Pereira
+              </h2>
+              <p style={{ color: 'var(--gray-500)' }} className="max-w-2xl mx-auto">
+                Veja como trabalhamos e por que somos referência em Palhoça/SC.
+              </p>
+            </div>
+          </ScrollReveal>
+
+          <ScrollReveal>
+            <div
+              style={{
+                position: 'relative',
+                paddingBottom: '56.25%',
+                height: 0,
+                overflow: 'hidden',
+                borderRadius: 16,
+                boxShadow: '0 20px 60px rgba(26,38,52,0.15)',
+                border: '1px solid rgba(201,168,76,0.15)',
+              }}
+            >
+              <iframe
+                src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+                title="Will & Pereira Advocacia - Apresentação"
+                style={{
+                  position: 'absolute',
+                  top: 0,
+                  left: 0,
+                  width: '100%',
+                  height: '100%',
+                  border: 0,
+                }}
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
+              />
+            </div>
+            <p className="text-center mt-4" style={{ fontSize: '0.8rem', color: 'var(--gray-400)' }}>
+              Apresentação institucional — Will & Pereira Advocacia Palhoça/SC
+            </p>
+          </ScrollReveal>
+        </div>
+      </section>
+
+      {/* EVENTOS E WORKSHOPS */}
+      <section className="py-20 md:py-24" style={{ background: 'white' }}>
+        <div style={{ maxWidth: 1280, margin: '0 auto', padding: '0 clamp(24px, 5vw, 48px)' }}>
+          <ScrollReveal>
+            <div className="text-center mb-12">
+              <span className="section-tag">Próximos Eventos</span>
+              <h2 className="font-serif text-3xl md:text-4xl mt-4 mb-4" style={{ color: 'var(--navy)' }}>
+                Workshops e Palestras Jurídicas
+              </h2>
+              <p style={{ color: 'var(--gray-500)' }} className="max-w-2xl mx-auto">
+                Participação em eventos é parte do nosso compromisso com a comunidade jurídica de Palhoça e região.
+              </p>
+            </div>
+          </ScrollReveal>
+
+          <div className="grid md:grid-cols-3 gap-6">
+            {[
+              {
+                title: 'Workshop: Direitos Trabalhistas',
+                date: '15 Jul 2026',
+                time: '19:00',
+                local: 'Auditório da OAB/SC — Palhoça',
+                desc: 'Palestra sobre verbas rescisórias, horas extras eFGTS. Aberto ao público.',
+              },
+              {
+                title: 'Palestra: Previdência Social 2026',
+                date: '22 Jul 2026',
+                time: '14:00',
+                local: 'Centro Comunitário — Palhoça',
+                desc: 'Novidades das aposentadorias, BPC/LOAS e Planejamento previdenciário.',
+              },
+              {
+                title: 'Seminário: Direito do Consumidor',
+                date: '05 Ago 2026',
+                time: '19:30',
+                local: 'Universidade — Florianópolis',
+                desc: 'Discussão sobre CDC, práticas abusivas e proteção do consumidor digital.',
+              },
+            ].map((evento, i) => (
+              <ScrollReveal key={evento.title} delay={i * 0.1}>
+                <div
+                  style={{
+                    background: 'var(--cream)',
+                    borderRadius: 16,
+                    padding: 28,
+                    border: '1px solid rgba(201,168,76,0.1)',
+                    transition: 'all 0.3s',
+                    height: '100%',
+                    display: 'flex',
+                    flexDirection: 'column',
+                  }}
+                >
+                  <div className="flex items-center gap-3 mb-4">
+                    <div
+                      style={{
+                        background: 'var(--gold)',
+                        color: 'var(--navy)',
+                        borderRadius: 10,
+                        padding: '8px 12px',
+                        textAlign: 'center',
+                        lineHeight: 1.2,
+                      }}
+                    >
+                      <div style={{ fontSize: '1.2rem', fontWeight: 700 }}>{evento.date.split(' ')[0]}</div>
+                      <div style={{ fontSize: '0.65rem', fontWeight: 600, textTransform: 'uppercase' }}>{evento.date.split(' ')[1]}</div>
+                    </div>
+                    <div>
+                      <div style={{ fontSize: '0.75rem', color: 'var(--gold)', fontWeight: 600 }}>{evento.date}</div>
+                      <div style={{ fontSize: '0.75rem', color: 'var(--gray-400)' }}>{evento.time} — {evento.local}</div>
+                    </div>
+                  </div>
+                  <h3 className="font-serif text-lg mb-2" style={{ color: 'var(--navy)' }}>{evento.title}</h3>
+                  <p style={{ fontSize: '0.875rem', color: 'var(--gray-500)', flex: 1 }}>{evento.desc}</p>
+                  <a
+                    href="https://wa.me/5548984584181?text=Ol%C3%A1%2C%20gostaria%20de%20inscrever-me%20no%20evento."
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{
+                      display: 'inline-flex',
+                      alignItems: 'center',
+                      gap: 6,
+                      marginTop: 16,
+                      color: 'var(--gold)',
+                      fontSize: '0.85rem',
+                      fontWeight: 600,
+                      textDecoration: 'none',
+                    }}
+                  >
+                    Inscrever-se →
+                  </a>
+                </div>
+              </ScrollReveal>
+            ))}
           </div>
         </div>
       </section>

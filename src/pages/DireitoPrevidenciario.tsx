@@ -466,6 +466,7 @@ const faqData: FAQItem[] = [
 
 /* ===== PAGE ===== */
 import SEO from '../components/SEO'
+import Breadcrumb from '../components/Breadcrumb'
 
 export default function DireitoPrevidenciarioPage() {
 const heroRef = useRef<HTMLDivElement>(null)
@@ -509,7 +510,8 @@ const heroRef = useRef<HTMLDivElement>(null)
 
   return (
     <div>
-      <SEO
+      <Breadcrumb />
+        <SEO
         title="Advocacia Previdenciária Will & Pereira Palhoça/SC"
         description="Advocacia especializada em Direito Previdenciário: aposentadorias, pensões, auxílios, BPC/LOAS e benefícios do INSS. Will & Pereira Advocacia."
         canonical="https://willepereira-adv.vercel.app/previdenciario"

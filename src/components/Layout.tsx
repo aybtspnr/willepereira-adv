@@ -3,6 +3,7 @@ import Navbar from './Navbar'
 import Footer from './Footer'
 import ScrollProgress from './ScrollProgress'
 import FloatingButtons from './FloatingButtons'
+import StickyCTA from './StickyCTA'
 
 /* ═══ JSON-LD Structured Data ═══ */
 const structuredData = {
@@ -95,6 +96,7 @@ export default function Layout({ children }: { children: ReactNode }) {
       <main style={{ flex: 1 }}>{children}</main>
       <Footer />
       <FloatingButtons />
+      <StickyCTA />
     </div>
   )
 }

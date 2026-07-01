@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom'
 import { motion } from 'framer-motion'
 import { Calendar, User, ChevronRight, Search } from 'lucide-react'
 import SEO from '../components/SEO'
+import Breadcrumb from '../components/Breadcrumb'
 
 export default function BlogPage() {
   const [search, setSearch] = useState('')
@@ -23,7 +24,8 @@ export default function BlogPage() {
 
   return (
     <div>
-      <SEO
+      <Breadcrumb />
+        <SEO
         title="Blog Jurídico Will & Pereira Advocacia em Palhoça/SC"
         description="Artigos jurídicos atualizados sobre Direito Previdenciário, Trabalhista, Cível, Consumidor e Família. Will & Pereira Advocacia Palhoça/SC."
         canonical="https://willepereira-adv.vercel.app/blog"

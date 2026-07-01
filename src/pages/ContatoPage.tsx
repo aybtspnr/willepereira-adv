@@ -2,6 +2,7 @@ import { useState, useRef } from 'react'
 import { motion, useInView } from 'framer-motion'
 import { Phone, Mail, MapPin, Clock, CheckCircle, Loader2, AlertCircle, ArrowRight, MessageSquare, Globe, Shield } from 'lucide-react'
 import SEO from '../components/SEO'
+import Breadcrumb from '../components/Breadcrumb'
 
 function ScrollReveal({ children, className = '', delay = 0 }: { children: React.ReactNode; className?: string; delay?: number }) {
   const ref = useRef(null)
@@ -81,7 +82,8 @@ export default function ContatoPage() {
 
   return (
     <div>
-      <SEO
+      <Breadcrumb />
+        <SEO
         title="Contato Advocacia Will & Pereira Palhoça/SC Brasil"
         description="Entre em contato com a Will & Pereira Advocacia. Atendimento jurídico presencial em Palhoça/SC e online para todo o Brasil. Telefone e WhatsApp."
         canonical="https://willepereira-adv.vercel.app/contato"

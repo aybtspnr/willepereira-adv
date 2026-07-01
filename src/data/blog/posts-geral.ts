@@ -351,7 +351,7 @@ As compras feitas por aplicativos móveis também são protegidas pelo CDC. Os p
 
 A Will & Pereira Advocacia oferece assessoria completa em Direito do Consumidor, protegendo seus direitos nas relações de consumo em todo o Brasil. Nossa equipe oferece:
 
-- **Análise preliminar gratuita** para avaliar a viabilidade do seu caso
+- **Análise preliminar do caso** para avaliar a viabilidade do seu caso
 - **Assessoria jurídica completa** em todas as etapas do processo
 - **Notificação extrajudicial** e acompanhamento de denúncias
 - **Acompanhamento de processos judiciais** de indenização por danos morais e materiais
@@ -2173,7 +2173,7 @@ Isenção de custas processuais para quem não pode pagar.
 ## Honorários
 
 - Consulta pode ser paga
-- Alguns escritórios oferecem primeira consulta gratuita
+- Alguns escritórios oferecem primeira orientação jurídica
 - Pergunte sobre valores antes da consulta
 
 ## Dicas

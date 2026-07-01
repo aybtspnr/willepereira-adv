@@ -225,11 +225,13 @@ const faqItems = [
 
 /* ===== PAGE COMPONENT ===== */
 import SEO from '../components/SEO'
+import Breadcrumb from '../components/Breadcrumb'
 
 export default function DireitoTrabalhistaPage() {
 return (
     <div>
-      <SEO
+      <Breadcrumb />
+        <SEO
         title="Advocacia Trabalhista Will & Pereira em Palhoça/SC"
         description="Advocacia trabalhista especializada em verbas rescisórias, horas extras, FGTS, assédio moral e direitos do trabalhador. Atendimento em Palhoça/SC."
         canonical="https://willepereira-adv.vercel.app/trabalhista"

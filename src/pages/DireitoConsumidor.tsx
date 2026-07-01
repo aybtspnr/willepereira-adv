@@ -215,11 +215,13 @@ const faqItems = [
 
 /* ===== PAGE COMPONENT ===== */
 import SEO from '../components/SEO'
+import Breadcrumb from '../components/Breadcrumb'
 
 export default function DireitoConsumidor() {
 return (
     <div>
-      <SEO
+      <Breadcrumb />
+        <SEO
         title="Direito Consumidor Will & Pereira Advocacia Palhoça/SC"
         description="Advocacia especializada em Direito do Consumidor: CDC, produtos defeituosos, cobrança indevida, negativação e planos de saúde. Will & Pereira."
         canonical="https://willepereira-adv.vercel.app/consumidor"

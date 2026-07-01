@@ -2,6 +2,7 @@ import { motion } from 'framer-motion'
 import { Link } from 'react-router-dom'
 import { ArrowLeft, FileText } from 'lucide-react'
 import SEO from '../components/SEO'
+import Breadcrumb from '../components/Breadcrumb'
 
 function SectionTitle({ num, title }: { num: string; title: string }) {
   return (
@@ -17,7 +18,8 @@ function SectionTitle({ num, title }: { num: string; title: string }) {
 export default function TermosPage() {
   return (
     <div>
-      <SEO
+      <Breadcrumb />
+        <SEO
         title="Termos de Uso Will & Pereira Advocacia em Palhoça/SC"
         description="Termos e condições de uso do site da Will & Pereira Advocacia. Leia antes de utilizar nossos serviços jurídicos online em Palhoça/SC."
         canonical="https://willepereira-adv.vercel.app/termos"

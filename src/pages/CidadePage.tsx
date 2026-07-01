@@ -2,6 +2,7 @@ import { useParams, Link } from 'react-router-dom'
 import { motion } from 'framer-motion'
 import { ArrowRight, CheckCircle, MapPin, Phone } from 'lucide-react'
 import SEO from '../components/SEO'
+import Breadcrumb from '../components/Breadcrumb'
 import { getCidadeBySlug, type CidadeInfo, getCidadeExtraBySlug, type CidadeExtra } from '../data/cidades'
 
 // Import all pre-generated content files
@@ -157,6 +158,7 @@ export default function CidadePage() {
 
   return (
     <div>
+      <Breadcrumb cityName={cidade.nome} />
       <SEO
         title={((): string => {
           const uf = cidade.estado

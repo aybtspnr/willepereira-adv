@@ -149,13 +149,15 @@ const areas = [
 
 import { Heart, Briefcase, Building2, Shield, Users, Landmark } from 'lucide-react'
 import SEO from '../components/SEO'
+import Breadcrumb from '../components/Breadcrumb'
 
 const iconMap: Record<string, any> = { Heart, Briefcase, Building2, Shield, Users, Landmark }
 
 export default function ServicosPage() {
   return (
     <div>
-      <SEO
+      <Breadcrumb />
+        <SEO
         title="Serviços Jurídicos Will & Pereira Advocacia Palhoça"
         description="Conheça nossos serviços jurídicos especializados em Previdenciário, Trabalhista, Cível, Consumidor, Família e Imobiliário. Will & Pereira Advocacia."
         canonical="https://willepereira-adv.vercel.app/servicos"

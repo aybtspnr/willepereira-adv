@@ -3,6 +3,7 @@ import { useParams, Link } from 'react-router-dom'
 import { motion } from 'framer-motion'
 import { Calendar, User, ArrowLeft, ChevronRight } from 'lucide-react'
 import SEO from '../components/SEO'
+import Breadcrumb from '../components/Breadcrumb'
 import CTACard from '../components/CTACard'
 
 function renderInlineMarkdown(text: string): React.ReactNode[] {
@@ -260,6 +261,7 @@ export default function BlogPostPage() {
 
   return (
     <>
+      <Breadcrumb postTitle={post.title} />
       <SEO
         title={((): string => {
           const suffix = ' | Will & Pereira'

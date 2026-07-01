@@ -145,11 +145,13 @@ const topicosCivel = [
 ]
 
 import SEO from '../components/SEO'
+import Breadcrumb from '../components/Breadcrumb'
 
 export default function DireitoCivel() {
 return (
     <div>
-      <SEO
+      <Breadcrumb />
+        <SEO
         title="Advocacia Cível | Will & Pereira Advocacia Palhoça"
         description="Assessoria jurídica especializada em Direito Cível: contratos, indenizações, responsabilidade civil, obrigação e usucapião. Will & Pereira Advocacia."
         canonical="https://willepereira-adv.vercel.app/civel"
@@ -267,7 +269,7 @@ return (
             </h2>
             <p className="text-gray-300 max-w-2xl mx-auto mb-10 text-base md:text-lg leading-relaxed">
               Nossa equipe está pronta para analisar seu caso e oferecer a melhor estratégia jurídica. 
-              Entre em contato e agende uma consulta.
+              Entre em contato e agende uma orientação jurídica.
             </p>
             <Link to="/contato" className="group inline-flex items-center gap-3 px-10 py-4 bg-gold text-navy font-semibold rounded-full hover:bg-gold-light transition-all duration-300 shadow-lg shadow-gold/20 hover:shadow-xl hover:shadow-gold/30">
               Solicitar Atendimento <ArrowRight size={18} className="group-hover:translate-x-1 transition-transform" />
