@@ -57,7 +57,7 @@ export default function Navbar() {
       </div>
 
       {/* MAIN NAV */}
-      <nav className={`nav-wrap ${scrolled ? 'scrolled' : ''}`} aria-label="Navegação principal">
+      <nav className={`nav-wrap ${scrolled ? 'scrolled' : ''}`} role="navigation" aria-label="Navegação principal">
         <div className="nav-inner">
           <Link to="/" className="nav-logo" aria-label="Ir para página inicial">
             <img src="/logo-horizontal.webp" alt="Will & Pereira Advocacia" className="nav-logo-img" />
@@ -104,6 +104,7 @@ export default function Navbar() {
               </div>
             </div>
             <Link to="/blog" className={`nav-link ${location.pathname === '/blog' ? 'active' : ''}`}>Blog</Link>
+            <Link to="/calculadoras" className={`nav-link ${location.pathname === '/calculadoras' ? 'active' : ''}`}>Calculadoras</Link>
             <Link to="/contato" className={`nav-link ${location.pathname === '/contato' ? 'active' : ''}`}>Contato</Link>
             <Link to="/contato" className="btn btn-gold nav-cta-btn">Fale Conosco</Link>
           </div>

@@ -9,6 +9,7 @@ const DireitoPrevidenciario = lazy(() => import('./pages/DireitoPrevidenciario')
 const DireitoTrabalhista = lazy(() => import('./pages/DireitoTrabalhista'))
 const DireitoCivelPage = lazy(() => import('./pages/DireitoCivel'))
 const DireitoImobiliario = lazy(() => import('./pages/DireitoImobiliario'))
+const CalculadorasPage = lazy(() => import('./pages/CalculadorasPage'))
 const DireitoFamilia = lazy(() => import('./pages/DireitoFamilia'))
 const DireitoConsumidor = lazy(() => import('./pages/DireitoConsumidor'))
 const ContatoPage = lazy(() => import('./pages/ContatoPage'))
@@ -47,6 +48,7 @@ export default function App() {
           <Route path="/familia" element={<AnimatedPage><DireitoFamilia /></AnimatedPage>} />
           <Route path="/consumidor" element={<AnimatedPage><DireitoConsumidor /></AnimatedPage>} />
           <Route path="/imobiliario" element={<AnimatedPage><DireitoImobiliario /></AnimatedPage>} />
+          <Route path="/calculadoras" element={<AnimatedPage><CalculadorasPage /></AnimatedPage>} />
           <Route path="/contato" element={<AnimatedPage><ContatoPage /></AnimatedPage>} />
           <Route path="/blog" element={<AnimatedPage><BlogPage /></AnimatedPage>} />
           <Route path="/blog/:slug" element={<AnimatedPage><BlogPostPage /></AnimatedPage>} />
