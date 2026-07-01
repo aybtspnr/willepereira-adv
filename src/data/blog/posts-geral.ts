@@ -2435,4 +2435,394 @@ Decisão do juiz que resolve o mérito da causa.
 3. **Ative** verificação em duas etapas
 4. **Monitore** suas contas regularmente`,
   },
+
+  {
+    slug: 'direitos-guia-completo-efac9e',
+    title: 'Direitos — Guia Completo | Will & Pereira Advocacia',
+    description: 'direitos dos cidadãos — Informações essenciais. Will & Pereira Advocacia.',
+    category: 'Geral',
+    date: '1 Jul 2026',
+    author: 'Will & Pereira Advocacia',
+    content: `## Você Sabia? Direitos dos Cidadãos
+
+Você já parou para pensar quantos direitos possui no dia a dia e muitas vezes não sabe? A Will & Pereira Advocacia preparou este guia completo para orientá-lo sobre os principais direitos dos cidadãos brasileiros.
+
+Você sabia que a legislação brasileira oferece diversas proteções aos cidadãos que vão muito além do que imaginamos.
+
+A seguir, apresentamos os principais direitos que todo cidadão deve conhecer para se proteger e garantir o cumprimento da lei.
+
+## O que diz a Legislação Brasileira
+
+A Constituição Federal de 1988, conhecida como Constituição Cidadã, estabelece diversos direitos fundamentais que protegem os brasileiros. Entre eles, destacam-se os direitos individuais, os direitos sociais e os direitos difusos.
+
+É importante ressaltar que o conhecimento desses direitos é o primeiro passo para exercê-los plenamente.
+
+## Direitos Individuais
+
+Os direitos individuais são aqueles que garantem a liberdade, a igualdade e a dignidade de cada pessoa. Eles incluem:
+
+• Direito à vida e à integridade física
+• Direito à liberdade de expressão e pensamento
+• Direito à igualdade perante a lei
+• Direito à propriedade privada
+• Direito à segurança jurídica
+• Direito à privacidade e intimidade
+• Direito de reunião e associação
+• Direito ao devido processo legal
+
+## Direitos Sociais
+
+Os direitos sociais são aqueles que garantem condições mínimas de dignidade aos cidadãos. Entre eles, estão:
+
+• Direito à educação de qualidade
+• Direito à saúde pública e universal
+• Direito ao trabalho digno e à previdência social
+• Direito à moradia adequada
+• Direito ao lazer e ao descanso
+• Direito à alimentação adequada
+• Direito à assistência aos desamparados
+
+## Como um Advogado Pode Ajudar
+
+Muitas pessoas acreditam que só precisam de advogado quando enfrentam um processo judicial. No entanto, o acompanhamento jurídico preventivo é essencial para evitar problemas e garantir que seus direitos sejam respeitados.
+
+Na Will & Pereira Advocacia, oferecemos orientação jurídica personalizada para ajudar você a entender e exercer seus direitos. Nossa equipe está preparada para atuar em todas as áreas do Direito, sempre com foco na melhor solução para cada caso.
+
+**Orientações preventivas comuns:**
+• Análise de contratos antes da assinatura
+• Verificação de cláusulas trabalhistas
+• Planejamento previdenciário
+• Regularização de imóveis
+• Elaboração de testamentos
+
+**Resolução extrajudicial de conflitos:**
+Nem todo problema precisa ir para a Justiça. Muitas questões podem ser resolvidas por meio de negociação, mediação ou conciliação, economizando tempo e recursos.
+
+## Importância da Assessoria Jurídica
+
+Ter um advogado de confiança é como ter um médico de família — você pode não precisar todos os dias, mas quando precisa, faz toda a diferença. A assessoria jurídica preventiva evita problemas antes que eles aconteçam.
+
+Nossa equipe jurídica está à disposição para orientar você em todas as questões legais do seu dia a dia.
+
+## Conclusão
+
+Conhecer seus direitos é o primeiro passo para exercê-los. A Will & Pereira Advocacia está pronta para ajudar você a entender e proteger seus direitos em todas as situações.
+
+📞 Entre em contato: (48) 98842-0867
+🌐 Acesse: willepereira-adv.vercel.app
+
+Não deixe seus direitos de lado. Conte com quem entende do assunto.`,
+  },
+
+  {
+    slug: 'direitos-passo-a-passo',
+    title: 'Direitos — Passo a Passo | Will & Pereira Advocacia',
+    description: 'direitos dos cidadãos — Informações essenciais. Will & Pereira Advocacia.',
+    category: 'Geral',
+    date: '1 Jul 2026',
+    author: 'Will & Pereira Advocacia',
+    content: `## Guia Completo Garantias dos Cidadãos
+
+Você já parou para pensar quantos direitos possui no dia a dia e muitas vezes não sabe? A Will & Pereira Advocacia preparou este guia completo para orientá-lo sobre os principais direitos dos cidadãos brasileiros.
+
+É comum não saber que a legislação brasileira oferece diversas proteções aos cidadãos que vão muito além do que imaginamos.
+
+Confira neste guia os principais direitos que todo cidadão deve conhecer para se proteger e garantir o cumprimento da lei.
+
+## O que diz a Legislação Brasileira
+
+A Constituição Federal de 1988, conhecida como Constituição Cidadã, estabelece diversos direitos fundamentais que protegem os brasileiros. Entre eles, destacam-se os direitos individuais, os direitos sociais e os direitos difusos.
+
+É fundamental entender que o conhecimento desses direitos é o primeiro passo para exercê-los plenamente.
+
+## Direitos Individuais
+
+Os direitos individuais são aqueles que garantem a liberdade, a igualdade e a dignidade de cada pessoa. Eles incluem:
+
+• Direito à vida e à integridade física
+• Direito à liberdade de expressão e pensamento
+• Direito à igualdade perante a lei
+• Direito à propriedade privada
+• Direito à segurança jurídica
+• Direito à privacidade e intimidade
+• Direito de reunião e associação
+• Direito ao devido processo legal
+
+## Direitos Sociais
+
+Os direitos sociais são aqueles que garantem condições mínimas de dignidade aos cidadãos. Entre eles, estão:
+
+• Direito à educação de qualidade
+• Direito à saúde pública e universal
+• Direito ao trabalho digno e à previdência social
+• Direito à moradia adequada
+• Direito ao lazer e ao descanso
+• Direito à alimentação adequada
+• Direito à assistência aos desamparados
+
+## Como um Advogado Pode Ajudar
+
+Muitas pessoas acreditam que só precisam de advogado quando enfrentam um processo judicial. No entanto, o acompanhamento jurídico preventivo é essencial para evitar problemas e garantir que seus direitos sejam respeitados.
+
+Na Will & Pereira Advocacia, oferecemos orientação jurídica personalizada para ajudar você a entender e exercer seus direitos. Nossa equipe está preparada para atuar em todas as áreas do Direito, sempre com foco na melhor solução para cada caso.
+
+**Orientações preventivas comuns:**
+• Análise de contratos antes da assinatura
+• Verificação de cláusulas trabalhistas
+• Planejamento previdenciário
+• Regularização de imóveis
+• Elaboração de testamentos
+
+**Resolução extrajudicial de conflitos:**
+Nem todo problema precisa ir para a Justiça. Muitas questões podem ser resolvidas por meio de negociação, mediação ou conciliação, economizando tempo e recursos.
+
+## Importância da Assessoria Jurídica
+
+Ter um advogado de confiança é como ter um médico de família — você pode não precisar todos os dias, mas quando precisa, faz toda a diferença. A assessoria jurídica preventiva evita problemas antes que eles aconteçam.
+
+Nosso escritório está à disposição para orientar você em todas as questões legais do seu dia a dia.
+
+## Conclusão
+
+Conhecer seus direitos é o primeiro passo para exercê-los. A Will & Pereira Advocacia está pronta para ajudar você a entender e proteger seus direitos em todas as situações.
+
+📞 Entre em contato: (48) 98842-0867
+🌐 Acesse: willepereira-adv.vercel.app
+
+Não deixe seus direitos de lado. Conte com quem entende do assunto.`,
+  },
+
+  {
+    slug: 'direitos-passo-a-passo-07b836',
+    title: 'Direitos — Passo a Passo | Will & Pereira Advocacia',
+    description: 'direitos dos cidadãos — Informações essenciais. Will & Pereira Advocacia.',
+    category: 'Geral',
+    date: '1 Jul 2026',
+    author: 'Will & Pereira Advocacia',
+    content: `## Entenda Obrigações dos Cidadãos
+
+Você já parou para pensar quantos direitos possui no dia a dia e muitas vezes não sabe? A Will & Pereira Advocacia preparou este guia completo para orientá-lo sobre os principais direitos dos cidadãos brasileiros.
+
+Muitas pessoas desconhecem a legislação brasileira oferece diversas proteções aos cidadãos que vão muito além do que imaginamos.
+
+Neste artigo completo, vamos explorar os principais direitos que todo cidadão deve conhecer para se proteger e garantir o cumprimento da lei.
+
+## O que diz a Legislação Brasileira
+
+A Constituição Federal de 1988, conhecida como Constituição Cidadã, estabelece diversos direitos fundamentais que protegem os brasileiros. Entre eles, destacam-se os direitos individuais, os direitos sociais e os direitos difusos.
+
+Cabe mencionar que o conhecimento desses direitos é o primeiro passo para exercê-los plenamente.
+
+## Direitos Individuais
+
+Os direitos individuais são aqueles que garantem a liberdade, a igualdade e a dignidade de cada pessoa. Eles incluem:
+
+• Direito à vida e à integridade física
+• Direito à liberdade de expressão e pensamento
+• Direito à igualdade perante a lei
+• Direito à propriedade privada
+• Direito à segurança jurídica
+• Direito à privacidade e intimidade
+• Direito de reunião e associação
+• Direito ao devido processo legal
+
+## Direitos Sociais
+
+Os direitos sociais são aqueles que garantem condições mínimas de dignidade aos cidadãos. Entre eles, estão:
+
+• Direito à educação de qualidade
+• Direito à saúde pública e universal
+• Direito ao trabalho digno e à previdência social
+• Direito à moradia adequada
+• Direito ao lazer e ao descanso
+• Direito à alimentação adequada
+• Direito à assistência aos desamparados
+
+## Como um Advogado Pode Ajudar
+
+Muitas pessoas acreditam que só precisam de advogado quando enfrentam um processo judicial. No entanto, o acompanhamento jurídico preventivo é essencial para evitar problemas e garantir que seus direitos sejam respeitados.
+
+Na Will & Pereira Advocacia, oferecemos orientação jurídica personalizada para ajudar você a entender e exercer seus direitos. Nossa equipe está preparada para atuar em todas as áreas do Direito, sempre com foco na melhor solução para cada caso.
+
+**Orientações preventivas comuns:**
+• Análise de contratos antes da assinatura
+• Verificação de cláusulas trabalhistas
+• Planejamento previdenciário
+• Regularização de imóveis
+• Elaboração de testamentos
+
+**Resolução extrajudicial de conflitos:**
+Nem todo problema precisa ir para a Justiça. Muitas questões podem ser resolvidas por meio de negociação, mediação ou conciliação, economizando tempo e recursos.
+
+## Importância da Assessoria Jurídica
+
+Ter um advogado de confiança é como ter um médico de família — você pode não precisar todos os dias, mas quando precisa, faz toda a diferença. A assessoria jurídica preventiva evita problemas antes que eles aconteçam.
+
+A Will & Pereira Advocacia está à disposição para orientar você em todas as questões legais do seu dia a dia.
+
+## Conclusão
+
+Conhecer seus direitos é o primeiro passo para exercê-los. A Will & Pereira Advocacia está pronta para ajudar você a entender e proteger seus direitos em todas as situações.
+
+📞 Entre em contato: (48) 98842-0867
+🌐 Acesse: willepereira-adv.vercel.app
+
+Não deixe seus direitos de lado. Conte com quem entende do assunto.`,
+  },
+
+  {
+    slug: 'direitos-guia-definitivo-41cff3',
+    title: 'Direitos — Guia Definitivo | Will & Pereira Advocacia',
+    description: 'direitos dos cidadãos — Informações essenciais. Will & Pereira Advocacia.',
+    category: 'Geral',
+    date: '1 Jul 2026',
+    author: 'Will & Pereira Advocacia',
+    content: `## Guia Completo Direitos dos Cidadãos
+
+Você já parou para pensar quantos direitos possui no dia a dia e muitas vezes não sabe? A Will & Pereira Advocacia preparou este guia completo para orientá-lo sobre os principais direitos dos cidadãos brasileiros.
+
+Muitas pessoas desconhecem a legislação brasileira oferece diversas proteções aos cidadãos que vão muito além do que imaginamos.
+
+Preparamos um conteúdo especial sobre os principais direitos que todo cidadão deve conhecer para se proteger e garantir o cumprimento da lei.
+
+## O que diz a Legislação Brasileira
+
+A Constituição Federal de 1988, conhecida como Constituição Cidadã, estabelece diversos direitos fundamentais que protegem os brasileiros. Entre eles, destacam-se os direitos individuais, os direitos sociais e os direitos difusos.
+
+É importante ressaltar que o conhecimento desses direitos é o primeiro passo para exercê-los plenamente.
+
+## Direitos Individuais
+
+Os direitos individuais são aqueles que garantem a liberdade, a igualdade e a dignidade de cada pessoa. Eles incluem:
+
+• Direito à vida e à integridade física
+• Direito à liberdade de expressão e pensamento
+• Direito à igualdade perante a lei
+• Direito à propriedade privada
+• Direito à segurança jurídica
+• Direito à privacidade e intimidade
+• Direito de reunião e associação
+• Direito ao devido processo legal
+
+## Direitos Sociais
+
+Os direitos sociais são aqueles que garantem condições mínimas de dignidade aos cidadãos. Entre eles, estão:
+
+• Direito à educação de qualidade
+• Direito à saúde pública e universal
+• Direito ao trabalho digno e à previdência social
+• Direito à moradia adequada
+• Direito ao lazer e ao descanso
+• Direito à alimentação adequada
+• Direito à assistência aos desamparados
+
+## Como um Advogado Pode Ajudar
+
+Muitas pessoas acreditam que só precisam de advogado quando enfrentam um processo judicial. No entanto, o acompanhamento jurídico preventivo é essencial para evitar problemas e garantir que seus direitos sejam respeitados.
+
+Na Will & Pereira Advocacia, oferecemos orientação jurídica personalizada para ajudar você a entender e exercer seus direitos. Nossa equipe está preparada para atuar em todas as áreas do Direito, sempre com foco na melhor solução para cada caso.
+
+**Orientações preventivas comuns:**
+• Análise de contratos antes da assinatura
+• Verificação de cláusulas trabalhistas
+• Planejamento previdenciário
+• Regularização de imóveis
+• Elaboração de testamentos
+
+**Resolução extrajudicial de conflitos:**
+Nem todo problema precisa ir para a Justiça. Muitas questões podem ser resolvidas por meio de negociação, mediação ou conciliação, economizando tempo e recursos.
+
+## Importância da Assessoria Jurídica
+
+Ter um advogado de confiança é como ter um médico de família — você pode não precisar todos os dias, mas quando precisa, faz toda a diferença. A assessoria jurídica preventiva evita problemas antes que eles aconteçam.
+
+Nosso escritório está à disposição para orientar você em todas as questões legais do seu dia a dia.
+
+## Conclusão
+
+Conhecer seus direitos é o primeiro passo para exercê-los. A Will & Pereira Advocacia está pronta para ajudar você a entender e proteger seus direitos em todas as situações.
+
+📞 Entre em contato: (48) 98842-0867
+🌐 Acesse: willepereira-adv.vercel.app
+
+Não deixe seus direitos de lado. Conte com quem entende do assunto.`,
+  },
+
+  {
+    slug: 'direitos-manual-pratico-6a054d',
+    title: 'Direitos — Manual Prático | Will & Pereira Advocacia',
+    description: 'direitos dos cidadãos — Informações essenciais. Will & Pereira Advocacia.',
+    category: 'Geral',
+    date: '1 Jul 2026',
+    author: 'Will & Pereira Advocacia',
+    content: `## Entenda Obrigações dos Cidadãos
+
+Você já parou para pensar quantos direitos possui no dia a dia e muitas vezes não sabe? A Will & Pereira Advocacia preparou este guia completo para orientá-lo sobre os principais direitos dos cidadãos brasileiros.
+
+Poucos sabem que a legislação brasileira oferece diversas proteções aos cidadãos que vão muito além do que imaginamos.
+
+Confira neste guia os principais direitos que todo cidadão deve conhecer para se proteger e garantir o cumprimento da lei.
+
+## O que diz a Legislação Brasileira
+
+A Constituição Federal de 1988, conhecida como Constituição Cidadã, estabelece diversos direitos fundamentais que protegem os brasileiros. Entre eles, destacam-se os direitos individuais, os direitos sociais e os direitos difusos.
+
+É importante ressaltar que o conhecimento desses direitos é o primeiro passo para exercê-los plenamente.
+
+## Direitos Individuais
+
+Os direitos individuais são aqueles que garantem a liberdade, a igualdade e a dignidade de cada pessoa. Eles incluem:
+
+• Direito à vida e à integridade física
+• Direito à liberdade de expressão e pensamento
+• Direito à igualdade perante a lei
+• Direito à propriedade privada
+• Direito à segurança jurídica
+• Direito à privacidade e intimidade
+• Direito de reunião e associação
+• Direito ao devido processo legal
+
+## Direitos Sociais
+
+Os direitos sociais são aqueles que garantem condições mínimas de dignidade aos cidadãos. Entre eles, estão:
+
+• Direito à educação de qualidade
+• Direito à saúde pública e universal
+• Direito ao trabalho digno e à previdência social
+• Direito à moradia adequada
+• Direito ao lazer e ao descanso
+• Direito à alimentação adequada
+• Direito à assistência aos desamparados
+
+## Como um Advogado Pode Ajudar
+
+Muitas pessoas acreditam que só precisam de advogado quando enfrentam um processo judicial. No entanto, o acompanhamento jurídico preventivo é essencial para evitar problemas e garantir que seus direitos sejam respeitados.
+
+Na Will & Pereira Advocacia, oferecemos orientação jurídica personalizada para ajudar você a entender e exercer seus direitos. Nossa equipe está preparada para atuar em todas as áreas do Direito, sempre com foco na melhor solução para cada caso.
+
+**Orientações preventivas comuns:**
+• Análise de contratos antes da assinatura
+• Verificação de cláusulas trabalhistas
+• Planejamento previdenciário
+• Regularização de imóveis
+• Elaboração de testamentos
+
+**Resolução extrajudicial de conflitos:**
+Nem todo problema precisa ir para a Justiça. Muitas questões podem ser resolvidas por meio de negociação, mediação ou conciliação, economizando tempo e recursos.
+
+## Importância da Assessoria Jurídica
+
+Ter um advogado de confiança é como ter um médico de família — você pode não precisar todos os dias, mas quando precisa, faz toda a diferença. A assessoria jurídica preventiva evita problemas antes que eles aconteçam.
+
+Nosso escritório está à disposição para orientar você em todas as questões legais do seu dia a dia.
+
+## Conclusão
+
+Conhecer seus direitos é o primeiro passo para exercê-los. A Will & Pereira Advocacia está pronta para ajudar você a entender e proteger seus direitos em todas as situações.
+
+📞 Entre em contato: (48) 98842-0867
+🌐 Acesse: willepereira-adv.vercel.app
+
+Não deixe seus direitos de lado. Conte com quem entende do assunto.`,
+  },
 ]

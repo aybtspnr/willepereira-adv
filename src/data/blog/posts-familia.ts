@@ -2093,4 +2093,284 @@ O inventário extrajudicial exige orientação jurídica. Um advogado pode orien
 - Decisão: 30 a 60 dias
 - Vigência: 12 meses após a ação`,
   },
+
+  {
+    slug: 'direito-de-familia-guia-completo-443f72',
+    title: 'Direito de Família — Guia Completo | Will & Pereira Advocacia',
+    description: 'guia de direito de família — Tudo que você precisa saber. Will & Pereira Advocacia.',
+    category: 'Familia',
+    date: '1 Jul 2026',
+    author: 'Will & Pereira Advocacia',
+    content: `## Tudo sobre Direito de Família
+
+O Direito de Família é um dos ramos mais sensíveis do Direito, pois lida com as relações mais íntimas e importantes da vida das pessoas: casamento, união estável, filiação, guarda de filhos, pensão alimentícia e sucessão.
+
+A Will & Pereira Advocacia oferece um atendimento acolhedor e sigiloso para todas as questões de Direito de Família, sempre buscando a melhor solução para todas as partes envolvidas.
+
+## Divórcio
+
+O divórcio é a dissolução do casamento. Pode ser:
+
+**Divórcio consensual:** quando ambas as partes concordam com a separação e com todas as condições (partilha de bens, guarda de filhos, pensão)
+**Divórcio litigioso:** quando não há acordo entre as partes sobre algum aspecto
+
+### Divórcio em Cartório
+Desde 2007, o divórcio consensual pode ser realizado em cartório, sem necessidade de ação judicial, desde que:
+• Não haja filhos menores ou incapazes
+• As partes estejam de acordo com todas as condições
+
+## Guarda de Filhos
+
+A guarda dos filhos pode ser:
+**Guarda unilateral:** um dos pais detém a guarda e o outro tem direito de visitas
+**Guarda compartilhada:** ambos os pais dividem a responsabilidade sobre os filhos
+
+Desde 2014, a guarda compartilhada é a regra no Brasil, salvo quando um dos pais não tem condições de exercê-la.
+
+## Pensão Alimentícia
+
+A pensão alimentícia é devida quando a pessoa não tem condições de prover seu próprio sustento. Pode ser paga para:
+• Filhos menores de idade
+• Cônjuges ou ex-cônjuges que comprovem necessidade
+• Filhos maiores que estejam estudando (até 24 anos)
+• Pais que necessitem de auxílio
+
+## União Estável
+
+A união estável é reconhecida como entidade familiar desde a Constituição de 1988. Para ser caracterizada, precisa de:
+• Convivência pública (notória)
+• Contínua e duradoura
+• Objetivo de constituir família
+
+## Conclusão
+
+Questões de Direito de Família exigem não apenas conhecimento jurídico, mas também sensibilidade e discrição. A Will & Pereira Advocacia está preparada para ajudar você a resolver suas questões familiares com respeito e profissionalismo.
+
+📞 (48) 98842-0867
+🌐 willepereira-adv.vercel.app`,
+  },
+
+  {
+    slug: 'direito-de-familia-guia-completo-72f555',
+    title: 'Direito de Família — Guia Completo | Will & Pereira Advocacia',
+    description: 'guia de direito de família — Informações essenciais. Will & Pereira Advocacia.',
+    category: 'Familia',
+    date: '1 Jul 2026',
+    author: 'Will & Pereira Advocacia',
+    content: `## Tudo sobre Direito de Família
+
+O Direito de Família é um dos ramos mais sensíveis do Direito, pois lida com as relações mais íntimas e importantes da vida das pessoas: casamento, união estável, filiação, guarda de filhos, pensão alimentícia e sucessão.
+
+A Will & Pereira Advocacia oferece um atendimento acolhedor e sigiloso para todas as questões de Direito de Família, sempre buscando a melhor solução para todas as partes envolvidas.
+
+## Divórcio
+
+O divórcio é a dissolução do casamento. Pode ser:
+
+**Divórcio consensual:** quando ambas as partes concordam com a separação e com todas as condições (partilha de bens, guarda de filhos, pensão)
+**Divórcio litigioso:** quando não há acordo entre as partes sobre algum aspecto
+
+### Divórcio em Cartório
+Desde 2007, o divórcio consensual pode ser realizado em cartório, sem necessidade de ação judicial, desde que:
+• Não haja filhos menores ou incapazes
+• As partes estejam de acordo com todas as condições
+
+## Guarda de Filhos
+
+A guarda dos filhos pode ser:
+**Guarda unilateral:** um dos pais detém a guarda e o outro tem direito de visitas
+**Guarda compartilhada:** ambos os pais dividem a responsabilidade sobre os filhos
+
+Desde 2014, a guarda compartilhada é a regra no Brasil, salvo quando um dos pais não tem condições de exercê-la.
+
+## Pensão Alimentícia
+
+A pensão alimentícia é devida quando a pessoa não tem condições de prover seu próprio sustento. Pode ser paga para:
+• Filhos menores de idade
+• Cônjuges ou ex-cônjuges que comprovem necessidade
+• Filhos maiores que estejam estudando (até 24 anos)
+• Pais que necessitem de auxílio
+
+## União Estável
+
+A união estável é reconhecida como entidade familiar desde a Constituição de 1988. Para ser caracterizada, precisa de:
+• Convivência pública (notória)
+• Contínua e duradoura
+• Objetivo de constituir família
+
+## Conclusão
+
+Questões de Direito de Família exigem não apenas conhecimento jurídico, mas também sensibilidade e discrição. A Will & Pereira Advocacia está preparada para ajudar você a resolver suas questões familiares com respeito e profissionalismo.
+
+📞 (48) 98842-0867
+🌐 willepereira-adv.vercel.app`,
+  },
+
+  {
+    slug: 'direito-de-familia-tudo-que-voce-precisa-saber-3b1c38',
+    title: 'Direito de Família — Tudo que Você Precisa Saber | Will & Pereira Advocacia',
+    description: 'guia de direito de família — Guia completo atualizado. Will & Pereira Advocacia.',
+    category: 'Familia',
+    date: '1 Jul 2026',
+    author: 'Will & Pereira Advocacia',
+    content: `## Entenda o Direito de Família
+
+O Direito de Família é um dos ramos mais sensíveis do Direito, pois lida com as relações mais íntimas e importantes da vida das pessoas: casamento, união estável, filiação, guarda de filhos, pensão alimentícia e sucessão.
+
+A Will & Pereira Advocacia oferece um atendimento acolhedor e sigiloso para todas as questões de Direito de Família, sempre buscando a melhor solução para todas as partes envolvidas.
+
+## Divórcio
+
+O divórcio é a dissolução do casamento. Pode ser:
+
+**Divórcio consensual:** quando ambas as partes concordam com a separação e com todas as condições (partilha de bens, guarda de filhos, pensão)
+**Divórcio litigioso:** quando não há acordo entre as partes sobre algum aspecto
+
+### Divórcio em Cartório
+Desde 2007, o divórcio consensual pode ser realizado em cartório, sem necessidade de ação judicial, desde que:
+• Não haja filhos menores ou incapazes
+• As partes estejam de acordo com todas as condições
+
+## Guarda de Filhos
+
+A guarda dos filhos pode ser:
+**Guarda unilateral:** um dos pais detém a guarda e o outro tem direito de visitas
+**Guarda compartilhada:** ambos os pais dividem a responsabilidade sobre os filhos
+
+Desde 2014, a guarda compartilhada é a regra no Brasil, salvo quando um dos pais não tem condições de exercê-la.
+
+## Pensão Alimentícia
+
+A pensão alimentícia é devida quando a pessoa não tem condições de prover seu próprio sustento. Pode ser paga para:
+• Filhos menores de idade
+• Cônjuges ou ex-cônjuges que comprovem necessidade
+• Filhos maiores que estejam estudando (até 24 anos)
+• Pais que necessitem de auxílio
+
+## União Estável
+
+A união estável é reconhecida como entidade familiar desde a Constituição de 1988. Para ser caracterizada, precisa de:
+• Convivência pública (notória)
+• Contínua e duradoura
+• Objetivo de constituir família
+
+## Conclusão
+
+Questões de Direito de Família exigem não apenas conhecimento jurídico, mas também sensibilidade e discrição. A Will & Pereira Advocacia está preparada para ajudar você a resolver suas questões familiares com respeito e profissionalismo.
+
+📞 (48) 98842-0867
+🌐 willepereira-adv.vercel.app`,
+  },
+
+  {
+    slug: 'direito-de-familia-guia-completo-8a5edb',
+    title: 'Direito de Família — Guia Completo | Will & Pereira Advocacia',
+    description: 'guia de direito de família — Tudo que você precisa saber. Will & Pereira Advocacia.',
+    category: 'Familia',
+    date: '1 Jul 2026',
+    author: 'Will & Pereira Advocacia',
+    content: `## Entenda o Direito de Família
+
+O Direito de Família é um dos ramos mais sensíveis do Direito, pois lida com as relações mais íntimas e importantes da vida das pessoas: casamento, união estável, filiação, guarda de filhos, pensão alimentícia e sucessão.
+
+A Will & Pereira Advocacia oferece um atendimento acolhedor e sigiloso para todas as questões de Direito de Família, sempre buscando a melhor solução para todas as partes envolvidas.
+
+## Divórcio
+
+O divórcio é a dissolução do casamento. Pode ser:
+
+**Divórcio consensual:** quando ambas as partes concordam com a separação e com todas as condições (partilha de bens, guarda de filhos, pensão)
+**Divórcio litigioso:** quando não há acordo entre as partes sobre algum aspecto
+
+### Divórcio em Cartório
+Desde 2007, o divórcio consensual pode ser realizado em cartório, sem necessidade de ação judicial, desde que:
+• Não haja filhos menores ou incapazes
+• As partes estejam de acordo com todas as condições
+
+## Guarda de Filhos
+
+A guarda dos filhos pode ser:
+**Guarda unilateral:** um dos pais detém a guarda e o outro tem direito de visitas
+**Guarda compartilhada:** ambos os pais dividem a responsabilidade sobre os filhos
+
+Desde 2014, a guarda compartilhada é a regra no Brasil, salvo quando um dos pais não tem condições de exercê-la.
+
+## Pensão Alimentícia
+
+A pensão alimentícia é devida quando a pessoa não tem condições de prover seu próprio sustento. Pode ser paga para:
+• Filhos menores de idade
+• Cônjuges ou ex-cônjuges que comprovem necessidade
+• Filhos maiores que estejam estudando (até 24 anos)
+• Pais que necessitem de auxílio
+
+## União Estável
+
+A união estável é reconhecida como entidade familiar desde a Constituição de 1988. Para ser caracterizada, precisa de:
+• Convivência pública (notória)
+• Contínua e duradoura
+• Objetivo de constituir família
+
+## Conclusão
+
+Questões de Direito de Família exigem não apenas conhecimento jurídico, mas também sensibilidade e discrição. A Will & Pereira Advocacia está preparada para ajudar você a resolver suas questões familiares com respeito e profissionalismo.
+
+📞 (48) 98842-0867
+🌐 willepereira-adv.vercel.app`,
+  },
+
+  {
+    slug: 'direito-de-familia-manual-pratico-2df347',
+    title: 'Direito de Família — Manual Prático | Will & Pereira Advocacia',
+    description: 'guia de direito de família — Tudo que você precisa saber. Will & Pereira Advocacia.',
+    category: 'Familia',
+    date: '1 Jul 2026',
+    author: 'Will & Pereira Advocacia',
+    content: `## Direito de Família para Leigos
+
+O Direito de Família é um dos ramos mais sensíveis do Direito, pois lida com as relações mais íntimas e importantes da vida das pessoas: casamento, união estável, filiação, guarda de filhos, pensão alimentícia e sucessão.
+
+A Will & Pereira Advocacia oferece um atendimento acolhedor e sigiloso para todas as questões de Direito de Família, sempre buscando a melhor solução para todas as partes envolvidas.
+
+## Divórcio
+
+O divórcio é a dissolução do casamento. Pode ser:
+
+**Divórcio consensual:** quando ambas as partes concordam com a separação e com todas as condições (partilha de bens, guarda de filhos, pensão)
+**Divórcio litigioso:** quando não há acordo entre as partes sobre algum aspecto
+
+### Divórcio em Cartório
+Desde 2007, o divórcio consensual pode ser realizado em cartório, sem necessidade de ação judicial, desde que:
+• Não haja filhos menores ou incapazes
+• As partes estejam de acordo com todas as condições
+
+## Guarda de Filhos
+
+A guarda dos filhos pode ser:
+**Guarda unilateral:** um dos pais detém a guarda e o outro tem direito de visitas
+**Guarda compartilhada:** ambos os pais dividem a responsabilidade sobre os filhos
+
+Desde 2014, a guarda compartilhada é a regra no Brasil, salvo quando um dos pais não tem condições de exercê-la.
+
+## Pensão Alimentícia
+
+A pensão alimentícia é devida quando a pessoa não tem condições de prover seu próprio sustento. Pode ser paga para:
+• Filhos menores de idade
+• Cônjuges ou ex-cônjuges que comprovem necessidade
+• Filhos maiores que estejam estudando (até 24 anos)
+• Pais que necessitem de auxílio
+
+## União Estável
+
+A união estável é reconhecida como entidade familiar desde a Constituição de 1988. Para ser caracterizada, precisa de:
+• Convivência pública (notória)
+• Contínua e duradoura
+• Objetivo de constituir família
+
+## Conclusão
+
+Questões de Direito de Família exigem não apenas conhecimento jurídico, mas também sensibilidade e discrição. A Will & Pereira Advocacia está preparada para ajudar você a resolver suas questões familiares com respeito e profissionalismo.
+
+📞 (48) 98842-0867
+🌐 willepereira-adv.vercel.app`,
+  },
 ]
