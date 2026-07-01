@@ -29,6 +29,8 @@ interface CityContent {
     familia: string
     imobiliario: string
   }
+  exclusiva?: string
+  diaADia?: string
   faqs: { pergunta: string; resposta: string }[]
   stats: { experiencia: string; clientes: string; taxa: string; cidades: string }
 }
@@ -141,7 +143,7 @@ export default function CidadePage() {
     )
   }
 
-  const areaKeys = Object.keys(areaLabels) as Array<keyof typeof areaLabels>
+  const areaKeys = ['previdenciario', 'trabalhista', 'civel', 'consumidor', 'familia', 'imobiliario'] as const
 
   return (
     <div>
@@ -251,6 +253,64 @@ export default function CidadePage() {
           </section>
         )
       })}
+
+      {/* Seção Exclusiva */}
+      {content.exclusiva && (
+        <section className="py-16 md:py-20 bg-cream">
+          <div style={{ maxWidth: 896, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
+            <div className="prose max-w-none">
+              {content.exclusiva.split('\n').map((line, i) => {
+                if (line.startsWith('## ')) {
+                  return <h2 key={i} className="font-serif text-2xl md:text-3xl text-navy mt-8 mb-4">{line.replace('## ', '')}</h2>
+                }
+                if (line.startsWith('**')) {
+                  const match = line.match(/\*\*(.+?)\*\*/)
+                  if (match) return <p key={i} className="text-navy font-semibold mt-4 mb-2"><strong>{match[1]}</strong></p>
+                }
+                if (line.startsWith('• ')) {
+                  return (
+                    <div key={i} className="flex items-start gap-2.5 ml-4 my-1">
+                      <CheckCircle size={16} className="text-gold mt-0.5 shrink-0" />
+                      <span className="text-gray-600">{line.replace('• ', '')}</span>
+                    </div>
+                  )
+                }
+                if (line.trim() === '') return <div key={i} className="h-3" />
+                return <p key={i} className="text-gray-600 leading-relaxed mb-3">{line}</p>
+              })}
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* Como Ajudar no Dia a Dia */}
+      {content.diaADia && (
+        <section className="py-16 md:py-20">
+          <div style={{ maxWidth: 896, margin: "0 auto", padding: "0 clamp(24px, 5vw, 48px)" }}>
+            <div className="prose max-w-none">
+              {content.diaADia.split('\n').map((line, i) => {
+                if (line.startsWith('## ')) {
+                  return <h2 key={i} className="font-serif text-2xl md:text-3xl text-navy mt-8 mb-4">{line.replace('## ', '')}</h2>
+                }
+                if (line.startsWith('**')) {
+                  const match = line.match(/\*\*(.+?)\*\*/)
+                  if (match) return <p key={i} className="text-navy font-semibold mt-4 mb-2"><strong>{match[1]}</strong></p>
+                }
+                if (line.startsWith('• ')) {
+                  return (
+                    <div key={i} className="flex items-start gap-2.5 ml-4 my-1">
+                      <CheckCircle size={16} className="text-gold mt-0.5 shrink-0" />
+                      <span className="text-gray-600">{line.replace('• ', '')}</span>
+                    </div>
+                  )
+                }
+                if (line.trim() === '') return <div key={i} className="h-3" />
+                return <p key={i} className="text-gray-600 leading-relaxed mb-3">{line}</p>
+              })}
+            </div>
+          </div>
+        </section>
+      )}
 
       {/* FAQs */}
       <section className="py-16 md:py-20 bg-cream">
