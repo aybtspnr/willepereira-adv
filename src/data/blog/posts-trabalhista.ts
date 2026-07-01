@@ -4071,4 +4071,1014 @@ A Will & Pereira Advocacia atua tanto na defesa de trabalhadores quanto na consu
 📞 Entre em contato: (48) 98842-0867
 🌐 willepereira-adv.vercel.app`,
   },
+  {
+    slug: 'verbas-rescisoes-tipos-calculo',
+    title: 'Verbas Rescisórias: Tipos e Como Calcular',
+    excerpt: 'Conheça todos os tipos de verbas rescisórias e como calcular cada uma delas.',
+    date: '2025-01-15',
+    category: 'trabalhista',
+    readTime: '5 min',
+    content: `## O que são verbas rescisórias?
+
+São valores devidos ao trabalhador quando o contrato de trabalho é encerrado.
+
+## Tipos de rescisão e verbas devidas
+
+### Dispensa sem justa causa
+- Saldo de salário
+- Aviso prévio (trabalhado ou indenizado)
+- Férias vencidas + 1/3
+- Férias proporcionais + 1/3
+- 13º proporcional
+- Multa de 40% do FGTS
+- Saque do FGTS
+
+### Dispensa por justa causa
+- Saldo de salário
+- Férias vencidas + 1/3
+
+### Pedido de demissão
+- Saldo de salário
+- Férias vencidas + 1/3
+- Férias proporcionais + 1/3
+- 13º proporcional
+
+### Acordo (art. 484-A CLT)
+- Saldo de salário
+- Aviso prévio (50%)
+- Férias + 1/3
+- 13º proporcional
+- Multa do FGTS (20%)
+- Saque de 80% do FGTS
+
+## Prazo de pagamento
+
+Até **10 dias** após o término do contrato.`,
+  },
+  {
+    slug: 'horas-extras-como-provar-sem-ponto',
+    title: 'Horas Extras: Como Provar sem Registro de Ponto',
+    excerpt: 'Estratégias para comprovar horas extras quando não há registro formal de jornada.',
+    date: '2025-01-15',
+    category: 'trabalhista',
+    readTime: '5 min',
+    content: `## O ônus da prova
+
+- **Empresas com +20 empregados**: ônus é do empregador
+- **Empresas menores**: ônus é do trabalhador
+
+## Meios de prova
+
+### Testemunhal
+- Colegas de trabalho
+- Superior hierárquico
+- Clientes
+
+### Documental
+- E-mails com horários
+- Mensagens de WhatsApp
+- Registros de acesso (crachá)
+- Bilhetes de transporte
+- Capturas de tela
+
+### Circunstancial
+- Câmeras de segurança
+- Registro de ponto eletrônico
+- Sistema de logística
+
+## Súmula 338 do TST
+
+Empresas com +20 empregados devem manter registro de ponto. A ausência gera presunção favorável ao trabalhador.
+
+## Dicas
+
+1. **Mantenha registros próprios** — agenda, prints, mensagens
+2. **Colete testemunhos** — colegas confiáveis
+3. **Guarde documentos** — e-mails, crachás, bilhetes
+4. **Consulte advogado** rapidamente — prazo prescricional de 5 anos`,
+  },
+  {
+    slug: 'assedio-moral-trabalho-como-provar',
+    title: 'Assédio Moral no Trabalho: Como Identificar e Provar',
+    excerpt: 'Como identificar, documentar e processar assédio moral no ambiente de trabalho.',
+    date: '2025-01-15',
+    category: 'trabalhista',
+    readTime: '5 min',
+    content: `## O que é assédio moral?
+
+Exposição reiterada e prolongada a situações humilhantes, constrangedoras e degradantes no trabalho.
+
+## Tipos de assédio
+
+### Vertical descendente
+- Superior contra subordinado
+- Mais comum
+
+### Horizontal
+- Entre colegas
+
+### Ascendente
+- Subordinados contra superior
+
+### Organizacional
+- Práticas abusivas institucionalizadas
+
+## Como identificar?
+
+- Críticas constantes e infundadas
+- Isolamento deliberado
+- Sobrecarga de trabalho
+- Ameaças e intimidações
+- Humilhações públicas
+- Desqualificação profissional
+
+## Como provar?
+
+- **Documentação**: e-mails, mensagens, bilhetes
+- **Testemunhos**: colegas que presenciaram
+- **Laudos psicológicos**: atestados de ansiedade/depressão
+- **Registro de ocorrências**: diário com datas e fatos
+
+## Indenização
+
+- Dano moral (in re ipsa — não precisa provar prejuízo)
+- Valor fixado pelo juiz com base na gravidade
+- Art. 223-G da CLT (Reforma Trabalhista)`,
+  },
+  {
+    slug: 'equiparacao-salarial-requisitos',
+    title: 'Equiparação Salarial: Como Conseguir o Mesmo Salário',
+    excerpt: 'Conheça seus direitos quando exerce função idêntica a colega com salário maior.',
+    date: '2025-01-15',
+    category: 'trabalhista',
+    readTime: '5 min',
+    content: `## O que é equiparação salarial?
+
+Direito do trabalhador que exerce função idêntica a outro colega de receber o mesmo salário.
+
+## Requisitos (art. 461 CLT)
+
+1. Identidade de função
+2. Trabalho de igual valor
+3. Mesmo empregador
+4. Mesma localidade
+5. Diferença de tempo de serviço < 4 anos
+
+## Paradigma
+
+O colega tomado como referência deve:
+- Exercer a mesma função
+- Ter as mesmas responsabilidades
+- Ter produtividade e perfeição técnica iguais
+
+## Exceções
+
+- Plano de cargos e salários homologado
+- Diferenças objetivas de produtividade
+- Diferença de tempo > 4 anos
+
+## Desvio de função
+
+Quando o trabalhador exerce função diversa da contratada:
+- Direito ao salário da função exercida
+- Diferente de equiparação — é direito próprio
+
+## Como proceder
+
+1. Documente as funções exercidas
+2. Identifique o paradigma
+3. Reúna provas de igualdade de função
+4. Consulte advogado trabalhista`,
+  },
+  {
+    slug: 'fgts-nao-depositado-como-recuperar',
+    title: 'FGTS Não Depositado: Como Recuperar seus Direitos',
+    excerpt: 'Estratégias para recuperar FGTS que não foi depositado corretamente pelo empregador.',
+    date: '2025-01-15',
+    category: 'trabalhista',
+    readTime: '5 min',
+    content: `## O que é FGTS?
+
+Fundo de Garantia do Tempo de Serviço — 8% do salário depositado mensalmente pelo empregador.
+
+## Quando o FGTS não é depositado?
+
+- Empregador não deposita
+- Depósito incorreto (valor menor)
+
+depósitos em atraso
+
+## Como recuperar?
+
+### Via trabalhista
+- Reclamação trabalhista na Justiça do Trabalho
+- Multa de 20% sobre os valores devidos
+- Correção monetária + juros
+
+### Via administrativa
+- Reclamação no SINE
+- Mediação com o empregador
+
+## Prazo prescricional
+
+- **2 anos** após a extinção do contrato
+- Cobrar últimos **5 anos** de depósitos
+
+## Documentos
+
+- Carteira de trabalho
+- Holerites
+- Comprovantes de recebimento
+- Extrato do FGTS
+
+## Cálculo
+
+- 8% × salário × meses não depositados
+- + 20% de multa
+- + correção monetária (TR)
+- + juros de mora`,
+  },
+  {
+    slug: 'acidente-transporte-trajeto-direito',
+    title: 'Acidente de Trabalho em Trajeto: Seus Direitos',
+    excerpt: 'O que fazer quando sofre acidente no caminho do trabalho para casa ou vice-versa.',
+    date: '2025-01-15',
+    category: 'trabalhista',
+    readTime: '5 min',
+    content: `## Acidente de trajeto
+
+Equiparado ao acidente de trabalho (art. 21, IV, Lei 8.213/91).
+
+## Quando configure?
+
+- Indo ou voltando do trabalho
+- Por via mais curta ou usual
+- Em horário razoável
+- Por meio de transporte habitual
+
+## Direitos do trabalhador
+
+- Comunicação da CAT
+- Auxílio-doença acidentário (B91)
+- Estabilidade de 12 meses
+- Indenização se houver culpa do empregador
+
+## Exceções
+
+- Desvio de rota sem justificativa
+- Intermediação de interesses pessoais
+- Culpa exclusiva da vítima
+
+## Documentos
+
+- Boletim de ocorrência
+- Laudos médicos
+- Comprovante de endereço do trabalho
+- Rotina habitual de deslocamento
+
+## Importante
+
+- **Comunique a empresa** imediatamente
+- **Emita a CAT** (empresa ou trabalhador)
+- **Guarde todos os documentos**
+- **Consulte advogado** se houver negativa`,
+  },
+  {
+    slug: 'trabalho-intermitente-direitos',
+    title: 'Trabalho Intermitente: Direitos e Obrigações',
+    excerpt: 'Conheça os direitos do trabalhador contratado de forma intermitente pela Reforma Trabalhista.',
+    date: '2025-01-15',
+    category: 'trabalhista',
+    readTime: '5 min',
+    content: `## O que é trabalho intermitente?
+
+Contrato de trabalho não contínuo — o trabalhador é convocado conforme a necessidade.
+
+## Características
+
+- Prestação de serviços não contínua
+- Períodos alternados de trabalho e descanso
+- Pagamento por período trabalhado
+- Contrato por escrito
+
+## Direitos
+
+- Salário mínimo hora
+- Horas extras (acima de 8h/dia)
+- FGTS
+- Férias proporcionais + 1/3
+- 13º proporcional
+- ADCT e demais normas trabalhistas
+
+## Obrigações
+
+- Aceitar ou recusar convocação
+- Registrar período trabalhado
+- Emitir nota fiscal (se MEI)
+
+## Diferenças do contrato normal
+
+| Intermitente | Normal |
+|--------------|--------|
+| Não há obrigatoriedade de aceitar | Obrigação de comparecer |
+| Pagamento por chamada | Salário mensal |
+| Sem garantia de renda | Renda garantida |
+
+## Dicas
+
+1. **Documente todas as convocações**
+2. **Registre seus horários**
+3. **Guarde comprovantes de pagamento**
+4. **Consulte advogado** em caso de irregularidades`,
+  },
+  {
+    slug: 'demissao-justa-causa-impugnacao',
+    title: 'Demissão por Justa Causa: Como Impugnar',
+    excerpt: 'Como contestar demissão por justa causa que considera injusta.',
+    date: '2025-01-15',
+    category: 'trabalhista',
+    readTime: '5 min',
+    content: `## O que é justa causa?
+
+Dispensa por falta grave do empregado (art. 482 CLT).
+
+## Motivos previstos
+
+- Ato de improbidade
+- Incontinência de conduta
+- Negociação habitual sem permissão
+- Condenação criminal
+- Desídia no trabalho
+- Embriaguez habitual ou em serviço
+- Violação de segredo da empresa
+- Ato de indisciplina
+- Abandono de emprego
+- Ato lesivo contra o empregador
+
+## Requisitos da justa causa
+
+1. **Gravidade** da falta
+2. **Imediaticidade** (puniçãologo após o fato)
+3. **Proporcionalidade** entre falta e punição
+4. **Nexo causal** entre falta e rescisão
+5. **Non bis in idem** (não punir duas vezes)
+
+## Como impugnar
+
+1. **Reclamação trabalhista** — prazo de 2 anos
+2. **Provar irregularidade** da justa causa
+3. **Buscar reintegração** ou indenização
+
+## Indenização se declarada injusta
+
+- Verbas rescisórias como se fosse sem justa causa
+- Multa de 40% do FGTS
+- Saque do FGTS
+- Aviso prévio
+- Férias + 1/3
+- 13º proporcional`,
+  },
+  {
+    slug: 'contrato-experiencia-regras',
+    title: 'Contrato de Experiência: Regras e Limites',
+    excerpt: 'Conheça as regras do contrato de experiência e seus limites legais.',
+    date: '2025-01-15',
+    category: 'trabalhista',
+    readTime: '5 min',
+    content: `## O que é contrato de experiência?
+
+Contrato temporal para avaliar aptidão do trabalhador e condições de trabalho.
+
+## Prazo máximo
+
+- **90 dias** (duração máxima)
+- Pode ser prorrogado **uma única vez**
+
+## Características
+
+- Deve ser escrito
+- Com数据 inicial e final
+- Indicar função e remuneração
+
+## Rescisão antecipada
+
+### Pedido de demissão
+- Aviso prévio (indenizado)
+- Multa de 20% do FGTS (se houver)
+- Saque do FGTS (sem multa de 40%)
+
+### Dispensa sem justa causa
+- Aviso prévio proporcional
+- Multa de 40% do FGTS
+- Saque do FGTS
+
+### Dispensa por justa causa
+- Apenas saldo de salário e férias vencidas
+
+## Conversão em prazo indeterminado
+
+Após os 90 dias, o contrato converte automaticamente para prazo indeterminado.
+
+## Dicas
+
+1. **Leia atentamente** o contrato antes de assinar
+2. **Guarde uma cópia**
+3. **Documente** seu desempenho
+4. **Consulte advogado** se houver irregularidades`,
+  },
+  {
+    slug: 'ferias-direitos-e-regras',
+    title: 'Férias: Todos os Direitos e Regras do Trabalhador',
+    excerpt: 'Guia completo sobre férias — período aquisitivo, conversão, pagamento e abono.',
+    date: '2025-01-15',
+    category: 'trabalhista',
+    readTime: '5 min',
+    content: `## Direito às férias
+
+Todo trabalhador com carteira assinada tem direito a 30 dias de férias após 12 meses de trabalho.
+
+## Período aquisitivo
+
+- 12 meses de trabalho = direito a férias
+- Chamado "período aquisitivo"
+
+## Período concessivo
+
+- Deve gozar as férias nos 12 meses seguintes ao aquisitivo
+- Se não gozar, perde o direito (prescreve)
+
+## Formas de gozo
+
+### Integral
+- 30 dias corridos
+
+### Fracionada
+- 3 períodos: 10 + 10 + 10 dias (no mínimo)
+- Um período deve ter ≥ 14 dias
+
+### Antecipação
+- Pode gozar antes de completar 12 meses
+
+## Pagamento
+
+- Até **2 dias antes** do início das férias
+- Valor: remuneração + 1/3 constitucional
+
+## Abono pecuniário
+
+- Venda de 10 dias de férias
+- Requerimento com 15 dias de antecedência
+- Recebe 1/3 a mais no 13º
+
+## Férias duplas
+
+- Se não gozou no prazo, perde o direito
+- Empregador pode ser condenado a pagar em dobro`,
+  },
+  {
+    slug: 'adicional-noturno-insalubridade-periculosidade',
+    title: 'Adicionais Trabalhistas: Noturno, Insalubridade e Periculosidade',
+    excerpt: 'Conheça seus direitos a adicionais quando trabalha em condições especiais.',
+    date: '2025-01-15',
+    category: 'trabalhista',
+    readTime: '5 min',
+    content: `## Adicional noturno
+
+### Quando é devido?
+- Trabalho entre **22h e 5h**
+- Para trabalhadores urbanos
+
+### Valor
+- Mínimo de **20%** sobre a hora diurna
+- Hora ficta: 52min e 30seg
+
+## Adicional de insalubridade
+
+### O que é?
+- Trabalho em condições nocivas à saúde
+- Base: salário mínimo
+
+### Graus
+- **10%** — grau mínimo
+- **20%** — grau médio
+- **40%** — grau máximo
+
+### Exemplos
+- Ruído
+- Calor
+- Frio
+- Agentes químicos
+- Poeiras
+
+## Adicional de periculosidade
+
+### O que é?
+- Risco iminente à vida ou integridade física
+- Base: salário base
+
+### Valor
+- **30%** sobre o salário
+
+### Exemplos
+- Inflamáveis
+- Explosivos
+- Energia elétrica
+- Segurança pessoal
+
+## Acumulação
+
+- Insalubridade e periculosidade **NÃO** se acumulam
+- Noturno acumula com ambos
+- Adicional de transferência: 25%`,
+  },
+  {
+    slug: 'acordo-extrajudicial-homologacao',
+    title: 'Acordo Extrajudicial Trabalhista: Como Funciona',
+    excerpt: 'Guia completo sobre acordo extrajudicial homologado pelo juiz do trabalho.',
+    date: '2025-01-15',
+    category: 'trabalhista',
+    readTime: '5 min',
+    content: `## O que é acordo extrajudicial?
+
+Instrumento para resolver conflitos trabalhistas sem processo judicial.
+
+## Requisitos
+
+- Advogados distintos para cada parte
+- Acordo por escrito
+- Homologação judicial
+
+## Vantagens
+
+- Segurança jurídica
+- Celeridade
+- Quitação ampla do contrato
+- Custo reduzido (20% das custas)
+
+## Procedimento
+
+1. Negociação entre advogados
+2. Elaboração do termo de acordo
+3. Protocolo na Justiça do Trabalho
+4. Audiência de homologação
+5. Decisão do juiz (15 dias)
+
+## Conteúdo do acordo
+
+- Qualificação das partes
+- Valor total do acordo
+- Natureza das parcelas
+- Declaração de quitação
+
+## Limites
+
+- Não pode violar direitos indisponíveis
+- Salário mínimo e verbas alimentares são protegidos
+- Juiz pode recusar homologação em caso de vício
+
+## Custos
+
+- 20% das custas processuais
+- Honorários advocatícios (a combinar)
+- Sem necessidade de perícia`,
+  },
+  {
+    slug: 'rescisao-antecipada-contrato-prazo-determinado',
+    title: 'Rescisão Antecipada de Contrato a Prazo Determinado',
+    excerpt: 'O que acontece quando o contrato a prazo determinado é encerrado antes do prazo.',
+    date: '2025-01-15',
+    category: 'trabalhista',
+    readTime: '5 min',
+    content: `## Rescisão antecipada
+
+Quando o empregador encerra o contrato antes do término.
+
+## Hipóteses
+
+- Dispensa sem justa causa
+- Pedido de demissão
+- Acordo entre as partes
+
+## Verbas devidas
+
+### Dispensa sem justa causa
+- Saldo de salário
+- Férias proporcionais + 1/3
+- 13º proporcional
+- Multa de 50% do salário remanescente (até 90 dias)
+- Multa de 20% do FGTS (se houver depósitos)
+
+### Pedido de demissão
+- Saldo de salário
+- Férias proporcionais + 1/3
+- 13º proporcional
+
+### Acordo
+- Saldo de salário
+- Férias proporcionais + 1/3
+- 13º proporcional
+- 50% do salário remanescente
+
+## Prescrição
+
+- 2 anos após o término do contrato
+- Cobrar últimos 5 anos
+
+## Dicas
+
+1. **Documente** todas as verbas recebidas
+2. **Verifique** se a multa foi paga
+3. **Consulte advogado** se houver irregularidades`,
+  },
+  {
+    slug: 'trabalhador-autonomo-sem-vinculo',
+    title: 'Trabalhador Autônomo: Quando Não Há Vínculo Empregatício',
+    excerpt: 'Como diferenciar trabalho autônomo de relação de emprego.',
+    date: '2025-01-15',
+    category: 'trabalhista',
+    readTime: '5 min',
+    content: `## Autonomia vs Vínculo
+
+### Trabalhador autônomo
+- Sem subordinação
+- Próprios equipamentos
+- Define horários
+- Risco próprio
+
+### Empregado (vínculo)
+- Subordinação
+- Equipamentos da empresa
+- Horário definido
+- Sem risco próprio
+
+## Requisitos do vínculo
+
+1. Pessoa física
+2. Pessoalidade
+3. Não eventualidade
+4. Onerosidade
+5. Subordinação
+
+## Casos problemáticos
+
+### Pejotização fraudulenta
+- Autônomo com exclusividade
+- Mesmo horário e local
+- Subordinação oculta
+
+### Cooperativa fraudulenta
+- Sem autogestão
+- Subordinação real
+
+## Como provar vínculo
+
+- Testemunhas
+- Documentos (e-mails, mensagens)
+- Comprovantes de pagamento
+- Registro de ponto
+
+## Consequências do reconhecimento
+
+- Pagamento de todas as verbas
+- FGTS com multa de 40%
+- Férias + 1/3
+- 13º salário
+- Aviso prévio`,
+  },
+  {
+    slug: 'estabilidade-acidentada-12-meses',
+    title: 'Estabilidade no Emprego: 12 Meses Após Acidente de Trabalho',
+    excerpt: 'Conheça seus direitos quando retorna ao trabalho após afastamento por acidente.',
+    date: '2025-01-15',
+    category: 'trabalhista',
+    readTime: '5 min',
+    content: `## O que é estabilidade acidentária?
+
+Garantia de emprego por 12 meses após o retorno do afastamento por acidente de trabalho.
+
+## Base legal
+
+Art. 118, Lei 8.213/91
+
+## Quem tem direito?
+
+- Trabalhadores que se afastaram por B91
+- Acidente de qualquer natureza
+- Doença profissional
+- Doença do trabalho
+
+## O que a empresa não pode fazer?
+
+- Demitir sem justa causa
+- Ameaçar demissão
+- Coagir pedido de demissão
+- Alterar condições para forçar saída
+
+## Se a empresa demitir?
+
+- Reintegração ao emprego
+- Pagamento de salários do período
+- FGTS com multa de 40%
+- Indenização por danos morais
+
+## Como comprovar?
+
+- CAT emitida
+- Afastamento pelo INSS (B91)
+- Retorno ao trabalho
+- Comprovante de alta médica
+
+## Dicas
+
+1. **Documente** o retorno ao trabalho
+2. **Não assine** nada sem advogado
+3. **Guarde** todos os comprovantes
+4. **Consulte advogado** se houver ameaças`,
+  },
+  {
+    slug: 'jornada-trabalho-limites-lei',
+    title: 'Jornada de Trabalho: Limites Legais e Controle',
+    excerpt: 'Conheça os limites da jornada de trabalho e as formas de controle.',
+    date: '2025-01-15',
+    category: 'trabalhista',
+    readTime: '5 min',
+    content: `## Limites legais
+
+- **8 horas** diárias
+- **44 horas** semanais
+- **10 horas** extraordinárias por dia
+- **2 horas** extras por dia (em regra)
+
+## Intervalos
+
+- Jornada > 6h: intervalo de **1h a 2h**
+- Jornada > 4h: intervalo de **15min** (se houver refeição)
+
+## Controle de jornada
+
+### Obrigatório
+- Empresas com mais de 20 empregados
+
+### Formas
+- Ponto eletrônico
+- Ponto manual
+- Ponto por exceção
+
+## Horas extras
+
+- Mínimo: **50%** (dias úteis)
+- Máximo: **100%** (domingos/feriados)
+- Compensação: banco de horas
+
+## Dicas
+
+1. **Registre** sua jornada
+2. **Guarde** comprovantes
+3. **Consulte advogado** se houver irregularidades`,
+  },
+  {
+    slug: 'rescisao-contrato-estagiario',
+    title: 'Rescisão de Contrato de Estágio: Regras Especiais',
+    excerpt: 'Como funciona a rescisão de contrato de estágio e seus direitos.',
+    date: '2025-01-15',
+    category: 'trabalhista',
+    readTime: '5 min',
+    content: `## Características do estágio
+
+- Contrato de estágio (não é CLT)
+- Prazo máximo: 2 anos
+- Jornada: 6h/dia (4h para deficientes)
+
+## Rescisão
+
+### Pedido de demissão
+- Sem aviso prévio
+- Sem multa do FGTS
+
+### Dispensa
+- Sem justa causa
+- Sem aviso prévio
+- Sem multa do FGTS
+
+### Justa causa
+- Apenas justificativa
+- Sem verbas rescisórias
+
+## Direitos
+
+- Salário (bolsa-estágio)
+- Vale-transporte
+- Seguro de vida
+- 13º salário (se houver)
+
+## Não tem direito
+
+- FGTS
+- Aviso prévio
+- Férias proporcionais
+- 13º proporcional
+
+## Documentos
+
+- Contrato de estágio
+- Comprovantes de pagamento
+- Termo de rescisão
+- Certificado de estágio`,
+  },
+  {
+    slug: 'equiparacao-salarial-como-calcula',
+    title: 'Equiparação Salarial: Como é Calculada a Diferença',
+    excerpt: 'Fórmula de cálculo da equiparação salarial e seus efeitos.',
+    date: '2025-01-15',
+    category: 'trabalhista',
+    readTime: '5 min',
+    content: `## Fórmula
+
+Diferença = Salário do paradigma - Salário do equiparando
+
+## Exemplo
+
+- Paradigma: R$ 3.000
+- Equiparando: R$ 2.000
+- Diferença: R$ 1.000
+
+## Efeitos
+
+- Pagamento retroativo (5 anos)
+- Correção monetária
+- Juros legais
+- Honorários de sucumbência
+
+## Documentos
+
+- Holerites do paradigma
+- Descrição de funções
+- Organograma da empresa
+- Testemunhas
+
+## Prazo
+
+- 2 anos após a extinção do contrato
+- Cobrar últimos 5 anos
+
+## Consulte advogado
+
+A equiparação salarial requer prova de identidade de função. Um advogado pode avaliar a viabilidade e calcular o valor da diferença.`,
+  },
+  {
+    slug: 'adicionais-trabalhistas-quem-tem-direito',
+    title: 'Adicionais Trabalhistas: Quem Tem Direito e Como Calcular',
+    excerpt: 'Guia completo sobre adicionais de insalubridade, periculosidade e noturno.',
+    date: '2025-01-15',
+    category: 'trabalhista',
+    readTime: '5 min',
+    content: `## Adicionais principais
+
+### Noturno (20%+)
+- Trabalho entre 22h e 5h
+- Hora ficta: 52min30s
+
+### Insalubridade (10-40%)
+- Condições nocivas à saúde
+- Base: salário mínimo
+
+### Periculosidade (30%)
+- Risco à vida ou integridade
+- Base: salário base
+
+## Acumulação
+
+- Insalubridade + Periculosidade: **NÃO** acumula
+- Noturno + Insalubridade: **SIM**
+- Noturno + Periculosidade: **SIM**
+
+## Como solicitar?
+
+1. **Identifique** o adicional aplicável
+2. **Reúna** documentação
+3. **Procure advogado** trabalhista
+4. **Ajuize** reclamação trabalhista
+
+## Prazo prescricional
+
+- 5 anos (durante o contrato)
+- 2 anos (após a extinção)
+
+## Documentos
+
+- PPP (perfil profissiográfico)
+- LTCAT (laudo técnico)
+- Laudos médicos
+- Comprovantes de jornada noturna`,
+  },
+  {
+    slug: 'terceirizacao-licita-ilegal-diferencas',
+    title: 'Terceirização Lícita e Ilícita: Diferenças e Consequências',
+    excerpt: 'Como distinguir terceirização lícita de ilegal e seus efeitos jurídicos.',
+    date: '2025-01-15',
+    category: 'trabalhista',
+    readTime: '5 min',
+    content: `## Terceirização lícita
+
+- Empresa prestadora assumes riscos
+- Não há subordinação direta
+- Capacidade econômica compatível
+
+## Terceirização ilícita
+
+- Pessoalidade
+- Subordinação direta
+- Falta de capacidade econômica
+
+## Consequências da ilicitude
+
+- Reconhecimento de vínculo com tomadora
+- Pagamento de todas as verbas
+- FGTS com multa de 40%
+
+## Como provar?
+
+- Testemunhas
+- Documentos de subordinação
+- E-mails e mensagens
+- Registro de ponto
+
+## Consulte advogado
+
+A terceirização ilícita gera direitos trabalhistas. Um advogado pode avaliar se há irregularidade e conduzir o processo.`,
+  },
+  {
+    slug: 'estabilidade-provisoria-acidente-trabalho',
+    title: 'Estabilidade Provisória: 12 Meses após Acidente de Trabalho',
+    excerpt: 'Conheça seus direitos quando retorna ao trabalho após afastamento por acidente.',
+    date: '2025-01-15',
+    category: 'trabalhista',
+    readTime: '5 min',
+    content: `## O que é estabilidade?
+
+Garantia de emprego por 12 meses após retorno do afastamento por acidente.
+
+## Base legal
+
+Art. 118, Lei 8.213/91
+
+## Quem tem direito?
+
+- Trabalhadores afastados por B91
+- Acidente de qualquer natureza
+- Doença profissional/doença do trabalho
+
+## O que a empresa não pode fazer?
+
+- Demitir sem justa causa
+- Ameaçar demissão
+- Coagir pedido de demissão
+
+## Se a empresa demitir?
+
+- Reintegração
+- Salários do período
+- FGTS com multa de 40%
+- Indenização por danos morais
+
+## Como comprovar?
+
+- CAT emitida
+- Afastamento pelo INSS (B91)
+- Retorno ao trabalho
+- Comprovante de alta médica`,
+  },
+  {
+    slug: 'rescisao-pedido-demissao-direitos',
+    title: 'Pedido de Demissão: Quais Direitos Você Tem',
+    excerpt: 'Conheça seus direitos quando pede demissão.',
+    date: '2025-01-15',
+    category: 'trabalhista',
+    readTime: '5 min',
+    content: `## Direitos
+
+- Saldo de salário
+- Férias vencidas + 1/3
+- Férias proporcionais + 1/3
+- 13º proporcional
+- Saque do FGTS (sem multa 40%)
+
+## Não tem direito
+
+- Aviso prévio indenizado
+- Multa de 40% do FGTS
+- Seguro-desemprego
+
+## Aviso prévio
+
+- Deve trabalhar 30 dias
+- ou indenizar o empregador
+
+## Cuidados
+
+1. **Verifique** se há férias a vender
+2. **Calcule** todas as verbas
+3. **Guarde** comprovantes
+4. **Consulte advogado** se necessário`,
+  },
 ]

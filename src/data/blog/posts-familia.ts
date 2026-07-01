@@ -1259,4 +1259,822 @@ Questões de Direito de Família exigem não apenas conhecimento jurídico, mas 
 📞 (48) 98842-0867
 🌐 willepereira-adv.vercel.app`,
   },
+  {
+    slug: 'divorcio-consensual-litigioso-diferencas',
+    title: 'Divórcio Consensual e Litigioso: Diferenças e Procedimentos',
+    excerpt: 'Quando optar por divórcio consensual e quando litigioso é necessário.',
+    date: '2025-01-15',
+    category: 'familia',
+    readTime: '5 min',
+    content: `## Divórcio consensual
+
+### Requisitos
+- Acordo entre as partes
+- Ausência de filhos menores/incapazes
+- Consentimento mútuo
+
+### Procedimento
+1. **Em cartório** (se não há bens)
+2. **Em cartório** (se há bens, com advogado)
+3. Prazo: dias a semanas
+
+### Vantagens
+- Mais rápido
+- Mais barito
+- Sem audiência judicial
+
+## Divórcio litigioso
+
+### Quando necessário
+- Não há acordo
+- Filhos menores/incapazes
+- Disputa por bens
+
+### Procedimento
+1. Ação judicial
+2. Audiência de conciliação
+3. Instrução e julgamento
+4. Sentença
+
+### Prazo
+- Meses a anos
+- Depende da complexidade
+
+## Guarda de filhos
+
+### Compartilhada
+- Responsabilidade compartilhada
+- Melhor para o filho
+
+### Unilateral
+- Um dos genitores
+- Quando o outro não pode
+
+## Pensão alimentícia
+
+- Cálculo baseado na renda
+- Mínimo para suprir necessidades
+- Pode ser revisada
+
+## Partilha de bens
+
+- Regime de bens do casamento
+- Meação e herança
+- Acordo ou decisão judicial`,
+  },
+  {
+    slug: 'pensao-alimenticia-calculo-revisao',
+    title: 'Pensão Alimentícia: Como Calcular e Revisar',
+    excerpt: 'Guia completo sobre pensão alimentícia — cálculo, pagamento e revisão.',
+    date: '2025-01-15',
+    category: 'familia',
+    readTime: '5 min',
+    content: `## O que é pensão alimentícia?
+
+Obrigação de prover o sustento de filho, cônjuge ou ascendente.
+
+## Quem tem direito?
+
+- Filhos menores de 18 anos
+- Filhos maiores de 18 anos (se estudando)
+- Ex-cônjuge (em alguns casos)
+- Pais idosos (ascendentes)
+
+## Cálculo
+
+### Filhos
+- 30% a 50% da renda líquida
+- Proporção entre filhos
+- Necessidades do alimentado
+
+### Ex-cônjuge
+- 20% a 30% da renda
+- Dependência econômica
+- Duração limitada
+
+## Revisão
+
+### Quando pode revisar?
+- Alteração da renda
+- Necessidade do alimentado
+- Perda de emprego
+- Doença grave
+
+### Procedimento
+1. Ação revisional
+2. Audiência
+3. Nova perícia (se necessário)
+4. Sentença
+
+## Inadimplemento
+
+- Multa de 2% por atraso
+- Desconto em folha
+- Execução forçada
+- Prisão civil (último recurso)
+
+## Dicas
+
+1. **Documente** sua renda
+2. **Guarde** comprovantes de pagamento
+3. **Procure advogado** para revisão`,
+  },
+  {
+    slug: 'uniao-estavel-como-comprovar',
+    title: 'União Estável: Como Comprovar e seus Efeitos Jurídicos',
+    excerpt: 'Diferenças entre união estável e casamento, e como comprovar a união.',
+    date: '2025-01-15',
+    category: 'familia',
+    readTime: '5 min',
+    content: `## O que é união estável?
+
+Relação familiar entre homem e mulher, com convivência pública, contínua e duradoura.
+
+## Requisitos
+
+- Convivência pública
+- Continuidade
+- Duradoura (intenção de constituir família)
+- Estabilidade
+
+## Como comprovar?
+
+- Declaração de união estável
+- Certidão de união estável
+- Testemunhas
+- Documentos conjuntos
+- Conta bancária conjunta
+- Declaração de imposto de renda
+
+## Efeitos jurídicos
+
+### Patrimoniais
+- Meação dos bens adquiridos
+- Regime de comunhão parcial
+
+### Sucessórios
+- Direito à herança
+- Concorrência com descendentes
+
+### Previdenciários
+- Pensão por morte
+- Auxílio-doença
+
+## Diferenças do casamento
+
+| União Estável | Casamento |
+|---------------|----------|
+| Não exige cerimônia | Exige cerimônia |
+| Pode ser provada | Registro em cartório |
+| Regime padrão: parcial | Regime escolhido |
+
+## Dissolução
+
+- Acordo entre as partes
+- Ação judicial
+- Partilha de bens
+- Pensão alimentícia (se houver dependente)`,
+  },
+  {
+    slug: 'alienacao-parental-como-provar',
+    title: 'Alienação Parental: Como Identificar e Provar',
+    excerpt: 'O que é alienação parental e como proteger seu filho da manipulação do outro genitor.',
+    date: '2025-01-15',
+    category: 'familia',
+    readTime: '5 min',
+    content: `## O que é alienação parental?
+
+Conduta que dificulta ou impede o contato do filho com o outro genitor.
+
+## Formas
+
+- Criticar o outro genitor na frente do filho
+- Impedir visitas
+- Mudar de endereço sem avisar
+- Incentivar o filho a rejeitar o outro genitor
+- Falsas acusações de abuso
+
+## Lei 12.318/2010
+
+- Prevê medidas protetivas
+- Inversão de guarda
+- Multa
+- Perda do poder familiar (em casos graves)
+
+## Como provar?
+
+- Testemunhas
+- Mensagens e e-mails
+- Laudos psicológicos
+- Relatórios escolares
+- Declarações do filho
+
+## Medidas judiciais
+
+1. **Inversão de guarda**
+2. **Multa por descumprimento**
+3. **Suspensão do poder familiar**
+4. **Acompanhamento psicológico**
+
+## Cuidados
+
+1. **Documente** todas as ocorrências
+2. **Não reaja** com agressividade
+3. **Procure advogado** imediatamente
+4. **Priorize** o bem-estar do filho`,
+  },
+  {
+    slug: 'guarda-compartilhada-vantagens',
+    title: 'Guarda Compartilhada: Vantagens e Como Funciona',
+    excerpt: 'Por que a guarda compartilhada é preferida pela legislação e jurisprudência.',
+    date: '2025-01-15',
+    category: 'familia',
+    readTime: '5 min',
+    content: `## O que é guarda compartilhada?
+
+Responsabilidade compartilhada entre os genitores sobre a criação e educação dos filhos.
+
+## Base legal
+
+Art. 1.584, §1º, do Código Civil
+
+## Vantagens
+
+- Melhor para o desenvolvimento do filho
+- Relação com ambos os genitores
+- Menos conflitos
+- Decisões compartilhadas
+
+## Como funciona?
+
+### Rotina
+- Filho mora alternadamente
+- ou com um genitor (guarda principal)
+- Visitas regulares do outro
+
+### Decisões
+- Saúde: compartilhada
+- Educação: compartilhada
+- Religião: compartilhada
+
+## Guarda unilateral
+
+### Quando se aplica?
+- Um genitor não pode cuidar
+- Violência doméstica
+- Abuso de substâncias
+- Abandono
+
+## Alteração de guarda
+
+### Requisitos
+- Mudança de circunstâncias
+- Interesse do filho
+- Ação judicial
+
+## Dicas
+
+1. **Mantenha** boa relação com o ex-cônjuge
+2. **Documente** sua participação na criação
+3. **Consulte advogado** para orientação`,
+  },
+  {
+    slug: 'pensao-alimenticia-adulto-estudante',
+    title: 'Pensão Alimentícia para Filho Maior de 18 Anos Estudante',
+    excerpt: 'Quando o filho maior de 18 anos tem direito a continuar recebendo pensão.',
+    date: '2025-01-15',
+    category: 'familia',
+    readTime: '5 min',
+    content: `## Direito do filho maior
+
+Filho maior de 18 anos tem direito a pensão enquanto:
+- Estiver em curso regular de ensino
+- Não tiver condição de se sustentar
+
+## Requisitos
+
+- Idade: 18 a 24 anos (em regra)
+- Matrícula comprovada
+- Dependência econômica
+- Boa-fé (estudando de fato)
+
+## Valor
+
+- Proporcional à renda do alimentante
+- Necessidades do estudante
+- Pode ser revisado
+
+## Quando cessa?
+
+- Formatura
+- Desistência do curso
+- Casamento
+- Estabilidade financeira
+- Falecimento
+
+## Procedimento
+
+1. **Tente acordo** com o genitor
+2. **Documente** a matrícula e despesas
+3. **Se não houver acordo**, entre com ação
+4. **Juiz decidirá** o valor
+
+## Dicas
+
+1. **Mantenha** matrícula atualizada
+2. **Guarde** comprovantes de despesas
+3. **Documente** necessidades
+4. **Consulte advogado** para orientação`,
+  },
+  {
+    slug: 'investigacao-paternidade-dna',
+    title: 'Investigação de Paternidade: Como Funciona o Teste de DNA',
+    excerpt: 'Guia completo sobre investigação de paternidade e teste de DNA.',
+    date: '2025-01-15',
+    category: 'familia',
+    readTime: '5 min',
+    content: `## O que é investigação de paternidade?
+
+Ação judicial para reconhecer a paternidade biológica.
+
+## Quem pode propor?
+
+- Filho (a qualquer tempo)
+- Mãe (em nome do filho menor)
+- Município (se não houver representante)
+
+## Teste de DNA
+
+### Como funciona?
+
+- Coleta de sangue ou swab bucal
+- Análise laboratorial
+- Precisão: 99,9%
+
+### Obrigatório?
+
+- Juiz pode determinar
+- Recusa gera presunção de paternidade
+
+## Prazo prescricional
+
+- **Não prescreve** para o filho
+- Ação petitória: a qualquer tempo
+
+## Efeitos
+
+- Reconhecimento legal
+- Direito à herança
+- Pensão alimentícia
+- Alteração de certidão
+
+## Documentos
+
+- Certidão de nascimento
+- Comprovantes de relationship
+- Testemunhas
+- Qualquer prova de vinculação
+
+## Custo
+
+- Ação judicial: custas processuais
+- Teste de DNA: pago pelo genitor
+- Honorários advocatícios
+
+## Consulte advogado
+
+A investigação de paternidade é direito indisponível. Um advogado pode orientar sobre o procedimento.`,
+  },
+  {
+    slug: 'violencia-domestica-mulher-medidas-protecao',
+    title: 'Violência Doméstica: Medidas Protetivas para a Mulher',
+    excerpt: 'Como obter medidas protetivas de urgência em caso de violência doméstica.',
+    date: '2025-01-15',
+    category: 'familia',
+    readTime: '5 min',
+    content: `## Lei Maria da Penha
+
+Lei 11.340/2006 — proteção integral à mulher em situação de violência doméstica.
+
+## Tipos de violência
+
+- **Física**: agressão, empurrões, tapas
+- **Psicológica**: ameaças, humilhações, isolamento
+- **Sexual**: estupro, abuso
+- **Patrimonial**: destruição de bens, retenção de documentos
+- **Moral**: calúnia, difamação, injúria
+
+## Medidas protetivas
+
+### Urgência (48 horas)
+- Afastamento do agressor
+- Proibição de contato
+- Proibição de se aproximar
+- Afastamento do lar
+
+### Cautelares
+- Busca e apreensão
+- Alimentação provisória
+- Separação de bens
+
+## Como solicitar?
+
+1. **Delegacia da Mulher** ou Delegacia Comum
+2. **Ministério Público**
+3. **Juizado Especial**
+4. **WhatsApp** (180)
+
+## Documentos
+
+- Certidão de nascimento
+- Comprovante de residência
+- Boletim de ocorrência
+- Fotos das agressões
+- Mensagens ameaçadoras
+
+## Assistência
+
+- Casa da Mulher Brasileira
+- Ligue 180
+- CVV (188)
+- Defensoria Pública`,
+  },
+  {
+    slug: 'inventario-partilha-bens-como-funciona',
+    title: 'Inventário e Partilha de Bens: Passo a Passo',
+    excerpt: 'Guia completo sobre inventário — do início ao fim do processo.',
+    date: '2025-01-15',
+    category: 'familia',
+    readTime: '5 min',
+    content: `## O que é inventário?
+
+Processo de identificar, avaliar e partilhar os bens do falecido.
+
+## Tipos
+
+### Extrajudicial (cartório)
+- Todos capazes
+- Sem testamento
+- Acordo entre herdeiros
+
+### Judicial
+- Herdeiros menores/incapazes
+- Testamento
+- Conflito entre herdeiros
+
+## Herdeiros necessários
+
+- Descendentes (filhos)
+- Ascendentes (pais)
+- Cônjuge/companheiro
+- Colaterais (irmãos) — só na ausência dos anteriores
+
+## Bens do casamento
+
+- Regime de bens determina
+- Comunhão parcial: bens adquiridos na constância
+- Separação total: cada um com seus bens
+
+## ITCD
+
+- Imposto sobre transmissão
+- Varia por estado (2% a 8%
+- Deve ser pago antes da partilha
+
+## Documentos
+
+- Certidão de óbito
+- Certidão de nascimento/casamento
+- Comprovantes de residência
+- Documentos dos bens
+- Testamento (se houver)
+- Última declaração de IR
+
+## Prazos
+
+- Extrajudicial: semanas
+- Judicial: meses a anos
+- Pagamento de ITCD: antes da partilha`,
+  },
+  {
+    slug: 'pensao-vitalicia-ex-conjuge',
+    title: 'Pensão Alimentícia Vitalícia para Ex-Cônjuge',
+    excerpt: 'Quando a pensão alimentícia para ex-cônjuge pode ser vitalícia.',
+    date: '2025-01-15',
+    category: 'familia',
+    readTime: '5 min',
+    content: `## Quando é vitalícia?
+
+- Casamento com mais de 20 anos
+- Cônjuge com mais de 60 anos (ou incapaz)
+- Boa-fé na relação
+- Ausência de meios para se sustentar
+
+## Requisitos
+
+1. Casamento diluído por mais de 20 anos
+2. Idade avançada ou incapacidade
+3. Dependência econômica comprovada
+4. Impossibilidade de trabalhar
+
+## Valor
+
+- 30% a 50% da renda do alimentante
+- Necessidades do alimentado
+- Proporcionalidade
+
+## Quando cessa?
+
+- Caso contrário, a qualquer tempo
+- Recurso da ex-cônjuge
+- Coabitação com novo parceiro
+- Estabilidade financeira
+
+## Procedimento
+
+1. **Tentativa de acordo**
+2. **Ação de alimentos**
+3. **Perícia** (se necessário)
+4. **Sentença**
+
+## Cuidados
+
+1. **Documente** a dependência econômica
+2. **Prove** a impossibilidade de trabalhar
+3. **Consulte advogado** especializado`,
+  },
+  {
+    slug: 'alimentos-provisorios-como-solicitar',
+    title: 'Pensão Alimentícia Provisória: Como Solicitar com Urgência',
+    excerpt: 'Como obter pensão alimentícia provisória antes da sentença definitiva.',
+    date: '2025-01-15',
+    category: 'familia',
+    readTime: '5 min',
+    content: `## O que é alimentos provisórios?
+
+Pensão paga provisoriamente enquanto o processo de alimentos está em andamento.
+
+## Como solicitar?
+
+1. **Ajuize** ação de alimentos
+2. **Requerimentos** provisórios na inicial
+3. **Audiência** de conciliação
+4. **Decisão** judicial
+
+## Critérios
+
+- Necessidade do alimentado
+- Possibilidade do alimentante
+- Proporcionalidade
+
+## Valor
+
+- Geralmente: **30% a 50%** da renda
+- Pode ser revisado
+
+## Prazo
+
+- Decisão: **15 a 30 dias**
+- Pagamento: imediato após decisão
+
+## Documentos
+
+- Comprovantes de renda (alimentante)
+- Comprovantes de despesas (alimentado)
+- Certidão de nascimento
+- Comprovante de residência
+
+## Inadimplemento
+
+- Multa de 2% por atraso
+- Desconto em folha
+- Execução forçada
+- Prisão civil (último recurso)`,
+  },
+  {
+    slug: 'pensao-alimenticia-ancestral-idoso',
+    title: 'Pensão Alimentícia para Pais Idosos',
+    excerpt: 'Quando filhos devem pagar pensão alimentícia para pais idosos.',
+    date: '2025-01-15',
+    category: 'familia',
+    readTime: '5 min',
+    content: `## Quando se aplica?
+
+- Pais idosos (60+ anos)
+- Doentes ou incapacitados
+- Sem condições de se sustentar
+
+## Requisitos
+
+- Dependência econômica
+- Impossibilidade de trabalhar
+- Necessidade comprovada
+
+## Quem paga?
+
+- Filhos (em ordem de proximidade)
+- Concorrentes entre si
+
+## Cálculo
+
+- Renda do alimentante
+- Necessidade do alimentado
+- Proporcionalidade
+
+## Exceções
+
+- Filho com renda insuficiente
+- Pais que abandonaram o filho
+- Violência doméstica
+
+## Procedimento
+
+1. **Tentativa** de acordo familiar
+2. **Ação judicial** (se necessário)
+3. **Audiência** de conciliação
+4. **Sentença**
+
+## Consulte advogado
+
+A pensão para pais idosos requer análise da dependência econômica. Um advogado pode orientar sobre os direitos e deveres.`,
+  },
+  {
+    slug: 'guarda-unilateral-quando-se-aplica',
+    title: 'Guarda Unilateral: Quando é Aplicada e Quais os Direitos',
+    excerpt: 'Circunstâncias que levam à guarda unilateral e direitos do genitor não-guardião.',
+    date: '2025-01-15',
+    category: 'familia',
+    readTime: '5 min',
+    content: `## Quando se aplica?
+
+- Violência doméstica
+- Abuso de substâncias
+- Abandono
+- Incapacidade
+- Comportamento inadequado
+
+## Direitos do genitor não-guardião
+
+- Visitas regulares
+- Convivência com o filho
+- Participação em decisões
+- Pensão alimentícia
+
+## Obrigação do genitor guardião
+
+- Permitir visitas
+- Informar sobre o filho
+- Tomar decisões importantes
+- Manter contato
+
+## Alteração de guarda
+
+- Mudança de circunstâncias
+- Interesse do filho
+- Ação judicial
+
+## Documentos
+
+- Provas da inadequação
+- Laudos psicológicos
+- Testemunhas
+- Comprovantes de violência
+
+## Consulte advogado
+
+A guarda unilateral é exceção. Um advogado pode avaliar se há justificativa para a medida e orientar sobre os direitos do genitor.`,
+  },
+  {
+    slug: 'pensao-alimenticia-desconto-folha',
+    title: 'Pensão Alimentícia com Desconto em Folha',
+    excerpt: 'Como funciona o desconto de pensão alimentícia em folha de pagamento.',
+    date: '2025-01-15',
+    category: 'familia',
+    readTime: '5 min',
+    content: `## Como funciona?
+
+- Desconto direto na folha de pagamento
+- Valor fixado pelo juiz
+- Empregador repassa ao alimentado
+
+## Quem pode?
+
+- Empregados com carteira assinada
+- Servidores públicos
+
+## Procedimento
+
+1. Sentença judicial
+2. Cópia para o empregador
+3. Desconto mensal
+4. Repasse ao alimentado
+
+## Vantagens
+
+- Pagamento garantido
+- Sem necessidade de cobrar
+- Regularidade
+
+## Inadimplemento
+
+- Multa de 2% por atraso
+- Desconto obrigatório
+- Execução forçada
+
+## Documentos
+
+- Sentença judicial
+- Cópia para o empregador
+- Comprovantes de pagamento`,
+  },
+  {
+    slug: 'inventario-extrajudicial-como-funciona',
+    title: 'Inventário Extrajudicial: Como Funciona em Cartório',
+    excerpt: 'Guia para inventário rápido e econômico em cartório.',
+    date: '2025-01-15',
+    category: 'familia',
+    readTime: '5 min',
+    content: `## Requisitos
+
+- Todos os herdeiros capazes
+- Concordância na partilha
+- Ausência de testamento
+- Assessoria de advogado
+
+## Vantagens
+
+- Mais rápido (semanas)
+- Mais barato
+- Sem audiência judicial
+
+## Procedimento
+
+1. Escolha do cartório
+2. Documentação completa
+3. Escritura pública
+4. Registro no cartório de imóveis
+
+## Documentos
+
+- Certidão de óbito
+- Certidão de nascimento/casamento
+- Comprovantes de residência
+- Documentos dos bens
+- Testamento (se houver)
+- Última declaração de IR
+
+## ITCD
+
+- Imposto sobre transmissão causa mortis
+- Varia por estado (2% a 8%)
+- Deve ser pago antes da partilha
+
+## Prazos
+
+- Semanas a meses
+- Depende da complexidade
+
+## Consulte advogado
+
+O inventário extrajudicial exige orientação jurídica. Um advogado pode orientar sobre os requisitos e procedimentos.`,
+  },
+  {
+    slug: 'pensao-alimenticia-revisao-rendimento',
+    title: 'Revisão de Pensão Alimentícia por Mudança de Rendimento',
+    excerpt: 'Como solicitar revisão quando a renda do alimentante muda.',
+    date: '2025-01-15',
+    category: 'familia',
+    readTime: '5 min',
+    content: `## Quando revisar?
+
+- Aumento da renda do alimentante
+- Diminuição da renda do alimentante
+- Mudança das necessidades do alimentado
+
+## Procedimento
+
+1. **Documente** a mudança
+2. **Tente acordo** com o alimentante
+3. **Se não houver**, ação revisional
+4. **Juiz** decidirá o novo valor
+
+## Critérios
+
+- Renda atual do alimentante
+- Necessidades atuais do alimentado
+- Proporcionalidade
+
+## Documentos
+
+- Comprovantes de renda atual
+- Comprovantes de despesas
+- Holerites
+- Contratos de trabalho
+
+## Prazo
+
+- Ação: imediata
+- Decisão: 30 a 60 dias
+- Vigência: 12 meses após a ação`,
+  },
 ]

@@ -1303,4 +1303,1114 @@ Conhecer seus direitos é o primeiro passo para exercê-los. A Will & Pereira Ad
 
 Não deixe seus direitos de lado. Conte com quem entende do assunto.`,
   },
+  {
+    slug: 'como-escolher-advogado-dicas',
+    title: 'Como Escolher um Advogado: Dicas Práticas',
+    excerpt: 'Guia completo para escolher o advogado certo para seu caso.',
+    date: '2025-01-15',
+    category: 'geral',
+    readTime: '5 min',
+    content: `## Critérios de escolha
+
+### 1. Especialização
+- Área de atuação
+- Experiência no tipo de caso
+- Conhecimento da jurisprudência
+
+### 2. Reputação
+- Indicações de clientes
+- Reputação no meio jurídico
+- Participação em entidades
+
+### 3. Comunicação
+- Clareza nas explicações
+- Acessibilidade
+- Retorno rápido
+
+### 4. Honorários
+- Transparência
+- Compatibilidade com o caso
+- Formas de pagamento
+
+### 5. Localização
+- Proximidade
+- Possibilidade de videoconferência
+
+## Pergunte ao advogado
+
+- Qual sua experiência neste tipo de caso?
+- Quais são as chances de êxito?
+- Qual o prazo estimado?
+- Como será o acompanhamento?
+- Quais são os honorários?
+
+## Cuidados
+
+- **Não aceite** promessas de resultado
+- **Exija** contrato por escrito
+- **Verifique** registro na OAB
+- **Consulte** mais de um advogado
+
+## Onde encontrar?
+
+- Indicações de amigos e familiares
+- OAB (seção local)
+- Internet (sites e redes sociais)
+- Procon (lista de advogados)`,
+  },
+  {
+    slug: 'custas-processuais-como-funciona',
+    title: 'Custas Processuais: Como Funciona o Custo da Justiça',
+    excerpt: 'Entenda como funcionam as custas processuais e quando há isenção.',
+    date: '2025-01-15',
+    category: 'geral',
+    readTime: '5 min',
+    content: `## O que são custas?
+
+Despesas com o processo judicial.
+
+## Tipos
+
+### Custas judiciais
+- Taxa judiciária
+- Diligências
+- Perícias
+
+### Custas advocatícias
+- Honorários do advogado
+- Sucumbência (se perder)
+
+## Cálculo
+
+- Geralmente: 1% a 2% do valor da causa
+- Varia por estado
+- Mínimo e máximo previstos em lei
+
+## Isenção
+
+### Justiça gratuita
+- Pessoas com renda inferior a 40% do salário mínimo
+- Beneficiários do BPC/LOAS
+- Segurados do INSS com renda baixa
+
+### Entidades isentas
+- Ministério Público
+- União
+- Estados e Municípios
+
+## Pagamento
+
+- Parcelado em até 12x
+- Desconto para pagamento à vista
+- Posse de bens penhorados
+
+## Cuidados
+
+1. **Solicite** justiça gratuita se tiver direito
+2. **Guarde** comprovantes de pagamento
+3. **Consulte advogado** sobre custos`,
+  },
+  {
+    slug: 'juizado-especial-como-funciona',
+    title: 'Juizado Especial: Justiça mais Rápida e Acessível',
+    excerpt: 'Conheça o juizado especial — para quem serve e como funciona.',
+    date: '2025-01-15',
+    category: 'geral',
+    readTime: '5 min',
+    content: `## O que é juizado especial?
+
+Justiça mais rápida, informal e gratuita para causas de pequeno valor.
+
+## Limites
+
+### Cível
+- Até **40 salários mínimos**
+- Rito sumaríssimo
+
+### Criminal
+- Até 2 anos de pena
+
+### Federal
+- Até 60 salários mínimos
+
+## Vantagens
+
+- Gratuito (até 20 salários)
+- Sem advogado obrigatório (até 20 salários)
+- Processo rápido
+- Audiência de conciliação
+
+## Procedimento
+
+1. **Requerimento** (escrito ou oral)
+2. **Audiência de conciliação**
+3. **Audiência de instrução** (se não conciliar)
+4. **Sentença**
+
+## Quem pode usar?
+
+- Pessoas físicas
+- Microempresas
+- Entidades sem fins lucrativos
+
+## Limitações
+
+- Não admite ação rescisória
+- Sentença tem coisa julgada
+- Recurso apenas para turma recursal
+
+## Dicas
+
+1. **Documente** tudo
+2. **Tente conciliação**
+3. **Consulte advogado** se possível
+4. **Aguarde** a sentença`,
+  },
+  {
+    slug: 'advocacia-popular-acesso-justica',
+    title: 'Advocacia Popular: Como Acessar a Justiça sem Custos',
+    excerpt: 'Conheça os mecanismos de acesso gratuito à justiça para quem não pode pagar.',
+    date: '2025-01-15',
+    category: 'geral',
+    readTime: '5 min',
+    content: `## Mecanismos de acesso
+
+### Defensoria Pública
+- Assistência gratuita
+- Para quem não pode pagar advogado
+
+### Justiça gratuita
+- Isenção de custas processuais
+- Para renda inferior a 40% do salário mínimo
+
+### Juizado Especial
+- Gratuito até 20 salários mínimos
+- Sem advogado obrigatório
+
+### Advocacia pro bono
+- Advogados que prestam serviço gratuito
+- OAB e entidades sociais
+
+## Quem tem direito?
+
+- Beneficiários do BPC/LOAS
+- Segurados do INSS com renda baixa
+- Desempregados
+- Pessoas com baixa renda
+- Idosos e deficientes
+
+## Como solicitar?
+
+1. **Dirija-se** à Defensoria Pública
+2. **Apresente** comprovantes de renda
+3. **Descreva** seu problema jurídico
+4. **Aguarde** atendimento
+
+## Documentos
+
+- RG e CPF
+- Comprovante de residência
+- Comprovantes de renda
+- Documentos do caso
+
+## Dicas
+
+1. **Não desista** por falta de dinheiro
+2. **Procure** a Defensoria Pública
+3. **Consulte** a OAB sobre assistência
+4. **Verifique** se há Núcleos de Prática Jurídica`,
+  },
+  {
+    slug: 'direito-digital-lei-geral-protecao-dados',
+    title: 'Direito Digital: Lei Geral de Proteção de Dados (LGPD)',
+    excerpt: 'Conheça seus direitos com a LGPD e como proteger seus dados pessoais.',
+    date: '2025-01-15',
+    category: 'geral',
+    readTime: '5 min',
+    content: `## O que é a LGPD?
+
+Lei 13.709/2018 — protege dados pessoais de cidadãos brasileiros.
+
+## Direitos do titular
+
+1. **Confirmação** da existência de tratamento
+2. **Acesso** aos dados
+3. **Correção** de dados incompletos
+4. **Anonimização** ou exclusão
+5. **Portabilidade** dos dados
+6. **Eliminação** dos dados tratados com consentimento
+7. **Informação** sobre compartilhamento
+8. **Revogação** do consentimento
+
+## Bases legais
+
+- Consentimento
+- Obrigação legal
+- Execução de contrato
+- Legítimo interesse
+- Tutela da saúde
+- Proteção do crédito
+
+## O que fazer se seus dados foram violados?
+
+1. **Notifique** a empresa
+2. **Solicite** informações sobre o incidente
+3. **Registre** reclamação na ANPD
+4. **Procure advogado** para indenização
+
+## Penalidades
+
+- Advertência
+- Multa de até 2% do faturamento
+- Publicização do incidente
+- Bloqueio dos dados
+
+## Dicas
+
+1. **Leia** políticas de privacidade
+2. **Não compartilhe** dados desnecessariamente
+3. **Verifique** permissões de apps
+4. **Consulte advogado** em caso de violação`,
+  },
+  {
+    slug: 'advogado-oab-como-verificar',
+    title: 'Advogado: Como Verificar Registro na OAB',
+    excerpt: 'Como confirmar se o advogado está regularmente inscrito na OAB.',
+    date: '2025-01-15',
+    category: 'geral',
+    readTime: '5 min',
+    content: `## Por que verificar?
+
+- Garantir que é advogado de fato
+- Evitar falsos advogados
+- Verificar regularidade
+
+## Como verificar?
+
+1. **Site da OAB** — oab.org.br
+2. **Consulta** pelo nome ou OAB
+3. **Verificar** se está ativo
+
+## Informações disponíveis
+
+- Nome completo
+- Número da inscrição
+- Seção (estado)
+- Situação (ativa/suspensa)
+
+## Cuidados
+
+- **Não aceite** advogado sem registro
+- **Verifique** antes de contratar
+- **Guarde** o número da OAB
+- **Denuncie** falsos advogados
+
+## OAB
+
+- Ordem dos Advogados do Brasil
+- Entidade que regula a profissão
+- Fiscaliza o exercício da advocacia
+
+## Dicas
+
+1. **Sempre** verifique o registro
+2. **Peça** o cartão de visita
+3. **Consulte** a OAB local
+4. **Não pague** sem contrato`,
+  },
+  {
+    slug: 'direitos-consumidor-compra-online',
+    title: 'Direitos do Consumidor em Compras Online',
+    excerpt: 'Conheça seus direitos quando compra pela internet.',
+    date: '2025-01-15',
+    category: 'geral',
+    readTime: '5 min',
+    content: `## Direitos do consumidor online
+
+### Arrependimento
+- **7 dias** para devolver
+- Sem necessidade de justificativa
+- Devolução do valor integral
+
+### Informação
+- Descrição clara do produto
+- Preço total (com frete)
+- Prazo de entrega
+
+### Garantia
+- 30 dias (não duráveis)
+- 90 dias (duráveis)
+
+## O que fazer?
+
+1. **Guarde** comprovantes
+2. **Documente** a compra
+3. **Registre** reclamação
+4. **Procure advogado** se necessário
+
+## Plataformas
+
+- Mercado Livre
+- Amazon
+- Shopee
+- Lojas virtuais
+
+## Cuidados
+
+1. **Verifique** a reputação do vendedor
+2. **Leia** avaliações
+3. **Guarde** e-mails e protocolos
+4. **Não pague** por fora da plataforma`,
+  },
+  {
+    slug: 'saude-mental-direitos-trabalhador',
+    title: 'Saúde Mental: Direitos do Trabalhador com Transtornos',
+    excerpt: 'Conheça seus direitos quando sofre com transtornos mentais no trabalho.',
+    date: '2025-01-15',
+    category: 'geral',
+    readTime: '5 min',
+    content: `## Direitos do trabalhador
+
+### Afastingamento
+- Auxílio-doença (B31)
+- Afastamento médico
+
+### Estabilidade
+- 12 meses após retorno (se acidente)
+
+### Indenização
+- Se houver culpa do empregador
+
+## Transtornos comuns
+
+- Ansiedade
+- Depressão
+- Burnout
+- Estresse pós-traumático
+
+## Como comprovar?
+
+- Laudos médicos
+- Relatórios psicológicos
+- Atestados
+- Documentação de tratamento
+
+## Direitos específicos
+
+- Acomodação razoável
+- Redução de jornada
+- Transferência de função
+- Licença médica
+
+## Dicas
+
+1. **Documente** seu tratamento
+2. **Comunique** à empresa
+3. **Procure** laudos atualizados
+4. **Consulte advogado** se necessário`,
+  },
+  {
+    slug: 'doacao-bens-escritura-publica',
+    title: 'Doação de Bens: Escritura Pública e Impostos',
+    excerpt: 'Como funciona a doação de bens — procedimento, impostos e cuidados.',
+    date: '2025-01-15',
+    category: 'geral',
+    readTime: '5 min',
+    content: `## O que é doação?
+
+Transmissão gratuita de bem a título de liberalidade.
+
+## Requisitos
+
+- Capacidade do doador
+- Bem determinado
+- Aceitação do donatário
+- Escritura pública (imóveis)
+
+## Impostos
+
+### ITCMD
+- Imposto sobre transmissão causa mortis e doação
+- Varia por estado (2% a 8%)
+- Pago pelo donatário
+
+### IR
+- Doação de imóvel: isento
+- Doação de valores: isento até R$ 80.000
+
+## Cláusulas
+
+### Reserva de usufruto
+- Doador mantém o direito de usar
+- Pode ser vitalício
+
+### Inalienabilidade
+- Impede venda do bem
+
+### Impenhorabilidade
+- Impede penhora por dívidas
+
+### Incomunicabilidade
+- Bem não entra em comunhão
+
+## Documentos
+
+- RG e CPF do doador e donatário
+- Certidão de nascimento/casamento
+- Comprovante de residência
+- Documentos do bem
+- Certidões negativas
+
+## Consulte advogado
+
+A doação requer planejamento tributário e jurídico. Um advogado pode orientar sobre a melhor estratégia.`,
+  },
+  {
+    slug: 'como-funciona-audiencia-judicial',
+    title: 'Audiência Judicial: Como Funciona e O que Esperar',
+    excerpt: 'Guia completo sobre audiências judiciais — o que esperar e como se preparar.',
+    date: '2025-01-15',
+    category: 'geral',
+    readTime: '5 min',
+    content: `## Tipos de audiência
+
+### Conciliação
+- Tentativa de acordo
+- Obrigatória em muitas ações
+
+### Instrução
+- Produção de provas
+- Oitiva de testemunhas
+
+### Julgamento
+- Decisão do juiz
+- Sentença oral ou escrita
+
+## Como se preparar
+
+1. **Chegue** com antecedência
+2. **Leve** todos os documentos
+3. **Vista** adequadamente
+4. **Seja** respeitoso
+5. **Responda** apenas o que for perguntado
+
+## Dicas
+
+1. **Chegue** 30 min antes
+2. **Leve** cópias de tudo
+3. **Não interrompa** o juiz
+4. **Responda** com calma
+5. **Não minta** — é crime
+
+## O que esperar
+
+- Entrada do juiz
+- Identificação das partes
+- Leitura da petição
+- Proposta de acordo
+- Produção de provas
+- Encerramento
+
+## Consulte advogado
+
+Antes de qualquer audiência, converse com seu advogado sobre o que esperar e como se comportar.`,
+  },
+  {
+    slug: 'como-ganhar-dinheiro-com-direito',
+    title: 'Como um Advogado Pode Ajudar a Economizar Dinheiro',
+    excerpt: 'Formas pelas quais um advogado pode ajudar a economizar em diversas situações.',
+    date: '2025-01-15',
+    category: 'geral',
+    readTime: '5 min',
+    content: `## Economia com advogado
+
+### Preventivo
+- Análise de contratos
+- Planejamento tributário
+- Regularização de imóveis
+
+### Contencioso
+- Evitar multas e penalidades
+- Recuperar valores pagos a mais
+- Indenizações
+
+## Situações comuns
+
+### Trabalhista
+- Horas extras não pagas
+- FGTS em atraso
+- Verbas rescisórias
+
+### Previdenciário
+- Aposentadoria maior
+- Benefício negado revertido
+- Revisão de valor
+
+### Consumerista
+- Cobrança indevida
+- Produto com defeito
+- Plano de saúde
+
+### Cível
+- Dívida prescrita
+- Contrato abusivo
+- Indenização
+
+## Cálculo de economia
+
+- Valor recuperado
+- Multas evitadas
+- Custos processuais
+- Honorários de sucumbência
+
+## Dicas
+
+1. **Consulte** antes de pagar multas
+2. **Verifique** cobranças indevidas
+3. **Analise** contratos antes de assinar
+4. **Consulte advogado** regularmente`,
+  },
+  {
+    slug: 'seguro-vida-indenizacao-acidente',
+    title: 'Seguro de Vida: Como Receber Indenização por Acidente',
+    excerpt: 'Guia para solicitar indenização de seguro de vida em caso de acidente.',
+    date: '2025-01-15',
+    category: 'geral',
+    readTime: '5 min',
+    content: `## O que é seguro de vida?
+
+Contrato que garante pagamento de indenização em caso de morte ou incapacidade.
+
+## Tipos
+
+- Capital em caso de morte
+- Capital em caso de invalidez
+- Despesas médicas
+- Doenças graves
+
+## Como solicitar indenização?
+
+1. **Notifique** a seguradora
+2. **Apresente** documentação
+3. **Aguarde** análise
+4. **Receba** o pagamento
+
+## Documentos
+
+- Apólice do seguro
+- Certidão de óbito (morte)
+- Laudos médicos (invalidez)
+- Boletim de ocorrência (acidente)
+- Comprovantes de residência
+
+## Prazos
+
+- Notificação: imediata
+- Pagamento: 30 dias após documentação completa
+
+## Recusa
+
+- Se a seguradora negar
+- Ação judicial contra a seguradora
+- Prazo: 10 anos
+
+## Dicas
+
+1. **Guarde** a apólice em local seguro
+2. **Mantenha** dados atualizados
+3. **Notifique** imediatamente
+4. **Consulte advogado** se houver recusa`,
+  },
+  {
+    slug: 'como-preparar-para-audiencia-trabalhista',
+    title: 'Como se Preparar para Audiência Trabalhista',
+    excerpt: 'Dicas práticas para audiência na Justiça do Trabalho.',
+    date: '2025-01-15',
+    category: 'geral',
+    readTime: '5 min',
+    content: `## O que esperar
+
+- Audiência de conciliação
+- Audiência de instrução
+- Julgamento
+
+## Preparação
+
+1. **Reúna** documentos
+2. **Organize** provas
+3. **Converse** com advogado
+4. **Planeje** depoimento
+
+## Na audiência
+
+- Chegue com antecedência
+- Vista-se adequadamente
+- Seja respeitoso
+- Responda com calma
+- Não interrompa
+
+## Depoimento
+
+- Seja honesto
+- Responda apenas o que foi perguntado
+- Não discuta com a parte contrária
+- Mantenha a calma
+
+## Documentos
+
+- RG e CPF
+- Carteira de trabalho
+- Holerites
+- Comprovantes
+- Testemunhas
+
+## Dicas
+
+1. **Chegue** 30 min antes
+2. **Leve** cópias de tudo
+3. **Não minta** — é crime
+4. **Responda** com precisão
+5. **Consulte advogado** antes`,
+  },
+  {
+    slug: 'direitos-idoso-legislacao',
+    title: 'Direitos do Idoso: Legislação e Proteção',
+    excerpt: 'Conheça os direitos garantidos pela Lei do Idoso (Lei 10.741/2003).',
+    date: '2025-01-15',
+    category: 'geral',
+    readTime: '5 min',
+    content: `## Direitos do idoso
+
+### Assistência social
+- BPC/LOAS
+- Programas governamentais
+
+### Saúde
+- Atendimento prioritário
+- Medicamentos gratuitos
+
+### Transporte
+- Tarifa zero (ônibus)
+- Prioridade em filas
+
+### Cultura
+- Ingressos com desconto
+- Atividades culturais
+
+## Proteção contra violência
+
+- Abandono
+- Violência física e psicológica
+- Exploração
+- Negligência
+
+## Como denunciar?
+
+- Disque 180
+- Delegacia de polícia
+- Ministério Público
+- Defensoria Pública
+
+## Penalties
+
+- Reclusão de 2 a 5 anos
+- Multa
+- Suspensão de direitos políticos
+
+## Dicas
+
+1. **Conheça** seus direitos
+2. **Documente** abusos
+3. **Denuncie** violências
+4. **Procure** ajuda jurídica`,
+  },
+  {
+    slug: 'como-evitar-golpes-juridicos',
+    title: 'Como Evitar Golpes Jurídicos',
+    excerpt: 'Dicas para não cair em golpes e fraudes no meio jurídico.',
+    date: '2025-01-15',
+    category: 'geral',
+    readTime: '5 min',
+    content: `## Golpes comuns
+
+- Falsos advogados
+- Sites fraudulentos
+- Promessas de resultado
+- Cobranças indevidas
+
+## Como identificar?
+
+- Verifique o registro na OAB
+- Não aceite promessas de resultado
+- Consulte a OAB local
+- Pesquise na internet
+
+## Cuidados
+
+1. **Verifique** sempre o advogado
+2. **Não pague** sem contrato
+3. **Guarde** comprovantes
+4. **Denuncie** golpes
+
+## Onde denunciar?
+
+- OAB local
+- Ministério Público
+- Delegacia de polícia
+- PROCON
+
+## Dicas
+
+1. **Desconfie** de promessas
+2. **Verifique** tudo
+3. **Consulte** mais de um profissional
+4. **Guarde** documentação`,
+  },
+  {
+    slug: 'como-funciona-justica-gratuita',
+    title: 'Justiça Gratuita: Como Solicitar e Quem Tem Direito',
+    excerpt: 'Guia completo sobre justiça gratuita — requisitos e procedimento.',
+    date: '2025-01-15',
+    category: 'geral',
+    readTime: '5 min',
+    content: `## O que é justiça gratuita?
+
+Isenção de custas processuais para quem não pode pagar.
+
+## Quem tem direito?
+
+- Renda inferior a 40% do salário mínimo
+- Beneficiários do BPC/LOAS
+- Segurados do INSS com renda baixa
+- Desempregados
+
+## Como solicitar
+
+1. **Requerimento** na inicial
+2. **Declaração** de pobreza
+3. **Comprovantes** de renda
+4. **Decisão** do juiz
+
+## Documentos
+
+- Comprovantes de renda
+- Declaração de imposto de renda
+- Extrato do FGTS
+- Comprovante de desemprego
+
+## Abrangência
+
+- Custas judiciais
+- Diligências
+- Perícias
+- Honorários de advogado (em alguns casos)
+
+## Revogação
+
+- Se a parte perder o processo
+- Se a parte melhorar de vida
+- A qualquer tempo
+
+## Dicas
+
+1. **Solicite** desde o início
+2. **Documente** sua renda
+3. **Mantenha** informações atualizadas
+4. **Consulte advogado** para orientação`,
+  },
+  {
+    slug: 'como-consultar-advogado-pela-primeira-vez',
+    title: 'Primeira Consulta com Advogado: O que Esperar',
+    excerpt: 'Guia para sua primeira consulta jurídica — o que levar e como se preparar.',
+    date: '2025-01-15',
+    category: 'geral',
+    readTime: '5 min',
+    content: `## O que levar?
+
+- RG e CPF
+- Documentos do caso
+- Comprovantes
+- Cronologia dos fatos
+
+## O que perguntar?
+
+- Viabilidade do caso
+- Estratégia jurídica
+- Prazos estimados
+- Honorários
+- Possibilidade de acordo
+
+## Como se preparar?
+
+1. **Organize** seus pensamentos
+2. **Escreva** os fatos cronologicamente
+3. **Leve** todos os documentos
+4. **Anote** suas dúvidas
+5. **Seja** honesto e completo
+
+## Duração
+
+- Geralmente: 30 a 60 minutos
+- Pode ser mais longo dependendo do caso
+
+## Honorários
+
+- Consulta pode ser paga
+- Alguns escritórios oferecem primeira consulta gratuita
+- Pergunte sobre valores antes da consulta
+
+## Dicas
+
+1. **Chegue** com antecedência
+2. **Seja** honesto com o advogado
+3. **Anote** as orientações
+4. **Não esconda** informações importantes
+5. **Pergunte** tudo que tiver dúvida`,
+  },
+  {
+    slug: 'direito-terceira-idade-idoso-direitos',
+    title: 'Direitos da Terceira Idade: Um Guia Completo',
+    excerpt: 'Conheça todos os direitos garantidos aos idosos pela legislação brasileira.',
+    date: '2025-01-15',
+    category: 'geral',
+    readTime: '5 min',
+    content: `## Direitos garantidos
+
+### Assistência social
+- BPC/LOAS
+- Programas governamentais
+
+### Saúde
+- Atendimento prioritário
+- Medicamentos gratuitos
+
+### Transporte
+- Tarifa zero (ônibus)
+- Prioridade em filas
+
+### Cultura
+- Ingressos com desconto
+- Atividades culturais
+
+### Trabalho
+- Proibição de discriminação por idade
+- Estabilidade no emprego
+
+## Proteção contra violência
+
+- Abandono
+- Violência física e psicológica
+- Exploração
+- Negligência
+
+## Como denunciar?
+
+- Disque 180
+- Delegacia de polícia
+- Ministério Público
+- Defensoria Pública
+
+## Penalties
+
+- Reclusão de 2 a 5 anos
+- Multa
+- Suspensão de direitos políticos
+
+## Dicas
+
+1. **Conheça** seus direitos
+2. **Documente** abusos
+3. **Denuncie** violências
+4. **Procure** ajuda jurídica`,
+  },
+  {
+    slug: 'como-funciona-processo-judicial-brasileiro',
+    title: 'Processo Judicial Brasileiro: Como Funciona',
+    excerpt: 'Visão geral do processo judicial no Brasil — etapas, prazos e recursos.',
+    date: '2025-01-15',
+    category: 'geral',
+    readTime: '5 min',
+    content: `## Etapas do processo
+
+1. **Petição inicial** — Ação judicial
+2. **Citação** — Notificação do réu
+3. **Defesa** — Contestação
+4. **Réplica** — Resposta do autor
+5. **Provas** — Perícias, testemunhas
+6. **Audiência** — Instrução e julgamento
+7. **Sentença** — Decisão do juiz
+8. **Recursos** — Apelação, agravo
+9. **Trânsito em julgado** — Decisão final
+10. **Execução** — Cumprimento da sentença
+
+## Prazos
+
+- Contestação: 15 dias
+- Réplica: 15 dias
+- Provas: 30 dias
+- Recursos: 15 dias
+
+## Custas
+
+- Taxa judiciária
+- Diligências
+- Perícias
+- Honorários de sucumbência
+
+## Justiça gratuita
+
+- Para quem não pode pagar
+- Renda inferior a 40% do salário mínimo
+
+## Dicas
+
+1. **Contrate advogado**
+2. **Organize** documentos
+3. **Documente** fatos
+4. **Seja** paciente
+5. **Não desista** facilmente`,
+  },
+  {
+    slug: 'como-funciona-sentenca-judicial',
+    title: 'Sentença Judicial: O que é e Como Funciona',
+    excerpt: 'Entenda o que é uma sentença judicial e seus efeitos.',
+    date: '2025-01-15',
+    category: 'geral',
+    readTime: '5 min',
+    content: `## O que é sentença?
+
+Decisão do juiz que resolve o mérito da causa.
+
+## Tipos
+
+### Procedente
+- Pedido do autor é acolhido
+- Réu é condenado
+
+### Improcedente
+- Pedido do autor é rejeitado
+- Réu é absolvido
+
+### Parcialmente procedente
+- Pedido é parcialmente acolhido
+
+## Efeitos
+
+- Coisa julgada (após trânsito em julgado)
+- Obrigação de cumprir
+- Possibilidade de execução
+
+## Recursos
+
+- Apelação: 15 dias
+- Agravo de instrumento: 8 dias
+- Recurso especial: 15 dias
+- Recurso extraordinário: 15 dias
+
+## Trânsito em julgado
+
+- Quando não cabe mais recurso
+- Torna a sentença definitiva
+- Permite execução
+
+## Dicas
+
+1. **Leia** atentamente
+2. **Consulte advogado** sobre recursos
+3. **Não desista** se injusta
+4. **Documente** tudo`,
+  },
+  {
+    slug: 'direitos-pessoas-deficiencia-lei-brasil',
+    title: 'Direitos das Pessoas com Deficiência: Lei Brasileira',
+    excerpt: 'Conheça os direitos garantidos pela Lei Brasileira de Inclusão (LBI).',
+    date: '2025-01-15',
+    category: 'geral',
+    readTime: '5 min',
+    content: `## Direitos garantidos
+
+### Educação
+- Escola inclusiva
+- Adaptações razoáveis
+
+### Trabalho
+- Cota de 2-5% em empresas públicas
+- Proibição de discriminação
+
+### Saúde
+- Atendimento prioritário
+- Órteses e próteses
+
+### Transporte
+- Tarifa zero (ônibus)
+- Vaga prioritária
+
+### Cultura
+- Acessibilidade cultural
+- Atividades inclusivas
+
+## Adaptações razoáveis
+
+- Rampas de acesso
+- Elevadores
+- Sinalização em braile
+- Tradução em Libras
+
+## Como solicitar?
+
+1. **Documente** a deficiência
+2. **Solicite** adaptações
+3. **Registre** reclamação se negado
+4. **Procure** Defensoria Pública
+
+## Penalties por discriminação
+
+- Multa
+- Reclusão
+- Indenização por danos morais`,
+  },
+  {
+    slug: 'como-evitar-golpes-financeiros',
+    title: 'Como Evitar Golpes Financeiros e Fraudes',
+    excerpt: 'Dicas para proteger seu dinheiro de golpes e fraudes comuns.',
+    date: '2025-01-15',
+    category: 'geral',
+    readTime: '5 min',
+    content: `## Golpes comuns
+
+- Empréstimos consignados fraudulentos
+- Investimentos falsos
+- Clonagem de cartão
+- Phishing
+- Falsos profissionais
+
+## Como se proteger?
+
+1. **Verifique** fontes confiáveis
+2. **Não clique** em links suspeitos
+3. **Não informe** dados bancários por telefone
+4. **Desconfie** de promessas de lucro fácil
+
+## Se caiu em golpe
+
+1. **Registre** boletim de ocorrência
+2. **Notifique** o banco
+3. **Cancele** cartões
+4. **Procure advogado**
+5. **Denuncie** aos órgãos competentes
+
+## Onde denunciar?
+
+- Polícia Civil
+- Banco Central
+- Procon
+- Ministério Público
+
+## Dicas
+
+1. **Não compartilhe** dados bancários
+2. **Use** senhas fortes
+3. **Ative** verificação em duas etapas
+4. **Monitore** suas contas regularmente`,
+  },
 ]

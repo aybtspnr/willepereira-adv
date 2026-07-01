@@ -3209,4 +3209,699 @@ Conhecer seus direitos como consumidor é essencial para não ser lesado nas rel
 📞 (48) 98842-0867
 🌐 willepereira-adv.vercel.app`,
   },
+  {
+    slug: 'plano-saude-negativa-cobertura-como-recorrer',
+    title: 'Plano de Saúde Negou Cobertura? Como Recorrer',
+    excerpt: 'Guia completo para recorrer de negativa de cobertura de plano de saúde.',
+    date: '2025-01-15',
+    category: 'consumidor',
+    readTime: '5 min',
+    content: `## O que fazer quando o plano nega?
+
+1. **Solicite por escrito** o motivo da negativa
+2. **Verifique** se o procedimento está no rol da ANS
+3. **Consulte** a legislação e jurisprudência
+4. **Procure advogado** especializado
+
+## Motivos comuns de negativa
+
+- Carência não cumprida
+- Doença preexistente
+- Procedimento não previsto no contrato
+- Limite de dias de internação
+- Falta de previsão no rol da ANS
+
+## Quando a negativa é abusiva?
+
+- Procedimento está no contrato
+- Negativa sem justificativa médica
+- Atraso injustificado na autorização
+- Rol da ANS é exemplificativo (não taxativo)
+
+## Jurisprudência
+
+- STJ: rol da ANS é taxativo, mas admite exceções
+- Tema 1032: cobertura extraordinária quando tratamento é única alternativa
+- Negativa abusiva gera dano moral presumido
+
+## Via judicial
+
+- Ação de obrigação de fazer
+- Liminar para autorizar procedimento
+- Indenização por danos morais
+
+## Documentos
+
+- Autorização/recusa por escrito
+- Laudos médicos
+- Comprovantes de pagamento
+- Cópia do contrato
+- Rol da ANS`,
+  },
+  {
+    slug: 'negativacao-injusta-spc-serasa-como-regularizar',
+    title: 'Negativação Injusta no SPC/Serasa: Como Regularizar',
+    excerpt: 'Passo a passo para remover seu nome dos cadastros de proteção ao crédito.',
+    date: '2025-01-15',
+    category: 'consumidor',
+    readTime: '5 min',
+    content: `## O que fazer?
+
+1. **Verifique** se há erros nos cadastros
+2. **Solicite** certidão negativa
+3. **Reclame** por escrito ao fornecedor
+4. **Procure advogado** se não resolver
+
+## Motos de negativação injusta
+
+- Dívida já quitada
+- Valor incorreto
+- Dívida prescrita (5 anos)
+- Ausência de notificação prévia
+- Erro de homonímia
+- Fraude/roubo de identidade
+
+## Direitos do consumidor
+
+- Notificação prévia por escrito
+- Correção imediata de informações
+- Exclusão após pagamento
+- Indenização por danos morais
+
+## Prazos
+
+- Exclusão: imediata após pagamento
+- Ação judicial: 5 anos
+- Prescrição da dívida: 5 anos
+
+## Documentos
+
+- Comprovantes de pagamento
+- Notificação de negativação
+- Certidão de pagamento
+- Identidade e CPF
+
+## Dano moral
+
+- Negativação injusta gera dano moral presumido
+- Valor varia conforme a gravidade
+- Súmula 385 do STJ`,
+  },
+  {
+    slug: 'produto-defeito-troca-devolucao-indenizacao',
+    title: 'Produto com Defeito: Direito à Troca, Devolução ou Indenização',
+    excerpt: 'Conheça seus direitos quando compra um produto defeituoso.',
+    date: '2025-01-15',
+    category: 'consumidor',
+    readTime: '5 min',
+    content: `## Prazos para reclamar
+
+- **30 dias**: produtos não duráveis
+- **90 dias**: produtos duráveis
+
+## O que o CDC garante?
+
+### Tríplice opção
+1. **Substituição** por outro igual
+2. **Restituição** do valor pago
+3. **Abatimento** proporcional do preço
+
+### Além disso
+- Perdas e danos
+- Dano moral (se aplicável)
+
+## Como proceder
+
+1. **Comunique** o fornecedor por escrito
+2. **Guarde** a nota fiscal e embalagem
+3. **Documente** o defeito (fotos, vídeos)
+4. **Aguarde** 30 dias para solução
+5. **Se não resolver**, procure advogado
+
+## Responsabilidade
+
+- Fabricante
+- Importador
+- Comerciante
+- Responsáveis solidários
+
+## Dicas
+
+1. **Não descarte** o produto
+2. **Guarde** todos os comprovantes
+3. **Registre** reclamação formal
+4. **Consulte advogado** se não resolver`,
+  },
+  {
+    slug: 'revisao-contrato-bancario-juros-abusivos',
+    title: 'Revisão de Contrato Bancário: Juros Abusivos e Anatocismo',
+    excerpt: 'Como questionar juros abusivos e capitalização indevida em contratos bancários.',
+    date: '2025-01-15',
+    category: 'consumidor',
+    readTime: '5 min',
+    content: `## O que pode ser revisado?
+
+- Taxas de juros abusivas
+- Capitalização de juros (anatocismo)
+- Tarifas indevidas
+- Comissão de permanência
+- Multa contratual excessiva
+
+## Súmulas do STJ
+
+- Súmula 379: comissão de permanência
+- Súmula 382: juros remuneratórios
+- Súmula 450: anatocismo
+
+## Quando vale a pena?
+
+- Juros acima da taxa média de mercado
+- Capitalização anual indevida
+- Tarifas não contratadas
+- Multa superior a 2%
+
+## Procedimento
+
+1. **Reúna** contratos e extratos
+2. **Calcule** os valores pagos a mais
+3. **Procure advogado** especializado
+4. **Ajuíze** ação revisional
+
+## Cálculo do benefício
+
+- Diferença entre valores pagos e devidos
+- Correção monetária
+- Juros legais
+- Possibilidade de repetição em dobro
+
+## Prazo prescricional
+
+- 10 anos para revisão
+- 5 anos para repetição de indébito`,
+  },
+  {
+    slug: 'publicidade-enganosa-direitos-consumidor',
+    title: 'Publicidade Enganosa: Seus Direitos como Consumidor',
+    excerpt: 'Como identificar e combater publicidade enganosa ou abusiva.',
+    date: '2025-01-15',
+    category: 'consumidor',
+    readTime: '5 min',
+    content: `## O que é publicidade enganosa?
+
+Toda informação que induz o consumidor a erro sobre:
+- Natureza do produto
+- Características
+- Qualidade
+- Preço
+- Origem
+
+## Tipos
+
+### Por ação
+- Informação falsa
+- Dados imprecisos
+
+### Por omissão
+- Informação omitida
+- Dados essenciais não informados
+
+## Direitos do consumidor
+
+1. **Cumprimento forçado** da oferta
+2. **Outro produto equivalente**
+3. **Rescisão** com devolução
+4. **Indenização** por perdas e danos
+
+## O que fazer?
+
+1. **Documente** a publicidade
+2. **Registre** reclamação no PROCON
+3. **Procure advogado** para ação judicial
+4. **Denuncie** ao Ministério Público
+
+## Prazo
+
+- **5 anos** para ação indenizatória
+- **30 dias** para reclamação administrativa
+
+## Provas
+
+- Capturas de tela
+- Gravações
+- Anúncios impressos
+- Comprovantes de compra`,
+  },
+  {
+    slug: 'venda-casada-proibicao-cdc',
+    title: 'Venda Casada: Proibição pelo CDC e Como Reagir',
+    excerpt: 'O que é venda casada e como o CDC proíbe essa prática abusiva.',
+    date: '2025-01-15',
+    category: 'consumidor',
+    readTime: '5 min',
+    content: `## O que é venda casada?
+
+Condicionar a aquisição de um produto/serviço à compra de outro.
+
+## Exemplos comuns
+
+- Exigir seguro para financiamento
+- Condicionar plano à compra de aparelho
+- Exigir material didático específico
+- Vincular serviços
+
+## Base legal
+
+Art. 39, I, do CDC
+
+## O que o consumidor pode fazer?
+
+1. **Recusar** o produto/serviço condicionado
+2. **Registrar** reclamação formal
+3. **Procurar** outro fornecedor
+4. **Ajuizar** ação judicial
+
+## Indenização
+
+- Danos materiais
+- Danos morais
+- Repetição de indébito
+
+## Órgãos de defesa
+
+- PROCON
+- Ministério Público
+- Juizado Especial
+- Justiça Comum
+
+## Dicas
+
+1. **Documente** a oferta
+2. **Registre** a recusa
+3. **Guarde** comprovantes
+4. **Consulte advogado**`,
+  },
+  {
+    slug: 'superendividamento-lei-14181-como-funciona',
+    title: 'Superendividamento: Como a Lei 14.181/2021 Protege o Consumidor',
+    excerpt: 'Conheça os mecanismos de prevenção e tratamento do superendividamento.',
+    date: '2025-01-15',
+    category: 'consumidor',
+    readTime: '5 min',
+    content: `## O que é superendividamento?
+
+Impossibilidade de pagar todas as dívidas sem comprometer o mínimo existencial.
+
+## Lei 14.181/2021
+
+### Mecanismos
+1. **Prevenção**: informação e educação financeira
+2. **Tratamento**: repactuação de dívidas
+
+### Procedimento de repactuação
+1. Requerimento ao juiz
+2. Audiência com todos os credores
+3. Proposta de plano de pagamento
+4. Prazo máximo: 5 anos
+5. Preservação do mínimo existencial
+
+## Quem pode solicitar?
+
+- Pessoa física
+- Consumidor de boa-fé
+- Renda comprometida
+
+## O que protege?
+
+- Proibição de renúncia a direitos
+- Preservação de renda mínima
+- Vedação a garantias excessivas
+
+## Dúvidas frequentes
+
+- Posso renegociar todas as dívidas? Sim
+- E se um credor não aceitar? O juiz decide
+- Fico com nome sujo? Depende do acordo
+- Preciso de advogado? Recomendado, mas não obrigatório`,
+  },
+  {
+    slug: 'servico-defeituoso-direitos-consumidor',
+    title: 'Serviço com Defeito: Seus Direitos e Como Reagir',
+    excerpt: 'O fazer quando um serviço é prestado de forma inadequada ou com defeito.',
+    date: '2025-01-15',
+    category: 'consumidor',
+    readTime: '5 min',
+    content: `## O que é vício de serviço?
+
+Serviço executado de forma inadequada, imperfeita ou diversa da contratada.
+
+## Exemplos
+
+- Serviço não executado conforme contratado
+- Execução com defeitos
+- Prazo descumprido
+- Resultado diverso do esperado
+
+## Prazos
+
+- **30 dias** para sanar o vício
+- **90 dias** para serviços duráveis
+
+## Direitos do consumidor
+
+1. **Execução** do serviço conforme contratado
+2. **Reembolso** dos valores pagos
+3. **Abatimento** proporcional
+4. **Indenização** por danos
+
+## Inversão do ônus da prova
+
+Art. 6º, VIII, do CDC — presunção de vulnerabilidade
+
+## Como proceder
+
+1. **Comunique** o fornecedor por escrito
+2. **Documente** os defeitos
+3. **Aguarde** 30 dias para solução
+4. **Se não resolver**, procure advogado
+
+## Dicas
+
+1. **Guarde** contratos e comprovantes
+2. **Documente** tudo com fotos/vídeos
+3. **Registre** reclamação formal
+4. **Consulte advogado** se necessário`,
+  },
+  {
+    slug: 'cartao-credito-cobranca-indevida',
+    title: 'Cartão de Crédito: Cobrança Indevida e Como Contestar',
+    excerpt: 'O que fazer quando o cartão de crédito cobra valores indevidos.',
+    date: '2025-01-15',
+    category: 'consumidor',
+    readTime: '5 min',
+    content: `## Cobranças comuns indevidas
+
+- Anuidade não contratada
+- Seguro não solicitado
+- Taxa de emissão
+- Juros abusivos
+- IOF indevido
+
+## Como contestar?
+
+1. **Registre** reclamação no banco
+2. **Guarde** comprovantes
+3. **Solicite** cancelamento
+4. **Se não resolver**, procure advogado
+
+## Prazos
+
+- Contestação: **90 dias** (fatura)
+- Ação judicial: **5 anos**
+
+## Direitos
+
+- Repetição em dobro (CDC)
+- Indenização por danos morais
+- Correção monetária
+
+## Documentos
+
+- Faturas contestadas
+- Comprovantes de pagamento
+- Contrato do cartão
+- Protocolos de reclamação
+
+## Dicas
+
+1. **Registre** reclamação formal
+2. **Guarde** todos os comprovantes
+3. **Não pague** valores contestados
+4. **Consulte advogado** se necessário`,
+  },
+  {
+    slug: 'transporte-aereo-direitos-passageiro',
+    title: 'Direitos do Passageiro Aéreo: Atrasos, Cancelamentos e Extravios',
+    excerpt: 'Conheça seus direitos quando voa — atrasos, cancelamentos e bagagem extraviada.',
+    date: '2025-01-15',
+    category: 'consumidor',
+    readTime: '5 min',
+    content: `## Direitos em caso de atraso
+
+### Até 1 hora
+- Alimentação
+- Comunicação
+
+### 1 a 4 horas
+- Alimentação
+- Comunicação
+- Acomodação (se necessário)
+
+### Acima de 4 horas
+- Alimentação
+- Comunicação
+- Acomodação
+- Reembolso ou reacomodação
+
+## Cancelamento
+
+- Opção de reembolso
+- Reacomodação em outro voo
+- Pernoite (se necessário)
+
+## Bagagem extraviada
+
+- Comunicação imediata
+- Rastreamento
+- Indenização (até 1.131 SDR)
+
+## Base legal
+
+- Código do Consumidor
+- Resolução 400 da ANAC
+- Convenção de Montreal
+
+## Como proceder?
+
+1. **Registre** reclamação no balcão
+2. **Guarde** passes e comprovantes
+3. **Documente** tudo
+4. **Procure advogado** se necessário`,
+  },
+  {
+    slug: 'guia-consumidor-compra-veiculo',
+    title: 'Compra de Veículo: Direitos do Consumidor',
+    excerpt: 'Conheça seus direitos ao comprar um carro — garantias, vícios e defeitos.',
+    date: '2025-01-15',
+    category: 'consumidor',
+    readTime: '5 min',
+    content: `## Garantia legal
+
+- **90 dias** para defeitos (CDC)
+- **30 dias** para vícios
+
+## Vícios vs Defeitos
+
+### Vício
+- Não funciona adequadamente
+- 30 dias para reclamar
+
+### Defeito
+- Risco à segurança
+- 90 dias para reclamar
+
+## Direitos do consumidor
+
+1. **Substituição** do veículo
+2. **Restituição** do valor pago
+3. **Abatimento** do preço
+4. **Indenização** por danos
+
+## Documentos
+
+- Nota fiscal
+- Contrato de compra
+- Laudo mecânico
+- Comprovantes de defeitos
+
+## Cuidados
+
+1. **Faça** vistoria antes da compra
+2. **Guarde** todos os documentos
+3. **Documente** os defeitos
+4. **Consulte advogado** se necessário`,
+  },
+  {
+    slug: 'plano-saude-reajuste-abusivo-como-questinar',
+    title: 'Plano de Saúde: Reajuste Abusivo e Como Questionar',
+    excerpt: 'Como contestar reajustes abusivos em planos de saúde coletivos.',
+    date: '2025-01-15',
+    category: 'consumidor',
+    readTime: '5 min',
+    content: `## O que é reajuste abusivo?
+
+Aumento que supera a inflação médica do período.
+
+## Planos coletivos
+
+- Não têm teto de reajuste
+- Podem aumentar 30-40% ao ano
+- Consumidor pode questionar judicialmente
+
+## Como questionar?
+
+1. **Verifique** o índice applied
+2. **Compare** com inflação médica
+3. **Notifique** a operadora
+4. **Se não resolver**, ação judicial
+
+## Critérios de avaliação
+
+- Sinistralidade do grupo
+- Inflação médica do período
+- Índice da ANS
+- Custo-benefício
+
+## Indenização
+
+- Danos materiais (diferença paga)
+- Danos morais (se abusivo)
+- Restituição de valores
+
+## Documentos
+
+- Contrato do plano
+- Comprovantes de pagamento
+- Índices de reajuste
+- Comparativo com inflação médica
+
+## Consulte advogado
+
+Reajustes abusivos de planos de saúde coletivos podem ser questionados judicialmente. Um advogado pode avaliar a viabilidade da ação.`,
+  },
+  {
+    slug: 'servico-tecnico-celular-computador-defeito',
+    title: 'Serviço Técnico com Defeito: Direitos do Consumidor',
+    excerpt: 'O que fazer quando o conserto do celular ou computador não resolve o problema.',
+    date: '2025-01-15',
+    category: 'consumidor',
+    readTime: '5 min',
+    content: `## Prazos
+
+- **30 dias** para sanar o vício
+- **90 dias** para serviços duráveis
+
+## Direitos
+
+1. **Conserto** do equipamento
+2. **Restituição** do valor pago
+3. **Troca** do equipamento
+4. **Indenização** por danos
+
+## Como proceder
+
+1. **Comunique** o defeito por escrito
+2. **Guarde** o comprovante
+3. **Documente** o problema
+4. **Aguarde** 30 dias
+5. **Se não resolver**, procure advogado
+
+## Documentos
+
+- Nota fiscal
+- Contrato de serviço
+- Comprovante de pagamento
+- Fotos dos defeitos
+
+## Dicas
+
+1. **Documente** tudo
+2. **Não descarte** o equipamento
+3. **Guarde** comprovantes
+4. **Consulte advogado** se necessário`,
+  },
+  {
+    slug: 'compra-pela-internet-7-dias-arrependimento',
+    title: 'Compra Online: Direito de Arrependimento em 7 Dias',
+    excerpt: 'Conheça seu direito de devolver produtos comprados pela internet em até 7 dias.',
+    date: '2025-01-15',
+    category: 'consumidor',
+    readTime: '5 min',
+    content: `## Direito de arrependimento
+
+- **7 dias** para devolver
+- Sem necessidade de justificativa
+- Devolução do valor integral
+
+## Base legal
+
+Art. 49 do CDC
+
+## Como proceder
+
+1. **Notifique** o vendedor
+2. **Devoluta** o produto
+3. **Receba** o reembolso
+
+## Cuidados
+
+1. **Guarde** embalagem e acessórios
+2. **Documente** a compra
+3. **Não use** o produto
+4. **Devoluta** com todos os acessórios
+
+## Exceções
+
+- Produto personalizado
+- Produto perecível
+- Software aberto
+- Serviço já iniciado
+
+## Prazo de reembolso
+
+- Até **30 dias** após a devolução
+- Forma original de pagamento`,
+  },
+  {
+    slug: 'guia-reclamacao-procon-como-funciona',
+    title: 'Reclamação no PROCON: Como Funciona e Quando Usar',
+    excerpt: 'Guia completo para reclamar no PROCON — quando, como e o que esperar.',
+    date: '2025-01-15',
+    category: 'consumidor',
+    readTime: '5 min',
+    content: `## Quando usar o PROCON?
+
+- Produto com defeito
+- Cobrança indevida
+- Publicidade enganosa
+- Serviço inadequado
+- Negativa de direitos
+
+## Como reclamar?
+
+1. **Registre** reclamação no site
+2. **Apresente** documentação
+3. **Aguarde** análise
+4. **Compareça** à audiência
+
+## Documentos
+
+- RG e CPF
+- Nota fiscal
+- Comprovantes
+- Prints de tela
+- Contratos
+
+## Prazos
+
+- Análise: 30 dias
+- Audiência: agendada pelo PROCON
+- Resolução: variável
+
+## Dicas
+
+1. **Documente** tudo
+2. **Seja** objetivo
+3. **Guarde** protocolos
+4. **Consulte advogado** se necessário`,
+  },
 ]

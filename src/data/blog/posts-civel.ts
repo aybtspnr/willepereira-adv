@@ -2784,4 +2784,891 @@ O Direito Cível é fundamental para a vida em sociedade. Se você tem dúvidas 
 📞 (48) 98842-0867
 🌐 willepereira-adv.vercel.app`,
   },
+  {
+    slug: 'usucapiao-tempo-requisitos',
+    title: 'Usucapião: Tempo e Requisitos para Conquistar um Imóvel',
+    excerpt: 'Conheça as diferentes modalidades de usucapião e seus requisitos.',
+    date: '2025-01-15',
+    category: 'civel',
+    readTime: '5 min',
+    content: `## O que é usucapião?
+
+Modo de aquisição da propriedade pelo decurso do tempo com posse mansa, pacífica e contínua.
+
+## Modalidades
+
+### Extraordinária
+- **15 anos** de posse (ou 10 com moradia/obra)
+- Sem necessidade de título
+
+### Ordinária
+- **10 anos** de posse (ou 5 com título e boa-fé)
+- Exige justo título
+
+### Especial Urbana
+- **5 anos** de posse
+- Imóvel de até 250m²
+- Para moradia
+
+### Especial Rural
+- **5 anos** de posse
+- Área de até 50 hectares
+
+### Familiar
+- **2 anos** de posse
+- Abandono do lar
+
+## Requisitos gerais
+
+1. Posse mansa e pacífica
+2. Posse contínua e ininterrupta
+3. Animo de dono (animus domini)
+4. Exercício por prazo legal
+
+## Documentos
+
+- Comprovantes de posse
+- Contas de água, luz, telefone
+- Declaração de imposto
+- Testemunhas
+- Matrícula do imóvel
+
+## Via judicial vs extrajudicial
+
+- Judicial: mais lenta, mas aceita qualquer imóvel
+- Extrajudicial: mais rápida (cartório), mas tem restrições`,
+  },
+  {
+    slug: 'contrato-locao-direitos-locador-locatario',
+    title: 'Contrato de Locação: Direitos do Locador e do Locatário',
+    excerpt: 'Guia completo sobre contratos de aluguel — direitos e obrigações de ambas as partes.',
+    date: '2025-01-15',
+    category: 'civel',
+    readTime: '5 min',
+    content: `## O que regula?
+
+Lei do Inquilinato (Lei 8.245/91)
+
+## Direitos do locatário
+
+- Uso exclusivo do imóvel
+- Manutenção de bens essenciais
+- Reparação de vícios ocultos
+- Direito de preferência
+- Revisão do aluguel
+
+## Direitos do locador
+
+- Receber aluguel em dia
+- Retomada do imóvel (em casos previstos)
+- Reajuste anual
+- Cobrar garantias
+
+## Modalidades de rescisão
+
+### Inadimplência
+- 3 meses de atraso
+- Ação de despejo
+
+### Necessidade própria
+- Morar no imóvel
+- Reforma que impeça uso
+- Extinção de pessoa jurídica
+
+### Venda do imóvel
+- Comprador pode denunciar contrato
+
+## Garantias
+
+- Caução (3 meses)
+- Fiança
+- Seguro-fiança
+- Garantia real
+
+## Reajuste
+
+- Anual (IGPM, IPCA ou outro)
+- Contrato de prazo determinado: só no vencimento`,
+  },
+  {
+    slug: 'indenizacao-dano-moral-como-solicitar',
+    title: 'Indenização por Dano Moral: Quando e Como Solicitar',
+    excerpt: 'Quando você tem direito a indenização por dano moral e como calcular o valor.',
+    date: '2025-01-15',
+    category: 'civel',
+    readTime: '5 min',
+    content: `## O que é dano moral?
+
+Ofensa a direitos da personalidade (honra, imagem, intimidade, dignidade).
+
+## Quando há direito?
+
+- Cobrança indevida reiterada
+- Negativação injusta
+- Assédio moral
+- Acidente de trânsito
+- Erro médico
+- Divulgação de imagem sem autorização
+- Invasão de privacidade
+
+## Tipos
+
+### Dano moral subjetivo
+- Exige prova do prejuízo
+- Menos comum
+
+### Dano moral in re ipsa
+- Presumido pelo ato
+- Não exige prova de prejuízo
+- Cobrança indevida, negativação
+
+## Cálculo do valor
+
+O juiz considera:
+- Gravidade da ofensa
+- Grau de culpa
+- Condição econômica das partes
+- Repercussão do dano
+- Caráter pedagógico
+
+## Prazo prescricional
+
+- 3 anos para ação de indenização
+- 5 anos para relações de consumo
+
+## Documentos
+
+- Provas da ofensa
+- Comprovantes de prejuízo
+- Testemunhas
+- Laudos (se houver)`,
+  },
+  {
+    slug: 'cobranca-indevida-repeticao-indobito',
+    title: 'Cobrança Indevida: Repetição em Dobro do Valor Pago',
+    excerpt: 'Como recuperar valores pagos indevidamente com direito à repetição em dobro.',
+    date: '2025-01-15',
+    category: 'civel',
+    readTime: '5 min',
+    content: `## O que é repetição de indébito?
+
+Direito de receber de volta o valor pago a mais, multiplicado por dois.
+
+## Base legal
+
+- Art. 42, parágrafo único, CDC (consumo)
+- Art. 884, CC (geral)
+
+## Quando se aplica?
+
+- Cobrança de valores não contratados
+- Pagamento de dívida prescrita
+- Juros acima do contratado
+- Multa contratual abusiva
+- Taxas indevidas
+
+## Cálculo
+
+- Valor pago indevidamente × 2
+- + correção monetária
+- + juros legais
+
+## Prazo prescricional
+
+- **5 anos** a partir do pagamento
+- **3 anos** para ação indenizatória
+
+## Como proceder
+
+1. **Documente** a cobrança indevida
+2. **Registre reclamação** por escrito
+3. **Guarde comprovantes** de pagamento
+4. **Consulte advogado** para ação judicial
+
+## Exceções
+
+- Engano justificável (sem direito ao dobro)
+- Erro escusável do devedor`,
+  },
+  {
+    slug: 'direito-vizinhanca-conflitos-comuns',
+    title: 'Direito de Vizinhança: Conflitos Comuns e Como Resolver',
+    excerpt: 'Problemas com vizinhos — barulho, construções, limites e árvores.',
+    date: '2025-01-15',
+    category: 'civel',
+    readTime: '5 min',
+    content: `## O que regula?
+
+Código Civil, arts. 1.277 a 1.285
+
+## Conflitos mais comuns
+
+### Barulho
+- Música alta
+- Obras em horário impróprio
+- Animais barulhentos
+
+### Construções
+- Ausência de afastamento
+- Vista panorâmica obstruída
+- Entrada de luz e ar
+
+### Limites
+- Cerca divisória
+- Árvores em divisa
+- Raízes invasoras
+
+### Inundações
+- Águas pluviais
+- Águas servidas
+
+## Resolução
+
+### Extrajudicial
+- Negociação direta
+- Mediação
+- Procon (se envolver consumo)
+
+### Judicial
+- Ação negatória
+- Ação de obrigação de fazer
+- Ação de indenização
+
+## Prazo prescricional
+- 15 anos para ação real
+- 3 anos para indenização
+
+## Dicas
+
+1. **Documente** as ocorrências
+2. **Tente resolver** amigavelmente
+3. **Registre boletim** se necessário
+4. **Consulte advogado** para orientação`,
+  },
+  {
+    slug: 'responsabilidade-civil-objetiva-subjetiva',
+    title: 'Responsabilidade Civil: Objetiva e Subjetiva',
+    excerpt: 'Diferenças entre responsabilidade civil objetiva e subjetiva e quando cada uma se aplica.',
+    date: '2025-01-15',
+    category: 'civel',
+    readTime: '5 min',
+    content: `## Responsabilidade civil
+
+Obrigação de reparar o dano causado a outrem.
+
+## Responsabilidade subjetiva
+
+- Exige prova de culpa ou dolo
+- Culpa pode ser: negligência, imprudência, imperícia
+- Aplica-se: relações gerais, profissionais liberais
+
+## Responsabilidade objetiva
+
+- Não exige prova de culpa
+- Basta nexo causal e dano
+- Aplica-se: atividades de risco, relações de consumo
+
+## Exemplos de responsabilidade objetiva
+
+- Transporte (empresas de ônibus, táxi)
+- Produtos defeituosos
+- Atividades perigosas
+- Estabelecimentos comerciais
+- Profissionais de saúde (em alguns casos)
+
+## Elementos
+
+1. **Conduta** — ação ou omissão
+2. **Dano** — efetivo ou potencial
+3. **Nexo causal** — relação entre conduta e dano
+4. **Culpa** (subjetiva) ou presunção (objetiva)
+
+## Código Civil
+
+Art. 927 — Reparação do dano
+Art. 927, parágrafo único — Responsabilidade objetiva
+
+## Consulte advogado
+
+Cada caso tem peculiaridades. Um advogado pode avaliar a modalidade aplicável e as chances de êxito.`,
+  },
+  {
+    slug: 'inventario- judicial-extrajudicial-diferencas',
+    title: 'In Judicial vs Extrajudicial: Qual a Melhor Opção?',
+    excerpt: 'Comparativo entre inventário judicial e extrajudicial — vantagens, desvantagens e quando optar por cada um.',
+    date: '2025-01-15',
+    category: 'civel',
+    readTime: '5 min',
+    content: `## O que é inventário?
+
+Processo de partilha dos bens do falecido entre os herdeiros.
+
+## Inventário extrajudicial
+
+### Requisitos
+- Todos os herdeiros capazes
+- Concordância na partilha
+- Assessoria de advogado
+- Ausência de testamento
+
+### Vantagens
+- Mais rápido (semanas)
+- Mais barato
+- Sem necessidade de juiz
+
+### Procedimento
+1. Escolha do cartório
+2. Documentação completa
+3. Escritura pública
+4. Registro no cartório de imóveis
+
+## Inventário judicial
+
+### Quando é obrigatório?
+- Herdeiros menores ou incapazes
+- Testamento
+- Conflito entre herdeiros
+- Bens em outros estados
+
+### Vantagens
+- Soluciona conflitos
+- Protege incapazes
+- Decide questões complexas
+
+### Desvantagens
+- Mais lento (meses/anos)
+- Mais caro
+- Custas processuais
+
+## Documentos
+
+- Certidão de óbito
+- Certidão de nascimento/casamento
+- Comprovantes de residência
+- Documentos dos bens
+- Testamento (se houver)
+
+## ITCD
+
+- Imposto sobre transmissão causa mortis
+- Varia por estado
+- Geralmente 2% a 8%`,
+  },
+  {
+    slug: 'prescricao-credito-prazos',
+    title: 'Prescrição de Créditos: Prazos para Cobrar',
+    excerpt: 'Conheça os prazos de prescrição para diferentes tipos de créditos.',
+    date: '2025-01-15',
+    category: 'civel',
+    readTime: '5 min',
+    content: `## O que é prescrição?
+
+Perda do direito de ação pelo decurso do prazo legal.
+
+## Prazos principais
+
+### 10 anos
+- Ação real sobre imóveis
+- Ação de anulação de contrato
+
+### 5 anos
+- Cobrança de títulos de crédito
+- Honorações de cheque
+
+### 3 anos
+- Ação de indenização
+- Cobrança de dívidas em geral
+- Honoração de letra de câmbio
+
+### 1 ano
+- Despejo para uso próprio
+- Ação de dano moral (alguns casos)
+
+## Prescrição aquisitiva
+
+- Usucapião: 15 anos (extraordinária)
+- Usucapião: 10 anos (ordinária)
+
+## Causas de interrupção
+
+- Reclamação extrajudicial
+- Citação judicial
+- Reconhecimento da dívida
+
+## Causas de suspensão
+
+- Força maior
+- Caso fortuito
+- Decreto judicial
+
+## Cuidados
+
+1. **Anote prazos** de todos os créditos
+2. **Cobre judicialmente** antes da prescrição
+3. **Consulte advogado** para orientação`,
+  },
+  {
+    slug: 'acao-monitoria-titulos-extrajudiciais',
+    title: 'Ação Monitoria: Cobrar Títulos sem Processo Longo',
+    excerpt: 'Como usar a ação monitoria para cobrar dívidas com títulos extrajudiciais.',
+    date: '2025-01-15',
+    category: 'civel',
+    readTime: '5 min',
+    content: `## O que é ação monitoria?
+
+Ação para cobrar dívida com prova escrita, sem necessidade de ação de cobrança ordinária.
+
+## Títulos aceitos
+
+- Nota promissória
+- Duplicata
+- Cheque
+- Contrato com cláusula de exigibilidade
+
+## Vantagens
+
+- Mais rápido que ação de cobrança
+- Custo processual menor
+- Possibilidade de liminar (mandado de citação)
+
+## Procedimento
+
+1. Petição inicial com o título
+2. Juiz defere mandado de citação
+3. Devedor paga ou impugna
+4. Se não impugnar: título executivo
+5. Execução forçada
+
+## Prazos
+
+- Citação: 15 dias para pagamento
+- Impugnação: 15 dias
+- Execução: imediata após trânsito em julgado
+
+## Documentos
+
+- Título de crédito original
+- Protesto (se houver)
+- Comprovantes de entrega
+- Contrato (se aplicável)
+
+## Consulte advogado
+
+A ação monitoria requer técnica processual específica. Um advogado pode avaliar a viabilidade e conduzir o processo corretamente.`,
+  },
+  {
+    slug: 'direito-sucessorio-planejamento-testamento',
+    title: 'Planejamento Sucessório: Testamento e Doação com Usufruto',
+    excerpt: 'Como organizar a transmissão de bens em vida para evitar conflitos e reduzir custos.',
+    date: '2025-01-15',
+    category: 'civel',
+    readTime: '5 min',
+    content: `## O que é planejamento sucessório?
+
+Estratégia para organizar a transmissão de bens antes do falecimento.
+
+## Instrumentos
+
+### Testamento
+- Disposição de última vontade
+- Pode ser público ou particular
+- Limites: 50% dos bens (legítima)
+
+### Doação com usufruto
+- Doar bens em vida
+- Reservar o direito de usar e fruir
+- Reduz custos de inventário
+
+### Holding familiar
+- Empresa para gerir patrimônio
+- Facilita transmissão
+- Pode reduzir ITCMD
+
+### Seguro de vida
+- Capital que não entra em inventário
+- Protege dependentes imediatamente
+
+## Vantagens
+
+- Redução de custos processuais
+- Evita conflitos familiares
+- Planeja a transmissão
+- Protege herdeiros
+
+## Cuidados
+
+- Respeitar a legítima (50%)
+- Consultar advogado especializado
+- Considerar impostos (ITCMD)
+- Documentar tudo
+
+## ITCMD
+
+- Imposto sobre transmissão causa mortis
+- Varia por estado (2% a 8%)
+- Pode ser reduzido com planejamento`,
+  },
+  {
+    slug: 'acao-despejo-inadimplencia-condicoes',
+    title: 'Ação de Despejo: Quando o Locador Pode Retomar o Imóvel',
+    excerpt: 'Conheça as hipóteses legais para retomada do imóvel locado.',
+    date: '2025-01-15',
+    category: 'civel',
+    readTime: '5 min',
+    content: `## Hipóteses de despejo
+
+### Inadimplência
+- 3 meses de atraso no aluguel
+- Descumprimento de obrigação contratual
+
+### Necessidade própria
+- Morar no imóvel
+- Reforma que impeça uso
+- Extinção de pessoa jurídica
+
+### Culpa do locatário
+- Destruir o imóvel
+- Utilizar para fim diverso
+- Sublocar sem autorização
+- Perturbar vizinhos
+
+### Venda do imóvel
+- Comprador pode denunciar contrato
+- Aviso de 90 dias
+
+## Procedimento
+
+1. Comunicação por escrito
+2. Tentativa de conciliação
+3. Ação judicial de despejo
+4. Audiência de conciliação
+5. Sentença e execução
+
+## Aluguel provisório
+
+- Durante o processo, o locatário paga aluguel provisório
+- Valor fixado pelo juiz
+
+## Defesas do locatário
+
+- Pagamento da dívida
+- Irregularidade da notificação
+- Falta de interesse
+- Cerceamento de defesa
+
+## Consulte advogado
+
+A ação de despejo requer técnica processual. Um advogado pode avaliar a viabilidade e preparar a defesa ou a ação.`,
+  },
+  {
+    slug: 'acao-declaratoria-vinculo-empregaticio',
+    title: 'Ação Declaratória de Vínculo Empregatício',
+    excerpt: 'Como provar a existência de vínculo empregatício quando não há registro.',
+    date: '2025-01-15',
+    category: 'civel',
+    readTime: '5 min',
+    content: `## Quando ajuizar?
+
+- Trabalho sem registro em CTPS
+- Pejotização fraudulenta
+- Cooperativa irregular
+- Terceirização ilícita
+
+## Requisitos do vínculo
+
+1. Pessoa física
+2. Pessoalidade
+3. Não eventualidade
+4. Onerosidade
+5. Subordinação
+
+## Provas
+
+- Testemunhas
+- Comprovantes de pagamento
+- E-mails e mensagens
+- Registro de ponto
+- Documentos da empresa
+
+## Efeitos do reconhecimento
+
+- Pagamento de verbas rescisórias
+- FGTS com multa de 40%
+- Férias + 1/3
+- 13º salário
+- Aviso prévio
+
+## Prazo prescricional
+
+- **5 anos** após a extinção do contrato
+- Cobrar últimos 5 anos
+
+## Consulte advogado
+
+A ação declaratória requer prova robusta. Um advogado pode avaliar a viabilidade e conduzir o processo.`,
+  },
+  {
+    slug: 'propriedade-intelectual-marcas-patentes',
+    title: 'Propriedade Intelectual: Proteção de Marcas e Patentes',
+    excerpt: 'Como proteger suas ideias, marcas e inventos pela propriedade intelectual.',
+    date: '2025-01-15',
+    category: 'civel',
+    readTime: '5 min',
+    content: `## O que protege?
+
+### Marca
+- Nome, logo, slogan
+- Registrada no INPI
+- Vigência: 10 anos (renovável)
+
+### Patente
+- Invenção ou modelo de utilidade
+- Registrada no INPI
+- Vigência: 20 anos (invenção) / 15 anos (modelo)
+
+### Desenho industrial
+- Aparência do produto
+- Registrada no INPI
+- Vigência: 15 anos
+n
+### Direito autoral
+- Obras literárias, artísticas, científicas
+- Proteção automática
+- Duração: 70 anos após morte do autor
+
+## Como registrar?
+
+1. **Pesquisa** de anterioridade
+2. **Elaboração** do pedido
+3. **Protocolo** no INPI
+4. **Exame** técnico
+5. **Publicação**
+6. **Registro**
+
+## Custos
+
+- Taxas do INPI
+- Honorários de advogado
+- Tempo: 12 a 24 meses
+
+## Importância
+
+- Proteção contra cópia
+- Valorização do negócio
+- Segurança jurídica
+- Possibilidade de licenciamento`,
+  },
+  {
+    slug: 'acao-indenizacao-dano-moral-recisao',
+    title: 'Indenização por Dano Moral na Rescisão Contratual',
+    excerpt: 'Quando a rescisão contratual gera direito a indenização por danos morais.',
+    date: '2025-01-15',
+    category: 'civel',
+    readTime: '5 min',
+    content: `## Quando há dano moral?
+
+- Rescisão sem justa causa injustificada
+- Atraso no pagamento de verbas
+- Tratamento desrespeitoso
+- Assédio moral
+
+## Base legal
+
+- Art. 186 do Código Civil
+- Art. 927 do Código Civil
+- Súmulas do STJ
+
+## Cálculo
+
+- Gravidade da ofensa
+- Condição econômica das partes
+- Repercussão do dano
+- Caráter pedagógico
+
+## Documentos
+
+- Comprovantes de rescisão
+- Testemunhas
+- Documentos de tratamento (se houver)
+- Comprovantes de prejuízo
+
+## Prazo
+
+- 3 anos para ação de indenização
+- 5 anos para relações de consumo
+
+## Consulte advogado
+
+O dano moral na rescisão requer prova da conduta abusiva. Um advogado pode avaliar as chances de êxito e calcular o valor da indenização.`,
+  },
+  {
+    slug: 'contrato-prestacao-servicos-direitos',
+    title: 'Contrato de Prestação de Serviços: Direitos e Obrigações',
+    excerpt: 'Guia sobre contratos de prestação de serviços — elaboração, cláusulas e rescisão.',
+    date: '2025-01-15',
+    category: 'civel',
+    readTime: '5 min',
+    content: `## Cláusulas essenciais
+
+- Objeto do serviço
+- Prazo de execução
+- Valor e forma de pagamento
+- Obrigações de cada parte
+- Condições de rescisão
+
+## Direitos do contratante
+
+- Serviço conforme contratado
+- Prazo cumprido
+- Qualidade da prestação
+- Rescisão por inadimplência
+
+## Direitos do prestador
+
+- Pagamento pelo serviço
+- Reajuste contratual
+- Rescisão por inadimplência
+
+## Rescisão
+
+### Com justa causa
+- Inadimplemento de cláusula
+- Falta grave
+
+### Sem justa causa
+- Aviso prévio
+- Multa contratual
+
+## Cuidados
+
+1. **Leia** todas as cláusulas
+2. **Negocie** condições claras
+3. **Guarde** cópias
+4. **Consulte advogado** antes de assinar`,
+  },
+  {
+    slug: 'acao-monitoria-como-funciona',
+    title: 'Ação Monitoria: Como Cobrar Dívidas com Títulos',
+    excerpt: 'Guia sobre ação monitoria — para que serve e como funciona.',
+    date: '2025-01-15',
+    category: 'civel',
+    readTime: '5 min',
+    content: `## Para que serve?
+
+Cobrar dívidas com prova escrita de forma mais rápida.
+
+## Títulos aceitos
+
+- Nota promissória
+- Duplicata
+- Cheque
+- Contrato com cláusula de exigibilidade
+
+## Procedimento
+
+1. Petição com o título
+2. Mandado de citação
+3. Devedor paga ou impugna
+4. Se não impugnar: título executivo
+5. Execução forçada
+
+## Vantagens
+
+- Mais rápido
+- Custo menor
+- Possibilidade de liminar
+
+## Prazos
+
+- Citação: 15 dias
+- Impugnação: 15 dias
+- Execução: imediata
+
+## Consulte advogado
+
+A ação monitoria requer técnica processual específica. Um advogado pode avaliar a viabilidade e conduzir o processo corretamente.`,
+  },
+  {
+    slug: 'usucapiao-especial-urbana-5-anos',
+    title: 'Usucapião Especial Urbana: 5 Anos de Posse',
+    excerpt: 'Como adquirir imóvel urbano de até 250m² com 5 anos de posse.',
+    date: '2025-01-15',
+    category: 'civel',
+    readTime: '5 min',
+    content: `## Requisitos
+
+- Posse mansa, pacífica, contínua
+- Até 250m²
+- Para moradia
+- 5 anos de posse
+
+## Procedimento
+
+1. Requerimento ao cartório
+2. Instrução documental
+3. Manifestação dos confinantes
+4. Levantamento topográfico
+5. Registro da sentença
+
+## Documentos
+
+- Comprovantes de posse
+- Certidões negativas
+- Matrícula do imóvel
+- Documentos dos confinantes
+- Laudo topográfico
+
+## Vantagens
+
+- Mais rápido que judicial
+- Custo menor
+- Sem necessidade de juiz
+
+## Prazo
+
+- 6 a 12 meses
+
+## Consulte advogado
+
+A usucapião extrajudicial requer documentação específica. Um advogado pode orientar sobre os requisitos.`,
+  },
+  {
+    slug: 'acao-declaratoria-inexistencia-divida',
+    title: 'Ação Declaratória de Inexistência de Dívida',
+    excerpt: 'Como provar que não deve nada e limpar seu nome.',
+    date: '2025-01-15',
+    category: 'civel',
+    readTime: '5 min',
+    content: `## Quando usar?
+
+- Dívida já paga
+- Dívida prescrita
+- Dívida inexistente
+- Negativação injusta
+
+## Procedimento
+
+1. **Documente** a inexistência
+2. **Notifique** o credor
+3. **Se não resolver**, ação judicial
+4. **Juiz** declara a inexistência
+
+## Efeitos
+
+- Exclusão do nome dos cadastros
+- Correção de informações
+- Indenização por danos morais
+
+## Documentos
+
+- Comprovantes de pagamento
+- Certidões negativas
+- Testemunhas
+- Contratos originais
+
+## Prazo
+
+- 5 anos para ação judicial
+- 3 anos para indenização`,
+  },
 ]

@@ -7919,4 +7919,1123 @@ Planejar a aposentadoria com antecedência é fundamental para garantir um benef
 📞 Entre em contato: (48) 98842-0867
 📧 Email: contato@willepereira.adv.br`,
   },
+  {
+    slug: 'aposentadoria-especial-agente-nocivo',
+    title: 'Aposentadoria Especial por Exposição a Agentes Nocivos',
+    excerpt: 'Como comprovar exposição a agentes nocivos e garantir aposentadoria especial com tempo reduzido de contribuição.',
+    date: '2025-01-15',
+    category: 'previdenciario',
+    readTime: '5 min',
+    content: `## O que é Aposentadoria Especial?
+
+A aposentadoria especial é um benefício previdenciário concedido ao trabalhador exposto a agentes nocivos à saúde durante sua vida profissional. Diferente da aposentadoria comum, ela exige menos tempo de contribuição — 15, 20 ou 25 anos — dependendo do grau de risco.
+
+## Requisitos
+
+- 25 anos de exposição para agentes de baixo risco
+- 20 anos para agentes de médio risco
+- 15 anos para agentes de alto risco (mineração subterrânea)
+- Idade mínima: 55, 57 ou 60 anos conforme a atividade
+
+## Como comprovar a exposição?
+
+O principal documento é o **Perfil Profissiográfico Previdenciário (PPP)**, emitido pela empresa com base no Laudo Técnico das Condições Ambientais do Trabalho (LTCAT).
+
+### Agentes que dão direito:
+- Ruído acima de 85dB
+- Calor excessivo
+- Radiação ionizante e não-ionizante
+- Agentes químicos (asbesto, benzeno, chumbo)
+- Poeiras minerais
+- Eletricidade
+- Agentes biológicos
+
+## Dicas importantes
+
+1. **Guarde todos os PPPs** de todas as empresas onde trabalhou
+2. **Solicite o LTCAT** ao departamento de segurança do trabalho
+3. **Procure um advogado** especializado antes de solicitar o benefício
+4. **Não espere** — o prazo para revisão é de 10 anos`,
+  },
+  {
+    slug: 'planejamento-previdenciario-antes-reforma',
+    title: 'Planejamento Previdenciário: Como se Preparar para a Aposentadoria',
+    excerpt: 'Estratégias para maximizar o valor da sua aposentadoria com planejamento antecipado.',
+    date: '2025-01-15',
+    category: 'previdenciario',
+    readTime: '5 min',
+    content: `## Por que planejar a aposentadoria?
+
+Muitos trabalhadores descobrem tarde demais que poderiam ter uma aposentadoria melhor. O planejamento previdenciário permite identificar a melhor regra, o melhor momento e a melhor estratégia.
+
+## Passos do planejamento
+
+1. **Obtenha seu CNIS** — Extrato completo de contribuições
+2. **Verifique os dados** — Todos os vínculos estão registrados?
+3. **Identifique períodos especiais** — Tempo rural, militar, especial
+4. **Simule diferentes regras** — Direito adquirido vs regras de transição
+5. **Calcule o valor estimado** — Quanto você receberá?
+
+## Erros comuns
+
+- Não verificar o CNIS regularmente
+- Não considerar períodos de trabalho rural
+- Não converter tempo especial em comum
+- Escolher a regra errada por falta de informação
+
+## Quando procurar um advogado?
+
+Idealmente, **5 anos antes** de se aposentar. Isso dá tempo para corrigir pendências e escolher a melhor estratégia.`,
+  },
+  {
+    slug: 'bpc-loas-requisitos-2025',
+    title: 'BPC/LOAS: Como Conquistar o Benefício Assistencial em 2025',
+    excerpt: 'Guia completo sobre o Benefício de Prestação Continuada para idosos e pessoas com deficiência.',
+    date: '2025-01-15',
+    category: 'previdenciario',
+    readTime: '5 min',
+    content: `## O que é o BPC/LOAS?
+
+O Benefício de Prestação Continuada (BPC) é um benefício assistencial que garante um salário mínimo mensal a:
+- **Idosos** com 65 anos ou mais
+- **Pessoas com deficiência** de qualquer idade
+
+## Requisitos
+
+- Idade mínima (65+ anos) ou deficiência comprovada
+- Renda familiar per capita inferior a 1/4 do salário mínimo
+- Avaliação biopsicossocial (para deficientes)
+- Inscrição no Cadastro Único (CadÚnico)
+
+## Diferenças do INSS
+
+O BPC **não** é previdenciário — é assistencial. Por isso:
+- Não exige contribuições
+- Não gera pensão por morte
+- Não pode ser acumulado com outros benefícios
+- Reavaliado a cada 2 anos
+
+## Como solicitar
+
+1. Cadastre-se no CadÚnico
+2. Requerimento no INSS
+3. Agende avaliação médica (deficientes)
+4. Aguarde análise e resultado
+
+## Dicas de advogado
+
+- Mantenha o CadÚnico atualizado
+- Documente toda a renda familiar
+- Para deficientes, reúna laudos médicos detalhados`,
+  },
+  {
+    slug: 'recurso-inss-negativa-como-entrar',
+    title: 'INSS Negou? Como Entrar com Recurso Administrativo',
+    excerpt: 'Passo a passo para recorrer de negativa do INSS e garantir seu direito.',
+    date: '2025-01-15',
+    category: 'previdenciario',
+    readTime: '5 min',
+    content: `## O que fazer quando o INSS nega?
+
+A negativa do INSS é comum, mas não é o fim. Existem duas vias: administrativa e judicial.
+
+## Recurso Administrativo
+
+1. **Prazo**: 30 dias após a notificação
+2. **Onde**: Pelo Meu INSS ou presencialmente
+3. **Instâncias**: CRPS (1ª e 2ª instância) e Conselho de Recursos
+
+## Documentos necessários
+
+- Notificação de negativa
+- CPF e RG
+- Carteira de trabalho
+- Laudos médicos atualizados
+- Comprovantes de contribuição
+
+## Via Judicial
+
+Se o recurso administrativo falhar:
+- Ação na Justiça Federal
+- Tutela de urgência (liminar)
+- Honorários de sucumbência (INSS paga se perder)
+
+## Prazos importantes
+
+- **Recorrer**: 30 dias
+- **Ação judicial**: 10 anos (decadencial)
+- **Benefício**: Pode voltar à data do requerimento inicial`,
+  },
+  {
+    slug: 'tempo-especial-conversao-comum',
+    title: 'Tempo Especial: Como Converter para Tempo Comum de Contribuição',
+    excerpt: 'Estratégias para aumentar seu tempo de contribuição usando períodos especiais.',
+    date: '2025-01-15',
+    category: 'previdenciario',
+    readTime: '5 min',
+    content: `## O que é conversão de tempo especial?
+
+Trabalhadores expostos a agentes nocivos podem converter seu tempo especial em tempo comum, aumentando sua aposentadoria.
+
+## Multiplicadores
+
+- **Homens**: 1,4 (40% a mais)
+- **Mulheres**: 1,2 (20% a mais)
+
+## Exemplo prático
+
+Um homem que trabalhou 10 anos em condições especiais:
+- Tempo especial: 10 anos
+- Convertido para comum: 10 × 1,4 = 14 anos
+- Ganho: 4 anos extras
+
+## Requisitos
+
+1. PPP emitido pela empresa
+2. Atividade comprovadamente insalubre
+3. Conversão deve ser feita antes da aposentadoria
+
+## Quando vale a pena?
+
+- Quando o tempo especial não atinge o mínimo para aposentadoria especial
+- Quando o trabalhador quer aumentar o tempo total de contribuição
+- Quando a regra de transição exige mais tempo
+
+## Cuidados
+
+- **Guarde os PPPs** de todas as empresas
+- **Faça a conversão** antes de solicitar a aposentadoria
+- **Consulte um advogado** para calcular o melhor momento`,
+  },
+  {
+    slug: 'auxilio-doenca-acidentario-b91',
+    title: 'Auxílio-Doença Acidentário (B91): Direitos do Acidentado',
+    excerpt: 'Conheça seus direitos quando sofre acidente de trabalho e precisa se afastar.',
+    date: '2025-01-15',
+    category: 'previdenciario',
+    readTime: '5 min',
+    content: `## O que é o B91?
+
+O auxílio-doença acidentário (espécie B91) é um benefício pago ao trabalhador que se afasta do trabalho por acidente de qualquer natureza.
+
+## Diferenças do auxílio-doença comum
+
+| Aspecto | B91 (Acidente) | B31 (Doença) |
+|---------|----------------|--------------|
+| Carência | Dispensada | 12 meses |
+| Estabilidade | 12 meses após retorno | Não |
+| Pagamento | INSS a partir do 16º dia | Empregador (15 dias) |
+
+## Estabilidade no emprego
+
+Após o retorno, o trabalhador tem **12 meses de estabilidade** (art. 118, Lei 8.213/91). Durante esse período:
+- Não pode ser demitido sem justa causa
+- Tem direito a todas as garantias
+- A estabilidade é individual
+
+## Documentos necessários
+
+- CAT (Comunicação de Acidente de Trabalho)
+- Afastamento médico
+- Laudos e exames
+- Comprovantes de vínculo empregatício
+
+## Quando procurar advogado?
+
+- Se a CAT não foi emitida pela empresa
+- Se a estabilidade não está sendo respeitada
+- Se o benefício foi negado pelo INSS`,
+  },
+  {
+    slug: 'aposentadoria-poridade-rural-2025',
+    title: 'Aposentadoria por Idade Rural: Regras Atualizadas',
+    excerpt: 'Como funciona a aposentadoria para trabalhadores rurais em 2025.',
+    date: '2025-01-15',
+    category: 'previdenciario',
+    readTime: '5 min',
+    content: `## Regras da aposentadoria rural
+
+A aposentadoria por idade rural possui regras diferenciadas:
+
+### Homens
+- Idade mínima: **60 anos**
+- Carência: 180 contribuições
+
+### Mulheres
+- Idade mínima: **55 anos**
+- Carência: 180 contribuições
+
+## Como comprovar atividade rural
+
+- Contratos de arrendamento
+- Notas fiscais de produtor rural
+- Declaração do sindicato
+- Certificado de Cadastro Rural
+- Testemunhas
+
+## Valor do benefício
+
+Calculado com base em todas as contribuições desde julho de 1994. Para rurais, pode ser mais vantajoso que a aposentadoria urbana.
+
+## Dicas importantes
+
+1. **Mantenha documentos** de toda atividade rural
+2. **Regularize contribuições** em atraso
+3. **Consulte advogado** antes de solicitar
+4. **Verifique se há tempo urbano** para conversão`,
+  },
+  {
+    slug: 'pensao-morte-regras-2025',
+    title: 'Pensão por Morte: Quem Tem Direito e Como Solicitar',
+    excerpt: 'Guia completo sobre pensão por morte para dependentes do segurado falecido.',
+    date: '2025-01-15',
+    category: 'previdenciario',
+    readTime: '5 min',
+    content: `## O que é pensão por morte?
+
+Benefício pago aos dependentes do segurado que faleceu estando coberto pelo INSS.
+
+## Quem tem direito?
+
+### Classe 1
+- Cônjuge ou companheiro(a)
+- Filhos menores de 21 anos ou inválidos
+
+### Classe 2
+- Pais que comprovem dependência econômica
+
+### Classe 3
+- Irmãos menores de 21 anos ou inválidos
+
+## Requisitos
+
+- Óbito do segurado
+- Qualidade de segurado na data do óbito
+- Comprovação da condição de dependente
+
+## Valor do benefício
+
+- **50%** do valor que o falecido recebia
+- **+10%** por dependente adicional
+- **Máximo**: 100%
+
+## Prazo para solicitar
+
+Até **90 dias** do óbito (pagamento retroativo). Após 90 dias, perde-se o direito ao retroativo.
+
+## Documentos
+
+- Certidão de óbito
+- CPF e RG do falecido
+- Certidão de casamento ou união estável
+- Certidão de nascimento dos filhos
+- Comprovantes de residência`,
+  },
+  {
+    slug: 'salario-maternidade-todas-modalidades',
+    title: 'Salário-Maternidade: Todas as Modalidades e Direitos',
+    excerpt: 'Conheça seus direitos durante a gestação, parto, adoção e aborto não criminoso.',
+    date: '2025-01-15',
+    category: 'previdenciario',
+    readTime: '5 min',
+    content: `## O que é salário-maternidade?
+
+Benefício pago à segurada que dá à luz, adota ou obtém guarda judicial para fins de adoção.
+
+## Duração
+
+- **120 dias** (parto, adoção, guarda)
+- **14 dias** (aborto não criminoso)
+- **Extensão**: Empresa Cidadã pode ampliar para 180 dias
+
+## Quem tem direito?
+
+- Empregadas (inclusive domésticas)
+- Trabalhadoras avulsas
+- Contribuintes individuais
+- Facultativas
+- Seguradas especiais (rurais)
+
+## Valor
+
+- Empregadas: último salário
+- Contribuintes: média dos últimos 12 meses
+- Facultativas: média dos últimos 12 meses
+
+## Estabilidade no emprego
+
+- Da confirmação da gravidez até **5 meses após o parto**
+- Não pode ser demitida sem justa causa
+- Proteção constitucional (art. 7º, XVIII, CF)
+
+## Documentos
+
+- Certidão de nascimento
+- Termo de adoção ou guarda
+- Comprovante de renda
+- CPF e RG`,
+  },
+  {
+    slug: 'atraso-contribuicao-inss-como-regularizar',
+    title: 'Contribuições em Atraso: Como Regularizar com o INSS',
+    excerpt: 'Guia para pagar contribuições previdenciárias em atraso e garantir sua aposentadoria.',
+    date: '2025-01-15',
+    category: 'previdenciario',
+    readTime: '5 min',
+    content: `## Por que regularizar?
+
+Contribuições em atraso podem:
+- Atrasar a aposentadoria
+- Reduzir o valor do benefício
+- Perder qualidade de segurado
+
+## Como verificar pendências?
+
+1. Acesse o **Meu INSS**
+2. Consulte o **CNIS**
+3. Verifique períodos sem contribuição
+
+## Formas de pagamento
+
+### Contribuição individual
+- DAS mensal via DAE
+- Guia PIX ou boleto
+
+### Segurado especial (rural)
+- Guia carnê-leão
+- Pagamento anual com desconto
+
+### Carência incompleta
+- Recolhimento em atraso
+- Prazo: até 30 dias após o requerimento
+
+## Custo da regularização
+
+- Cada mês em atraso gera **juros de 0,5% ao mês**
+- Correção monetária pelo INPC
+- Multa de 20% sobre o valor devido
+
+## Dicas
+
+1. **Regularize o quanto antes** — quanto mais tempo, maior o custo
+2. **Consulte um advogado** para calcular o valor exato
+3. **Negocie** condições de pagamento com o INSS`,
+  },
+  {
+    slug: 'beneficio-incapacidade-permanente-invalidez',
+    title: 'Aposentadoria por Invalidez: Requisitos e Como Solicitar',
+    excerpt: 'Guia completo sobre aposentadoria por incapacidade permanente (antiga invalidez).',
+    date: '2025-01-15',
+    category: 'previdenciario',
+    readTime: '5 min',
+    content: `## O que é aposentadoria por invalidez?
+
+Benefício vitalício para quem se tornou permanentemente incapaz de trabalhar. Atualmente chamada de "aposentadoria por incapacidade permanente".
+
+## Requisitos
+
+- 12 contribuições mensais (dispensadas em acidentes)
+- Qualidade de segurado
+- Incapacidade total e permanente
+- Impossibilidade de reabilitação
+
+## Valor do benefício
+
+### Regra geral
+- 60% da média + 2% por ano acima de 20 anos (homens) ou 15 anos (mulheres)
+
+### Exceção
+- Acidente de trabalho: **100% da média**
+
+## Revisão periódica
+
+O INSS pode convocar para nova perícia:
+- Exceto se tiver 60+ anos
+- Exceto se tiver 55+ anos e 15+ anos de concessão
+- Exceto HIV/AIDS
+
+## Documentos
+
+- Laudos médicos detalhados
+- Exames de imagem
+- Relatórios de especialistas
+- Comprovante de residência
+- CPF e RG`,
+  },
+  {
+    slug: 'auxilio-acidente-sequelagem-permanente',
+    title: 'Auxílio-Acidente: Indenização por Sequelas Permanentes',
+    excerpt: 'Como conseguir indenização quando sofre acidente e fica com sequelas que reduzem a capacidade de trabalho.',
+    date: '2025-01-15',
+    category: 'previdenciario',
+    readTime: '5 min',
+    content: `## O que é auxílio-acidente?
+
+Benefício indenizatório pago ao segurado que sofre acidente e fica com sequelas permanentes, mesmo possa continuar trabalhando.
+
+## Requisitos
+
+- Acidente de qualquer natureza
+- Sequelas permanentes
+- Redução da capacidade de trabalho
+- Qualidade de segurado
+
+## Valor
+
+- **50%** do salário de benefício
+- Pago mensalmente até a aposentadoria
+- Não é vitalício — cessa com a aposentadoria
+
+## Diferenças importantes
+
+| Auxílio-Acidente | Auxílio-Doença |
+|------------------|----------------|
+| Não exige afastamento | Exige afastamento |
+| Pagamento junto com salário | Substitui salário |
+| 50% do benefício | 91% do benefício |
+
+## Como solicitar
+
+1. Documentação médica completa
+2. Perícia médica do INSS
+3. Comprovação de sequelas definitivas
+
+## Dicas
+
+- **Documente tudo** — laudos, exames, fotos
+- **Não espere** as sequelas estabilizarem
+- **Procure advogado** antes de solicitar`,
+  },
+  {
+    slug: 'revisao-vida-toda-beneficio-previdenciario',
+    title: 'Revisão da "Vida Toda": Oportunidade para Aumentar sua Aposentadoria',
+    excerpt: 'Como a revisão da vida toda pode aumentar o valor da sua aposentadoria.',
+    date: '2025-01-15',
+    category: 'previdenciario',
+    readTime: '5 min',
+    content: `## O que é a revisão da vida toda?
+
+Ação judicial que permite incluir contribuições anteriores a julho de 1994 no cálculo do benefício previdenciário.
+
+## Quem pode solicitar?
+
+- Aposentados por tempo de contribuição
+- Pensionistas por morte
+- Aposentados por idade (em alguns casos)
+
+## Quando vale a pena?
+
+- Quando havia contribuições altas antes de 1994
+- Quando o cálculo atual está defasado
+- Quando o benefício ficou abaixo do esperado
+
+## Prazo
+
+- **10 anos** a partir do primeiro pagamento
+- Decadencial — perdeu o prazo, perdeu o direito
+
+## Documentos
+necessários
+
+- CNIS completo
+- Carteiras de trabalho
+- Comprovantes de contribuição
+- Holerites anteriores a 1994
+- Carta de concessão do benefício
+
+## Consulte um advogado
+
+A revisão da vida toda é complexa e requer análise atuarial. Um advogado especializado pode calcular o potencial de ganho antes de ingressar com a ação.`,
+  },
+  {
+    slug: 'segurado-especial-regime-simples',
+    title: 'Segurado Especial: Direitos de quem Contribui em Regime Simplificado',
+    excerpt: 'Conheça os direitos do segurado especial — trabalhadores autônomos, domésticos e facultativos.',
+    date: '2025-01-15',
+    category: 'previdenciario',
+    readTime: '5 min',
+    content: `## Quem é segurado especial?
+
+- Contribuinte individual
+- Trabalhador doméstico
+- Contribuinte facultativo
+- Segurado especial (rural)
+
+## Categorias e contribuições
+
+### Trabalhador doméstico
+- Empregador paga: 8% (patronal)
+- Empregado paga: 8% (obreiro)
+
+### Contribuinte individual
+- 20% sobre a remuneração
+- Possibilidade de alíquota reduzida (11%) para determinadas atividades
+
+### Facultativo
+- 20% sobre o salário mínimo ou maior valor
+
+## Direitos
+
+- Aposentadoria por idade e tempo de contribuição
+- Auxílio-doença
+- Pensão por morte
+- Salário-maternidade
+- Auxílio-acidente
+
+## Dicas
+
+1. **Mantenha contribuições em dia**
+2. **Guarde comprovantes** de pagamento
+3. **Verifique o CNIS** regularmente
+4. **Consulte advogado** para planejamento`,
+  },
+  {
+    slug: 'indenizacao-acidente-trabalho-empregador',
+    title: 'Indenização por Acidente de Trabalho contra o Empregador',
+    excerpt: 'Como obter indenização quando o acidente foi causado por culpa do empregador.',
+    date: '2025-01-15',
+    category: 'previdenciario',
+    readTime: '5 min',
+    content: `## Quando o empregador responde?
+
+O empregador responde civilmente quando o acidente ocorre por:
+- Culpa (negligência, imprudência, imperícia)
+- Dolo (intenção de causar)
+- Falta de equipamentos de segurança
+- Descumprimento de normas de segurança
+
+## Tipos de indenização
+
+### Danos materiais
+- Despesas médicas
+- Lucros cessantes
+- Reforma profissional
+
+### Danos morais
+- Dor e sofrimento
+- Degradação da qualidade de vida
+
+### Danos estéticos
+- Sequelas visíveis
+- Cicatrizes
+
+## Prazo prescricional
+
+- **5 anos** a partir do acidente
+- **20 anos** para ações indenizatórias em geral
+
+## Documentos
+
+- CAT (Comunicação de Acidente)
+- Laudos médicos
+- Comprovantes de despesas
+- Testemunhas
+- Laudos de segurança do trabalho
+
+## Consulte um advogado
+
+A indenização por acidente de trabalho requer prova da culpa do empregador. Um advogado especializado pode avaliar a viabilidade da ação e calcular o valor da indenização.`,
+  },
+  {
+    slug: 'cnis-como-obter-e-regularizar',
+    title: 'CNIS: Como Obter, Regularizar e Usar seu Extrato Previdenciário',
+    excerpt: 'Guia completo sobre o Cadastro Nacional de Informações Sociais e sua importância.',
+    date: '2025-01-15',
+    category: 'previdenciario',
+    readTime: '5 min',
+    content: `## O que é o CNIS?
+
+O CNIS é o extrato oficial que reúne todo o histórico de vínculos, contribuições e remunerações do segurado junto ao INSS.
+
+## Como obter?
+
+1. **Meu INSS** (online)
+2. **INSS** (presencial)
+3. **eSocial** (para empresas)
+
+## Informações do CNIS
+
+- Vínculos empregatícios
+- Contribuições como contribuinte individual
+- Períodos de recebimento de benefícios
+- Remunerações por período
+
+## Por que regularizar?
+
+- Erros podem reduzir o valor da aposentadoria
+- Períodos não registrados podem ser perdidos
+- Contribuições em atraso precisam ser quitadas
+
+## Como regularizar
+
+1. **Identifique erros** — Compare com carteiras de trabalho
+2. **Documente** — Reúna comprovantes
+3. **Solicite correção** — Pelo Meu INSS ou presencialmente
+4. **Regularize atrasos** — Pague contribuições devidas
+
+## Dicas
+
+- **Verifique o CNIS anualmente**
+- **Guarde todos os comprovantes**
+- **Consulte advogado** se houver muitas pendências`,
+  },
+  {
+    slug: 'reforma-previdencia-mudancas-2025',
+    title: 'Reforma da Previdência: Todas as Mudanças em 2025',
+    excerpt: 'Resumo completo das alterações trazidas pela EC 103/2019 e suas implicações práticas.',
+    date: '2025-01-15',
+    category: 'previdenciario',
+    readTime: '5 min',
+    content: `## Principais mudanças
+
+### Regras de transição
+- Regra dos pontos
+- Idade mínima progressiva
+- Pedágio de 50%
+- Pedágio de 100%
+
+### Cálculo do benefício
+- 60% da média + 2% por ano acima de 20/15 anos
+- Sem descarte dos 20% menores
+
+### Novos requisitos
+- Idade mínima: 65 (homens) / 62 (mulheres)
+- Carência: 180 contribuições
+
+### Exceções
+- Aposentadoria especial mantida
+- Professores com regras próprias
+- PCD com requisitos diferenciados
+
+## O que fazer agora?
+
+1. **Consulte advogado** para simular sua aposentadoria
+2. **Verifique seu CNIS**
+3. **Analise** todas as regras de transição
+4. **Planeje** o melhor momento para se aposentar`,
+  },
+  {
+    slug: 'auxilio-maternidade-adocao-guarda',
+    title: 'Salário-Maternidade por Adoção e Guarda Judicial',
+    excerpt: 'Direitos da mãe adotante ou guardiã judicial ao salário-maternidade.',
+    date: '2025-01-15',
+    category: 'previdenciario',
+    readTime: '5 min',
+    content: `## Quem tem direito?
+
+- Mãe adotante
+- Guardiã judicial para fins de adoção
+
+## Requisitos
+
+- Termo de adoção ou guarda
+- Qualidade de segurada
+- 10 contribuições (para contribuintes individuais)
+
+## Duração
+
+- **120 dias** (igual ao parto)
+- Possibilidade de estenda pela empresa cidadã
+
+## Valor
+
+- Remuneração integral da segurada
+- Para empregadas: último salário
+- Para contribuintes: média dos últimos 12 meses
+
+## Documentos
+
+- Termo de adoção
+- Certidão de nascimento da criança
+- Comprovante de renda
+- CPF e RG
+
+## Estabilidade
+
+- Da data da sentença até 5 meses após o término do benefício
+- Não pode ser demitida sem justa causa`,
+  },
+  {
+    slug: 'beneficio-nao-contributivo-loas-bpc',
+    title: 'BPC/LOAS: Benefício Não Contributivo para Idosos e Deficientes',
+    excerpt: 'Diferenças entre BPC e benefícios previdenciários, e como solicitar.',
+    date: '2025-01-15',
+    category: 'previdenciario',
+    readTime: '5 min',
+    content: `## BPC vs INSS
+
+### BPC (LOAS)
+- Assistencial
+- Não exige contribuições
+- Um salário mínimo
+- Reavaliado a cada 2 anos
+
+### Benefícios INSS
+- Previdenciários
+- Exigem contribuições
+- Valor variável
+- Vitalícios (em regra)
+
+## Requisitos BPC
+
+### Idoso
+- 65 anos ou mais
+- Renda per capita < 1/4 salário mínimo
+
+### Deficiente
+- Qualquer idade
+- Deficiência de longo prazo
+- Renda per capita < 1/4 salário mínimo
+
+## Avaliação biopsicossocial
+
+Para deficientes:
+- Médico perito
+- Assistente social
+- Avaliação multidimensional
+
+## CadÚnico
+
+- Obrigatório para solicitar BPC
+- Atualize regularmente
+- Renda familiar deve estar correta`,
+  },
+  {
+    slug: 'aposentadoria-especial-professores',
+    title: 'Aposentadoria Especial para Professores',
+    excerpt: 'Regras diferenciadas de aposentadoria para professores da educação básica.',
+    date: '2025-01-15',
+    category: 'previdenciario',
+    readTime: '5 min',
+    content: `## Requisitos
+
+### Homens
+- 25 anos de contribuição
+- 5 anos na função de magistério
+
+### Mulheres
+- 20 anos de contribuição
+- 5 anos na função de magistério
+
+## Exigências
+
+- Magistério na educação básica
+- Ensino fundamental ou médio
+- Exercício efetivo da função
+
+## Valor
+
+- 60% da média + 2% por ano acima de 20/15 anos
+- Mesmo cálculo dos demais benefícios
+
+## Vantagens
+
+- Tempo reduzido de contribuição
+- Possibilidade de acumulação
+- Regra própria pós-reforma
+
+## Documentos
+
+- Comprovantes de magistério
+- Contratos de trabalho
+- Holerites
+- Certificados de cargo público
+
+## Dicas
+
+1. **Comprove** todo tempo de magistério
+2. **Verifique** se há períodos não reconhecidos
+3. **Consulte advogado** para simular o melhor momento`,
+  },
+  {
+    slug: 'auxilio-acidente-como-solicitar',
+    title: 'Auxílio-Acidente: Passo a Passo para Solicitar',
+    excerpt: 'Guia prático para solicitar auxílio-acidente junto ao INSS.',
+    date: '2025-01-15',
+    category: 'previdenciario',
+    readTime: '5 min',
+    content: `## Passo a passo
+
+1. **Documentação médica** — laudos, exames, relatórios
+2. **Qualidade de segurado** — comprovante de contribuições
+3. **Agendamento** — pelo Meu INSS
+4. **Perícia médica** — avaliação da incapacidade
+5. **Resultado** — concessão ou negativa
+
+## Documentos
+
+- RG e CPF
+- Carteira de trabalho
+- Laudos médicos
+- Exames de imagem
+- Relatórios de especialistas
+
+## Prazos
+
+- Agendamento: imediato
+- Perícia: 15 a 30 dias
+- Resultado: 5 a 10 dias
+- Pagamento: após concessão
+
+## Se negado
+
+- Recurso administrativo: 30 dias
+- Ação judicial: 5 anos
+
+## Dicas
+
+1. **Documente** tudo
+2. **Não espere** as sequelas estabilizarem
+3. **Consulte advogado** antes de solicitar`,
+  },
+  {
+    slug: 'aposentadoria-invalidez-como-obter',
+    title: 'Aposentadoria por Invalidez: Como Obter o Benefício',
+    excerpt: 'Requisitos, documentos e procedimento para aposentadoria por incapacidade permanente.',
+    date: '2025-01-15',
+    category: 'previdenciario',
+    readTime: '5 min',
+    content: `## Requisitos
+
+- 12 contribuições (dispensadas em acidentes)
+- Qualidade de segurado
+- Incapacidade total e permanente
+- Impossibilidade de reabilitação
+
+## Documentos
+
+- RG e CPF
+- Carteira de trabalho
+- Laudos médicos detalhados
+- Exames de imagem
+- Relatórios de especialistas
+
+## Procedimento
+
+1. Agendamento pelo Meu INSS
+2. Perícia médica
+3. Análise do quadro clínico
+4. Decisão do INSS
+
+## Valor
+
+- 60% da média + 2% por ano acima de 20/15 anos
+- Exceção: acidente de trabalho = 100%
+
+## Revisão
+
+- INSS pode convocar para nova perícia
+- Exceto se 60+ anos ou 15+ anos de concessão
+
+## Consulte advogado
+
+A aposentadoria por invalidez requer prova robusta da incapacidade. Um advogado pode orientar sobre a documentação necessária.`,
+  },
+  {
+    slug: 'aposentadoria-tempo-contribuicao-regras-transicao',
+    title: 'Aposentadoria por Tempo de Contribuição: Regras de Transição',
+    excerpt: 'Todas as regras de transição disponíveis para quem já contribuía antes da reforma.',
+    date: '2025-01-15',
+    category: 'previdenciario',
+    readTime: '5 min',
+    content: `## Regras de transição
+
+### 1. Regra dos pontos
+- Idade + tempo de contribuição
+- 2025: 100 pontos (homens) / 90 (mulheres)
+- Aumento de 1 ponto por ano
+
+### 2. Idade mínima progressiva
+- Homens: 61 anos (2025)
+- Mulheres: 56 anos (2025)
+- Acréscimo de 6 meses por ano
+
+### 3. Pedágio de 50%
+- Para quem faltava até 2 anos
+- Paga 50% do tempo restante
+
+### 4. Pedágio de 100%
+- Para quem faltava até 4 anos
+- Paga 100% do tempo restante
+
+## Como escolher?
+
+1. **Consulte advogado** para simular
+2. **Compare** todas as regras
+3. **Verifique** seu CNIS
+4. **Analise** o valor estimado
+
+## Direito adquirido
+
+- Quem já tinha os requisitos antes da reforma
+- Regra anterior é mais vantajosa`,
+  },
+  {
+    slug: 'cnis-erros-como-corrigir',
+    title: 'CNIS com Erros: Como Corrigir e Regularizar',
+    excerpt: 'Guia para identificar e corrigir erros no extrato previdenciário.',
+    date: '2025-01-15',
+    category: 'previdenciario',
+    readTime: '5 min',
+    content: `## Tipos de erros
+
+- Vínculos não registrados
+- Períodos duplicados
+- Valores incorretos
+- Contribuições faltantes
+
+## Como identificar?
+
+1. **Acesse** o Meu INSS
+2. **Consulte** o CNIS
+3. **Compare** com carteiras de trabalho
+4. **Verifique** comprovantes de pagamento
+
+## Como corrigir?
+
+1. **Reúna** documentação comprobatória
+2. **Solicite** correção pelo Meu INSS
+3. **Protocolo** presencial se necessário
+4. **Aguarde** análise do INSS
+
+## Documentos
+
+- Carteiras de trabalho
+- Holerites
+- Comprovantes de contribuição
+- Contratos de trabalho
+
+## Prazos
+
+- Correção: 30 a 90 dias
+- Se negado: recurso em 30 dias
+
+## Importância
+
+- Erros podem reduzir aposentadoria
+- Períodos faltantes podem perder o direito
+- Contribuições em atraso precisam ser quitadas
+
+## Consulte advogado
+
+Erros no CNIS podem ser complexos. Um advogado pode orientar sobre a melhor estratégia de correção.`,
+  },
+  {
+    slug: 'beneficio-ncidencia-temporaria-auxilio-doenca-como-funciona',
+    title: 'Auxílio-Doença (B31): Como Funciona e Quando Solicitar',
+    excerpt: 'Guia completo sobre o benefício por incapacidade temporária.',
+    date: '2025-01-15',
+    category: 'previdenciario',
+    readTime: '5 min',
+    content: `## O que é auxílio-doença?
+
+Benefício pago ao segurado que fica temporariamente incapacitado para o trabalho.
+
+## Requisitos
+
+- 12 contribuições mensais
+- Qualidade de segurado
+- Incapacidade temporária
+
+## Valor
+
+- 91% da média de contribuições
+- Limitado à média dos 12 últimos salários
+
+## Duração
+
+- Enquanto durar a incapacidade
+- Pode ser convertido em aposentadoria por invalidez
+
+## Como solicitar
+
+1. Afastamento médico
+2. Comunicação ao empregador
+3. Agendamento no INSS
+4. Perícia médica
+
+## Prazos
+
+- Primeiros 15 dias: empregador paga
+- A partir do 16º dia: INSS paga
+
+## Documentos
+
+- Atestado médico
+- Comprovantes de contribuição
+- CPF e RG
+- Carteira de trabalho`,
+  },
+  {
+    slug: 'beneficio-ncidencia-permanente-invalidez-como-obter',
+    title: 'Aposentadoria por Invalidez: Requisitos e Documentação',
+    excerpt: 'Guia completo para obter aposentadoria por incapacidade permanente.',
+    date: '2025-01-15',
+    category: 'previdenciario',
+    readTime: '5 min',
+    content: `## Requisitos
+
+- 12 contribuições
+- Qualidade de segurado
+- Incapacidade total e permanente
+- Impossibilidade de reabilitação
+
+## Documentos
+
+- RG e CPF
+- Carteira de trabalho
+- Laudos médicos detalhados
+- Exames de imagem
+- Relatórios de especialistas
+
+## Procedimento
+
+1. Agendamento pelo Meu INSS
+2. Perícia médica
+3. Análise do quadro clínico
+4. Decisão do INSS
+
+## Valor
+
+- 60% da média + 2% por ano acima de 20/15 anos
+- Exceção: acidente de trabalho = 100%
+
+## Revisão
+
+- INSS pode convocar para nova perícia
+- Exceto se 60+ anos ou 15+ anos de concessão
+
+## Consulte advogado
+
+A aposentadoria por invalidez requer prova robusta da incapacidade. Um advogado pode orientar sobre a documentação necessária.`,
+  },
+  {
+    slug: 'aposentadoria-especial-25-anos-como-conseguir',
+    title: 'Aposentadoria Especial: Como Conseguir os 25 Anos de Exposição',
+    excerpt: 'Estratégias para comprovar 25 anos de exposição a agentes nocivos.',
+    date: '2025-01-15',
+    category: 'previdenciario',
+    readTime: '5 min',
+    content: `## Estratégias
+
+1. **PPP de todas as empresas**
+2. **LTCAT atualizado**
+3. **Documentação médica**
+4. **Testemunhas**
+
+## Documentos essenciais
+
+- PPP de cada empresa
+- LTCAT
+- Laudos médicos
+- Fichas de registro
+- Contratos de trabalho
+
+## Dicas
+
+- **Guarde tudo** desde o primeiro emprego
+- **Solicite PPP** ao sair de cada empresa
+- **Consulte advogado** antes de solicitar
+- **Não desista** se negado — recorra`,
+  },
 ]
