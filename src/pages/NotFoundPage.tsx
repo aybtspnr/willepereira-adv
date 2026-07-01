@@ -139,7 +139,7 @@ export default function NotFoundPage() {
         </div>
 
         {/* CTA Buttons */}
-        <div style={{ display: 'flex', flexDirection: 'column', sm: 'row', gap: 16, justifyContent: 'center', flexWrap: 'wrap' }}>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: 16, justifyContent: 'center', flexWrap: 'wrap' }}>
           <Link
             to="/"
             style={{
@@ -177,22 +177,21 @@ export default function NotFoundPage() {
               justifyContent: 'center',
               gap: 8,
               padding: '14px 32px',
-              background: 'transparent',
-              color: 'var(--white)',
+              background: 'var(--gold)',
+              color: 'var(--navy-dark)',
               borderRadius: 9999,
               fontWeight: 600,
               fontSize: '0.9rem',
               textDecoration: 'none',
-              border: '1.5px solid rgba(255,255,255,0.2)',
               transition: 'all 0.3s',
             }}
             onMouseEnter={e => {
-              e.currentTarget.style.borderColor = 'var(--gold)'
-              e.currentTarget.style.color = 'var(--gold)'
+              e.currentTarget.style.transform = 'translateY(-2px)'
+              e.currentTarget.style.boxShadow = '0 12px 32px rgba(201,168,76,0.3)'
             }}
             onMouseLeave={e => {
-              e.currentTarget.style.borderColor = 'rgba(255,255,255,0.2)'
-              e.currentTarget.style.color = 'var(--white)'
+              e.currentTarget.style.transform = 'translateY(0)'
+              e.currentTarget.style.boxShadow = 'none'
             }}
           >
             <ArrowLeft size={16} />
